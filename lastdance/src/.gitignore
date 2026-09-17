@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# BTC data and generated databases
+/ViFinQA/
+/artifacts/
+*.db
+*.db-shm
+*.db-wal
+
+# Generated runs and submissions
+/outputs/
+/release/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Local debugging files
+debug_binder.py
+patch_plan_verifier.py
+dummy_q.txt
+
+# Document build helper and render intermediates
+submission_materials/build_thuyet_minh_docx.py
+submission_materials/rendered/
+~$*.docx

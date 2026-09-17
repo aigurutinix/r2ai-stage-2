@@ -1,0 +1,16 @@
+value,doc_id,table_id,row_idx,col_idx,label,raw,ticker,year,raw_column,source_id,computed_answer
+-80470180397.0,BSR_financial_statements_2024_consolidated,8,18,3,Lưu chuyển tiền thuần từ hoạt động kinh doanh,(80.470.180.397),BSR,2024,cfo,s1,5.472919380965644
+2372990773154.0,PLX_financial_statements_2024_consolidated,10,20,2,Lưu chuyển tiền thuần từ hoạt động kinh doanh,2.372.990.773.154,PLX,2024,cfo,s2,
+2567966837828.0,PVT_financial_statements_2024_consolidated,9,18,3,Lưu chuyển tiền thuần từ hoạt động kinh doanh,2.567.966.837.828,PVT,2024,cfo,s3,
+123027063879559.0,BSR_financial_statements_2024_consolidated,7,2,4,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),123.027.063.879.559,BSR,2024,net_revenue,s4,
+491069729826.0,BSR_financial_statements_2024_consolidated,7,4,4,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),491.069.729.826,BSR,2024,gross_profit,s5,
+284017424539160.0,PLX_financial_statements_2024_consolidated,8,3,3,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),284.017.424.539.160,PLX,2024,net_revenue,s6,
+17351309925461.0,PLX_financial_statements_2024_consolidated,8,5,3,Lợi nhuận gộp (20 = 10 - 11),17.351.309.925.461,PLX,2024,gross_profit,s7,
+11732148061983.0,PVT_financial_statements_2024_consolidated,8,2,4,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),11.732.148.061.983,PVT,2024,net_revenue,s8,
+2443801481075.0,PVT_financial_statements_2024_consolidated,8,4,4,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),2.443.801.481.075,PVT,2024,gross_profit,s9,
+260793426455.0,BSR_financial_statements_2024_consolidated,7,7,4,- Trong đó: Chi phí lãi vay,260.793.426.455,BSR,2024,interest_expense,s10,
+735998810618.0,BSR_financial_statements_2024_consolidated,7,14,4,Tổng lợi nhuận kế toán trước thuế (50=30+40),735.998.810.618,BSR,2024,pbt,s11,
+568190119356.0,PLX_financial_statements_2024_consolidated,8,8,3,Trong đó: Chi phí lãi vay,568.190.119.356,PLX,2024,interest_expense,s12,
+3972180279455.0,PLX_financial_statements_2024_consolidated,8,16,3,Lợi nhuận kế toán trước thuế (50 = 30 + 40),3.972.180.279.455,PLX,2024,pbt,s13,
+417711767303.0,PVT_financial_statements_2024_consolidated,8,7,4,- Trong đó: Chi phí lãi vay,417.711.767.303,PVT,2024,interest_expense,s14,
+1868391059627.0,PVT_financial_statements_2024_consolidated,8,15,4,Tổng lợi nhuận kế toán trước thuế (50=30+40),1.868.391.059.627,PVT,2024,pbt,s15,

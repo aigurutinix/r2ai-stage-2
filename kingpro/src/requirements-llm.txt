@@ -1,0 +1,11 @@
+-r requirements.txt
+
+# Optional development stack for local model serving/training. vLLM requires
+# a supported Linux/CUDA environment and is not needed to validate a ZIP.
+accelerate>=1,<2
+datasets>=3,<5
+peft>=0.14,<1
+torch>=2.4,<3
+transformers>=4.51,<5
+trl>=0.15,<1
+vllm>=0.8,<1

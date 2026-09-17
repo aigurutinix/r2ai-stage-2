@@ -1,0 +1,23 @@
+command: generate
+run: {name: vilamiu-gen-easy}
+generation:
+  tier: easy
+  engine: legacy
+  count: 10
+  workers: 2
+  seed: 42
+  max_candidates: 100
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  # The submission model must be open-weight and <=14B; the *generator* is a
+  # preprocessing step, and the rule we were given is that fine-tuning is allowed
+  # provided the data source is declared. Staying inside the same size class here
+  # keeps that declaration trivially defensible, and the organisers' pipeline
+  # validates every program by execution anyway, so the generator's job is to
+  # propose rather than to be trusted.
+  model_id: qwen/qwen3-14b
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2

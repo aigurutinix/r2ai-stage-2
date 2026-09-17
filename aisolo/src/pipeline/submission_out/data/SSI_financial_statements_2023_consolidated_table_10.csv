@@ -1,0 +1,25 @@
+﻿company,year,ma_so,label,value,prev
+SSI,2023,41,1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện,8171970366,28287326467
+SSI,2023,42,"2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cổ định",27414204319,35855039392
+SSI,2023,43,"3. Lãi bán, thanh lý các khoản đầu tư vào công ty con, công ty liên kết",1377269827,
+SSI,2023,44,4. Doanh thu khác về đầu tư,87717734435,115173358127
+SSI,2023,50,Cộng doanh thu hoạt động tài chính,123303909120,180692993813
+SSI,2023,51,1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện,25495038750,123981791060
+SSI,2023,52,2. Chi phí lãi vay,1570439043267,1030649945603
+SSI,2023,55,3. Chi phí tài chính khác,41713608024,261003468575
+SSI,2023,60,Cộng chi phí tài chính,1637647690041,1415635205238
+SSI,2023,62,VI. CHI PHÍ QUẢN LÝ,361707269173,296389420325
+SSI,2023,70,VII. KẾT QUẢ HOẠT ĐỘNG,2847076233587,2099656023125
+SSI,2023,71,Thu nhập khác,2414205998,11255802218
+SSI,2023,72,Chi phí khác,923469392,1208433566
+SSI,2023,80,Cộng kết quả hoạt động khác,1490736606,10047368652
+SSI,2023,90,IX. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ,2848566970193,2109703391777
+SSI,2023,91,Lợi nhuận đã thực hiện,2779261044973,2408623128553
+SSI,2023,92,Lợi nhuận chưa thực hiện,69305925220,-298919736776
+SSI,2023,100,X. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP (TNDN),554094148635,412010222978
+SSI,2023,,Chi phí thuế TNDN hiện hành,543354773079,458919223108
+SSI,2023,,Chi phí/(thu nhập) thuế TNDN hoãn lại,10739375556,-46909000130
+SSI,2023,200,XI. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN,2294472821558,1697693168799
+SSI,2023,201,1. Lợi nhuận sau thuế phân bổ cho chủ sở hữu,2292781385416,1699319896223
+SSI,2023,202,2. Lợi nhuận sau thuế trích các Quỹ,50979596887,
+SSI,2023,203,3. Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát,1691436142,-1626727424

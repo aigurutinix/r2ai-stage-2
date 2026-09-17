@@ -1,0 +1,8 @@
+﻿company,year,ma_so,label,value,prev
+MSN,2018,50,Lợi nhuận kế toán trước thuế(50 = 30 + 40) (mang sang từ trang trước),6243824000000,4138637000000
+MSN,2018,51,Chi phí thuế TNDN hiện hành,726692000000,630961000000
+MSN,2018,52,Lợi ích thuế TNDN hoãn lại,-104373000000,-100014000000
+MSN,2018,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),5621505000000,3607690000000
+MSN,2018,61,Cổ đông của Công ty,4916497000000,3102664000000
+MSN,2018,62,Lợi ích cổ đông không kiểm soát,705008000000,505026000000
+MSN,2018,70,Lãi cơ bản trên cổ phiếu (VND),4561000000,2727000000

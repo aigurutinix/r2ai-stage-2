@@ -1,0 +1,43 @@
+# Đo lại nhịp tầng medium sau khi lexical thành mặc định, 12/08/2026.
+#
+# Con số 2,7 bản ghi/giờ vẫn được dùng để loại bỏ tầng này là số đo TRƯỚC bản vá.
+# Header của embedding_index.py ghi lại đúng lần đo đó — "2 records in 3 hours
+# 7 minutes", cache .npy phình từ 1.402 lên 45.286 file trong ba giờ vì seed đổi
+# mỗi vòng nên gần như không tái dùng được gì. Nguyên nhân là `build_pool_index`
+# nằm trên vòng lặp trong: nhúng lại tới 300 bảng cho MỖI câu được thử.
+#
+# Bản vá đã đưa `LexicalTableIndex` (BM25) thành mặc định; dense chỉ chạy khi đặt
+# VIFINQA_POOL_INDEX=dense. Chưa ai đo lại sau đó.
+#
+# Mẻ này chỉ để đo, không để lấy dữ liệu: 5 bản ghi, 2 worker.
+#
+# Khác gen_remote_medium.yaml ở hai chỗ:
+#   - model_id: bản remote trỏ vào vLLM tự dựng (Qwen3-14B-AWQ). Ở local phải là
+#     tên OpenRouter, cùng model với mẻ easy để so sánh được.
+#   - embedding.device: cuda -> cpu. Máy này có RTX 5070 8GB; với lexical là mặc
+#     định thì embedder không được dùng tới, nên đừng chiếm VRAM vì nó.
+command: generate
+run: {name: vilamiu-medium-probe}
+generation:
+  tier: medium
+  engine: legacy
+  mode: auto
+  count: 5
+  workers: 2
+  seed: 424242
+  max_candidates: 300
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  model_id: qwen/qwen3-14b
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2
+embedding:
+  backend: sentence_transformers
+  model_id: BAAI/bge-m3
+  adapter: auto
+  device: cpu
+  batch_size: 32
+  max_tokens: 512

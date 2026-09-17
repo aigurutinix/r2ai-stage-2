@@ -1,0 +1,137 @@
+{
+  "doc_id": "PLX_financial_statements_2024_consolidated",
+  "document_sha256": "a3a052e60f3c6be23ffd699460378556131c687e2e88646281a374138cf8d7ec",
+  "table_id_internal": 10,
+  "physical_line_one_based": 263,
+  "html_sha256": "1d764db7106be9956bd46d9cacbd2d8e98e45688f7c22ec30e7e42916df9ce53",
+  "html": "<table><tr><td></td><td>Mã số</td><td>2024 VND</td><td>2023 VND</td></tr><tr><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản</td><td>01</td><td>3.972.180.279.455</td><td>3.947.390.245.604</td></tr><tr><td>Khẩu hao và phân bổ</td><td>02</td><td>2.177.193.998.275</td><td>2.184.794.870.169</td></tr><tr><td rowspan=\"2\">Các khoản dự phòng (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ</td><td>03</td><td>456.775.412.122</td><td>141.013.749.897</td></tr><tr><td>04</td><td>(10.878.154.953)</td><td>13.287.356.000</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>05</td><td>(1.546.179.461.991)</td><td>(2.465.763.180.879)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>568.190.119.356</td><td>898.602.546.828</td></tr><tr><td>Các khoản điều chỉnh khác (Biến động Quỹ bình ổn giá xăng dầu – Thuyết minh 22)</td><td>07</td><td>23.302.392.000</td><td>1.061.656.963.384</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td>5.640.584.584.264</td><td>5.780.982.551.003</td></tr><tr><td>Biến động các khoản phải thu</td><td>09</td><td>(1.986.871.618.966)</td><td>2.148.238.587.213</td></tr><tr><td>Biến động hàng tồn kho</td><td>10</td><td>(1.069.142.043.359)</td><td>2.623.792.411.518</td></tr><tr><td>Biến động các khoản phải trả và nợ phải trả khác</td><td>11</td><td>2.686.050.322.105</td><td>(3.354.468.238.187)</td></tr><tr><td>Biến động chi phí trả trước</td><td>12</td><td>(321.976.620.446)</td><td>(103.026.230.738)</td></tr><tr><td>Biến động chứng khoán kinh doanh</td><td>13</td><td>-</td><td>276.725.816</td></tr><tr><td></td><td></td><td>4.948.644.623.598</td><td>7.095.795.806.625</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(594.550.108.333)</td><td>(851.560.272.409)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(908.627.737.024)</td><td>(433.197.206.807)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td>5.650.936.646</td><td>5.073.063.929</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(1.078.126.941.733)</td><td>(542.538.240.177)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>2.372.990.773.154</td><td>5.273.573.151.161</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "2024 VND",
+      "2023 VND"
+    ],
+    [
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản",
+      "01",
+      "3.972.180.279.455",
+      "3.947.390.245.604"
+    ],
+    [
+      "Khẩu hao và phân bổ",
+      "02",
+      "2.177.193.998.275",
+      "2.184.794.870.169"
+    ],
+    [
+      "Các khoản dự phòng (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ",
+      "03",
+      "456.775.412.122",
+      "141.013.749.897"
+    ],
+    [
+      "Các khoản dự phòng (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ",
+      "04",
+      "(10.878.154.953)",
+      "13.287.356.000"
+    ],
+    [
+      "Lãi từ hoạt động đầu tư",
+      "05",
+      "(1.546.179.461.991)",
+      "(2.465.763.180.879)"
+    ],
+    [
+      "Chi phí lãi vay",
+      "06",
+      "568.190.119.356",
+      "898.602.546.828"
+    ],
+    [
+      "Các khoản điều chỉnh khác (Biến động Quỹ bình ổn giá xăng dầu – Thuyết minh 22)",
+      "07",
+      "23.302.392.000",
+      "1.061.656.963.384"
+    ],
+    [
+      "Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+      "08",
+      "5.640.584.584.264",
+      "5.780.982.551.003"
+    ],
+    [
+      "Biến động các khoản phải thu",
+      "09",
+      "(1.986.871.618.966)",
+      "2.148.238.587.213"
+    ],
+    [
+      "Biến động hàng tồn kho",
+      "10",
+      "(1.069.142.043.359)",
+      "2.623.792.411.518"
+    ],
+    [
+      "Biến động các khoản phải trả và nợ phải trả khác",
+      "11",
+      "2.686.050.322.105",
+      "(3.354.468.238.187)"
+    ],
+    [
+      "Biến động chi phí trả trước",
+      "12",
+      "(321.976.620.446)",
+      "(103.026.230.738)"
+    ],
+    [
+      "Biến động chứng khoán kinh doanh",
+      "13",
+      "-",
+      "276.725.816"
+    ],
+    [
+      "",
+      "",
+      "4.948.644.623.598",
+      "7.095.795.806.625"
+    ],
+    [
+      "Tiền lãi vay đã trả",
+      "14",
+      "(594.550.108.333)",
+      "(851.560.272.409)"
+    ],
+    [
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "(908.627.737.024)",
+      "(433.197.206.807)"
+    ],
+    [
+      "Tiền thu khác từ hoạt động kinh doanh",
+      "16",
+      "5.650.936.646",
+      "5.073.063.929"
+    ],
+    [
+      "Tiền chi khác cho hoạt động kinh doanh",
+      "17",
+      "(1.078.126.941.733)",
+      "(542.538.240.177)"
+    ],
+    [
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "20",
+      "2.372.990.773.154",
+      "5.273.573.151.161"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== Tập đoàn Xăng dầu Việt Nam Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2024 (Phương pháp gián tiếp) Mãu B 03 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

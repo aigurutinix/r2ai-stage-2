@@ -1,0 +1,165 @@
+{
+  "doc_id": "HPG_financial_statements_2023_consolidated",
+  "document_sha256": "f1ccbbf4a4565a46fc0822f5058b3e21b03190d8e0f0e553bc41cf9d0f72c36c",
+  "table_id_internal": 3,
+  "physical_line_one_based": 229,
+  "html_sha256": "a52a971fa77e25d8fdb5db44cb3a486780475f30fb7becc6c4c186e0f617036e",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2023 VND</td><td>1/1/2023 VND</td></tr><tr><td colspan=\"5\">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>84.946.167.324.422</td><td>74.222.582.021.349</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>71.513.492.904.733</td><td>62.385.392.809.685</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>20</td><td>12.387.496.434.147</td><td>11.107.162.924.326</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>21</td><td>741.733.890.580</td><td>860.793.139.245</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>22</td><td>945.404.457.633</td><td>648.407.591.981</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>403.391.467.732</td><td>306.208.839.467</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>23.1</td><td>477.102.216.071</td><td>460.508.546.638</td></tr><tr><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td></td><td>9.979.596.501</td><td>16.974.936.888</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>24.1</td><td>182.970.590.524</td><td>418.512.269.668</td></tr><tr><td>Vay ngắn hạn</td><td>320</td><td>25.1</td><td>54.981.883.180.636</td><td>46.748.670.400.471</td></tr><tr><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td>26</td><td>8.054.106.025</td><td>5.198.833.687</td></tr><tr><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td>27</td><td>1.375.476.964.884</td><td>1.812.955.327.314</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>13.432.674.419.689</td><td>11.837.189.211.664</td></tr><tr><td>Phải trả người bán dài hạn</td><td>331</td><td>20</td><td>2.324.285.289.468</td><td>-</td></tr><tr><td>Chi phí phải trả dài hạn</td><td>333</td><td>23.2</td><td>610.552.512.045</td><td>531.620.146.455</td></tr><tr><td>Doanh thu chưa thực hiện dài hạn</td><td>336</td><td></td><td>174.647.128</td><td>4.109.316.288</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td>24.2</td><td>13.361.520.783</td><td>61.033.120.562</td></tr><tr><td>Vay dài hạn</td><td>338</td><td>25.2</td><td>10.399.119.292.481</td><td>11.151.651.204.402</td></tr><tr><td>Thuế thu nhập hoãn lại phải trába</td><td>341</td><td></td><td>30.012.518.415</td><td>31.207.164.756</td></tr><tr><td>Dự phòng phải trả dài hạn</td><td>342</td><td>26</td><td>55.168.639.369</td><td>57.568.259.201</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2023 VND",
+      "1/1/2023 VND"
+    ],
+    [
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN"
+    ],
+    [
+      "NỘ PHẢI TRẢ (300 = 310 + 330)",
+      "300",
+      "",
+      "84.946.167.324.422",
+      "74.222.582.021.349"
+    ],
+    [
+      "Nợ ngắn hạn",
+      "310",
+      "",
+      "71.513.492.904.733",
+      "62.385.392.809.685"
+    ],
+    [
+      "Phải trả người bán ngắn hạn",
+      "311",
+      "20",
+      "12.387.496.434.147",
+      "11.107.162.924.326"
+    ],
+    [
+      "Người mua trả tiền trước ngắn hạn",
+      "312",
+      "21",
+      "741.733.890.580",
+      "860.793.139.245"
+    ],
+    [
+      "Thuế và các khoản phải nộp Nhà nước",
+      "313",
+      "22",
+      "945.404.457.633",
+      "648.407.591.981"
+    ],
+    [
+      "Phải trả người lao động",
+      "314",
+      "",
+      "403.391.467.732",
+      "306.208.839.467"
+    ],
+    [
+      "Chi phí phải trả ngắn hạn",
+      "315",
+      "23.1",
+      "477.102.216.071",
+      "460.508.546.638"
+    ],
+    [
+      "Doanh thu chưa thực hiện ngắn hạn",
+      "318",
+      "",
+      "9.979.596.501",
+      "16.974.936.888"
+    ],
+    [
+      "Phải trả ngắn hạn khác",
+      "319",
+      "24.1",
+      "182.970.590.524",
+      "418.512.269.668"
+    ],
+    [
+      "Vay ngắn hạn",
+      "320",
+      "25.1",
+      "54.981.883.180.636",
+      "46.748.670.400.471"
+    ],
+    [
+      "Dự phòng phải trả ngắn hạn",
+      "321",
+      "26",
+      "8.054.106.025",
+      "5.198.833.687"
+    ],
+    [
+      "Quỹ khen thưởng, phúc lợi",
+      "322",
+      "27",
+      "1.375.476.964.884",
+      "1.812.955.327.314"
+    ],
+    [
+      "Nợ dài hạn",
+      "330",
+      "",
+      "13.432.674.419.689",
+      "11.837.189.211.664"
+    ],
+    [
+      "Phải trả người bán dài hạn",
+      "331",
+      "20",
+      "2.324.285.289.468",
+      "-"
+    ],
+    [
+      "Chi phí phải trả dài hạn",
+      "333",
+      "23.2",
+      "610.552.512.045",
+      "531.620.146.455"
+    ],
+    [
+      "Doanh thu chưa thực hiện dài hạn",
+      "336",
+      "",
+      "174.647.128",
+      "4.109.316.288"
+    ],
+    [
+      "Phải trả dài hạn khác",
+      "337",
+      "24.2",
+      "13.361.520.783",
+      "61.033.120.562"
+    ],
+    [
+      "Vay dài hạn",
+      "338",
+      "25.2",
+      "10.399.119.292.481",
+      "11.151.651.204.402"
+    ],
+    [
+      "Thuế thu nhập hoãn lại phải trába",
+      "341",
+      "",
+      "30.012.518.415",
+      "31.207.164.756"
+    ],
+    [
+      "Dự phòng phải trả dài hạn",
+      "342",
+      "26",
+      "55.168.639.369",
+      "57.568.259.201"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 9 ===== Công ty Cổ phần Tập đoàn Hòa Phát Băng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023 (tiếp theo) Mẫu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

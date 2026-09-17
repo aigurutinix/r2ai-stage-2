@@ -1,0 +1,25 @@
+﻿company,year,ma_so,label,value,prev
+SSI,2020,41,1. Chênh lệch lãi tỷ giá hối đoai đã và chưa thực hiện,28659748695,435548098
+SSI,2020,42,"2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cổ định",12996728146,20355221628
+SSI,2020,43,"3. Lãi bản, thanh lý các khoản đầu tư vào công ty con, công ty liên kết",13701612484,
+SSI,2020,44,4. Doanh thu khác về đầu tư,153395462497,45715512161
+SSI,2020,50,Cộng doanh thu hoạt động tài chính,208753551822,66506281887
+SSI,2020,51,1. Chênh lệch lỗ tỷ giả hối đoai đã và chưa thực hiện,12458888106,19611726414
+SSI,2020,52,2. Chi phí lãi vay,829431323089,804176964572
+SSI,2020,55,3. Chi phí tài chính khác,95254840329,14832880334
+SSI,2020,60,Cộng chi phí tài chính,937145051524,838621571320
+SSI,2020,62,V. CHI PHÍ QUẢN LÝ,184156140350,193238253772
+SSI,2020,70,VI. KẾT QUẢ HOẠT ĐỘNG,1552457656856,1098616647855
+SSI,2020,71,Thu nhập khác,5273691839,7067722985
+SSI,2020,72,Chi phí khác,178063632,160809383
+SSI,2020,80,Cộng kết quả hoạt động khác,5095628207,6906913602
+SSI,2020,90,VIII. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ,1557553285063,1105523561457
+SSI,2020,91,Lợi nhuận đã thực hiện,1271395655560,1096044544091
+SSI,2020,92,Lợi nhuận chưa thực hiện,286157629503,9479017366
+SSI,2020,100,IX. CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP (TNDN),301621466108,198426585426
+SSI,2020,,Chi phí thuế TNDN hiện hành,267248078434,178677854956
+SSI,2020,,Chi phí thuế TNDN hoãn lại,34373387674,19748730470
+SSI,2020,200,X. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN,1255931818955,907096976031
+SSI,2020,201,1. Lợi nhuận sau thuế phân bổ cho chủ sở hữu,1257372470832,909201424728
+SSI,2020,202,2. Lợi nhuận sau thuế trích các Quỹ,83436396535,63212220608
+SSI,2020,203,3. Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát,-1440651877,-2104448697

@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local working folders
+_tmp_extract/
+
+# Demo Day / presentation-only material
+**/demo-shots/
+**/deliverables/demo_day/
+**/*DemoDay*.pdf
+**/*DemoDay*.pptx
+**/*Slide_Deck*.pdf
+**/*Slide_Deck*.pptx
+**/*Video-thuyet-trinh*.mp4
+
+# Product explanation dossiers
+**/*THUYET_MINH_SAN_PHAM*
+**/*THUYETMINH*
+**/*TAI_LIEU_THUYET_MINH*
+**/*HO_SO_THUYET_MINH*
+**/*GIAI_TRINH_KY_THUAT*
+!nguyenvuhoanglong/**
+
+# Large/reproducible datasets and generated outputs
+vilamiu/data/data/official_corpus/
+vilamiu/artifacts/artifacts/fresh/
+**/.tmp_codabench/
+**/tmp/

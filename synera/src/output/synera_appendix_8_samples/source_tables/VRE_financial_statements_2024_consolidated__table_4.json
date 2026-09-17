@@ -1,0 +1,155 @@
+{
+  "doc_id": "VRE_financial_statements_2024_consolidated",
+  "document_sha256": "df3645385a43fccf19f5f2903e1d6e3826ef0cd3949644093218336bc5252263",
+  "table_id_internal": 4,
+  "physical_line_one_based": 252,
+  "html_sha256": "522a3081fd7f83e4fbc4e9aeab971a1ca168a8ed829a26ee50e79024dedbadb4",
+  "html": "<table><tr><td></td><td>NGUỒN VỐN</td><td>Mã số</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>C.</td><td>Nợ PHẢI TRẢ</td><td>300</td><td></td><td>13.303.514</td><td>9.826.878</td></tr><tr><td>I.</td><td>Nợ ngắn hạn</td><td>310</td><td></td><td>5.920.740</td><td>6.244.864</td></tr><tr><td>1.</td><td>Phải trả người bán ngắn hạn</td><td>311</td><td>17</td><td>461.938</td><td>448.115</td></tr><tr><td>2.</td><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>18</td><td>184.770</td><td>314.342</td></tr><tr><td>3.</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>19</td><td>1.135.316</td><td>1.495.742</td></tr><tr><td>4.</td><td>Phải trả người lao động</td><td>314</td><td></td><td>245</td><td>279</td></tr><tr><td>5.</td><td>Chỉ phí phải trả ngắn hạn</td><td>315</td><td>20</td><td>1.123.855</td><td>973.708</td></tr><tr><td>6.</td><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td>21</td><td>32.655</td><td>44.547</td></tr><tr><td>7.</td><td>Phải trả ngắn hạn khác</td><td>319</td><td>22</td><td>968.841</td><td>1.170.222</td></tr><tr><td>8.</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>320</td><td>23</td><td>2.009.752</td><td>1.791.800</td></tr><tr><td>9.</td><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td></td><td>1.812</td><td>3.428</td></tr><tr><td>10.</td><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>1.556</td><td>2.681</td></tr><tr><td>II.</td><td>Nợ dài hạn</td><td>330</td><td></td><td>7.382.774</td><td>3.582.014</td></tr><tr><td>1.</td><td>Doanh thu chưa thực hiện dài hạn</td><td>336</td><td>21</td><td>126.557</td><td>113.453</td></tr><tr><td>2.</td><td>Phải trả dài hạn khác</td><td>337</td><td>22</td><td>4.663.323</td><td>1.253.137</td></tr><tr><td>3.</td><td>Vay và nợ thuê tài chính dài hạn</td><td>338</td><td>24</td><td>2.523.103</td><td>2.143.780</td></tr><tr><td>4.</td><td>Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>25</td><td>69.791</td><td>71.644</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "NGUỒN VỐN",
+      "Mã số",
+      "Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "C.",
+      "Nợ PHẢI TRẢ",
+      "300",
+      "",
+      "13.303.514",
+      "9.826.878"
+    ],
+    [
+      "I.",
+      "Nợ ngắn hạn",
+      "310",
+      "",
+      "5.920.740",
+      "6.244.864"
+    ],
+    [
+      "1.",
+      "Phải trả người bán ngắn hạn",
+      "311",
+      "17",
+      "461.938",
+      "448.115"
+    ],
+    [
+      "2.",
+      "Người mua trả tiền trước ngắn hạn",
+      "312",
+      "18",
+      "184.770",
+      "314.342"
+    ],
+    [
+      "3.",
+      "Thuế và các khoản phải nộp Nhà nước",
+      "313",
+      "19",
+      "1.135.316",
+      "1.495.742"
+    ],
+    [
+      "4.",
+      "Phải trả người lao động",
+      "314",
+      "",
+      "245",
+      "279"
+    ],
+    [
+      "5.",
+      "Chỉ phí phải trả ngắn hạn",
+      "315",
+      "20",
+      "1.123.855",
+      "973.708"
+    ],
+    [
+      "6.",
+      "Doanh thu chưa thực hiện ngắn hạn",
+      "318",
+      "21",
+      "32.655",
+      "44.547"
+    ],
+    [
+      "7.",
+      "Phải trả ngắn hạn khác",
+      "319",
+      "22",
+      "968.841",
+      "1.170.222"
+    ],
+    [
+      "8.",
+      "Vay và nợ thuê tài chính ngắn hạn",
+      "320",
+      "23",
+      "2.009.752",
+      "1.791.800"
+    ],
+    [
+      "9.",
+      "Dự phòng phải trả ngắn hạn",
+      "321",
+      "",
+      "1.812",
+      "3.428"
+    ],
+    [
+      "10.",
+      "Quỹ khen thưởng, phúc lợi",
+      "322",
+      "",
+      "1.556",
+      "2.681"
+    ],
+    [
+      "II.",
+      "Nợ dài hạn",
+      "330",
+      "",
+      "7.382.774",
+      "3.582.014"
+    ],
+    [
+      "1.",
+      "Doanh thu chưa thực hiện dài hạn",
+      "336",
+      "21",
+      "126.557",
+      "113.453"
+    ],
+    [
+      "2.",
+      "Phải trả dài hạn khác",
+      "337",
+      "22",
+      "4.663.323",
+      "1.253.137"
+    ],
+    [
+      "3.",
+      "Vay và nợ thuê tài chính dài hạn",
+      "338",
+      "24",
+      "2.523.103",
+      "2.143.780"
+    ],
+    [
+      "4.",
+      "Thuế thu nhập hoãn lại phải trả",
+      "341",
+      "25",
+      "69.791",
+      "71.644"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 9 ===== CÔNG TY CỔ PHẦN VINCOM RETAIL Tòa nhà văn phòng Symphony, Đường Chu Huy Mân Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội, Việt Nam MÃU SỐ B 01-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (Tiếp theo) Tại ngày 31 tháng 12 năm 2024 Đơn vị: Triệu VND"
+}

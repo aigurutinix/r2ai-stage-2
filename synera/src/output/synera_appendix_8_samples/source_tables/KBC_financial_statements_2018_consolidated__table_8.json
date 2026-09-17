@@ -1,0 +1,179 @@
+{
+  "doc_id": "KBC_financial_statements_2018_consolidated",
+  "document_sha256": "61d54dfc5f9cae40a2c132a3e7b11bb5f84d82b924601f6e228eab9bbd3c0098",
+  "table_id_internal": 8,
+  "physical_line_one_based": 302,
+  "html_sha256": "53f5e929f86fa6df5e3b1906102d3057c2895c82112c21a4fb97ab1c985c3fa3",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>24.1</td><td>2.491.178.878.521</td><td>1.260.198.518.971</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>24.1</td><td>-</td><td>-</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>24.1</td><td>2.491.178.878.521</td><td>1.260.198.518.971</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>25</td><td>(1.022.343.984.750)</td><td>(610.528.435.391)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>1.468.834.893.771</td><td>649.670.083.580</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>24.2</td><td>91.568.246.480</td><td>431.362.490.060</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>26</td><td>(193.894.216.853)</td><td>(109.457.617.841)</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>(200.751.707.293)</td><td>(106.963.449.754)</td></tr><tr><td>24</td><td>8. Phần lãi trong công ty liên doanh, liên kết</td><td>16.1</td><td>13.853.555.230</td><td>18.736.345.748</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>27</td><td>(142.014.567.928)</td><td>(22.123.288.484)</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>27</td><td>(164.858.434.955)</td><td>(154.757.631.162)</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>1.073.489.475.745</td><td>813.430.381.901</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td></td><td>3.372.202.651</td><td>3.361.365.539</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td></td><td>(29.634.276.464)</td><td>(5.251.813.758)</td></tr><tr><td>40</td><td>14. Lỗ khác</td><td></td><td>(26.262.073.813)</td><td>(1.890.448.219)</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>1.047.227.401.932</td><td>811.539.933.682</td></tr><tr><td>51</td><td>16. Chi phí thuế TNDN hiện hành</td><td>29.1</td><td>(193.422.721.494)</td><td>(177.234.691.188)</td></tr><tr><td>52</td><td>17. Chi phí thuế TNDN hoãn lại</td><td>29.3</td><td>(44.898.206.944)</td><td>(15.528.079.679)</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>808.906.473.494</td><td>618.777.162.815</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của công ty mẹ</td><td></td><td>746.155.055.257</td><td>584.522.397.947</td></tr><tr><td>62</td><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td></td><td>62.751.418.237</td><td>34.254.764.868</td></tr><tr><td>70</td><td>21. Lãi cơ bản trên cổ phiếu</td><td>31</td><td>1.588</td><td>1.244</td></tr><tr><td>71</td><td>22. Lãi suy giảm trên cổ phiếu</td><td>31</td><td>1.588</td><td>1.244</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "01",
+      "1. Doanh thu bán hàng và cung cấp dịch vụ",
+      "24.1",
+      "2.491.178.878.521",
+      "1.260.198.518.971"
+    ],
+    [
+      "02",
+      "2. Các khoản giảm trừ doanh thu",
+      "24.1",
+      "-",
+      "-"
+    ],
+    [
+      "10",
+      "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "24.1",
+      "2.491.178.878.521",
+      "1.260.198.518.971"
+    ],
+    [
+      "11",
+      "4. Giá vốn hàng bán và dịch vụ cung cấp",
+      "25",
+      "(1.022.343.984.750)",
+      "(610.528.435.391)"
+    ],
+    [
+      "20",
+      "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "1.468.834.893.771",
+      "649.670.083.580"
+    ],
+    [
+      "21",
+      "6. Doanh thu hoạt động tài chính",
+      "24.2",
+      "91.568.246.480",
+      "431.362.490.060"
+    ],
+    [
+      "22",
+      "7. Chi phí tài chính",
+      "26",
+      "(193.894.216.853)",
+      "(109.457.617.841)"
+    ],
+    [
+      "23",
+      "Trong đó: Chi phí lãi vay",
+      "",
+      "(200.751.707.293)",
+      "(106.963.449.754)"
+    ],
+    [
+      "24",
+      "8. Phần lãi trong công ty liên doanh, liên kết",
+      "16.1",
+      "13.853.555.230",
+      "18.736.345.748"
+    ],
+    [
+      "25",
+      "9. Chi phí bán hàng",
+      "27",
+      "(142.014.567.928)",
+      "(22.123.288.484)"
+    ],
+    [
+      "26",
+      "10. Chi phí quản lý doanh nghiệp",
+      "27",
+      "(164.858.434.955)",
+      "(154.757.631.162)"
+    ],
+    [
+      "30",
+      "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "1.073.489.475.745",
+      "813.430.381.901"
+    ],
+    [
+      "31",
+      "12. Thu nhập khác",
+      "",
+      "3.372.202.651",
+      "3.361.365.539"
+    ],
+    [
+      "32",
+      "13. Chi phí khác",
+      "",
+      "(29.634.276.464)",
+      "(5.251.813.758)"
+    ],
+    [
+      "40",
+      "14. Lỗ khác",
+      "",
+      "(26.262.073.813)",
+      "(1.890.448.219)"
+    ],
+    [
+      "50",
+      "15. Tổng lợi nhuận kế toán trước thuế",
+      "",
+      "1.047.227.401.932",
+      "811.539.933.682"
+    ],
+    [
+      "51",
+      "16. Chi phí thuế TNDN hiện hành",
+      "29.1",
+      "(193.422.721.494)",
+      "(177.234.691.188)"
+    ],
+    [
+      "52",
+      "17. Chi phí thuế TNDN hoãn lại",
+      "29.3",
+      "(44.898.206.944)",
+      "(15.528.079.679)"
+    ],
+    [
+      "60",
+      "18. Lợi nhuận sau thuế TNDN",
+      "",
+      "808.906.473.494",
+      "618.777.162.815"
+    ],
+    [
+      "61",
+      "19. Lợi nhuận sau thuế của công ty mẹ",
+      "",
+      "746.155.055.257",
+      "584.522.397.947"
+    ],
+    [
+      "62",
+      "20. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+      "",
+      "62.751.418.237",
+      "34.254.764.868"
+    ],
+    [
+      "70",
+      "21. Lãi cơ bản trên cổ phiếu",
+      "31",
+      "1.588",
+      "1.244"
+    ],
+    [
+      "71",
+      "22. Lãi suy giảm trên cổ phiếu",
+      "31",
+      "1.588",
+      "1.244"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP B02-DN/HN BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT cho năm tài chính kết thúc ngày 31 tháng 12 năm 2018 Đơn vị tính: VND"
+}

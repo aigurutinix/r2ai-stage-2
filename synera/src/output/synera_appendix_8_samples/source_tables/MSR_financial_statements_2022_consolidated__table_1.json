@@ -1,0 +1,151 @@
+{
+  "doc_id": "MSR_financial_statements_2022_consolidated",
+  "document_sha256": "01c9d669529e4fd64bdbc9848f3169aacad8b53cb2538f5a0552993e532c5c4f",
+  "table_id_internal": 1,
+  "physical_line_one_based": 298,
+  "html_sha256": "33edf260790947cc5dc0aaa2bcccad36654830d2c528029238bed7e25139496e",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2022Nghìn VND</td><td>1/1/2022Nghìn VND</td></tr><tr><td colspan=\"5\">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn(\\( 100 = 110 + 120 + 130 + 140 + 150 \\))</td><td>100</td><td></td><td>12.228.222.738</td><td>10.576.736.330</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>5</td><td>1.502.879.248</td><td>1.043.789.572</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>802.638.824</td><td>644.789.572</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>700.240.424</td><td>399.000.000</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>6(a)</td><td>8.110.000</td><td>7.400.000</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>8.110.000</td><td>7.400.000</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>2.940.659.090</td><td>2.652.953.397</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>7</td><td>2.170.552.039</td><td>1.988.261.387</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td></td><td>371.552.598</td><td>243.425.908</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>8</td><td>413.428.141</td><td>421.266.102</td></tr><tr><td>Dự phòng các khoản phải thu ngắn hạn khó đòi</td><td>137</td><td></td><td>(14.873.688)</td><td>-</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>9</td><td>6.858.167.780</td><td>5.930.372.391</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>6.905.038.000</td><td>5.958.352.149</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>149</td><td></td><td>(46.870.220)</td><td>(27.979.758)</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>918.406.620</td><td>942.220.970</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td></td><td>74.887.091</td><td>46.128.020</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>807.301.517</td><td>896.037.352</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td></td><td>36.218.012</td><td>55.598</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2022Nghìn VND",
+      "1/1/2022Nghìn VND"
+    ],
+    [
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN"
+    ],
+    [
+      "Tài sản ngắn hạn(\\( 100 = 110 + 120 + 130 + 140 + 150 \\))",
+      "100",
+      "",
+      "12.228.222.738",
+      "10.576.736.330"
+    ],
+    [
+      "Tiền và các khoản tương đương tiền",
+      "110",
+      "5",
+      "1.502.879.248",
+      "1.043.789.572"
+    ],
+    [
+      "Tiền",
+      "111",
+      "",
+      "802.638.824",
+      "644.789.572"
+    ],
+    [
+      "Các khoản tương đương tiền",
+      "112",
+      "",
+      "700.240.424",
+      "399.000.000"
+    ],
+    [
+      "Đầu tư tài chính ngắn hạn",
+      "120",
+      "6(a)",
+      "8.110.000",
+      "7.400.000"
+    ],
+    [
+      "Đầu tư nắm giữ đến ngày đáo hạn",
+      "123",
+      "",
+      "8.110.000",
+      "7.400.000"
+    ],
+    [
+      "Các khoản phải thu ngắn hạn",
+      "130",
+      "",
+      "2.940.659.090",
+      "2.652.953.397"
+    ],
+    [
+      "Phải thu ngắn hạn của khách hàng",
+      "131",
+      "7",
+      "2.170.552.039",
+      "1.988.261.387"
+    ],
+    [
+      "Trả trước cho người bán ngắn hạn",
+      "132",
+      "",
+      "371.552.598",
+      "243.425.908"
+    ],
+    [
+      "Phải thu ngắn hạn khác",
+      "136",
+      "8",
+      "413.428.141",
+      "421.266.102"
+    ],
+    [
+      "Dự phòng các khoản phải thu ngắn hạn khó đòi",
+      "137",
+      "",
+      "(14.873.688)",
+      "-"
+    ],
+    [
+      "Hàng tồn kho",
+      "140",
+      "9",
+      "6.858.167.780",
+      "5.930.372.391"
+    ],
+    [
+      "Hàng tồn kho",
+      "141",
+      "",
+      "6.905.038.000",
+      "5.958.352.149"
+    ],
+    [
+      "Dự phòng giảm giá hàng tồn kho",
+      "149",
+      "",
+      "(46.870.220)",
+      "(27.979.758)"
+    ],
+    [
+      "Tài sản ngắn hạn khác",
+      "150",
+      "",
+      "918.406.620",
+      "942.220.970"
+    ],
+    [
+      "Chi phí trả trước ngắn hạn",
+      "151",
+      "",
+      "74.887.091",
+      "46.128.020"
+    ],
+    [
+      "Thuế giá trị gia tăng được khấu trừ",
+      "152",
+      "",
+      "807.301.517",
+      "896.037.352"
+    ],
+    [
+      "Thuế và các khoản khác phải thu Nhà nước",
+      "153",
+      "",
+      "36.218.012",
+      "55.598"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 9 ===== Công ty Cổ phần Masan High-Tech Materials và các công ty con Băng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022 Mẫu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

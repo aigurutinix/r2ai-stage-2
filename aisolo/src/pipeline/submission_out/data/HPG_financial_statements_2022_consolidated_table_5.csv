@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+HPG,2022,01,Doanh thu bán hàng và cung cấp dịch vụ,142770810676858,150865359967200
+HPG,2022,02,Các khoản giảm trừ doanh thu,1361536216226,1185569987855
+HPG,2022,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),141409274460632,149679789979345
+HPG,2022,11,Giá vốn hàng bán và dịch vụ cung cấp,124645848221080,108571380446353
+HPG,2022,20,Lợi nhuận gộp (20 = 10 - 11),16763426239552,41108409532992
+HPG,2022,21,Doanh thu hoạt động tài chính,3743650707331,3071440640188
+HPG,2022,22,Chi phí tài chính,7026723285241,3731542257873
+HPG,2022,23,Trong đó: Chi phí đi vay,3083638131818,2525823258237
+HPG,2022,24,Phần (lỗ)/lãi trong công ty liên kết,-1072667584,4465302865
+HPG,2022,25,Chi phí bán hàng,2665806087302,2120068223228
+HPG,2022,26,Chi phí quản lý doanh nghiệp,1019444279447,1324261548679
+HPG,2022,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},9794030627309,37008443446265
+HPG,2022,31,Thu nhập khác,872024724926,796666105925
+HPG,2022,32,Chi phí khác,743114224951,748331838000
+HPG,2022,40,Kết quả từ hoạt động khác (40 = 31 - 32),128910499975,48334267925
+HPG,2022,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),9922941127284,37056777714190
+HPG,2022,51,Chi phí thuế TNDN hiện hành,1001020240086,2855306347167
+HPG,2022,52,Chi phí/( lợi ích) thuế TNDN hoãn lại,477491832682,-319483564275
+HPG,2022,60,Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52),8444429054516,34520954931298

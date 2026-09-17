@@ -1,0 +1,151 @@
+{
+  "doc_id": "MSR_financial_statements_2022_consolidated",
+  "document_sha256": "01c9d669529e4fd64bdbc9848f3169aacad8b53cb2538f5a0552993e532c5c4f",
+  "table_id_internal": 4,
+  "physical_line_one_based": 357,
+  "html_sha256": "8960b1d89ba40c0f914edf97bbe54652ff32e92e49f2df2ff0ab4090ad0c4aa0",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2022 Nghìn VND</td><td>2021 Nghìn VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td></td><td>15.562.992.329</td><td>13.583.641.781</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td></td><td>13.444.675</td><td>19.351.935</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)</td><td>10</td><td>25</td><td>15.549.547.654</td><td>13.564.289.846</td></tr><tr><td>Giá vốn hàng bán</td><td>11</td><td></td><td>13.172.693.544</td><td>11.293.885.339</td></tr><tr><td>Lợi nhuận gộp (20 = 10 - 11)</td><td>20</td><td></td><td>2.376.854.110</td><td>2.270.404.507</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>26</td><td>470.233.836</td><td>344.622.946</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>27</td><td>1.917.493.323</td><td>1.435.452.204</td></tr><tr><td>Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>1.194.553.796</td><td>1.145.321.327</td></tr><tr><td>Phần lợi nhuận trong công ty liên kết</td><td>24</td><td></td><td>13.938.538</td><td>3.064.567</td></tr><tr><td>Chi phí bán hàng</td><td>25</td><td>28</td><td>452.974.941</td><td>445.622.393</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>29</td><td>587.976.843</td><td>638.030.680</td></tr><tr><td>(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 + 24 - 25 - 26)</td><td>30</td><td></td><td>(97.418.623)</td><td>98.986.743</td></tr><tr><td>Thu nhập khác</td><td>31</td><td>30</td><td>171.642.933</td><td>142.172.892</td></tr><tr><td>Chi phí khác</td><td>32</td><td>31</td><td>96.870.711</td><td>84.643.721</td></tr><tr><td>Kết quả từ các hoạt động khác (40 = 31 - 32)</td><td>40</td><td></td><td>74.772.222</td><td>57.529.171</td></tr><tr><td>(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30 + 40)</td><td>50</td><td></td><td>(22.646.401)</td><td>156.515.914</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>32</td><td>45.262.566</td><td>59.707.083</td></tr><tr><td>Lợi ích thuế TNDN hoãn lại</td><td>52</td><td>32</td><td>(173.060.025)</td><td>(164.314.798)</td></tr><tr><td>Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (chuyển sang trang sau)</td><td>60</td><td></td><td>105.151.058</td><td>261.123.629</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "2022 Nghìn VND",
+      "2021 Nghìn VND"
+    ],
+    [
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "01",
+      "",
+      "15.562.992.329",
+      "13.583.641.781"
+    ],
+    [
+      "Các khoản giảm trừ doanh thu",
+      "02",
+      "",
+      "13.444.675",
+      "19.351.935"
+    ],
+    [
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)",
+      "10",
+      "25",
+      "15.549.547.654",
+      "13.564.289.846"
+    ],
+    [
+      "Giá vốn hàng bán",
+      "11",
+      "",
+      "13.172.693.544",
+      "11.293.885.339"
+    ],
+    [
+      "Lợi nhuận gộp (20 = 10 - 11)",
+      "20",
+      "",
+      "2.376.854.110",
+      "2.270.404.507"
+    ],
+    [
+      "Doanh thu hoạt động tài chính",
+      "21",
+      "26",
+      "470.233.836",
+      "344.622.946"
+    ],
+    [
+      "Chi phí tài chính",
+      "22",
+      "27",
+      "1.917.493.323",
+      "1.435.452.204"
+    ],
+    [
+      "Trong đó: Chi phí lãi vay",
+      "23",
+      "",
+      "1.194.553.796",
+      "1.145.321.327"
+    ],
+    [
+      "Phần lợi nhuận trong công ty liên kết",
+      "24",
+      "",
+      "13.938.538",
+      "3.064.567"
+    ],
+    [
+      "Chi phí bán hàng",
+      "25",
+      "28",
+      "452.974.941",
+      "445.622.393"
+    ],
+    [
+      "Chi phí quản lý doanh nghiệp",
+      "26",
+      "29",
+      "587.976.843",
+      "638.030.680"
+    ],
+    [
+      "(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh (30 = 20 + 21 - 22 + 24 - 25 - 26)",
+      "30",
+      "",
+      "(97.418.623)",
+      "98.986.743"
+    ],
+    [
+      "Thu nhập khác",
+      "31",
+      "30",
+      "171.642.933",
+      "142.172.892"
+    ],
+    [
+      "Chi phí khác",
+      "32",
+      "31",
+      "96.870.711",
+      "84.643.721"
+    ],
+    [
+      "Kết quả từ các hoạt động khác (40 = 31 - 32)",
+      "40",
+      "",
+      "74.772.222",
+      "57.529.171"
+    ],
+    [
+      "(Lỗ)/lợi nhuận kế toán trước thuế (50 = 30 + 40)",
+      "50",
+      "",
+      "(22.646.401)",
+      "156.515.914"
+    ],
+    [
+      "Chi phí thuế TNDN hiện hành",
+      "51",
+      "32",
+      "45.262.566",
+      "59.707.083"
+    ],
+    [
+      "Lợi ích thuế TNDN hoãn lại",
+      "52",
+      "32",
+      "(173.060.025)",
+      "(164.314.798)"
+    ],
+    [
+      "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (chuyển sang trang sau)",
+      "60",
+      "",
+      "105.151.058",
+      "261.123.629"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== Công ty Cổ phần Masan High-Tech Materials và các công ty con Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2022 Mẫu B 02 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

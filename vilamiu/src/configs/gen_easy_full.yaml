@@ -1,0 +1,40 @@
+# Full easy-tier run for the fine-tuning set, 2026-08-12.
+#
+# Differs from gen_easy_or.yaml in the two fields that were silently capping the
+# output:
+#
+#   max_candidates — the number of tables the generator is allowed to *try*, and
+#     each table yields at most one fact, so this is a hard ceiling on records.
+#     At 100 it could never produce more than 100 pairs no matter what `count`
+#     said. Set to 5x the target so ineligible tables and validation failures
+#     have room; the corpus holds 146,246 tables, so this is not the binding
+#     constraint.
+#
+#   seed — a fresh value. The candidate list is shuffled by seed, so re-running
+#     with 42 would re-walk the same tables in the same order. That is how a
+#     previous chain restart produced 7 of 9 byte-identical records.
+#
+# The tier needs no embedder: easy.yaml has no `embedding:` section and easy.py
+# imports none, which is why this runs on a laptop with no GPU while medium and
+# intermediate cannot.
+command: generate
+run: {name: vilamiu-easy-full}
+generation:
+  tier: easy
+  engine: legacy
+  count: 2000
+  workers: 8
+  seed: 20260812
+  max_candidates: 10000
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  # Generator stays inside the submission's own <=14B open-weight class. The
+  # rule we were given is that fine-tuning is allowed provided the data source
+  # is declared afterwards, and declaring "same size class as the submission"
+  # is defensible in a way that distilling a 550B free model would not be.
+  model_id: qwen/qwen3-14b
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2

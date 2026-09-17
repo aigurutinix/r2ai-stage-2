@@ -1,0 +1,203 @@
+{
+  "doc_id": "GEX_financial_statements_2024_consolidated",
+  "document_sha256": "d3bc92b59196b91af54c308a9bed00f1485c05d7e397f3cb9e5df2ba72127951",
+  "table_id_internal": 9,
+  "physical_line_one_based": 498,
+  "html_sha256": "1f4e743f4f0967fa2a26651b450fb14aa202bdde5c068129eb5f9936fbfc7f0f",
+  "html": "<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>1.</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>33</td><td>34.060.209.909.943</td><td>30.296.407.854.092</td></tr><tr><td>2.</td><td>Các khoản giảm trừ doanh thu</td><td>02</td><td>33</td><td>307.904.496.970</td><td>298.572.005.135</td></tr><tr><td>3.</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02)</td><td>10</td><td>33</td><td>33.752.305.412.973</td><td>29.997.835.848.957</td></tr><tr><td>4.</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>34</td><td>26.990.119.882.838</td><td>24.489.090.822.910</td></tr><tr><td>5.</td><td>Lợi nhuận góp về bán hàng và cung cấp dịch vụ (20=10-11)</td><td>20</td><td></td><td>6.762.185.530.135</td><td>5.508.745.026.047</td></tr><tr><td>6.</td><td>Doanh thu hoạt động tài chính</td><td>21</td><td>36</td><td>1.500.290.822.832</td><td>449.714.920.814</td></tr><tr><td>7.</td><td>Chi phí tài chính</td><td>22</td><td>37</td><td>1.689.902.579.272</td><td>1.888.935.606.662</td></tr><tr><td></td><td>- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>1.077.046.187.606</td><td>1.378.991.490.271</td></tr><tr><td>8.</td><td>Phần lãi trong công ty liên kết</td><td>24</td><td>18</td><td>37.000.292.212</td><td>60.800.608.825</td></tr><tr><td>9.</td><td>Chi phí bán hàng</td><td>25</td><td>38</td><td>1.278.637.559.756</td><td>1.140.667.296.329</td></tr><tr><td>10.</td><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>38</td><td>1.750.292.537.425</td><td>1.574.517.688.723</td></tr><tr><td>11.</td><td>Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26))</td><td>30</td><td></td><td>3.580.643.968.726</td><td>1.415.139.963.972</td></tr><tr><td>12.</td><td>Thu nhập khác</td><td>31</td><td>39</td><td>152.427.320.788</td><td>84.101.655.339</td></tr><tr><td>13.</td><td>Chi phí khác</td><td>32</td><td>40</td><td>120.237.991.157</td><td>102.258.632.408</td></tr><tr><td>14.</td><td>Lợi nhuận/(lỗ) khác (40=31-32)</td><td>40</td><td></td><td>32.189.329.631</td><td>(18.156.977.069)</td></tr><tr><td>15.</td><td>Tổng lợi nhuận kế toán trước thuế (50=30+40)</td><td>50</td><td></td><td>3.612.833.298.357</td><td>1.396.982.986.903</td></tr><tr><td>16.</td><td>Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>51</td><td>41</td><td>953.319.064.018</td><td>616.994.350.665</td></tr><tr><td>17.</td><td>Thu nhập thuế thu nhập doanh nghiệp hoãn lại</td><td>52</td><td>41</td><td>(9.816.234.355)</td><td>(83.895.610.154)</td></tr><tr><td>18.</td><td>Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)</td><td>60</td><td></td><td>2.669.330.468.694</td><td>863.884.246.392</td></tr><tr><td></td><td>Trong đó:</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Lợi nhuận sau thuế của Công ty mẹ</td><td>61</td><td></td><td>1.631.297.943.916</td><td>330.357.294.753</td></tr><tr><td></td><td>Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td>62</td><td></td><td>1.038.032.524.778</td><td>533.526.951.639</td></tr><tr><td>19.</td><td>Lãi cơ bản trên cổ phiếu</td><td>70</td><td>42</td><td>1.910</td><td>321</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "CHỈ TIÊU",
+      "Mã số",
+      "Thuyết minh",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "1.",
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "01",
+      "33",
+      "34.060.209.909.943",
+      "30.296.407.854.092"
+    ],
+    [
+      "2.",
+      "Các khoản giảm trừ doanh thu",
+      "02",
+      "33",
+      "307.904.496.970",
+      "298.572.005.135"
+    ],
+    [
+      "3.",
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02)",
+      "10",
+      "33",
+      "33.752.305.412.973",
+      "29.997.835.848.957"
+    ],
+    [
+      "4.",
+      "Giá vốn hàng bán và dịch vụ cung cấp",
+      "11",
+      "34",
+      "26.990.119.882.838",
+      "24.489.090.822.910"
+    ],
+    [
+      "5.",
+      "Lợi nhuận góp về bán hàng và cung cấp dịch vụ (20=10-11)",
+      "20",
+      "",
+      "6.762.185.530.135",
+      "5.508.745.026.047"
+    ],
+    [
+      "6.",
+      "Doanh thu hoạt động tài chính",
+      "21",
+      "36",
+      "1.500.290.822.832",
+      "449.714.920.814"
+    ],
+    [
+      "7.",
+      "Chi phí tài chính",
+      "22",
+      "37",
+      "1.689.902.579.272",
+      "1.888.935.606.662"
+    ],
+    [
+      "",
+      "- Trong đó: Chi phí lãi vay",
+      "23",
+      "",
+      "1.077.046.187.606",
+      "1.378.991.490.271"
+    ],
+    [
+      "8.",
+      "Phần lãi trong công ty liên kết",
+      "24",
+      "18",
+      "37.000.292.212",
+      "60.800.608.825"
+    ],
+    [
+      "9.",
+      "Chi phí bán hàng",
+      "25",
+      "38",
+      "1.278.637.559.756",
+      "1.140.667.296.329"
+    ],
+    [
+      "10.",
+      "Chi phí quản lý doanh nghiệp",
+      "26",
+      "38",
+      "1.750.292.537.425",
+      "1.574.517.688.723"
+    ],
+    [
+      "11.",
+      "Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26))",
+      "30",
+      "",
+      "3.580.643.968.726",
+      "1.415.139.963.972"
+    ],
+    [
+      "12.",
+      "Thu nhập khác",
+      "31",
+      "39",
+      "152.427.320.788",
+      "84.101.655.339"
+    ],
+    [
+      "13.",
+      "Chi phí khác",
+      "32",
+      "40",
+      "120.237.991.157",
+      "102.258.632.408"
+    ],
+    [
+      "14.",
+      "Lợi nhuận/(lỗ) khác (40=31-32)",
+      "40",
+      "",
+      "32.189.329.631",
+      "(18.156.977.069)"
+    ],
+    [
+      "15.",
+      "Tổng lợi nhuận kế toán trước thuế (50=30+40)",
+      "50",
+      "",
+      "3.612.833.298.357",
+      "1.396.982.986.903"
+    ],
+    [
+      "16.",
+      "Chi phí thuế thu nhập doanh nghiệp hiện hành",
+      "51",
+      "41",
+      "953.319.064.018",
+      "616.994.350.665"
+    ],
+    [
+      "17.",
+      "Thu nhập thuế thu nhập doanh nghiệp hoãn lại",
+      "52",
+      "41",
+      "(9.816.234.355)",
+      "(83.895.610.154)"
+    ],
+    [
+      "18.",
+      "Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52)",
+      "60",
+      "",
+      "2.669.330.468.694",
+      "863.884.246.392"
+    ],
+    [
+      "",
+      "Trong đó:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "Lợi nhuận sau thuế của Công ty mẹ",
+      "61",
+      "",
+      "1.631.297.943.916",
+      "330.357.294.753"
+    ],
+    [
+      "",
+      "Lợi nhuận sau thuế của cổ đông không kiểm soát",
+      "62",
+      "",
+      "1.038.032.524.778",
+      "533.526.951.639"
+    ],
+    [
+      "19.",
+      "Lãi cơ bản trên cổ phiếu",
+      "70",
+      "42",
+      "1.910",
+      "321"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 15 ===== CÔNG TY CỔ PHẦN TẬP ĐOÀN GELEX Số 52, Phố Lê Đại Hành, Phường Lê Đại Hành, Quận Hai Bà Trung, Thành phố Hà Nội, Việt Nam MÃU SỐ B 02-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 Đơn vị: VND"
+}

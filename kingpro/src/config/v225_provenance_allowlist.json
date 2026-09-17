@@ -1,0 +1,100 @@
+{
+  "candidate": "sub_top123_candidate_v225_q98_physical_parent_rollback_batch9",
+  "policy": "Exact issue identity; fail on any new issue or stale exception.",
+  "ledger": "docs/INDIVIDUAL_QUESTION_AUDIT_20260827.md",
+  "issues": [
+    {
+      "id": 98,
+      "kind": "provenance-docs",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate",
+          "HUT_financial_statements_2024_consolidated"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate|328",
+          "HUT_financial_statements_2024_consolidated|325"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated|325"
+        ]
+      }
+    },
+    {
+      "id": 224,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_consolidated|1243",
+          "HUT_financial_statements_2024_separate|1624"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_separate|1624"
+        ]
+      }
+    },
+    {
+      "id": 224,
+      "kind": "provenance-docs",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_consolidated",
+          "HUT_financial_statements_2024_separate"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_separate"
+        ]
+      }
+    },
+    {
+      "id": 714,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_consolidated|376",
+          "HUT_financial_statements_2024_separate|399"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_separate|399"
+        ]
+      }
+    },
+    {
+      "id": 714,
+      "kind": "provenance-docs",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_consolidated",
+          "HUT_financial_statements_2024_separate"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_separate"
+        ]
+      }
+    },
+    {
+      "id": 764,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "GVR_financial_statements_2015_consolidated|290",
+          "DPM_financial_statements_2015_consolidated|272",
+          "DPM_financial_statements_2015_consolidated|1909"
+        ],
+        "actual": [
+          "GVR_financial_statements_2015_consolidated|290",
+          "DPM_financial_statements_2015_consolidated|1909"
+        ]
+      }
+    }
+  ]
+}

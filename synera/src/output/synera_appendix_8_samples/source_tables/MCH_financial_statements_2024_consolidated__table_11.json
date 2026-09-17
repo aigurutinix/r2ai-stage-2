@@ -1,0 +1,137 @@
+{
+  "doc_id": "MCH_financial_statements_2024_consolidated",
+  "document_sha256": "b4650718d67b4a81c4b4bdb0ad912cfccdece6a7e2c4d3572b6c89013b8284b4",
+  "table_id_internal": 11,
+  "physical_line_one_based": 254,
+  "html_sha256": "e6c6b108db0f0420c2ab03ac519cd918a0d77428b0871c2cdd04fb6de90f0fb0",
+  "html": "<table><tr><td></td><td>Mã số</td><td>2024 VND</td><td>2023 VND</td></tr><tr><td colspan=\"4\">LU&#x27;U CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản</td><td>01</td><td>9.004.312.866.417</td><td>8.098.846.606.679</td></tr><tr><td>Khấu hao và phân bổ</td><td>02</td><td>679.886.097.410</td><td>655.993.278.154</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>123.798.546.135</td><td>108.026.674.230</td></tr><tr><td>Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>2.543.565.215</td><td>2.499.315.770</td></tr><tr><td>Lỗ/(lãi) từ thanh lý và xóa số tài sản cố định</td><td>05</td><td>4.533.243.772</td><td>(7.562.851)</td></tr><tr><td>Thu nhập lãi tiền gửi và thu nhập khác từ các hoạt động đầu tư</td><td>05</td><td>(1.764.318.342.762)</td><td>(1.808.788.060.961)</td></tr><tr><td>Lợi nhuận được chia từ một công ty liên kết</td><td>05</td><td>(65.065.176.215)</td><td>(58.661.298.695)</td></tr><tr><td>Chi phí lãi vay và chi phí thu xếp khoản vay</td><td>06</td><td>334.488.177.551</td><td>488.321.280.057</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td>8.320.178.977.523</td><td>7.486.230.232.383</td></tr><tr><td>Biến động các khoản phải thu và tài sản khác</td><td>09</td><td>21.693.558.302</td><td>(405.613.326.371)</td></tr><tr><td>Biến động hàng tồn kho</td><td>10</td><td>(527.434.243.754)</td><td>214.638.927.230</td></tr><tr><td>Biến động các khoản phải trả và nợ phải trả khác</td><td>11</td><td>258.897.211.507</td><td>1.526.486.553.528</td></tr><tr><td>Biến động chi phí trả trước</td><td>12</td><td>35.395.084.812</td><td>52.889.237.750</td></tr><tr><td>Biến động chứng khoán kinh doanh</td><td>13</td><td>2.592.779.525.558</td><td>(1.390.607.807.678)</td></tr><tr><td></td><td></td><td>10.701.510.113.948</td><td>7.484.023.816.842</td></tr><tr><td>Tiền lãi vay và chi phí thu xếp khoản vay đã trả</td><td>14</td><td>(366.292.536.733)</td><td>(496.972.593.124)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(1.107.911.116.921)</td><td>(731.465.659.511)</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(23.000.000)</td><td>-</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>9.227.283.460.294</td><td>6.255.585.564.207</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "2024 VND",
+      "2023 VND"
+    ],
+    [
+      "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản",
+      "01",
+      "9.004.312.866.417",
+      "8.098.846.606.679"
+    ],
+    [
+      "Khấu hao và phân bổ",
+      "02",
+      "679.886.097.410",
+      "655.993.278.154"
+    ],
+    [
+      "Các khoản dự phòng",
+      "03",
+      "123.798.546.135",
+      "108.026.674.230"
+    ],
+    [
+      "Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "04",
+      "2.543.565.215",
+      "2.499.315.770"
+    ],
+    [
+      "Lỗ/(lãi) từ thanh lý và xóa số tài sản cố định",
+      "05",
+      "4.533.243.772",
+      "(7.562.851)"
+    ],
+    [
+      "Thu nhập lãi tiền gửi và thu nhập khác từ các hoạt động đầu tư",
+      "05",
+      "(1.764.318.342.762)",
+      "(1.808.788.060.961)"
+    ],
+    [
+      "Lợi nhuận được chia từ một công ty liên kết",
+      "05",
+      "(65.065.176.215)",
+      "(58.661.298.695)"
+    ],
+    [
+      "Chi phí lãi vay và chi phí thu xếp khoản vay",
+      "06",
+      "334.488.177.551",
+      "488.321.280.057"
+    ],
+    [
+      "Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+      "08",
+      "8.320.178.977.523",
+      "7.486.230.232.383"
+    ],
+    [
+      "Biến động các khoản phải thu và tài sản khác",
+      "09",
+      "21.693.558.302",
+      "(405.613.326.371)"
+    ],
+    [
+      "Biến động hàng tồn kho",
+      "10",
+      "(527.434.243.754)",
+      "214.638.927.230"
+    ],
+    [
+      "Biến động các khoản phải trả và nợ phải trả khác",
+      "11",
+      "258.897.211.507",
+      "1.526.486.553.528"
+    ],
+    [
+      "Biến động chi phí trả trước",
+      "12",
+      "35.395.084.812",
+      "52.889.237.750"
+    ],
+    [
+      "Biến động chứng khoán kinh doanh",
+      "13",
+      "2.592.779.525.558",
+      "(1.390.607.807.678)"
+    ],
+    [
+      "",
+      "",
+      "10.701.510.113.948",
+      "7.484.023.816.842"
+    ],
+    [
+      "Tiền lãi vay và chi phí thu xếp khoản vay đã trả",
+      "14",
+      "(366.292.536.733)",
+      "(496.972.593.124)"
+    ],
+    [
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "(1.107.911.116.921)",
+      "(731.465.659.511)"
+    ],
+    [
+      "Tiền chi khác cho hoạt động kinh doanh",
+      "17",
+      "(23.000.000)",
+      "-"
+    ],
+    [
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "20",
+      "9.227.283.460.294",
+      "6.255.585.564.207"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Hàng tiêu dùng Masan và các công ty con Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2024 (Phương pháp gián tiếp) Mẫu B 03 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)"
+}

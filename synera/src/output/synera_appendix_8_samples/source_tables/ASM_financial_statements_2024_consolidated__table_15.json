@@ -1,0 +1,221 @@
+{
+  "doc_id": "ASM_financial_statements_2024_consolidated",
+  "document_sha256": "9a0ed07b83f5137c33532ca3fec0718c0d8028a3aedefc0afc80a4174adaedba",
+  "table_id_internal": 15,
+  "physical_line_one_based": 501,
+  "html_sha256": "29233b1f227360fe51ebb8509786cbd4f7e2200dc2006c7db6a06dcefac3517b",
+  "html": "<table><tr><td>Mã số</td><td>Chỉ tiêu</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. Lưu chuyển tiền từ hoạt động kinh doanh</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">01</td><td>Lợi nhuận trước thuế</td><td></td><td>317.093.997.015</td><td>319.141.424.156</td></tr><tr><td>2. Điều chỉnh cho các khoản</td><td></td><td></td><td></td></tr><tr><td>02</td><td>- Khấu hao TSCĐ và BĐSĐT</td><td></td><td>438.448.735.221</td><td>450.585.527.054</td></tr><tr><td>03</td><td>- Các khoản dự phòng</td><td></td><td>(1.197.510.595)</td><td>354.513.343</td></tr><tr><td>04</td><td>- Lãi/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>11.944.385.210</td><td>(17.573.466.990)</td></tr><tr><td>05</td><td>- Lãi, lỗ từ hoạt động đầu tư</td><td></td><td>(142.955.555.304)</td><td>(191.242.096.444)</td></tr><tr><td>06</td><td>- Chi phí lãi vay</td><td></td><td>661.139.329.878</td><td>741.754.262.109</td></tr><tr><td>07</td><td>- Các khoản điều chỉnh khác</td><td></td><td></td><td></td></tr><tr><td>08</td><td>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>1.284.473.381.425</td><td>1.303.020.163.228</td></tr><tr><td>09</td><td>- Tăng, giảm các khoản phải thu</td><td></td><td>(790.906.910.608)</td><td>41.191.282.000</td></tr><tr><td>10</td><td>- Tăng, giảm hàng tồn kho</td><td></td><td>216.919.908.507</td><td>(1.541.000.885.381)</td></tr><tr><td>11</td><td>- Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td></td><td>(916.744.381.053)</td><td>691.468.852.757</td></tr><tr><td>12</td><td>- Tăng, giảm chi phí trả trước</td><td></td><td>4.878.058.157</td><td>4.368.677.932</td></tr><tr><td>13</td><td>- Tăng, giảm chứng khoán kinh doanh</td><td></td><td>279.008.349</td><td>760.099.533</td></tr><tr><td>14</td><td>- Tiền lãi vay đã trả</td><td></td><td>(710.048.555.274)</td><td>(725.910.497.979)</td></tr><tr><td>15</td><td>- Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(57.228.458.208)</td><td>(127.153.386.306)</td></tr><tr><td>16</td><td>- Tiền thu khác từ hoạt động kinh doanh</td><td></td><td>56.160.000</td><td></td></tr><tr><td>17</td><td>- Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(518.869.626)</td><td>(17.295.842)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>(968.840.658.331)</td><td>(353.272.990.058)</td></tr><tr><td></td><td>II. Lưu chuyển tiền từ hoạt động đầu tư</td><td></td><td></td><td></td></tr><tr><td>21</td><td>- Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td></td><td>(254.360.620.505)</td><td>(239.077.925.477)</td></tr><tr><td>22</td><td>- Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td></td><td>66.223.636</td><td>10.187.523.653</td></tr><tr><td>23</td><td>- Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(1.618.170.355.143)</td><td>(2.161.352.123.859)</td></tr><tr><td>24</td><td>- Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td></td><td>536.046.219.126</td><td>2.178.865.690.972</td></tr><tr><td>25</td><td>- Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td></td><td></td></tr><tr><td>26</td><td>- Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>66.417.002.393</td><td></td></tr><tr><td>27</td><td>- Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>98.445.256.489</td><td>132.744.227.303</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>(1.171.556.274.004)</td><td>(78.632.607.408)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "Chỉ tiêu",
+      "Thuyết minh",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "",
+      "I. Lưu chuyển tiền từ hoạt động kinh doanh",
+      "",
+      "",
+      ""
+    ],
+    [
+      "01",
+      "Lợi nhuận trước thuế",
+      "",
+      "317.093.997.015",
+      "319.141.424.156"
+    ],
+    [
+      "01",
+      "2. Điều chỉnh cho các khoản",
+      "",
+      "",
+      ""
+    ],
+    [
+      "02",
+      "- Khấu hao TSCĐ và BĐSĐT",
+      "",
+      "438.448.735.221",
+      "450.585.527.054"
+    ],
+    [
+      "03",
+      "- Các khoản dự phòng",
+      "",
+      "(1.197.510.595)",
+      "354.513.343"
+    ],
+    [
+      "04",
+      "- Lãi/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "",
+      "11.944.385.210",
+      "(17.573.466.990)"
+    ],
+    [
+      "05",
+      "- Lãi, lỗ từ hoạt động đầu tư",
+      "",
+      "(142.955.555.304)",
+      "(191.242.096.444)"
+    ],
+    [
+      "06",
+      "- Chi phí lãi vay",
+      "",
+      "661.139.329.878",
+      "741.754.262.109"
+    ],
+    [
+      "07",
+      "- Các khoản điều chỉnh khác",
+      "",
+      "",
+      ""
+    ],
+    [
+      "08",
+      "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "",
+      "1.284.473.381.425",
+      "1.303.020.163.228"
+    ],
+    [
+      "09",
+      "- Tăng, giảm các khoản phải thu",
+      "",
+      "(790.906.910.608)",
+      "41.191.282.000"
+    ],
+    [
+      "10",
+      "- Tăng, giảm hàng tồn kho",
+      "",
+      "216.919.908.507",
+      "(1.541.000.885.381)"
+    ],
+    [
+      "11",
+      "- Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "",
+      "(916.744.381.053)",
+      "691.468.852.757"
+    ],
+    [
+      "12",
+      "- Tăng, giảm chi phí trả trước",
+      "",
+      "4.878.058.157",
+      "4.368.677.932"
+    ],
+    [
+      "13",
+      "- Tăng, giảm chứng khoán kinh doanh",
+      "",
+      "279.008.349",
+      "760.099.533"
+    ],
+    [
+      "14",
+      "- Tiền lãi vay đã trả",
+      "",
+      "(710.048.555.274)",
+      "(725.910.497.979)"
+    ],
+    [
+      "15",
+      "- Thuế thu nhập doanh nghiệp đã nộp",
+      "",
+      "(57.228.458.208)",
+      "(127.153.386.306)"
+    ],
+    [
+      "16",
+      "- Tiền thu khác từ hoạt động kinh doanh",
+      "",
+      "56.160.000",
+      ""
+    ],
+    [
+      "17",
+      "- Tiền chi khác cho hoạt động kinh doanh",
+      "",
+      "(518.869.626)",
+      "(17.295.842)"
+    ],
+    [
+      "20",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "",
+      "(968.840.658.331)",
+      "(353.272.990.058)"
+    ],
+    [
+      "",
+      "II. Lưu chuyển tiền từ hoạt động đầu tư",
+      "",
+      "",
+      ""
+    ],
+    [
+      "21",
+      "- Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+      "",
+      "(254.360.620.505)",
+      "(239.077.925.477)"
+    ],
+    [
+      "22",
+      "- Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      "",
+      "66.223.636",
+      "10.187.523.653"
+    ],
+    [
+      "23",
+      "- Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+      "",
+      "(1.618.170.355.143)",
+      "(2.161.352.123.859)"
+    ],
+    [
+      "24",
+      "- Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+      "",
+      "536.046.219.126",
+      "2.178.865.690.972"
+    ],
+    [
+      "25",
+      "- Tiền chi đầu tư góp vốn vào đơn vị khác",
+      "",
+      "",
+      ""
+    ],
+    [
+      "26",
+      "- Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+      "",
+      "66.417.002.393",
+      ""
+    ],
+    [
+      "27",
+      "- Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "98.445.256.489",
+      "132.744.227.303"
+    ],
+    [
+      "30",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "",
+      "(1.171.556.274.004)",
+      "(78.632.607.408)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 15 ===== CÔNG TY CỔ PHẦN TẬP ĐOÀN SAO MAI 326 Hùng Vương, P. Mỹ Long, Tp. Long Xuyên, Tỉnh An Giang. Báo cáo tài chính hợp nhất Năm tài chính 2024 kết thúc tại ngày 31/12/2024 BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT (Theo phương pháp gián tiếp) Năm tài chính 2024 kết thúc tại ngày 31/12/2024 Đơn vị tinh: VND"
+}

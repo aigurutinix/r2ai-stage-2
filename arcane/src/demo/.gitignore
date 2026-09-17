@@ -1,0 +1,2 @@
+# Runtime state for demo/vast_up.sh: ssh control socket, pids, logs.
+.demo-state/

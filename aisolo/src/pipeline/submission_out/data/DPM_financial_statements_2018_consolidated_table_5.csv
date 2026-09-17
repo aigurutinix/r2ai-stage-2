@@ -1,0 +1,22 @@
+﻿company,year,ma_so,label,value,prev
+DPM,2018,01,Doanh thu bán hàng và cung cấp dịch vụ,9395359665641,8101852559310
+DPM,2018,02,Các khoản giảm trừ doanh thu,98248115232,106023465391
+DPM,2018,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),9297111550409,7995829093919
+DPM,2018,11,Giá vốn hàng bán và cung cấp dịch vụ,7397640258893,5884432561847
+DPM,2018,20,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),1899471291516,2111396532072
+DPM,2018,21,Doanh thu hoạt động tài chính,123658446036,164595463841
+DPM,2018,22,Chi phí tài chính,73797994363,1379308284
+DPM,2018,,- Trong đó: Chi phí lãi vay,62586468519,186427398
+DPM,2018,24,Phần lãi trong công ty liên kết,2916621493,3834843056
+DPM,2018,25,Chi phí bán hàng,612322153525,802514524567
+DPM,2018,26,Chi phí quản lý doanh nghiệp,485710294387,638677975533
+DPM,2018,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26)),854215916770,837255030585
+DPM,2018,31,Thu nhập khác,17876027364,17312125756
+DPM,2018,32,Chi phí khác,1476414908,1702710637
+DPM,2018,40,Lợi nhuận khác (40=31-32),16399612456,15609415119
+DPM,2018,50,Tổng lợi nhuận kể toán trước thuế (50=30+40),870615529226,852864445704
+DPM,2018,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,147299819968,141942071760
+DPM,2018,52,Chi phí thuế thu nhập doanh nghiệp hoãn lại,10841508544,3082437394
+DPM,2018,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),712474200714,707839936550
+DPM,2018,61,Lợi nhuận sau thuế của cổ đông của Công ty mẹ,699593467601,694455793862
+DPM,2018,62,Lợi nhuận sau thuế của cổ đông không kiểm soát,12880733113,13384142688

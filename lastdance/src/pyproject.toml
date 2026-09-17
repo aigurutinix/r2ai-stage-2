@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vifinqa-baseline"
+version = "0.2.0"
+description = "Auditable ViFinQA question taxonomy and OCR-table warehouse"
+requires-python = ">=3.9"
+dependencies = [
+  "pandas==2.2.2",
+  "rapidfuzz==3.14.5",
+]
+
+[project.scripts]
+vifinqa-corpus = "vifinqa.corpus_db:main"
+vifinqa-questions = "vifinqa.question_taxonomy:main"
+vifinqa-l1 = "vifinqa.l1_fact_layer:main"
+vifinqa-experiments = "vifinqa.experiments:main"
+vifinqa-ir = "vifinqa.ir_adapters:main"
+vifinqa-release = "vifinqa.release:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

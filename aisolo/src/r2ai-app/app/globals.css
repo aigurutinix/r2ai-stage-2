@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+/* R2AI design tokens — nguồn: /design.md (light-first, brand azure đậm).
+   Bộ màu đã làm đậm hơn (deeper/more saturated) theo yêu cầu. */
+:root {
+  --canvas: #ffffff;
+  --surface-soft: #eef4fc;
+  --surface-strong: #dfeafb;
+
+  --primary: #1c64e8;
+  --primary-hover: #1550c4;
+  --primary-active: #1145ae;
+  --primary-soft: #dbe8fe;
+  --primary-disabled: #a9c6f8;
+  --accent-cyan: #0fa6c9;
+  --gradient-from: #1c64e8;
+  --gradient-to: #10b4d6;
+
+  --ink: #0b1b2e;
+  --body: #263849;
+  --muted: #52637a;
+  --muted-soft: #8394a6;
+
+  --hairline: #dbe5f0;
+  --hairline-soft: #eaf0f8;
+  --border-strong: #b9c7d8;
+
+  --positive: #0e9e5c;
+  --positive-soft: #dcf5e8;
+  --negative: #e23a2e;
+  --negative-soft: #fce6e4;
+  --warning: #e07c00;
+  --warning-soft: #fdefdc;
+
+  --on-primary: #ffffff;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-background: var(--canvas);
+  --color-surface-soft: var(--surface-soft);
+  --color-surface-strong: var(--surface-strong);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-active: var(--primary-active);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-disabled: var(--primary-disabled);
+  --color-accent-cyan: var(--accent-cyan);
+
+  --color-ink: var(--ink);
+  --color-foreground: var(--ink);
+  --color-body: var(--body);
+  --color-muted: var(--muted);
+  --color-muted-soft: var(--muted-soft);
+
+  --color-hairline: var(--hairline);
+  --color-hairline-soft: var(--hairline-soft);
+  --color-border-strong: var(--border-strong);
+
+  --color-positive: var(--positive);
+  --color-positive-soft: var(--positive-soft);
+  --color-negative: var(--negative);
+  --color-negative-soft: var(--negative-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+
+  --color-on-primary: var(--on-primary);
+
+  --font-sans: var(--font-geist-sans), Inter, -apple-system, system-ui, "Segoe UI", Roboto, sans-serif;
+  --font-mono: var(--font-geist-mono), "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Thang font-size đã tăng +4px mỗi bậc theo yêu cầu */
+  --text-xs: 1rem; /* 16px (was 12) */
+  --text-xs--line-height: 1.4;
+  --text-sm: 1.125rem; /* 18px (was 14) */
+  --text-sm--line-height: 1.45;
+  --text-base: 1.25rem; /* 20px (was 16) */
+  --text-base--line-height: 1.55;
+  --text-lg: 1.375rem; /* 22px (was 18) */
+  --text-lg--line-height: 1.45;
+  --text-xl: 1.5rem; /* 24px (was 20) */
+  --text-xl--line-height: 1.4;
+  --text-2xl: 1.75rem; /* 28px (was 24) */
+  --text-2xl--line-height: 1.3;
+  --text-3xl: 2.125rem; /* 34px (was 30) */
+  --text-3xl--line-height: 1.2;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  --shadow-card: 0 1px 2px rgba(11, 27, 46, 0.05), 0 2px 8px rgba(11, 27, 46, 0.08);
+  --shadow-raised: 0 4px 16px rgba(11, 27, 46, 0.12);
+}
+
+@utility gradient-brand {
+  background-image: linear-gradient(135deg, var(--gradient-from), var(--gradient-to));
+}
+
+body {
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar mảnh, tông xanh nhạt cho hợp brand */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}

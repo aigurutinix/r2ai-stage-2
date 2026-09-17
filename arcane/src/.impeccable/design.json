@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-09T08:00:00Z",
+  "title": "Design System: VIFin",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "BG",
+        "canonical": "#121212",
+        "tonalRamp": [
+          "#000000",
+          "#0A0A0A",
+          "#121212",
+          "#1C1C1C",
+          "#262626",
+          "#303030",
+          "#5A5A5A",
+          "#A8A8A8"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "canonical": "#1C1C1C",
+        "tonalRamp": [
+          "#000000",
+          "#0A0A0A",
+          "#121212",
+          "#1C1C1C",
+          "#262626",
+          "#303030",
+          "#5A5A5A",
+          "#A8A8A8"
+        ]
+      },
+      "surface-raised": {
+        "role": "neutral",
+        "displayName": "Surface Raised",
+        "canonical": "#262626",
+        "tonalRamp": [
+          "#000000",
+          "#0A0A0A",
+          "#121212",
+          "#1C1C1C",
+          "#262626",
+          "#303030",
+          "#5A5A5A",
+          "#A8A8A8"
+        ]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#2E2E2E",
+        "tonalRamp": [
+          "#0A0A0A",
+          "#141414",
+          "#1E1E1E",
+          "#2E2E2E",
+          "#4A4A4A",
+          "#6E6E6E",
+          "#9A9A9A",
+          "#D6D6D6"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#F7F7F7",
+        "tonalRamp": [
+          "#121212",
+          "#262626",
+          "#3D3D3D",
+          "#5A5A5A",
+          "#8A8A8A",
+          "#A8A8A8",
+          "#EBEBEB",
+          "#F7F7F7"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#A8A8A8",
+        "tonalRamp": [
+          "#121212",
+          "#262626",
+          "#3D3D3D",
+          "#5A5A5A",
+          "#8A8A8A",
+          "#A8A8A8",
+          "#D2D2D2",
+          "#F7F7F7"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Accent",
+        "canonical": "#FF611A",
+        "tonalRamp": [
+          "#331000",
+          "#5C1D00",
+          "#8A2C00",
+          "#B83B00",
+          "#E04E08",
+          "#FF611A",
+          "#FF9160",
+          "#FFC9AC"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "answer": {
+        "displayName": "Answer",
+        "purpose": "The computed figure in Doto, a dot-matrix face. Digits only; once per screen."
+      },
+      "heading": {
+        "displayName": "Heading",
+        "purpose": "The welcome line, in Manrope."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Questions, prose, card titles. Any string that may carry Vietnamese."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Pane heads and section keys, uppercase tracked."
+      },
+      "data": {
+        "displayName": "Data",
+        "purpose": "Scores, identifiers and numeric columns in Fragment Mono. Latin only."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "fast",
+        "value": "90ms cubic-bezier(.2,.7,.3,1)",
+        "purpose": "Hover and colour changes."
+      },
+      {
+        "name": "mid",
+        "value": "140ms cubic-bezier(.2,.7,.3,1)",
+        "purpose": "Card and stage-body entrance."
+      },
+      {
+        "name": "panel",
+        "value": "180ms cubic-bezier(.2,.7,.3,1)",
+        "purpose": "Rail overlay on narrow screens."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "stack-panes",
+        "value": "1100px"
+      },
+      {
+        "name": "rail-overlay",
+        "value": "860px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Evidence Card",
+      "kind": "card",
+      "refersTo": "evidence-card",
+      "description": "Raised panel with a hairline, a live table preview, and the reranker's real score.",
+      "html": "<button class=\"ds-card\"><span class=\"ds-card-head\">Nguồn 03<span>0.94</span></span><span class=\"ds-card-body\"><span class=\"ds-card-title\">Thuyết minh báo cáo tài chính riêng</span><span class=\"ds-card-meta\">VJC · 2018 · separate · dòng 1179</span></span></button>",
+      "css": ".ds-card{display:flex;flex-direction:column;width:232px;padding:0;border:1px solid #2E2E2E;border-radius:10px;background:#262626;color:#F7F7F7;text-align:left;transition:border-color 90ms cubic-bezier(.2,.7,.3,1),background 90ms cubic-bezier(.2,.7,.3,1)}.ds-card:hover{border-color:#FF611A;background:#303030;transform:translateY(-1px)}.ds-card-head{display:flex;justify-content:space-between;padding:8px 12px;color:#A8A8A8;font-size:11px}.ds-card-head span{color:#FF611A}.ds-card-body{display:grid;gap:4px;padding:12px;border-top:1px solid #2E2E2E}.ds-card-title{font-size:12.5px;line-height:1.4}.ds-card-meta{color:#A8A8A8;font-size:11px}"
+    },
+    {
+      "name": "Composer",
+      "kind": "input",
+      "refersTo": "composer",
+      "description": "Pinned command field; hairline turns orange on focus.",
+      "html": "<form class=\"ds-composer\"><span class=\"ds-caret\">&gt;</span><textarea placeholder=\"Hỏi về doanh thu, lợi nhuận, dòng tiền…\"></textarea><button class=\"ds-send\" aria-label=\"Gửi\">↗</button></form>",
+      "css": ".ds-composer{display:flex;align-items:flex-end;gap:8px;padding:12px;border:1px solid #2E2E2E;border-radius:14px;background:#1C1C1C}.ds-composer:focus-within{border-color:#FF611A}.ds-caret{color:#FF611A;font-family:'Fragment Mono',monospace;font-size:14px}.ds-composer textarea{flex:1;min-height:22px;border:0;outline:0;background:transparent;color:#F7F7F7;font:inherit;resize:none}.ds-send{width:28px;height:28px;border:0;border-radius:6px;background:#FF611A;color:#121212}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Workbench",
+    "overview": "A dark, quiet workspace where the answer and the evidence that produced it are on screen at the same time, permanently. Near-black ground with three lifted greys, separated by hairlines rather than shadows, and one hot orange carrying every interactive signal. Not a chat transcript: the workspace splits into an answer column and an evidence column, both always visible, and opening a table swaps the evidence column in place so the answer never moves. Three faces divide the work by what they can spell.",
+    "keyCharacteristics": [
+      "Two permanent panes; evidence is never behind a drawer or below the fold.",
+      "Hairlines and flat greys carry structure. No shadows anywhere.",
+      "One orange, used only for interaction, state and the cited cell.",
+      "Type is assigned by script coverage, not by taste.",
+      "The question is a command line, not a bubble."
+    ],
+    "rules": [
+      {
+        "name": "The One-Orange Rule",
+        "body": "If an element wants a colour it wants attention, and attention here is orange or nothing. No success green, no warning amber, no danger red.",
+        "section": "colors"
+      },
+      {
+        "name": "The Hairline Rule",
+        "body": "Structure is a 1px #2E2E2E division. Shadows do not exist in this system.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Script Rule",
+        "body": "A face is chosen by what it can spell. Fragment Mono and Doto never receive Vietnamese text; any string that might carry a tone mark is Manrope's.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "Do keep both panes visible. Evidence behind a drawer defeats the product.",
+      "Do send every Vietnamese string to Manrope.",
+      "Do right-align numeric columns and set them in Fragment Mono.",
+      "Do merge streaming evidence by table id so visible cards do not jump."
+    ],
+    "donts": [
+      "Don't add a second accent colour.",
+      "Don't add a shadow; structure is hairlines.",
+      "Don't put Vietnamese text in Doto or Fragment Mono; the glyphs are not in the subsets.",
+      "Don't return the layout to a chat transcript."
+    ]
+  }
+}

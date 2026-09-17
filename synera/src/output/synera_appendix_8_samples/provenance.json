@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-09-05T10:26:19.653120+00:00",
+  "classification": "Post-review reconstruction; not original submitted query; not official gold answers",
+  "local_baseline": "submission_vn79.zip",
+  "local_baseline_sha256": "3546a00546cdb1b200d30c39b99bca3a07f768c2c930989f0934fc1a1b1505f0",
+  "organizer_pdf_sha256": "5106fa4691c5906d5abdc8b78ab05a88c004900af859ed58edaf36e4d0f24dc7",
+  "organizer_sample_ids": [
+    363,
+    364,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372
+  ],
+  "warning": "Local VN79 is the comparison baseline. PDF samples match query/shape/results up to floating precision. Final uploaded full archive identity has not been confirmed.",
+  "raw_matches": 246,
+  "source_cells": 246,
+  "source_documents": 52,
+  "source_tables": 134
+}

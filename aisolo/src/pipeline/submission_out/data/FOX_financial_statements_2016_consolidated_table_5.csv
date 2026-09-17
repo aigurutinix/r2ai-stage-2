@@ -1,0 +1,22 @@
+﻿company,year,ma_so,label,value,prev
+FOX,2016,01,1. Doanh thu bán hàng và cung cấp dịch vụ,6693694162232,5580401055231
+FOX,2016,02,2. Các khoản giảm trừ doanh thu,27226010566,12660258636
+FOX,2016,10,3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),6666468151666,5567740796595
+FOX,2016,11,4. Giá vốn hàng bán và dịch vụ cung cấp,3555106661984,2919474384643
+FOX,2016,20,5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),3111361489682,2648266411952
+FOX,2016,21,6. Doanh thu hoạt động tài chính,162661202245,65549140411
+FOX,2016,22,7. Chi phí tài chính,154892015179,84873618113
+FOX,2016,23,- Trong đó: Chi phí lãi vay,150789690933,66726228145
+FOX,2016,25,8. Chi phí bán hàng,593914795407,530325251116
+FOX,2016,26,9. Chi phí quản lý doanh nghiệp,1335790764247,1063831278614
+FOX,2016,30,10. Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)),1189425117094,1034785404520
+FOX,2016,31,11. Thu nhập khác,7609927914,8684601280
+FOX,2016,32,12. Chi phí khác,4278912737,3123269736
+FOX,2016,40,13. Lợi nhuận khác (40=31-32),3331015177,5561331544
+FOX,2016,50,14. Tổng lợi nhuận kế toán trước thuế (50=30+40),1192756132271,1040346736064
+FOX,2016,51,15. Chi phí thuế thu nhập doanh nghiệp hiện hành,165468733057,125558578112
+FOX,2016,52,16. Chi phí thuế thu nhập doanh nghiệp hoãn lại,16709057193,32715426473
+FOX,2016,60,17. Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),1010578342021,882072731479
+FOX,2016,61,17.1. Lợi nhuận sau thuế của công ty mẹ,918091637496,827701610355
+FOX,2016,62,17.2. Lợi nhuận sau thuế của cổ đông không kiểm soát,92486704525,54371121124
+FOX,2016,70,18. Lãi cơ bản trên cổ phiếu,5972,5415

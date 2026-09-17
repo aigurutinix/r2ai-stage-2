@@ -1,0 +1,23 @@
+﻿company,year,ma_so,label,value,prev
+GEX,2024,01,Doanh thu bán hàng và cung cấp dịch vụ,34060209909943,30296407854092
+GEX,2024,02,Các khoản giảm trừ doanh thu,307904496970,298572005135
+GEX,2024,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),33752305412973,29997835848957
+GEX,2024,11,Giá vốn hàng bán và dịch vụ cung cấp,26990119882838,24489090822910
+GEX,2024,20,Lợi nhuận góp về bán hàng và cung cấp dịch vụ (20=10-11),6762185530135,5508745026047
+GEX,2024,21,Doanh thu hoạt động tài chính,1500290822832,449714920814
+GEX,2024,22,Chi phí tài chính,1689902579272,1888935606662
+GEX,2024,23,- Trong đó: Chi phí lãi vay,1077046187606,1378991490271
+GEX,2024,24,Phần lãi trong công ty liên kết,37000292212,60800608825
+GEX,2024,25,Chi phí bán hàng,1278637559756,1140667296329
+GEX,2024,26,Chi phí quản lý doanh nghiệp,1750292537425,1574517688723
+GEX,2024,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26)),3580643968726,1415139963972
+GEX,2024,31,Thu nhập khác,152427320788,84101655339
+GEX,2024,32,Chi phí khác,120237991157,102258632408
+GEX,2024,40,Lợi nhuận/(lỗ) khác (40=31-32),32189329631,-18156977069
+GEX,2024,50,Tổng lợi nhuận kế toán trước thuế (50=30+40),3612833298357,1396982986903
+GEX,2024,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,953319064018,616994350665
+GEX,2024,52,Thu nhập thuế thu nhập doanh nghiệp hoãn lại,-9816234355,-83895610154
+GEX,2024,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),2669330468694,863884246392
+GEX,2024,61,Lợi nhuận sau thuế của Công ty mẹ,1631297943916,330357294753
+GEX,2024,62,Lợi nhuận sau thuế của cổ đông không kiểm soát,1038032524778,533526951639
+GEX,2024,70,Lãi cơ bản trên cổ phiếu,1910,

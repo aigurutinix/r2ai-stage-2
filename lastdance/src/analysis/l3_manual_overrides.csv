@@ -1,0 +1,348 @@
+question_id,item,component,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+833,1,a,2016,VGT_financial_statements_2016_separate,1460,2,1,333.469.304.204,Tổng cổ tức trong doanh thu tài chính công ty mẹ
+833,2,a,2024,VGT_financial_statements_2024_separate,1341,1,1,374.746.516.545,Tổng cổ tức trong doanh thu tài chính công ty mẹ
+833,3,a,2025,VGT_financial_statements_2025_separate,1400,1,1,262.855.051.500,Tổng cổ tức trong doanh thu tài chính công ty mẹ
+836,1,a,2017,TTF_financial_statements_2017_separate,791,3,1,(2.761.917.100),Dự phòng trích lập trong năm
+836,2,a,2019,TTF_financial_statements_2019_separate,804,2,1,(280.535.703.178),Dự phòng trích lập trong năm
+836,3,a,2021,TTF_financial_statements_2021_separate,871,2,1,(6.121.138.679),Cộng dự phòng trích lập trong năm
+836,4,a,2025,TTF_financial_statements_2025_separate,916,2,1,(6.608.661.779),Dự phòng trích lập trong năm
+887,1,a,2022,VIC_financial_statements_2022_separate,1839,15,2,9.322,Tổng thù lao Hội đồng Quản trị
+887,2,a,2023,VIC_financial_statements_2023_separate,2003,12,2,11.513,Tổng thù lao Hội đồng Quản trị
+887,3,a,2024,VIC_financial_statements_2024_separate,2047,11,2,12.025,Tổng thù lao Hội đồng Quản trị
+865,2,b,2020,VIF_financial_statements_2020_separate,1004,6,1,72.395.199.451,Tổng phải thu khách hàng ngắn hạn công ty mẹ
+865,3,b,2021,VIF_financial_statements_2021_separate,959,7,1,104.028.656.660,Tổng phải thu khách hàng ngắn hạn công ty mẹ
+865,4,b,2022,VIF_financial_statements_2022_separate,223,8,3,143.046.839.421,Phải thu ngắn hạn khách hàng trên bảng cân đối công ty mẹ
+869,1,a,2015,NVB_financial_statements_2015_separate,396,8,2,-,Lưu chuyển tiền từ hoạt động tài chính không phát sinh theo ô nguồn
+869,2,a,2016,NVB_financial_statements_2016_separate,409,8,2,-,Lưu chuyển tiền từ hoạt động tài chính không phát sinh theo ô nguồn
+869,3,a,2019,NVB_financial_statements_2019_separate,410,8,2,1.091.339,Lưu chuyển tiền từ hoạt động tài chính
+869,4,a,2024,NVB_financial_statements_2024_separate,430,8,2,6.552.212,Lưu chuyển tiền từ hoạt động tài chính
+869,5,a,2025,NVB_financial_statements_2025_separate,428,8,2,7.500.000,Lưu chuyển tiền từ hoạt động tài chính
+880,1,b,2022,MBB_financial_statements_2022_separate_1,1398,1,1,152.053.008,Tổng chứng khoán nợ cùng bảng trái phiếu Chính phủ
+880,2,a,2022,MSB_financial_statements_2022_separate,1342,2,1,16.577.065,Chứng khoán Chính phủ
+880,3,b,2022,STB_financial_statements_2022_separate,1398,1,1,27.759.758,Tổng chứng khoán nợ cùng bảng trái phiếu Chính phủ
+914,1,a,2019,SJG_financial_statements_2019_consolidated,362,22,4,350,EPS trên báo cáo kết quả kinh doanh
+914,2,a,2020,SJG_financial_statements_2020_consolidated,389,22,4,17,EPS trên báo cáo kết quả kinh doanh
+914,3,a,2021,SJG_financial_statements_2021_consolidated,358,22,4,804,EPS trên báo cáo kết quả kinh doanh
+914,4,a,2022,SJG_financial_statements_2022_consolidated,450,22,3,3.375,EPS trên báo cáo kết quả kinh doanh
+914,5,a,2023,SJG_financial_statements_2023_consolidated,534,22,3,960,EPS trên báo cáo kết quả kinh doanh
+926,1,a,2020,MSN_financial_statements_2020_consolidated,1730,6,1,3.163.599,Thành phẩm giá gốc cuối năm
+926,1,b,2020,MSN_financial_statements_2020_consolidated,1730,9,1,12.730.397,Tổng hàng tồn kho giá gốc cuối năm
+926,2,a,2020,MML_financial_statements_2020_consolidated,1032,6,1,218.245.504.872,Thành phẩm giá gốc cuối năm
+926,2,b,2020,MML_financial_statements_2020_consolidated,1032,8,1,2.262.342.474.609,Tổng hàng tồn kho giá gốc cuối năm
+926,3,a,2020,MPC_financial_statements_2020_consolidated,922,6,1,2.758.530.073.037,Thành phẩm giá gốc cuối năm
+926,3,b,2020,MPC_financial_statements_2020_consolidated,922,7,1,3.135.048.390.423,Tổng hàng tồn kho giá gốc cuối năm
+926,4,a,2020,VNM_financial_statements_2020_consolidated,1260,6,1,1.185.827.459.309,Thành phẩm giá gốc cuối năm
+926,4,b,2020,VNM_financial_statements_2020_consolidated,1260,9,1,4.952.848.688.011,Tổng hàng tồn kho giá gốc cuối năm
+931,1,a,2025,GEE_financial_statements_2025_separate,419,22,4,(7.148.669.440),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+931,1,b,2025,GEE_financial_statements_2025_separate,419,21,4,9.490.539.932,Nguyên giá TSCĐ hữu hình cuối năm
+931,2,a,2025,GEX_financial_statements_2025_separate,489,9,4,(40.304.826.813),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+931,2,b,2025,GEX_financial_statements_2025_separate,489,8,4,97.983.124.514,Nguyên giá TSCĐ hữu hình cuối năm
+931,3,a,2025,VGC_financial_statements_2025_separate,320,7,4,(2.692.553.107.516),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+931,3,b,2025,VGC_financial_statements_2025_separate,320,6,4,4.003.424.199.446,Nguyên giá TSCĐ hữu hình cuối năm
+931,4,a,2025,SAM_financial_statements_2025_separate,285,23,3,(15.168.351.394),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+931,4,b,2025,SAM_financial_statements_2025_separate,285,22,3,16.867.945.035,Nguyên giá TSCĐ hữu hình cuối năm
+931,5,a,2025,PC1_financial_statements_2025_separate,325,7,3,(1.001.599.075.979),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+931,5,b,2025,PC1_financial_statements_2025_separate,325,6,3,2.887.974.978.217,Nguyên giá TSCĐ hữu hình cuối năm
+939,1,a,2022,PNJ_financial_statements_2022_consolidated,179,8,3,(433.046.785.694),Khấu hao lũy kế TSCĐ hữu hình cuối năm
+939,1,b,2022,PNJ_financial_statements_2022_consolidated,179,7,3,672.781.337.441,Nguyên giá TSCĐ hữu hình cuối năm
+939,2,a,2022,MWG_financial_statements_2022_consolidated,193,26,3,(11.188.183.603.219),Khấu hao lũy kế TSCĐ hữu hình cuối năm
+939,2,b,2022,MWG_financial_statements_2022_consolidated,193,25,3,20.841.513.609.195,Nguyên giá TSCĐ hữu hình cuối năm
+939,3,a,2022,HHS_financial_statements_2022_consolidated,246,24,3,(12.059.071.393),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+939,3,b,2022,HHS_financial_statements_2022_consolidated,246,23,3,31.692.909.172,Nguyên giá TSCĐ hữu hình cuối năm
+939,4,a,2022,HUT_financial_statements_2022_consolidated,305,27,4,(1.812.165.288.740),Hao mòn lũy kế TSCĐ hữu hình cuối năm
+939,4,b,2022,HUT_financial_statements_2022_consolidated,305,26,4,7.484.988.382.760,Nguyên giá TSCĐ hữu hình cuối năm
+940,1,a,2019,SJG_financial_statements_2019_consolidated,362,6,4,374.436.040.648,Doanh thu tài chính trên báo cáo kết quả kinh doanh
+940,2,a,2020,SJG_financial_statements_2020_consolidated,389,6,4,217.131.860.091,Doanh thu tài chính trên báo cáo kết quả kinh doanh
+940,3,a,2021,SJG_financial_statements_2021_consolidated,358,6,4,227.472.182.555,Doanh thu tài chính trên báo cáo kết quả kinh doanh
+979,1,b,2022,POW_financial_statements_2022_consolidated,379,6,4,445.221.020.562,Doanh thu hoạt động tài chính trên báo cáo kết quả kinh doanh
+979,4,b,2022,GEG_financial_statements_2022_consolidated,300,6,3,213.920.427.160,Doanh thu hoạt động tài chính trên báo cáo kết quả kinh doanh
+988,2,a,2021,SJG_financial_statements_2021_consolidated,358,22,4,804,EPS trên báo cáo kết quả kinh doanh
+994,1,a,2019,QNS_financial_statements_2019_consolidated,413,9,4,785.326.185.604,Chi phí bán hàng trên báo cáo kết quả kinh doanh
+994,2,a,2020,QNS_financial_statements_2020_consolidated,476,9,3,654.113.883.340,Chi phí bán hàng trên báo cáo kết quả kinh doanh
+994,3,a,2021,QNS_financial_statements_2021_consolidated,501,9,4,693.932.847.200,Chi phí bán hàng trên báo cáo kết quả kinh doanh
+994,4,a,2022,QNS_financial_statements_2022_consolidated,461,9,4,868.297.002.640,Chi phí bán hàng trên báo cáo kết quả kinh doanh
+994,5,a,2023,QNS_financial_statements_2023_consolidated,585,9,4,805.491.960.579,Chi phí bán hàng trên báo cáo kết quả kinh doanh
+1011,2,a,2023,SSB_financial_statements_2023_separate,1632,7,1,274.352,Tiền vay bên liên quan tại Ngân hàng
+1011,3,a,2024,SSB_financial_statements_2024_separate,2138,26,1,4.300.000,Tiền vay bên liên quan tại Ngân hàng
+821,1,a,2017,OCB_financial_statements_2017_separate,1259,5,1,4.423.443.894.553,Dư nợ ngành kinh doanh bất động sản
+821,1,b,2017,OCB_financial_statements_2017_separate,1259,14,1,48.182.976.683.825,Tổng dư nợ cùng bảng phân tích theo ngành
+821,2,a,2020,OCB_financial_statements_2020_separate,1169,8,1,6.268.194.676.278,Dư nợ ngành kinh doanh bất động sản
+821,2,b,2020,OCB_financial_statements_2020_separate,1169,14,1,89.237.886.166.154,Tổng dư nợ cùng bảng phân tích theo ngành
+821,3,a,2024,OCB_financial_statements_2024_separate,1433,2,1,28.851.442.834.099,Dư nợ ngành kinh doanh bất động sản
+821,3,b,2024,OCB_financial_statements_2024_separate,1433,14,1,170.844.469.638.663,Tổng dư nợ cùng bảng phân tích theo ngành
+821,4,a,2025,OCB_financial_statements_2025_separate,1876,1,1,38.045.493.326.685,Dư nợ ngành kinh doanh bất động sản
+821,4,b,2025,OCB_financial_statements_2025_separate,1876,16,1,198.764.945.826.810,Tổng dư nợ cùng bảng phân tích theo ngành
+828,1,a,2017,ACB_financial_statements_2017_separate,296,15,3,(1.744.010),Tổng dự phòng rủi ro cho vay khách hàng
+828,1,b,2017,ACB_financial_statements_2017_separate,1660,3,1,314.038,Nợ nhóm 3
+828,1,c,2017,ACB_financial_statements_2017_separate,1660,4,1,275.371,Nợ nhóm 4
+828,1,d,2017,ACB_financial_statements_2017_separate,1660,5,1,782.874,Nợ nhóm 5
+828,2,a,2020,ACB_financial_statements_2020_separate,187,15,3,(2.820.771),Tổng dự phòng rủi ro cho vay khách hàng
+828,2,b,2020,ACB_financial_statements_2020_separate,1495,3,1,211.975,Nợ nhóm 3
+828,2,c,2020,ACB_financial_statements_2020_separate,1495,4,1,405.975,Nợ nhóm 4
+828,2,d,2020,ACB_financial_statements_2020_separate,1495,5,1,1.212.078,Nợ nhóm 5
+828,3,a,2021,ACB_financial_statements_2021_separate,219,14,3,(5.719.399),Tổng dự phòng rủi ro cho vay khách hàng
+828,3,b,2021,ACB_financial_statements_2021_separate,1862,3,1,533.281,Nợ nhóm 3
+828,3,c,2021,ACB_financial_statements_2021_separate,1862,4,1,869.171,Nợ nhóm 4
+828,3,d,2021,ACB_financial_statements_2021_separate,1862,5,1,1.370.768,Nợ nhóm 5
+828,4,a,2022,ACB_financial_statements_2022_separate,160,15,3,(4.711.430),Tổng dự phòng rủi ro cho vay khách hàng
+828,4,b,2022,ACB_financial_statements_2022_separate,1479,3,1,441.556,Nợ nhóm 3
+828,4,c,2022,ACB_financial_statements_2022_separate,1479,4,1,435.594,Nợ nhóm 4
+828,4,d,2022,ACB_financial_statements_2022_separate,1479,5,1,2.156.134,Nợ nhóm 5
+828,5,a,2024,ACB_financial_statements_2024_separate,158,14,3,(6.587.094),Tổng dự phòng rủi ro cho vay khách hàng
+828,5,b,2024,ACB_financial_statements_2024_separate,1561,3,1,917.308,Nợ nhóm 3
+828,5,c,2024,ACB_financial_statements_2024_separate,1561,4,1,962.977,Nợ nhóm 4
+828,5,d,2024,ACB_financial_statements_2024_separate,1561,5,1,6.735.014,Nợ nhóm 5
+839,1,a,2017,BSR_financial_statements_2017_consolidated,238,15,3,(96.412.876.496),Dự phòng giảm giá hàng tồn kho
+839,1,b,2017,BSR_financial_statements_2017_consolidated,238,14,3,8.139.311.457.689,Hàng tồn kho giá gốc
+839,2,a,2019,BSR_financial_statements_2019_consolidated,223,15,4,(20.033.774.981),Dự phòng giảm giá hàng tồn kho
+839,2,b,2019,BSR_financial_statements_2019_consolidated,223,14,4,8.535.271.500.226,Hàng tồn kho giá gốc
+839,3,a,2021,BSR_financial_statements_2021_consolidated,533,15,4,(18.489.988.587),Dự phòng giảm giá hàng tồn kho
+839,3,b,2021,BSR_financial_statements_2021_consolidated,533,14,4,10.376.585.353.744,Hàng tồn kho giá gốc
+839,4,a,2024,BSR_financial_statements_2024_consolidated,256,15,4,-,Dự phòng giảm giá hàng tồn kho không phát sinh theo ô nguồn
+839,4,b,2024,BSR_financial_statements_2024_consolidated,256,14,4,15.890.950.395.456,Hàng tồn kho giá gốc
+839,5,a,2025,BSR_financial_statements_2025_consolidated,368,13,4,(131.015.917.907),Dự phòng giảm giá hàng tồn kho
+839,5,b,2025,BSR_financial_statements_2025_consolidated,368,12,4,12.797.925.022.543,Hàng tồn kho giá gốc
+849,1,a,2018,SAB_financial_statements_2018_consolidated,1436,3,1,634.592.696.360,Chi phí khấu hao và phân bổ
+849,1,b,2018,SAB_financial_statements_2018_consolidated,1436,1,1,5.813.809.353.665,Chi phí nguyên vật liệu
+849,1,c,2018,SAB_financial_statements_2018_consolidated,1436,2,1,1.764.524.052.187,Chi phí nhân công
+849,1,d,2018,SAB_financial_statements_2018_consolidated,1436,4,1,3.299.307.255.808,Chi phí dịch vụ mua ngoài
+849,1,e,2018,SAB_financial_statements_2018_consolidated,1436,5,1,646.656.970.561,Chi phí khác
+849,2,a,2020,SAB_financial_statements_2020_consolidated,1559,3,1,593.451.595.931,Chi phí khấu hao và phân bổ
+849,2,b,2020,SAB_financial_statements_2020_consolidated,1559,1,1,5.367.647.284.900,Chi phí nguyên vật liệu
+849,2,c,2020,SAB_financial_statements_2020_consolidated,1559,2,1,1.507.607.536.510,Chi phí nhân công
+849,2,d,2020,SAB_financial_statements_2020_consolidated,1559,4,1,2.876.725.251.113,Chi phí dịch vụ mua ngoài
+849,2,e,2020,SAB_financial_statements_2020_consolidated,1559,5,1,542.196.698.775,Chi phí khác
+849,3,a,2024,SAB_financial_statements_2024_consolidated,1653,4,1,548.883.626.755,Chi phí khấu hao và phân bổ
+849,3,b,2024,SAB_financial_statements_2024_consolidated,1653,1,1,7.849.174.906.031,Chi phí nguyên vật liệu
+849,3,c,2024,SAB_financial_statements_2024_consolidated,1653,3,1,1.717.796.120.922,Chi phí nhân công
+849,3,d,2024,SAB_financial_statements_2024_consolidated,1653,2,1,3.878.645.958.871,Chi phí dịch vụ mua ngoài
+849,3,e,2024,SAB_financial_statements_2024_consolidated,1653,5,1,675.003.471.040,Chi phí khác
+849,4,a,2025,SAB_financial_statements_2025_consolidated,1852,4,1,730.272.467.434,Chi phí khấu hao và phân bổ
+849,4,b,2025,SAB_financial_statements_2025_consolidated,1852,1,1,9.392.816.124.244,Chi phí nguyên vật liệu
+849,4,c,2025,SAB_financial_statements_2025_consolidated,1852,3,1,1.952.113.865.896,Chi phí nhân công
+849,4,d,2025,SAB_financial_statements_2025_consolidated,1852,2,1,3.826.738.803.498,Chi phí dịch vụ mua ngoài
+849,4,e,2025,SAB_financial_statements_2025_consolidated,1852,5,1,783.554.386.906,Chi phí khác
+877,1,a,2023,HDB_financial_statements_2023_consolidated_2,1882,1,1,23.657.737,Chi phí lãi tiền gửi
+877,1,b,2023,HDB_financial_statements_2023_consolidated_2,1882,5,1,30.456.603,Tổng chi phí lãi cùng bảng
+877,2,a,2024,HDB_financial_statements_2024_consolidated,1871,1,1,20.578.179,Chi phí lãi tiền gửi
+877,2,b,2024,HDB_financial_statements_2024_consolidated,1871,5,1,27.138.452,Tổng chi phí lãi cùng bảng
+877,3,a,2025,HDB_financial_statements_2025_consolidated,1882,2,1,26.150.925,Chi phí lãi tiền gửi
+877,3,b,2025,HDB_financial_statements_2025_consolidated,1882,6,1,33.246.226,Tổng chi phí lãi cùng bảng
+882,1,a,2017,NLG_financial_statements_2017_consolidated,1435,1,1,14.492.892.666,Tiền thuê tương lai phải thu dưới một năm
+882,1,b,2017,NLG_financial_statements_2017_consolidated,1435,4,1,35.769.397.806,Tổng tiền thuê tương lai phải thu
+882,2,a,2017,VIC_financial_statements_2017_consolidated,2324,2,1,2.704.061.603.249,Tiền thuê tương lai phải thu đến một năm
+882,2,b,2017,VIC_financial_statements_2017_consolidated,2324,5,1,13.235.439.236.527,Tổng tiền thuê tương lai phải thu
+882,3,a,2017,DIG_financial_statements_2017_consolidated,1726,1,1,3.374.235.992,Tiền thuê tương lai phải thu dưới một năm
+882,3,b,2017,DIG_financial_statements_2017_consolidated,1726,4,1,139.749.577.356,Tổng tiền thuê tương lai phải thu
+882,4,a,2017,SNZ_financial_statements_2017_consolidated,2269,1,1,378.918.853.419,Tiền thuê tương lai phải thu dưới một năm
+882,4,b,2017,SNZ_financial_statements_2017_consolidated,2269,4,1,7.156.738.806.762,Tổng tiền thuê tương lai phải thu
+885,1,a,2021,STB_financial_statements_2021_consolidated,1756,2,1,1.822.241,Chứng chỉ tiền gửi dưới 12 tháng
+885,1,b,2021,STB_financial_statements_2021_consolidated,1756,3,1,5.903.855,Chứng chỉ tiền gửi từ 12 tháng đến dưới 5 năm
+885,1,c,2021,STB_financial_statements_2021_consolidated,1756,4,1,13.377.683,Chứng chỉ tiền gửi từ 5 năm trở lên
+885,2,a,2022,STB_financial_statements_2022_consolidated,1815,2,1,304.654,Chứng chỉ tiền gửi dưới 12 tháng
+885,2,b,2022,STB_financial_statements_2022_consolidated,1815,3,1,4.849.570,Chứng chỉ tiền gửi từ 12 tháng đến dưới 5 năm
+885,2,c,2022,STB_financial_statements_2022_consolidated,1815,4,1,13.366.083,Chứng chỉ tiền gửi từ 5 năm trở lên
+885,3,a,2025,STB_financial_statements_2025_consolidated,2080,2,1,523.859,Chứng chỉ tiền gửi dưới 12 tháng
+885,3,b,2025,STB_financial_statements_2025_consolidated,2080,3,1,25.610.061,Chứng chỉ tiền gửi từ 12 tháng đến dưới 5 năm
+885,3,c,2025,STB_financial_statements_2025_consolidated,2080,4,1,8.050.784,Chứng chỉ tiền gửi từ 5 năm trở lên
+955,1,a,2019,ACB_financial_statements_2019_separate,2388,1,1,143.115.446,Cho vay ngắn hạn
+955,1,b,2019,ACB_financial_statements_2019_separate,2388,4,1,265.981.486,Tổng dư nợ cùng bảng kỳ hạn
+955,2,a,2019,MBB_financial_statements_2019_separate,1189,1,1,117.047.164,Cho vay ngắn hạn
+955,2,b,2019,MBB_financial_statements_2019_separate,1189,4,1,239.082.993,Tổng dư nợ cùng bảng kỳ hạn
+955,3,a,2019,BID_financial_statements_2019_separate,1010,1,1,683.290.512,Cho vay ngắn hạn
+955,3,b,2019,BID_financial_statements_2019_separate,1010,4,1,1.081.556.050,Tổng dư nợ cùng bảng kỳ hạn
+955,4,a,2019,STB_financial_statements_2019_separate,1218,1,1,151.947.082,Cho vay ngắn hạn
+955,4,b,2019,STB_financial_statements_2019_separate,1218,4,1,288.265.973,Tổng dư nợ cùng bảng kỳ hạn
+873,1,a,2017,DXG_financial_statements_2017_consolidated,1556,4,1,249.899.843.281,Tổng chi phí thuế thu nhập doanh nghiệp
+873,2,a,2018,DXG_financial_statements_2018_consolidated,1722,2,1,378.989.749.511,Tổng chi phí thuế thu nhập doanh nghiệp
+873,3,a,2021,DXG_financial_statements_2021_consolidated,1743,4,1,920.963.012.980,Tổng chi phí thuế thu nhập doanh nghiệp
+873,4,a,2023,DXG_financial_statements_2023_consolidated,1925,4,1,302.913.039.209,Tổng chi phí thuế thu nhập doanh nghiệp
+873,5,a,2025,DXG_financial_statements_2025_consolidated,2247,4,1,129.585.473.059,Tổng chi phí thuế thu nhập doanh nghiệp
+912,1,a,2022,VIF_financial_statements_2022_separate,1675,10,2,11.453.874.342,Tổng thu nhập HĐQT và Ban Tổng Giám đốc
+912,2,a,2024,VIF_financial_statements_2024_separate,1772,12,2,8.829.704.230,Tổng thu nhập HĐQT và Ban Tổng Giám đốc
+912,3,a,2025,VIF_financial_statements_2025_separate,1949,11,2,10.156.401.300,Tổng thu nhập HĐQT và Ban Tổng Giám đốc
+950,1,a,2019,VRE_financial_statements_2019_separate,1374,4,1,201.798,Bảng giao dịch bên liên quan phần 1
+950,1,b,2019,VRE_financial_statements_2019_separate,1389,3,1,2.827,Bảng giao dịch bên liên quan phần 2
+950,1,c,2019,VRE_financial_statements_2019_separate,1404,3,1,1.020.000,Bảng giao dịch bên liên quan phần 3
+950,2,a,2020,VRE_financial_statements_2020_separate,1368,9,1,239.365,Bảng giao dịch bên liên quan phần 1
+950,2,b,2020,VRE_financial_statements_2020_separate,1389,3,1,159.612,Bảng giao dịch bên liên quan phần 2
+950,2,c,2020,VRE_financial_statements_2020_separate,1406,4,1,550.294,Bảng giao dịch bên liên quan phần 3
+950,3,a,2021,VRE_financial_statements_2021_separate,1274,4,1,209.514,Bảng giao dịch bên liên quan phần 1
+950,3,b,2021,VRE_financial_statements_2021_separate,1289,4,1,295.000,Bảng giao dịch bên liên quan phần 2
+950,4,a,2022,VRE_financial_statements_2022_separate,1396,4,1,155.982,Bảng giao dịch bên liên quan phần 1
+950,4,b,2022,VRE_financial_statements_2022_separate,1411,6,1,3.600,Bảng giao dịch bên liên quan phần 2
+950,4,c,2022,VRE_financial_statements_2022_separate,1428,7,1,880,Bảng giao dịch bên liên quan phần 3
+995,1,a,2017,HAG_financial_statements_2017_consolidated,2196,8,3,641.674.018,Tổng phải thu ngắn hạn khách hàng bên liên quan
+995,1,b,2017,HAG_financial_statements_2017_consolidated,2221,5,3,412.870.972,Tổng trả trước người bán bên liên quan
+995,1,c,2017,HAG_financial_statements_2017_consolidated,2246,15,3,3.754.961.320,Tổng phải thu cho vay ngắn hạn bên liên quan
+995,1,d,2017,HAG_financial_statements_2017_consolidated,2269,21,3,558.864.605,Tổng phải thu ngắn hạn khác bên liên quan
+995,1,e,2017,HAG_financial_statements_2017_consolidated,2313,10,3,7.512.960.946,Tổng phải thu cho vay dài hạn bên liên quan
+995,1,f,2017,HAG_financial_statements_2017_consolidated,2357,6,3,890.477.069,Tổng phải thu dài hạn khác bên liên quan
+995,1,g,2017,HAG_financial_statements_2017_consolidated,2380,7,3,(279.061.680),Tổng phải trả người bán bên liên quan
+995,1,h,2017,HAG_financial_statements_2017_consolidated,2380,12,3,(324.103.992),Tổng người mua trả trước bên liên quan
+995,1,i,2017,HAG_financial_statements_2017_consolidated,2418,5,3,(2.144.930.519),Tổng phải trả ngắn hạn khác bên liên quan
+995,1,j,2017,HAG_financial_statements_2017_consolidated,2418,9,3,(550.077.566),Tổng phải trả dài hạn khác bên liên quan
+995,1,k,2017,HAG_financial_statements_2017_consolidated,2418,14,3,(317.914.300),Tổng vay bên liên quan
+995,2,a,2018,HAG_financial_statements_2018_consolidated,4295,10,3,307.145.551,Tổng phải thu ngắn hạn khách hàng bên liên quan
+995,2,b,2018,HAG_financial_statements_2018_consolidated,4324,5,3,33.621.109,Tổng trả trước người bán bên liên quan
+995,2,c,2018,HAG_financial_statements_2018_consolidated,4347,14,3,633.710.952,Tổng phải thu cho vay ngắn hạn bên liên quan
+995,2,d,2018,HAG_financial_statements_2018_consolidated,4372,17,3,457.258.949,Tổng phải thu ngắn hạn khác bên liên quan
+995,2,e,2018,HAG_financial_statements_2018_consolidated,4424,6,3,6.130.524.711,Tổng phải thu cho vay dài hạn bên liên quan
+995,2,f,2018,HAG_financial_statements_2018_consolidated,4472,6,3,329.540.303,Tổng phải thu dài hạn khác bên liên quan
+995,2,g,2018,HAG_financial_statements_2018_consolidated,4499,9,3,37.850.378,Tổng phải trả người bán bên liên quan
+995,2,h,2018,HAG_financial_statements_2018_consolidated,4549,11,3,202.914.128,Tổng phải trả ngắn hạn khác bên liên quan
+995,2,i,2018,HAG_financial_statements_2018_consolidated,4549,19,3,844.725.774,Tổng phải trả dài hạn khác bên liên quan
+995,2,j,2018,HAG_financial_statements_2018_consolidated,4570,10,3,612.995.000,Tổng vay bên liên quan
+995,3,a,2019,HAG_financial_statements_2019_consolidated,2756,8,3,99.460.182,Tổng phải thu ngắn hạn khách hàng bên liên quan
+995,3,b,2019,HAG_financial_statements_2019_consolidated,2781,4,3,2.299.803,Tổng trả trước người bán bên liên quan
+995,3,c,2019,HAG_financial_statements_2019_consolidated,2806,9,3,2.052.173.055,Tổng phải thu cho vay ngắn hạn bên liên quan
+995,3,d,2019,HAG_financial_statements_2019_consolidated,2831,7,3,268.744.714,Tổng phải thu ngắn hạn khác bên liên quan
+995,3,e,2019,HAG_financial_statements_2019_consolidated,2856,6,3,7.453.259.203,Tổng phải thu cho vay dài hạn bên liên quan
+995,3,f,2019,HAG_financial_statements_2019_consolidated,2881,4,3,734.688.234,Tổng phải thu dài hạn khác bên liên quan
+995,3,g,2019,HAG_financial_statements_2019_consolidated,2904,8,3,75.636.870,Tổng phải trả người bán bên liên quan
+995,3,h,2019,HAG_financial_statements_2019_consolidated,2923,15,3,275.123.017,Tổng phải trả ngắn hạn khác bên liên quan
+995,3,i,2019,HAG_financial_statements_2019_consolidated,2944,8,3,285.000.000,Tổng phải trả dài hạn khác bên liên quan
+1006,1,a,2025,NAB_financial_statements_2025_separate,2049,7,1,28,Thu nhập bình quân tháng nhân viên
+1006,2,a,2025,ABB_financial_statements_2025_separate,2176,8,1,"34,51",Thu nhập bình quân tháng nhân viên
+1006,3,a,2025,ACB_financial_statements_2025_separate,2113,7,1,453,Thu nhập bình quân năm nhân viên
+1006,4,a,2025,STB_financial_statements_2025_separate,2327,6,1,"35,99",Thu nhập bình quân tháng nhân viên
+862,1,a,2016,SCR_financial_statements_2016_consolidated,164,7,3,40.408.678.718,Chi phí tài chính trên báo cáo kết quả kinh doanh
+862,2,a,2016,DIG_financial_statements_2016_consolidated,1932,5,5,(51.666.905.016),Chi phí tài chính tổng cộng theo bộ phận
+862,3,a,2016,DXG_financial_statements_2016_consolidated,1697,8,5,(32.702.590.722),Chi phí tài chính tổng cộng theo khu vực
+862,4,a,2016,KBC_financial_statements_2016_consolidated,276,7,3,(99.196.167.198),Chi phí tài chính trên báo cáo kết quả kinh doanh
+862,5,a,2016,IJC_financial_statements_2016_consolidated,360,7,4,116.193.940.262,Chi phí tài chính trên báo cáo kết quả kinh doanh
+871,1,a,2019,MPC_financial_statements_2019_consolidated,1534,2,1,(1.477.919.227),Phân bổ vào quỹ khen thưởng phúc lợi
+871,2,a,2022,MPC_financial_statements_2022_consolidated,1660,2,1,(41.129.842.010),Phân bổ vào quỹ khen thưởng phúc lợi
+871,3,a,2023,MPC_financial_statements_2023_consolidated,1393,2,1,25.688.629.546,Trích lập quỹ trong năm
+871,4,a,2024,MPC_financial_statements_2024_consolidated,1421,2,1,38.776.065.470,Trích lập quỹ trong năm
+892,1,a,2015,HAG_financial_statements_2015_consolidated,2458,16,2,2.313.976.917,Doanh thu khách hàng bên ngoài tại Lào
+892,1,b,2015,HAG_financial_statements_2015_consolidated,2458,16,6,6.252.446.533,Tổng doanh thu khách hàng bên ngoài
+892,2,a,2016,HAG_financial_statements_2016_consolidated,2448,16,2,2.506.968.190,Doanh thu khách hàng bên ngoài tại Lào
+892,2,b,2016,HAG_financial_statements_2016_consolidated,2448,16,6,6.439.779.268,Tổng doanh thu khách hàng bên ngoài
+892,3,a,2017,HAG_financial_statements_2017_consolidated,2619,14,2,1.331.396.451,Doanh thu khách hàng bên ngoài tại Lào
+892,3,b,2017,HAG_financial_statements_2017_consolidated,2619,14,6,4.841.225.074,Tổng doanh thu khách hàng bên ngoài
+892,4,a,2022,HAG_financial_statements_2022_consolidated,2449,13,2,677.685.411,Doanh thu khách hàng bên ngoài tại Lào
+892,4,b,2022,HAG_financial_statements_2022_consolidated,2449,13,5,5.110.781.887,Tổng doanh thu khách hàng bên ngoài
+894,1,a,2018,VCB_financial_statements_2018_separate,280,9,3,(2.496.616),Thuế thu nhập doanh nghiệp thực nộp trong năm
+894,2,a,2020,VCB_financial_statements_2020_separate,317,9,2,(4.588.766),Thuế thu nhập doanh nghiệp thực nộp trong năm
+894,3,a,2021,VCB_financial_statements_2021_separate,320,9,2,(5.708.091),Thuế thu nhập doanh nghiệp thực nộp trong năm
+894,4,a,2022,VCB_financial_statements_2022_separate,320,9,2,(3.820.917),Thuế thu nhập doanh nghiệp thực nộp trong năm
+894,5,a,2025,VCB_financial_statements_2025_separate,340,9,2,(9.035.721),Thuế thu nhập doanh nghiệp thực nộp trong năm
+895,1,a,2015,VIC_financial_statements_2015_consolidated,2605,5,1,5.926.525.506.110,Tổng tiền thuê tối thiểu phải nhận
+895,2,a,2019,VIC_financial_statements_2019_consolidated,2286,5,1,22.012.268,Tổng tiền thuê tối thiểu phải nhận
+895,3,a,2022,VIC_financial_statements_2022_consolidated,2432,5,1,23.885.078,Tổng tiền thuê tối thiểu phải nhận
+895,4,a,2025,VIC_financial_statements_2025_consolidated,2862,5,1,8.025.973,Tổng tiền thuê tối thiểu phải nhận
+905,1,a,2020,VIC_financial_statements_2020_consolidated,1947,5,1,31.068.411,Tổng doanh thu hoạt động tài chính
+905,2,a,2021,VIC_financial_statements_2021_consolidated,2013,6,1,16.045.903,Tổng doanh thu hoạt động tài chính
+905,3,a,2023,VIC_financial_statements_2023_consolidated,2242,6,1,20.502.485,Tổng doanh thu hoạt động tài chính
+905,4,a,2025,VIC_financial_statements_2025_consolidated,2378,5,1,50.463.250,Tổng doanh thu hoạt động tài chính
+981,1,a,2017,BSR_financial_statements_2017_consolidated,1102,5,1,5.697.895.452.596,Doanh thu sản phẩm LPG
+981,2,a,2019,BSR_financial_statements_2019_consolidated,1021,6,1,5.983.079.101.866,Doanh thu sản phẩm LPG
+981,3,a,2021,BSR_financial_statements_2021_consolidated,1773,5,1,7.942.513.069.668,Doanh thu sản phẩm LPG
+981,4,a,2022,BSR_financial_statements_2022_consolidated,1284,6,1,9.292.539.523.199,Doanh thu sản phẩm LPG
+981,5,a,2025,BSR_financial_statements_2025_consolidated,1334,7,1,7.646.974.909.812,Doanh thu sản phẩm LPG
+986,1,a,2016,HAG_financial_statements_2016_separate,281,16,3,(8.142.646),Chi phí thuế TNDN hiện hành
+986,2,a,2017,HAG_financial_statements_2017_separate,262,14,3,(912.141),Chi phí thuế TNDN hiện hành
+986,3,a,2024,HAG_financial_statements_2024_separate,326,14,3,(37.670),Chi phí thuế TNDN hiện hành
+986,4,a,2025,HAG_financial_statements_2025_separate,303,14,3,,Chi phí thuế TNDN hiện hành không phát sinh theo ô nguồn để trống
+854,1,a,2020,NLG_financial_statements_2020_consolidated,216,8,3,6.698.604.900,Doanh thu chưa thực hiện ngắn hạn cuối năm 2020
+854,1,b,2020,NLG_financial_statements_2020_consolidated,216,14,3,757.276.989.590,Doanh thu chưa thực hiện dài hạn cuối năm 2020
+854,2,a,2021,NLG_financial_statements_2021_consolidated,247,8,3,7.186.302.603,Doanh thu chưa thực hiện ngắn hạn cuối năm 2021
+854,2,b,2021,NLG_financial_statements_2021_consolidated,247,14,3,285.093.422.869,Doanh thu chưa thực hiện dài hạn cuối năm 2021
+854,3,a,2023,NLG_financial_statements_2023_consolidated,240,8,3,7.589.982.574,Doanh thu chưa thực hiện ngắn hạn cuối năm 2023
+854,3,b,2023,NLG_financial_statements_2023_consolidated,240,14,3,259.701.132.847,Doanh thu chưa thực hiện dài hạn cuối năm 2023
+918,1,a,2024,ABB_financial_statements_2024_separate,205,5,3,1.634.376,Cam kết trong nghiệp vụ thư tín dụng tại chỉ tiêu ngoài bảng cân đối riêng
+918,2,a,2024,SSB_financial_statements_2024_separate,273,6,3,2.228.158,Cam kết trong nghiệp vụ L/C thuần tại chỉ tiêu ngoài bảng cân đối riêng
+918,3,a,2024,BID_financial_statements_2024_separate,388,7,3,62.109.504,Cam kết trong nghiệp vụ L/C tại chỉ tiêu ngoài bảng cân đối riêng
+918,4,a,2024,MBB_financial_statements_2024_separate,374,7,2,29.138.440,Cam kết trong nghiệp vụ L/C tại chỉ tiêu ngoài bảng cân đối riêng
+968,1,a,2017,POW_financial_statements_2017_separate,935,2,1,12.950.216.434.336,Vay dài hạn bằng USD cuối năm 2017
+968,1,b,2017,POW_financial_statements_2017_separate,935,4,1,15.661.786.300.389,Tổng vay dài hạn cuối năm 2017 cùng bảng phân loại tiền tệ
+968,2,a,2019,POW_financial_statements_2019_separate,986,2,1,5.707.365.539.513,Vay dài hạn bằng USD cuối năm 2019
+968,2,b,2019,POW_financial_statements_2019_separate,986,4,1,7.921.256.591.629,Tổng vay dài hạn cuối năm 2019 cùng bảng phân loại tiền tệ
+968,3,a,2022,POW_financial_statements_2022_separate,1029,2,1,516.770.814.702,Vay dài hạn bằng USD cuối năm 2022
+968,3,b,2022,POW_financial_statements_2022_separate,1029,4,1,1.984.143.645.915,Tổng vay dài hạn cuối năm 2022 cùng bảng phân loại tiền tệ
+968,4,a,2023,POW_financial_statements_2023_separate,1120,2,1,2.543.730.418.101,Vay dài hạn bằng USD cuối năm 2023
+968,4,b,2023,POW_financial_statements_2023_separate,1120,4,1,5.987.879.090.875,Tổng vay dài hạn cuối năm 2023 cùng bảng phân loại tiền tệ
+968,5,a,2024,POW_financial_statements_2024_separate,1066,2,1,4.928.718.355.610,Vay dài hạn bằng USD cuối năm 2024
+968,5,b,2024,POW_financial_statements_2024_separate,1066,4,1,8.356.636.117.641,Tổng vay dài hạn cuối năm 2024 cùng bảng phân loại tiền tệ
+970,1,a,2015,ACB_financial_statements_2015_consolidated,2941,14,4,1.641.434,Quỹ dự phòng tài chính cuối năm 2015 trong bảng biến động vốn chủ sở hữu
+970,2,a,2021,ACB_financial_statements_2021_consolidated,2369,12,5,4.744.306,Quỹ dự phòng tài chính cuối năm 2021 trong bảng biến động vốn chủ sở hữu
+970,3,a,2023,ACB_financial_statements_2023_consolidated,2040,14,4,7.660.332,Quỹ dự phòng tài chính cuối năm 2023 trong bảng biến động vốn chủ sở hữu
+970,4,a,2025,ACB_financial_statements_2025_consolidated,2183,13,4,10.575.595,Quỹ dự phòng tài chính cuối năm 2025 trong bảng biến động vốn chủ sở hữu
+974,1,a,2022,CTG_financial_statements_2022_consolidated,1750,5,1,105.915.412,Tổng tài sản và chứng từ khác giữ hộ bảo quản cuối năm 2022
+974,2,a,2023,CTG_financial_statements_2023_consolidated,1750,6,1,91.656.083,Tổng tài sản và chứng từ khác giữ hộ bảo quản cuối năm 2023
+974,3,a,2024,CTG_financial_statements_2024_consolidated,1738,6,1,132.970.869,Tổng tài sản và chứng từ khác giữ hộ bảo quản cuối năm 2024
+974,4,a,2025,CTG_financial_statements_2025_consolidated,2919,5,1,95.027.390,Tổng tài sản và chứng từ khác giữ hộ bảo quản cuối năm 2025
+846,1,a,2020,HDG_financial_statements_2020_separate,241,5,3,(80.866.050.914),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2020 công ty mẹ
+846,1,b,2020,HDG_financial_statements_2020_separate,241,4,3,344.631.427.264,Nguyên giá TSCĐ hữu hình cuối năm 2020 công ty mẹ
+846,2,a,2021,HDG_financial_statements_2021_separate,223,7,3,(95.773.752.404),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2021 công ty mẹ
+846,2,b,2021,HDG_financial_statements_2021_separate,223,6,3,343.518.052.309,Nguyên giá TSCĐ hữu hình cuối năm 2021 công ty mẹ
+846,3,a,2022,HDG_financial_statements_2022_separate,244,7,3,(111.722.134.459),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2022 công ty mẹ
+846,3,b,2022,HDG_financial_statements_2022_separate,244,6,3,343.518.052.309,Nguyên giá TSCĐ hữu hình cuối năm 2022 công ty mẹ
+846,4,a,2023,HDG_financial_statements_2023_separate,240,9,3,(127.661.941.533),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2023 công ty mẹ
+846,4,b,2023,HDG_financial_statements_2023_separate,240,8,3,344.018.052.309,Nguyên giá TSCĐ hữu hình cuối năm 2023 công ty mẹ
+846,5,a,2025,HDG_financial_statements_2025_separate,268,9,3,(155.541.193.868),Giá trị khấu hao lũy kế TSCĐ hữu hình cuối năm 2025 công ty mẹ
+846,5,b,2025,HDG_financial_statements_2025_separate,268,8,3,344.596.121.939,Nguyên giá TSCĐ hữu hình cuối năm 2025 công ty mẹ
+881,1,a,2016,HND_financial_statements_2016,127,19,3,(8.001.667.854.893),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2016
+881,2,a,2018,HND_financial_statements_2018,122,18,3,(11.731.433.309.660),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2018
+881,3,a,2019,HND_financial_statements_2019,214,19,3,(13.520.488.721.292),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2019
+881,4,a,2020,HND_financial_statements_2020,208,20,3,(15.298.798.199.853),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2020
+881,5,a,2021,HND_financial_statements_2021,205,22,3,(16.599.466.811.506),Giá trị hao mòn lũy kế TSCĐ hữu hình cuối năm 2021
+941,1,a,2017,NLG_financial_statements_2017_separate,961,10,1,130.863.796.545,Phải trả ngắn hạn khác với bên liên quan cuối năm 2017 công ty mẹ
+941,2,a,2018,NLG_financial_statements_2018_separate,1071,11,1,208.863.028.787,Phải trả ngắn hạn khác với bên liên quan cuối năm 2018 công ty mẹ
+941,3,a,2021,NLG_financial_statements_2021_separate,984,10,1,1.150.344.202.519,Phải trả ngắn hạn khác với bên liên quan cuối năm 2021 công ty mẹ
+941,4,a,2025,NLG_financial_statements_2025_separate,1079,8,1,523.787.255.020,Phải trả ngắn hạn khác với bên liên quan cuối năm 2025 công ty mẹ
+1008,2,a,2021,SSH_financial_statements_2021_separate,1128,2,2,61.614.783.673,Tổng doanh thu cung cấp dịch vụ cho các bên liên quan năm 2021 công ty mẹ
+823,1,a,2019,HSG_financial_statements_2019_consolidated,1168,14,7,(4.092.340.379),Trích quỹ khen thưởng phúc lợi trong năm tài chính 2019
+823,2,a,2021,HSG_financial_statements_2021_consolidated,1227,6,7,(46.120.560.692),Trích quỹ khen thưởng phúc lợi trong năm tài chính 2021
+823,3,a,2024,HSG_financial_statements_2024_consolidated,1020,10,6,(18.103.097.086),Trích quỹ khen thưởng phúc lợi trong năm tài chính 2024
+823,4,a,2025,HSG_financial_statements_2025_consolidated,1028,11,6,(18.604.251.306),Trích quỹ khen thưởng phúc lợi trong năm tài chính 2025
+860,1,a,2017,OGC_financial_statements_2017_consolidated,537,15,3,26.374.755.718,Chi phí khác trên báo cáo kết quả kinh doanh năm 2017
+860,2,a,2022,OGC_financial_statements_2022_consolidated,326,14,4,14.990.510.425,Chi phí khác trên báo cáo kết quả kinh doanh năm 2022
+860,3,a,2023,OGC_financial_statements_2023_consolidated,324,14,4,35.782.837.103,Chi phí khác trên báo cáo kết quả kinh doanh năm 2023
+901,1,a,2016,KLB_financial_statements_2016_separate,1600,17,4,729.864,Tổng giá trị còn lại TSCĐ vô hình cuối năm 2016
+901,2,a,2017,KLB_financial_statements_2017_separate,1420,14,4,711.549,Tổng giá trị còn lại TSCĐ vô hình cuối năm 2017
+901,3,a,2018,KLB_financial_statements_2018_separate,1501,14,4,705.602,Tổng giá trị còn lại TSCĐ vô hình cuối năm 2018
+901,4,a,2019,KLB_financial_statements_2019_separate,1394,16,4,718.399,Tổng giá trị còn lại TSCĐ vô hình cuối năm 2019
+901,5,a,2020,KLB_financial_statements_2020_separate,1399,14,4,711.902,Tổng giá trị còn lại TSCĐ vô hình cuối năm 2020
+861,1,a,2015,OGC_financial_statements_2015_consolidated,2397,8,1,299.999.999,Cổ phiếu phổ thông đang lưu hành cuối năm 2015
+861,2,a,2015,VNM_financial_statements_2015_consolidated,1371,8,1,1.200.139.398,Cổ phiếu phổ thông đang lưu hành cuối năm 2015
+861,3,a,2015,HNG_financial_statements_2015_consolidated,1551,7,1,708.143.895,Cổ phiếu phổ thông đang lưu hành cuối năm 2015
+822,1,a,2016,ASM_financial_statements_2016_separate,366,12,3,3.188.673.987,Thu nhập khác trên báo cáo kết quả kinh doanh riêng năm 2016
+1003,1,a,2015,MSR_financial_statements_2015_separate,271,19,4,(417.067.012),Lưu chuyển tiền thuần từ hoạt động kinh doanh cột Công ty năm 2015
+923,1,a,2016,OGC_financial_statements_2016_consolidated,2105,3,1,239.080.080.571,Chi phí nhân công theo yếu tố năm 2016
+923,2,a,2017,OGC_financial_statements_2017_consolidated,2054,3,1,261.585.083.957,Chi phí nhân công theo yếu tố năm 2017
+923,3,a,2018,OGC_financial_statements_2018_consolidated,2266,3,1,287.946.510.328,Chi phí nhân công theo yếu tố năm 2018
+923,4,a,2019,OGC_financial_statements_2019_consolidated,2087,3,1,314.060.717.471,Chi phí nhân công theo yếu tố năm 2019
+992,1,a,2022,VPB_financial_statements_2022_consolidated,226,28,2,(1.514.429),Hao mòn lũy kế TSCĐ hữu hình cuối năm 2022
+992,2,a,2022,SHB_financial_statements_2022_consolidated,287,25,3,(784.295),Hao mòn lũy kế TSCĐ hữu hình cuối năm 2022
+992,2,b,2022,SHB_financial_statements_2022_consolidated,287,24,3,1.287.149,Nguyên giá TSCĐ hữu hình cuối năm 2022
+992,3,a,2022,MBB_financial_statements_2022_consolidated,344,28,2,(3.653.001),Hao mòn lũy kế TSCĐ hữu hình cuối năm 2022
+817,1,a,2015,HPG_financial_statements_2015_separate,807,8,1,13.765.062.289,Khấu hao nhà cửa trong năm 2015
+817,2,a,2019,HPG_financial_statements_2019_separate,778,5,1,14.491.457.532,Khấu hao nhà cửa trong năm 2019
+817,3,a,2022,HPG_financial_statements_2022_separate,691,5,1,14.647.724.280,Khấu hao nhà cửa trong năm 2022
+817,4,a,2023,HPG_financial_statements_2023_separate,739,7,1,14.495.039.243,Khấu hao nhà cửa trong năm 2023
+817,5,a,2024,HPG_financial_statements_2024_separate,693,5,1,12.961.352.808,Khấu hao nhà cửa trong năm 2024
+906,2,a,2017,VGT_financial_statements_2017_separate,184,6,3,1.189.563.447.563,TSCĐ hữu hình công ty mẹ cuối năm 2017
+977,3,a,2017,MSR_financial_statements_2017_separate,167,12,5,541.074.175,Nợ dài hạn cột Công ty cuối năm 2017
+977,3,b,2017,MSR_financial_statements_2017_separate,167,18,5,9.443.792.507,Vốn chủ sở hữu cột Công ty cuối năm 2017
+948,1,a,2017,PLX_financial_statements_2017_consolidated,193,18,3,777.729.469.586,Xây dựng cơ bản dở dang cuối kỳ trên bảng cân đối kế toán hợp nhất 2017
+948,2,a,2018,PLX_financial_statements_2018_consolidated,152,18,3,875.013.410.257,Xây dựng cơ bản dở dang cuối kỳ trên bảng cân đối kế toán hợp nhất 2018
+948,3,a,2019,PLX_financial_statements_2019_consolidated,210,17,3,989.693.974.370,Xây dựng cơ bản dở dang cuối kỳ trên bảng cân đối kế toán hợp nhất 2019
+948,4,a,2023,PLX_financial_statements_2023_consolidated,210,17,3,919.552.879.504,Xây dựng cơ bản dở dang cuối kỳ trên bảng cân đối kế toán hợp nhất 2023
+948,5,a,2024,PLX_financial_statements_2024_consolidated,158,17,3,1.445.555.813.867,Xây dựng cơ bản dở dang cuối kỳ trên bảng cân đối kế toán hợp nhất 2024
+973,3,a,2022,MSR_financial_statements_2022_separate,354,11,3,(259.020.090),Lưu chuyển tiền thuần từ hoạt động kinh doanh công ty mẹ MSR năm 2022
+868,3,a,2018,VCB_financial_statements_2018_consolidated,229,2,3,(3.648.356),Chi phí thuế thu nhập doanh nghiệp hiện hành năm 2018
+868,4,a,2022,VCB_financial_statements_2022_consolidated,272,2,3,(8.406.860),Chi phí thuế thu nhập doanh nghiệp hiện hành năm 2022
+868,5,a,2023,VCB_financial_statements_2023_consolidated,243,2,3,(8.079.401),Chi phí thuế thu nhập doanh nghiệp hiện hành năm 2023
+875,1,a,2016,STB_financial_statements_2016_separate,197,39,2,329.187.491,Tổng tài sản cuối năm trên bảng cân đối kế toán riêng 2016
+875,2,a,2017,STB_financial_statements_2017_separate,209,39,2,364.016.293,Tổng tài sản cuối năm trên bảng cân đối kế toán riêng 2017
+875,3,a,2022,STB_financial_statements_2022_separate,201,35,2,587.216.341,Tổng tài sản cuối năm trên bảng cân đối kế toán riêng 2022
+875,4,a,2025,STB_financial_statements_2025_separate,139,33,3,908.632.552,Tổng tài sản cuối năm trên bảng cân đối kế toán riêng 2025
+917,2,a,2017,VJC_financial_statements_2017_separate,138,4,3,593.067.305.745,Phải trả người bán ngắn hạn cuối năm 2017 của công ty mẹ VJC
+917,3,a,2017,ACV_financial_statements_2017_separate,246,3,3,1.133.590.882.595,Phải trả người bán ngắn hạn cuối năm 2017 của công ty mẹ ACV
+829,2,a,2017,TTF_financial_statements_2017_consolidated,272,15,3,(14.555.567.878),Lỗ khác năm 2017 trên báo cáo kết quả kinh doanh hợp nhất; không dùng báo cáo riêng
+915,3,a,2016,HAG_financial_statements_2016_separate,1331,6,1,1.433.862.140,Tổng chi phí tài chính công ty mẹ HAG năm 2016; không dùng số liệu bộ phận hợp nhất
+896,1,a,2018,TTF_financial_statements_2018_separate,1139,4,1,-,Vay bên liên quan ngắn hạn không phát sinh theo ô nguồn
+910,5,a,2025,DBC_financial_statements_2025_separate,1017,9,1,-,Hàng hóa tồn kho không phát sinh theo ô nguồn
+1011,1,a,2021,SSB_financial_statements_2021_separate,3114,7,1,-,Tiền vay tại Ngân hàng không phát sinh theo ô nguồn

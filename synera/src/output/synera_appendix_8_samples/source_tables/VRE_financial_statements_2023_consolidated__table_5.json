@@ -1,0 +1,144 @@
+{
+  "doc_id": "VRE_financial_statements_2023_consolidated",
+  "document_sha256": "bc1a9e8e1784865a989f66c2b3b35a80c93fb4398b80964650ad132befbb22fd",
+  "table_id_internal": 5,
+  "physical_line_one_based": 271,
+  "html_sha256": "be2da0b2262b2e061417322684ef8889c124c03cd41fe3a9f55d055e0c2588d9",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2023Triệu VND</td><td>1/1/2023Triệu VND</td></tr><tr><td colspan=\"5\">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>9.826.878</td><td>9.276.398</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>6.244.864</td><td>5.819.458</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>20</td><td>448.115</td><td>724.826</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>21</td><td>314.342</td><td>1.215.154</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>22</td><td>1.495.742</td><td>832.693</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>279</td><td>-</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>23</td><td>973.708</td><td>726.984</td></tr><tr><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td>24(a)</td><td>44.547</td><td>83.196</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>25(a)</td><td>1.170.222</td><td>1.160.973</td></tr><tr><td>Vay, trái phiếu phát hànhvà nợ thuê tài chính ngắn hạn</td><td>320</td><td>26(a)</td><td>1.791.800</td><td>1.065.371</td></tr><tr><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td>27</td><td>3.428</td><td>7.365</td></tr><tr><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>2.681</td><td>2.896</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>3.582.014</td><td>3.456.940</td></tr><tr><td>Doanh thu chưa thực hiện dài hạn</td><td>336</td><td>24(b)</td><td>113.453</td><td>124.011</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td>25(b)</td><td>1.253.137</td><td>1.137.374</td></tr><tr><td>Trái phiếu phát hànhvà nợ thuê tài chính dài hạn</td><td>338</td><td>26(b)</td><td>2.143.780</td><td>2.121.300</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>18</td><td>71.644</td><td>74.255</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2023Triệu VND",
+      "1/1/2023Triệu VND"
+    ],
+    [
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN"
+    ],
+    [
+      "NỘ PHẢI TRẢ (300 = 310 + 330)",
+      "300",
+      "",
+      "9.826.878",
+      "9.276.398"
+    ],
+    [
+      "Nợ ngắn hạn",
+      "310",
+      "",
+      "6.244.864",
+      "5.819.458"
+    ],
+    [
+      "Phải trả người bán ngắn hạn",
+      "311",
+      "20",
+      "448.115",
+      "724.826"
+    ],
+    [
+      "Người mua trả tiền trước ngắn hạn",
+      "312",
+      "21",
+      "314.342",
+      "1.215.154"
+    ],
+    [
+      "Thuế và các khoản phải nộp Nhà nước",
+      "313",
+      "22",
+      "1.495.742",
+      "832.693"
+    ],
+    [
+      "Phải trả người lao động",
+      "314",
+      "",
+      "279",
+      "-"
+    ],
+    [
+      "Chi phí phải trả ngắn hạn",
+      "315",
+      "23",
+      "973.708",
+      "726.984"
+    ],
+    [
+      "Doanh thu chưa thực hiện ngắn hạn",
+      "318",
+      "24(a)",
+      "44.547",
+      "83.196"
+    ],
+    [
+      "Phải trả ngắn hạn khác",
+      "319",
+      "25(a)",
+      "1.170.222",
+      "1.160.973"
+    ],
+    [
+      "Vay, trái phiếu phát hànhvà nợ thuê tài chính ngắn hạn",
+      "320",
+      "26(a)",
+      "1.791.800",
+      "1.065.371"
+    ],
+    [
+      "Dự phòng phải trả ngắn hạn",
+      "321",
+      "27",
+      "3.428",
+      "7.365"
+    ],
+    [
+      "Quỹ khen thưởng, phúc lợi",
+      "322",
+      "",
+      "2.681",
+      "2.896"
+    ],
+    [
+      "Nợ dài hạn",
+      "330",
+      "",
+      "3.582.014",
+      "3.456.940"
+    ],
+    [
+      "Doanh thu chưa thực hiện dài hạn",
+      "336",
+      "24(b)",
+      "113.453",
+      "124.011"
+    ],
+    [
+      "Phải trả dài hạn khác",
+      "337",
+      "25(b)",
+      "1.253.137",
+      "1.137.374"
+    ],
+    [
+      "Trái phiếu phát hànhvà nợ thuê tài chính dài hạn",
+      "338",
+      "26(b)",
+      "2.143.780",
+      "2.121.300"
+    ],
+    [
+      "Thuế thu nhập hoãn lại phải trả",
+      "341",
+      "18",
+      "71.644",
+      "74.255"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Vincom Retail và các công ty con Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023 (tiếp theo) Mẫu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

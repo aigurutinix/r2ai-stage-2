@@ -1,0 +1,17 @@
+command: generate
+run: {name: generation-easy}
+generation:
+  tier: easy
+  engine: legacy
+  count: 10
+  workers: 1
+  seed: 42
+  max_candidates: 100
+llm: &generation_llm
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  model_id: openai/gpt-5.4-thinking
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 0

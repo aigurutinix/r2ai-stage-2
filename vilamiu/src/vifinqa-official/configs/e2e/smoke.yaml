@@ -1,0 +1,9 @@
+command: eval-e2e
+run: {name: e2e-smoke}
+paths: {data_root: data/ocr_filter, company_meta_path: data/file_filter.csv, questions_dir: data/questions, cache_dir: .cache/vifinqa-smoke, runs_dir: runs}
+retrieval: {backend: bm25, table_encoding: table_retrieval_text}
+reranker: {enabled: false, backend: none}
+answering: {context: retrieved, strategy: direct_answer, retrieval_k: 1, max_context_tables: 1, table_max_chars: 20000}
+prompt: {system: prompts/answering/direct_system.txt, user_template: prompts/answering/common_user.txt}
+llm: {backend: hf_transformers, model_id: fake/testing, device: cpu, dtype: auto, temperature: 0, max_completion_tokens: 32, max_retries: 0}
+evaluation: {e2e_ks: [1], limit: 1, workers: 1, answer_abs_tolerance: 0.01}

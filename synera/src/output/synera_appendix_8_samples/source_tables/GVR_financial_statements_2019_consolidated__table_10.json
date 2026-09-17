@@ -1,0 +1,221 @@
+{
+  "doc_id": "GVR_financial_statements_2019_consolidated",
+  "document_sha256": "c078ef8d034828198e56f94557ecd0babaa9cda159e1a7865fc2b0406aec757f",
+  "table_id_internal": 10,
+  "physical_line_one_based": 392,
+  "html_sha256": "21e00d9c444a6d954405e45e865e28c6d23cfdbde8e9fd12c49fd0f324db85ac",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2019</td><td>Từ ngày 01/06/2018 đến ngày 31/12/2018</td></tr><tr><td></td><td>I. Lưu chuyển tiền từ hoạt động kinh doanh</td><td></td><td></td><td></td></tr><tr><td>01</td><td>1. Lợi nhuận trước thuế</td><td></td><td>4.655.311.733.199</td><td>3.166.995.113.623</td></tr><tr><td></td><td>2. Điều chỉnh cho các khoản</td><td></td><td>1.117.891.268.563</td><td>1.826.530.880.909</td></tr><tr><td>02</td><td>- Khấu hao tài sản cố định</td><td></td><td>1.814.118.881.953</td><td>1.070.314.255.911</td></tr><tr><td>03</td><td>- Các khoản dự phòng</td><td></td><td>90.642.539.503</td><td>616.846.487.039</td></tr><tr><td>04</td><td>- Lãi, lỗ chênh lệch tỷ giá hối doái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>1.505.151.538</td><td>4.206.086.671</td></tr><tr><td>05</td><td>- Lãi lỗ từ hoạt động đầu tư</td><td></td><td>(1.466.763.195.362)</td><td>(4.623.838.580)</td></tr><tr><td>06</td><td>- Chi phí lãi vay</td><td></td><td>661.091.404.583</td><td>380.378.828.037</td></tr><tr><td>07</td><td>- Các khoản điều chỉnh khác</td><td></td><td>17.296.486.348</td><td>(240.590.938.169)</td></tr><tr><td>08</td><td>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>5.773.203.001.762</td><td>4.993.525.994.532</td></tr><tr><td>09</td><td>- Tăng, giảm các khoản phải thu</td><td></td><td>747.971.449.605</td><td>(779.278.209.225)</td></tr><tr><td>10</td><td>- Tăng, giảm hàng tồn kho</td><td></td><td>(230.954.610.063)</td><td>146.622.866.391</td></tr><tr><td>11</td><td>- Tăng, giảm các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td></td><td>1.571.022.559.093</td><td>1.068.925.971.058</td></tr><tr><td>12</td><td>- Tăng, giảm chi phí trả trước</td><td></td><td>(67.249.595.021)</td><td>(130.383.079.554)</td></tr><tr><td>13</td><td>- Tăng, giảm chứng khoán kinh doanh</td><td></td><td>5.083.244.000</td><td>0</td></tr><tr><td>14</td><td>- Tiền lãi vay đã trả</td><td></td><td>(709.055.078.768)</td><td>(315.640.365.577)</td></tr><tr><td>15</td><td>- Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(884.297.641.665)</td><td>(588.445.366.169)</td></tr><tr><td>16</td><td>- Tiền thu khác từ hoạt động kinh doanh</td><td></td><td>38.999.929.568</td><td>28.716.213.206</td></tr><tr><td>17</td><td>- Tiền chi khác cho hoạt động kinh doanh</td><td></td><td>(2.493.262.616.544)</td><td>(1.832.492.696.645)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>3.751.460.641.967</td><td>2.591.551.328.017</td></tr><tr><td></td><td>II. Lưu chuyển tiền từ hoạt động đầu tư</td><td></td><td></td><td></td></tr><tr><td>21</td><td>1. Tiền chi đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td></td><td>(864.756.814.971)</td><td>(2.272.000.707.379)</td></tr><tr><td>22</td><td>2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td></td><td>401.772.234.992</td><td>253.583.013.742</td></tr><tr><td>23</td><td>3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(2.531.154.566.014)</td><td>(3.462.738.986.139)</td></tr><tr><td>24</td><td>4. Tiền thu hồi cho vay, bán lại công cụ nợ đơn vị khác</td><td></td><td>1.969.059.986.470</td><td>3.689.399.189.776</td></tr><tr><td>25</td><td>5. Tiền chi đầu tư góp vốn vào đơn vị khác</td><td></td><td>(55.504.922.017)</td><td>(80.000.000.000)</td></tr><tr><td>26</td><td>6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>44.974.391.821</td><td>59.553.377.202</td></tr><tr><td>27</td><td>7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>733.076.931.537</td><td>372.994.747.935</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>(302.532.758.182)</td><td>(1.439.209.364.863)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm 2019",
+      "Từ ngày 01/06/2018 đến ngày 31/12/2018"
+    ],
+    [
+      "",
+      "I. Lưu chuyển tiền từ hoạt động kinh doanh",
+      "",
+      "",
+      ""
+    ],
+    [
+      "01",
+      "1. Lợi nhuận trước thuế",
+      "",
+      "4.655.311.733.199",
+      "3.166.995.113.623"
+    ],
+    [
+      "",
+      "2. Điều chỉnh cho các khoản",
+      "",
+      "1.117.891.268.563",
+      "1.826.530.880.909"
+    ],
+    [
+      "02",
+      "- Khấu hao tài sản cố định",
+      "",
+      "1.814.118.881.953",
+      "1.070.314.255.911"
+    ],
+    [
+      "03",
+      "- Các khoản dự phòng",
+      "",
+      "90.642.539.503",
+      "616.846.487.039"
+    ],
+    [
+      "04",
+      "- Lãi, lỗ chênh lệch tỷ giá hối doái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "",
+      "1.505.151.538",
+      "4.206.086.671"
+    ],
+    [
+      "05",
+      "- Lãi lỗ từ hoạt động đầu tư",
+      "",
+      "(1.466.763.195.362)",
+      "(4.623.838.580)"
+    ],
+    [
+      "06",
+      "- Chi phí lãi vay",
+      "",
+      "661.091.404.583",
+      "380.378.828.037"
+    ],
+    [
+      "07",
+      "- Các khoản điều chỉnh khác",
+      "",
+      "17.296.486.348",
+      "(240.590.938.169)"
+    ],
+    [
+      "08",
+      "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "",
+      "5.773.203.001.762",
+      "4.993.525.994.532"
+    ],
+    [
+      "09",
+      "- Tăng, giảm các khoản phải thu",
+      "",
+      "747.971.449.605",
+      "(779.278.209.225)"
+    ],
+    [
+      "10",
+      "- Tăng, giảm hàng tồn kho",
+      "",
+      "(230.954.610.063)",
+      "146.622.866.391"
+    ],
+    [
+      "11",
+      "- Tăng, giảm các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "",
+      "1.571.022.559.093",
+      "1.068.925.971.058"
+    ],
+    [
+      "12",
+      "- Tăng, giảm chi phí trả trước",
+      "",
+      "(67.249.595.021)",
+      "(130.383.079.554)"
+    ],
+    [
+      "13",
+      "- Tăng, giảm chứng khoán kinh doanh",
+      "",
+      "5.083.244.000",
+      "0"
+    ],
+    [
+      "14",
+      "- Tiền lãi vay đã trả",
+      "",
+      "(709.055.078.768)",
+      "(315.640.365.577)"
+    ],
+    [
+      "15",
+      "- Thuế thu nhập doanh nghiệp đã nộp",
+      "",
+      "(884.297.641.665)",
+      "(588.445.366.169)"
+    ],
+    [
+      "16",
+      "- Tiền thu khác từ hoạt động kinh doanh",
+      "",
+      "38.999.929.568",
+      "28.716.213.206"
+    ],
+    [
+      "17",
+      "- Tiền chi khác cho hoạt động kinh doanh",
+      "",
+      "(2.493.262.616.544)",
+      "(1.832.492.696.645)"
+    ],
+    [
+      "20",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "",
+      "3.751.460.641.967",
+      "2.591.551.328.017"
+    ],
+    [
+      "",
+      "II. Lưu chuyển tiền từ hoạt động đầu tư",
+      "",
+      "",
+      ""
+    ],
+    [
+      "21",
+      "1. Tiền chi đề mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+      "",
+      "(864.756.814.971)",
+      "(2.272.000.707.379)"
+    ],
+    [
+      "22",
+      "2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      "",
+      "401.772.234.992",
+      "253.583.013.742"
+    ],
+    [
+      "23",
+      "3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+      "",
+      "(2.531.154.566.014)",
+      "(3.462.738.986.139)"
+    ],
+    [
+      "24",
+      "4. Tiền thu hồi cho vay, bán lại công cụ nợ đơn vị khác",
+      "",
+      "1.969.059.986.470",
+      "3.689.399.189.776"
+    ],
+    [
+      "25",
+      "5. Tiền chi đầu tư góp vốn vào đơn vị khác",
+      "",
+      "(55.504.922.017)",
+      "(80.000.000.000)"
+    ],
+    [
+      "26",
+      "6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+      "",
+      "44.974.391.821",
+      "59.553.377.202"
+    ],
+    [
+      "27",
+      "7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "733.076.931.537",
+      "372.994.747.935"
+    ],
+    [
+      "30",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "",
+      "(302.532.758.182)",
+      "(1.439.209.364.863)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== TẬP ĐOÀN CÔNG NGHIỆP CAO SU VIỆT NAM - CÔNG TY CỔ PHẦN Số 236 Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3 TP. Hồ Chí Minh, CHXHCN Việt Nam Báo cáo tài chính hợp nhất Cho năm tài chính kết thúc tại ngày 31/12/2019 BÁO CÁO KẾT LUỦ CHỦYỀN TIỀN TỆ HỢP NHẤT Cho năm tài chính kết thúc tại ngày 31/12/2019"
+}

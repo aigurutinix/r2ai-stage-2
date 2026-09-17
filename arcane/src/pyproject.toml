@@ -1,0 +1,32 @@
+[project]
+name = "financial-assistant"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy>=2",
+  # The evaluator reads submitted CSVs with pandas and executes the emitted
+  # query against them, so a test does the same; without it declared the suite
+  # arrives one test short on a clean machine.
+  "pandas>=2",
+  "pytest>=8,<9",
+  "sentencepiece>=0.2",
+  "torch>=2.6",
+  "transformers>=4.48",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# Without this the package is not installable, so every script had to prepend
+# src/ to sys.path before it could import anything. `pip install -e .` once and
+# `import vifinqa` works from a script, a test, or a notebook alike.
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["docs"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,12 @@
+﻿company,year,ma_so,label,value,prev
+MML,2024,31,"Tiền thu từ phát hành cổ phiếu, trừ đi chi phí phát hành",30119830000,
+MML,2024,32,Tiền trả lại phần vốn góp của một công ty con cho nhà đầu tư không kiểm soát,-9999800,
+MML,2024,33,Tiền thu từ đi vay,5865671488566,5646482965774
+MML,2024,34,Tiền trả nợ gốc vay,-6653905604714,-5499735129235
+MML,2024,35,Tiền trả nợ gốc thuê tài chính,-14110144137,-15288957251
+MML,2024,36,Tiền trả cổ tức,-33516000,-245102
+MML,2024,40,Lưu chuyển tiền thuần từ hoạt động tài chính,-772257946285,131448634386
+MML,2024,50,Lưu chuyển tiền thuần trong năm\( (50 = 20 + 30 + 40) \),-16000800787,-229311769740
+MML,2024,60,Tiền và các khoản tương đương tiền đầu năm,206479726420,435790618314
+MML,2024,61,Ảnh hưởng của thay đổi tỷ giá hối đoái đối với tiền và các khoản tương đương tiền,877846,
+MML,2024,70,Tiền và các khoản tương đương tiền cuối năm\( (70 = 50 + 60 + 61) \) (Thuyết minh 5),190478925633,206479726420

@@ -1,0 +1,202 @@
+question_id,component,part,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+578,earlier,1,2022,BAF_financial_statements_2022_separate,242,11,3,25.699.870.125,Tổng trả trước cho người bán ngắn hạn trên bảng cân đối riêng cuối 2022
+578,later,1,2025,BAF_financial_statements_2025_separate,240,8,3,358.968.990.702,Tổng trả trước cho người bán ngắn hạn trên bảng cân đối riêng cuối 2025
+579,earlier,1,2016,IJC_financial_statements_2016_separate,1484,1,1,2.262.694.070,Lãi tiền gửi có kỳ hạn năm 2016
+579,later,1,2021,IJC_financial_statements_2021_separate,1690,1,1,6.046.821.980,Lãi tiền gửi có kỳ hạn năm 2021
+580,earlier,1,2015,HBC_financial_statements_2015_consolidated,1417,3,1,322.960.454,Chi phí thu nhập thuế hoãn lại năm 2015 trong thuyết minh thuế
+580,later,1,2016,HBC_financial_statements_2016_consolidated,1544,3,1,48.277.443.972,Chi phí thuế TNDN hoãn lại năm 2016 trong thuyết minh thuế
+581,earlier,1,2015,DBC_financial_statements_2015_consolidated,918,17,5,898.255.375.494,Tổng giá trị còn lại TSCĐ hữu hình cuối 2015
+581,later,1,2019,DBC_financial_statements_2019_consolidated,1026,20,5,3.952.077.043.860,Tổng giá trị còn lại TSCĐ hữu hình cuối 2019
+582,earlier,1,2021,MCH_financial_statements_2021_consolidated,1333,2,5,7.030.093.844.618,Vay ngắn hạn cuối 2021 không gồm vay dài hạn đến hạn trả
+582,later,1,2023,MCH_financial_statements_2023_consolidated,1300,2,5,7.876.996.625.723,Vay ngắn hạn cuối 2023 không gồm vay dài hạn đến hạn trả
+583,earlier,1,2020,OCB_financial_statements_2020_separate,337,27,2,272.634.256.087,Giá trị còn lại TSCĐ vô hình trên bảng cân đối riêng cuối 2020
+583,later,1,2022,OCB_financial_statements_2022_separate_1,245,26,2,304.284.322.829,Giá trị còn lại TSCĐ vô hình trên bảng cân đối riêng cuối 2022
+584,earlier,1,2024,AAA_financial_statements_2024_consolidated,240,18,3,6.236.273.953.200,Tổng vốn chủ sở hữu hợp nhất cuối 2024
+584,later,1,2025,AAA_financial_statements_2025_consolidated,279,18,3,6.079.230.359.763,Tổng vốn chủ sở hữu hợp nhất cuối 2025
+585,earlier,1,2016,STB_financial_statements_2016_separate,1653,2,1,22.743,Quỹ khen thưởng phúc lợi phải trả cuối 2016 đơn vị triệu đồng
+585,later,1,2022,STB_financial_statements_2022_separate,1791,3,1,1.550.540,Quỹ khen thưởng phúc lợi phải trả cuối 2022 đơn vị triệu đồng
+586,earlier,1,2021,ACV_financial_statements_2021_consolidated,219,2,3,572.833.249.811,Tổng tiền và các khoản tương đương tiền hợp nhất cuối 2021
+586,later,1,2022,ACV_financial_statements_2022_consolidated,212,2,3,2.496.515.921.711,Tổng tiền và các khoản tương đương tiền hợp nhất cuối 2022
+587,earlier,1,2016,STB_financial_statements_2016_consolidated,1876,2,1,8.954.312,Tiền gửi tại NHNN bằng VND cuối 2016 đơn vị triệu đồng
+587,later,1,2022,STB_financial_statements_2022_consolidated,185,3,2,12.286.117,Tiền gửi tại NHNN Việt Nam cuối 2022 đơn vị triệu đồng
+588,earlier,1,2019,SAB_financial_statements_2019_separate,913,2,1,139.368.231.654,Phải thu Beer Sài Gòn Trading cuối 2019
+588,earlier,2,2019,SAB_financial_statements_2019_separate,913,3,1,7.974.218.490,Phải thu Bia Sài Gòn Hà Tĩnh cuối 2019
+588,earlier,3,2019,SAB_financial_statements_2019_separate,913,4,1,2.298.800.000,Phải thu Bia Sài Gòn Nghệ Tĩnh cuối 2019
+588,earlier,4,2019,SAB_financial_statements_2019_separate,913,5,1,29.700.000,Phải thu Thương mại Bia Sài Gòn Nam Trung Bộ cuối 2019
+588,earlier,5,2019,SAB_financial_statements_2019_separate,913,6,1,9.225.945,Phải thu Cơ khí Sa Be Co cuối 2019
+588,earlier,6,2019,SAB_financial_statements_2019_separate,913,7,1,4.744.400,Phải thu Thương mại Bia Sài Gòn Đông Bắc cuối 2019
+588,earlier,7,2019,SAB_financial_statements_2019_separate,913,11,1,277.230.733.543,Phải thu Đầu tư Thương mại Tân Thành cuối 2019
+588,earlier,8,2019,SAB_financial_statements_2019_separate,913,12,1,33.660.770.500,Phải thu Bia Sài Gòn Miền Trung cuối 2019
+588,earlier,9,2019,SAB_financial_statements_2019_separate,913,13,1,8.141.000.000,Phải thu Bao bì San Miguel Yamamura Phú Thọ cuối 2019
+588,earlier,10,2019,SAB_financial_statements_2019_separate,913,14,1,4.500.000.000,Phải thu Bia Sài Gòn Vĩnh Long cuối 2019
+588,earlier,11,2019,SAB_financial_statements_2019_separate,913,15,1,83.916.000,Phải thu Bia Sài Gòn Khánh Hòa cuối 2019
+588,later,1,2023,SAB_financial_statements_2023_separate,1112,2,1,49.197.000,Phải thu BeerCo Limited cuối 2023
+588,later,2,2023,SAB_financial_statements_2023_separate,1112,4,1,83.899.348.477,Phải thu Beer Sài Gòn Trading cuối 2023
+588,later,3,2023,SAB_financial_statements_2023_separate,1112,5,1,76.430.448.702,Phải thu Tập đoàn Bia Sài Gòn cuối 2023
+588,later,4,2023,SAB_financial_statements_2023_separate,1112,6,1,9.654.224.262,Phải thu Bia Sài Gòn Hà Nội cuối 2023
+588,later,5,2023,SAB_financial_statements_2023_separate,1112,7,1,3.680.497.324,Phải thu Nước Giải Khát Chương Dương cuối 2023
+588,later,6,2023,SAB_financial_statements_2023_separate,1112,8,1,3.598.810.351,Phải thu Bia Sài Gòn Hà Tĩnh cuối 2023
+588,later,7,2023,SAB_financial_statements_2023_separate,1112,9,1,3.000.000.000,Phải thu Rượu Bình Tây cuối 2023
+588,later,8,2023,SAB_financial_statements_2023_separate,1112,10,1,1.141.524.390,Phải thu Cơ khí Sa Be Co cuối 2023
+588,later,9,2023,SAB_financial_statements_2023_separate,1112,11,1,631.706.174,Phải thu Bia Sài Gòn Quảng Ngãi cuối 2023
+588,later,10,2023,SAB_financial_statements_2023_separate,1112,12,1,614.266.974,Phải thu Bia Sài Gòn Lâm Đồng cuối 2023
+588,later,11,2023,SAB_financial_statements_2023_separate,1112,13,1,334.060.169,Phải thu Bia Sài Gòn Sông Lam cuối 2023
+588,later,12,2023,SAB_financial_statements_2023_separate,1112,14,1,312.960.056,Phải thu Bia Sài Gòn Sóc Trăng cuối 2023
+588,later,13,2023,SAB_financial_statements_2023_separate,1112,15,1,234.267.991,Phải thu Bia Sài Gòn Nghệ Tĩnh cuối 2023
+588,later,14,2023,SAB_financial_statements_2023_separate,1112,16,1,196.942.081,Phải thu Bia Sài Gòn Miền Tây cuối 2023
+588,later,15,2023,SAB_financial_statements_2023_separate,1112,17,1,118.528.934,Phải thu Bia Rượu Sài Gòn Đồng Xuân cuối 2023
+588,later,16,2023,SAB_financial_statements_2023_separate,1112,19,1,277.230.733.543,Phải thu Đầu tư Thương mại Tân Thành cuối 2023
+588,later,17,2023,SAB_financial_statements_2023_separate,1112,20,1,64.200.000.000,Phải thu Thủy tinh Malaya Việt Nam cuối 2023
+588,later,18,2023,SAB_financial_statements_2023_separate,1112,21,1,43.802.647.026,Phải thu Trung Tâm Mê Linh cuối 2023
+588,later,19,2023,SAB_financial_statements_2023_separate,1112,22,1,6.971.692.050,Phải thu Sản xuất Rượu và Cồn Việt Nam cuối 2023
+588,later,20,2023,SAB_financial_statements_2023_separate,1112,23,1,2.021.512.801,Phải thu Bia Sài Gòn Vĩnh Long cuối 2023
+588,later,21,2023,SAB_financial_statements_2023_separate,1112,24,1,1.628.963.161,Phải thu Bia Nước Giải Khát Sài Gòn Tây Đô cuối 2023
+588,later,22,2023,SAB_financial_statements_2023_separate,1112,25,1,634.992.585,Phải thu Tập đoàn Bia Sài Gòn Bình Tây cuối 2023
+588,later,23,2023,SAB_financial_statements_2023_separate,1112,26,1,412.007.664,Phải thu Bia Sài Gòn Miền Trung cuối 2023
+588,later,24,2023,SAB_financial_statements_2023_separate,1112,27,1,380.140.249,Phải thu Bia Sài Gòn Kiên Giang cuối 2023
+588,later,25,2023,SAB_financial_statements_2023_separate,1112,28,1,223.638.844,Phải thu Bia Sài Gòn Khánh Hòa cuối 2023
+588,later,26,2023,SAB_financial_statements_2023_separate,1112,29,1,172.648.858,Phải thu Bia Sài Gòn Phú Thọ cuối 2023
+588,later,27,2023,SAB_financial_statements_2023_separate,1112,30,1,168.938.232,Phải thu Bia Sài Gòn Bạc Liêu cuối 2023
+588,later,28,2023,SAB_financial_statements_2023_separate,1112,31,1,166.210.711,Phải thu Bia Sài Gòn Bến Tre cuối 2023
+589,earlier,1,2016,NLG_financial_statements_2016_separate,1155,11,1,48.735.590.598,Tổng chi phí thuế TNDN năm 2016
+589,later,1,2019,NLG_financial_statements_2019_separate,1169,8,1,51.423.998.759,Tổng chi phí thuế TNDN năm 2019
+590,earlier,1,2021,HHV_financial_statements_2021_consolidated,2040,1,2,100.000.000.000,Hạn mức vay ngắn hạn VietinBank hợp đồng thứ nhất
+590,earlier,2,2021,HHV_financial_statements_2021_consolidated,2040,2,2,80.000.000.000,Hạn mức vay ngắn hạn VietinBank hợp đồng thứ hai
+590,earlier,3,2021,HHV_financial_statements_2021_consolidated,2040,3,2,300.000.000.000,Hạn mức vay ngắn hạn TPBank
+590,earlier,4,2021,HHV_financial_statements_2021_consolidated,2040,4,2,2.600.000.000,Số tiền vay ngắn hạn BOT Hưng Phát
+590,earlier,5,2021,HHV_financial_statements_2021_consolidated,2040,5,2,400.000.000.000,Hạn mức vay ngắn hạn Tập đoàn Đèo Cả
+590,earlier,6,2021,HHV_financial_statements_2021_consolidated,2040,6,2,202.000.000.000,Số tiền vay ngắn hạn Hải Thạch BOT
+590,later,1,2025,HHV_financial_statements_2025_consolidated,2559,1,2,200.000.000.000,Hạn mức vay ngắn hạn VietinBank hợp đồng thứ nhất
+590,later,2,2025,HHV_financial_statements_2025_consolidated,2559,2,2,100.000.000.000,Hạn mức vay ngắn hạn VietinBank hợp đồng thứ hai
+590,later,3,2025,HHV_financial_statements_2025_consolidated,2559,3,2,800.000.000.000,Hạn mức vay ngắn hạn TPBank
+590,later,4,2025,HHV_financial_statements_2025_consolidated,2559,4,2,1.000.000.000.000,Hạn mức vay ngắn hạn VPBank
+591,earlier,1,2021,SSB_financial_statements_2021_consolidated,3450,3,1,124.756.129,Cho vay khách hàng gộp chưa quá hạn và chưa phải lập dự phòng cuối 2021
+591,later,1,2022,SSB_financial_statements_2022_consolidated,2198,3,1,150.235.160,Cho vay khách hàng gộp chưa quá hạn và chưa phải lập dự phòng cuối 2022
+592,earlier,1,2022,BID_financial_statements_2022_consolidated,269,14,3,(38.225.891),Tổng dự phòng rủi ro cho vay khách hàng cuối 2022 đơn vị triệu đồng
+592,later,1,2024,BID_financial_statements_2024_consolidated,298,14,3,(38.038.771),Tổng dự phòng rủi ro cho vay khách hàng cuối 2024 đơn vị triệu đồng
+593,earlier,1,2021,VIF_financial_statements_2021_consolidated,1629,5,1,2.831.078.040,Lãi chênh lệch tỷ giá năm 2021
+593,later,1,2023,VIF_financial_statements_2023_consolidated,1529,5,1,3.633.257.700,Lãi chênh lệch tỷ giá năm 2023
+594,earlier,1,2022,GEE_financial_statements_2022_consolidated,1214,3,2,5.159.200.000,Giá trị hợp lý khoản đầu tư Vietcombank cuối 2022
+594,later,1,2025,GEE_financial_statements_2025_consolidated,1357,2,2,6.547.065.000,Giá trị hợp lý khoản đầu tư Vietcombank cuối 2025
+595,earlier,1,2021,DXS_financial_statements_2021_consolidated,332,4,3,64.551.795.353,Tổng phải thu dài hạn khác cuối 2021
+595,later,1,2022,DXS_financial_statements_2022_consolidated,331,4,3,94.043.971.835,Tổng phải thu dài hạn khác cuối 2022
+596,earlier,1,2017,VNM_financial_statements_2017_separate,1055,4,2,8.100.000.000,Giá gốc đầu tư vào APIS cuối 2017
+596,later,1,2024,VNM_financial_statements_2024_separate,1064,4,2,20.350.000.000,Giá gốc đầu tư vào APIS cuối 2024
+597,earlier,1,2021,NVB_financial_statements_2021_consolidated,1197,3,1,1.558.455,Lãi và phí phải trả cuối 2021 đơn vị triệu đồng
+597,later,1,2022,NVB_financial_statements_2022_consolidated,1330,3,1,1.531.335,Lãi và phí phải trả cuối 2022 đơn vị triệu đồng
+598,earlier,1,2020,HNG_financial_statements_2020_separate,1214,13,3,578.819.180,Tổng phải trả người bán ngắn hạn với bên liên quan cuối 2020 đơn vị ngàn VND
+598,later,1,2021,HNG_financial_statements_2021_separate,1226,15,3,25.682.255,Tổng phải trả người bán ngắn hạn với bên liên quan cuối 2021 đơn vị ngàn VND
+599,earlier,1,2022,FTS_financial_statements_2022,1550,4,2,53.775.388.537,Chi phí khác năm 2022 không gồm ba khoản liệt kê riêng
+599,later,1,2023,FTS_financial_statements_2023,1440,4,2,45.869.981.490,Chi phí khác năm 2023 không gồm ba khoản liệt kê riêng
+600,earlier,1,2023,FPT_financial_statements_2023_consolidated,1323,2,1,148.154.785.305,Lãi vay phải trả cuối 2023
+600,later,1,2025,FPT_financial_statements_2025_consolidated,1472,2,1,85.922.281.593,Lãi vay phải trả cuối 2025
+601,earlier,1,2016,KBC_financial_statements_2016_separate,1035,6,1,4.470.193.703,Chi phí lãi vay phải trả ngắn hạn cuối 2016
+601,later,1,2019,KBC_financial_statements_2019_separate,1147,7,1,849.420.772.627,Chi phí lãi vay phải trả ngắn hạn cuối 2019
+602,earlier,1,2018,HDB_financial_statements_2018_consolidated,1253,1,1,1.001.753,Chứng khoán kinh doanh đã niêm yết cuối 2018 đơn vị triệu đồng
+602,later,1,2021,HDB_financial_statements_2021_consolidated,1318,1,1,3.050.038,Chứng khoán kinh doanh đã niêm yết cuối 2021 đơn vị triệu đồng
+603,earlier,1,2024,VJC_financial_statements_2024_separate,1227,6,1,5.432.923.096.287,Chi phí bảo dưỡng tàu bay trả trước công ty mẹ cuối 2024
+603,later,1,2025,VJC_financial_statements_2025_separate,1321,6,1,5.324.416.490.490,Chi phí bảo dưỡng tàu bay trả trước công ty mẹ cuối 2025
+604,earlier,1,2018,DLG_financial_statements_2018_separate,434,12,3,5.231.553.268.752,Tổng tài sản công ty mẹ cuối 2018
+604,later,1,2019,DLG_financial_statements_2019_separate,472,12,3,5.355.530.683.088,Tổng tài sản công ty mẹ cuối 2019
+605,earlier,1,2023,NLG_financial_statements_2023_consolidated,240,4,3,3.814.598.243.120,Người mua trả tiền trước ngắn hạn hợp nhất cuối 2023
+605,later,1,2024,NLG_financial_statements_2024_consolidated,232,4,3,3.023.679.812.978,Người mua trả tiền trước ngắn hạn hợp nhất cuối 2024
+606,earlier,1,2019,MML_financial_statements_2019_consolidated,146,3,3,3.491.877.094.955,Tổng nợ ngắn hạn hợp nhất cuối 2019
+606,later,1,2023,MML_financial_statements_2023_consolidated,268,3,3,3.460.808.399.115,Tổng nợ ngắn hạn hợp nhất cuối 2023
+607,earlier,1,2017,HAG_financial_statements_2017_consolidated,2076,1,1,24.802.221,Chi phí thuế TNDN hiện hành năm 2017 đơn vị ngàn VND
+607,later,1,2023,HAG_financial_statements_2023_consolidated,1935,1,1,30.945.417,Chi phí thuế TNDN hiện hành năm 2023 đơn vị ngàn VND
+608,earlier,1,2018,MML_financial_statements_2018_consolidated,779,20,5,2.536.850.624.080,Tổng giá trị còn lại TSCĐ hữu hình cuối 2018
+608,later,1,2023,MML_financial_statements_2023_consolidated,1092,17,6,4.586.203.559.381,Tổng giá trị còn lại TSCĐ hữu hình cuối 2023
+609,earlier,1,2022,ACB_financial_statements_2022_consolidated,2377,15,1,869.424.751,Tổng tài sản và GTCG nhận thế chấp cầm cố chiết khấu cuối 2022 đơn vị triệu đồng
+609,later,1,2025,ACB_financial_statements_2025_consolidated,2420,15,1,1.296.566.786,Tổng tài sản và GTCG nhận thế chấp cầm cố chiết khấu cuối 2025 đơn vị triệu đồng
+610,earlier,1,2020,GAS_financial_statements_2020_consolidated,1416,1,1,31.374.107.618.623,Chi phí mua khí từ các chủ mỏ năm 2020
+610,later,1,2022,GAS_financial_statements_2022_consolidated,1737,1,1,39.429.346.553.241,Chi phí mua khí từ các chủ mỏ năm 2022
+611,earlier,1,2018,EIB_financial_statements_2018_separate,2921,19,8,18.589.656,Mức chênh thanh khoản ròng trong hạn cuối 2018 đơn vị triệu đồng
+611,later,1,2019,EIB_financial_statements_2019_separate,2947,19,8,19.535.851,Mức chênh thanh khoản ròng trong hạn cuối 2019 đơn vị triệu đồng
+612,earlier,1,2020,NKG_financial_statements_2020_separate,1162,12,6,2.468.663.849.028,Tổng dư nợ vay ngắn hạn ngân hàng công ty mẹ cuối 2020
+612,later,1,2021,NKG_financial_statements_2021_separate,860,13,7,3.773.154.733.117,Tổng dư nợ vay ngắn hạn ngân hàng công ty mẹ cuối 2021
+613,earlier,1,2018,IJC_financial_statements_2018_separate,438,8,3,(301.534.111.657),Lưu chuyển tiền thuần từ hoạt động tài chính công ty mẹ năm 2018
+613,later,1,2022,IJC_financial_statements_2022_separate,483,8,3,(115.274.660.827),Lưu chuyển tiền thuần từ hoạt động tài chính công ty mẹ năm 2022
+614,earlier,1,2015,IJC_financial_statements_2015_separate,314,14,4,1.580.297.059,Quỹ khen thưởng phúc lợi công ty mẹ cuối 2015
+614,later,1,2021,IJC_financial_statements_2021_separate,382,14,4,19.415.310.894,Quỹ khen thưởng phúc lợi công ty mẹ cuối 2021
+615,earlier,1,2017,DXG_financial_statements_2017_consolidated,939,1,2,2.965.209.292.615,Bất động sản dở dang hợp nhất cuối 2017 OCR ghi Bất
+615,later,1,2020,DXG_financial_statements_2020_consolidated,1007,1,2,9.620.347.821.442,Bất động sản dở dang hợp nhất cuối 2020 OCR ghi Bắt
+616,earlier,1,2015,VJC_financial_statements_2015_consolidated,1158,15,4,17.742.310.565,Tổng giá trị còn lại TSCĐ hữu hình cuối 2015
+616,later,1,2018,VJC_financial_statements_2018_consolidated,958,16,5,1.643.191.617.368,Tổng giá trị còn lại TSCĐ hữu hình cuối 2018
+617,earlier,1,2016,GAS_financial_statements_2016_consolidated,351,33,5,56.714.606.287.288,Tổng nguồn vốn hợp nhất đầu năm 2016
+617,later,1,2019,GAS_financial_statements_2019_consolidated,288,32,5,62.614.420.245.293,Tổng nguồn vốn hợp nhất đầu năm 2019
+618,earlier,1,2018,STB_financial_statements_2018_separate,1964,1,1,20.533.381,Lãi dự thu từ cho vay khách hàng công ty mẹ cuối 2018 đơn vị triệu đồng
+618,later,1,2019,STB_financial_statements_2019_separate,1578,1,1,16.714.402,Lãi dự thu từ cho vay khách hàng công ty mẹ cuối 2019 đơn vị triệu đồng
+619,earlier,1,2019,SSI_financial_statements_2019_separate,1384,2,1,8.187.814.975,Tạm ứng ngắn hạn công ty mẹ cuối 2019
+619,later,1,2020,SSI_financial_statements_2020_separate,1538,2,1,8.975.788.912,Tạm ứng ngắn hạn công ty mẹ cuối 2020
+620,earlier,1,2020,MSR_financial_statements_2020_consolidated,1140,1,5,7.291.180.658,Tổng doanh thu bộ phận năm 2020 đơn vị nghìn VND
+620,later,1,2025,MSR_financial_statements_2025_consolidated,841,1,5,7.442.723.808,Tổng doanh thu thuần bộ phận năm 2025 đơn vị nghìn VND
+621,earlier,1,2021,VJC_financial_statements_2021_separate,1384,1,1,3.059.363.382.827,Chi phí nhiên liệu công ty mẹ năm 2021
+621,later,1,2024,VJC_financial_statements_2024_separate,1719,1,1,23.858.693.067.798,Chi phí nhiên liệu công ty mẹ năm 2024
+622,earlier,1,2023,DXG_financial_statements_2023_separate,840,14,4,12.031.842.980.009,Giá trị thuần đầu tư vào công ty con cuối 2023
+622,later,1,2024,DXG_financial_statements_2024_separate,959,13,4,13.150.627.278.060,Giá trị thuần đầu tư vào công ty con cuối 2024
+623,earlier,1,2022,PC1_financial_statements_2022_consolidated,1339,4,1,307.908.804.848,Giá gốc nguyên vật liệu tồn kho cuối 2022
+623,later,1,2023,PC1_financial_statements_2023_consolidated,1091,3,1,212.530.977.247,Giá gốc nguyên vật liệu tồn kho cuối 2023
+624,earlier,1,2015,STB_financial_statements_2015_separate,1091,2,1,2.060.520,Tiền mặt bằng ngoại tệ công ty mẹ cuối 2015 đơn vị triệu đồng
+624,later,1,2016,STB_financial_statements_2016_separate,997,2,1,1.408.091,Tiền mặt bằng ngoại tệ công ty mẹ cuối 2016 đơn vị triệu đồng
+625,earlier,1,2023,VGC_financial_statements_2023_consolidated,1420,6,1,1.771.533.325,Vay ngắn hạn Ngân hàng TMCP Quốc tế cuối 2023
+625,later,1,2024,VGC_financial_statements_2024_consolidated,1379,5,2,2.388.528.000,Vay ngắn hạn Ngân hàng TMCP Quốc tế cuối 2024
+626,earlier,1,2018,BVH_financial_statements_2018_separate,1201,2,2,914.183.587.969,Phải thu ngắn hạn từ hoạt động đầu tư công ty mẹ cuối 2018
+626,later,1,2020,BVH_financial_statements_2020_separate,911,2,2,799.275.014.996,Phải thu ngắn hạn từ hoạt động đầu tư công ty mẹ cuối 2020
+627,earlier,1,2016,PVT_financial_statements_2016_consolidated,952,3,1,13.838.474.530,Tài sản thuế thu nhập hoãn lại cuối 2016
+627,later,1,2018,PVT_financial_statements_2018_consolidated,949,3,1,41.676.677.160,Tài sản thuế thu nhập hoãn lại cuối 2018
+628,earlier,1,2017,DCM_financial_statements_2017_consolidated,882,1,1,59.991.150.644,Chi phí XDCB dở dang dự án phân bón phức hợp từ urê nóng chảy cuối 2017
+628,later,1,2018,DCM_financial_statements_2018_consolidated,917,2,1,282.477.152.203,Chi phí XDCB dở dang dự án phân bón phức hợp từ urê nóng chảy cuối 2018
+629,earlier,1,2016,HBC_financial_statements_2016_separate,190,12,3,(262.534.406.527),Tổng dự phòng phải thu ngắn hạn khó đòi công ty mẹ cuối 2016
+629,later,1,2020,HBC_financial_statements_2020_separate,208,10,3,(384.655.311.583),Tổng dự phòng phải thu ngắn hạn khó đòi công ty mẹ cuối 2020
+630,earlier,1,2024,SHB_financial_statements_2024_separate,1425,12,1,2.207.215,Tổng chi phí thuế TNDN công ty mẹ năm 2024 đơn vị triệu đồng
+630,later,1,2025,SHB_financial_statements_2025_separate,1421,12,1,3.012.447,Tổng chi phí thuế TNDN công ty mẹ năm 2025 đơn vị triệu đồng
+631,earlier,1,2015,IJC_financial_statements_2015_separate,355,9,3,29.077.914.421,Chi phí bán hàng công ty mẹ năm 2015
+631,later,1,2018,IJC_financial_statements_2018_separate,392,9,3,38.181.492.079,Chi phí bán hàng công ty mẹ năm 2018
+632,earlier,1,2016,MSR_financial_statements_2016_consolidated,181,2,3,24.039.367.458,Tổng tài sản dài hạn hợp nhất cuối 2016 đơn vị nghìn VND
+632,later,1,2020,MSR_financial_statements_2020_consolidated,210,1,3,30.352.548.829,Tổng tài sản dài hạn hợp nhất cuối 2020 đơn vị nghìn VND
+633,earlier,1,2015,GAS_financial_statements_2015_consolidated,1233,3,1,45.520.606.145,Trả trước ngắn hạn cho VietsovPetro cuối 2015
+633,later,1,2016,GAS_financial_statements_2016_consolidated,934,4,1,5.612.456.597,Trả trước ngắn hạn cho VietsovPetro cuối 2016
+634,earlier,1,2017,STB_financial_statements_2017_separate,1610,2,1,2.039.729,Nợ có khả năng mất vốn từ hợp đồng mua và cam kết bán lại chứng khoán cuối 2017 triệu đồng
+634,later,1,2019,STB_financial_statements_2019_separate,1617,2,1,1.645.387,Nợ có khả năng mất vốn từ hợp đồng mua và cam kết bán lại chứng khoán cuối 2019 triệu đồng
+635,earlier,1,2020,ABB_financial_statements_2020_separate,2471,6,3,62.588.033,Cho vay khách hàng thuộc loại cho vay và phải thu của tài sản tài chính cuối 2020 triệu đồng
+635,later,1,2023,ABB_financial_statements_2023_separate,2663,6,3,96.781.614,Cho vay khách hàng thuộc loại cho vay và phải thu của tài sản tài chính cuối 2023 triệu đồng
+636,earlier,1,2022,KBC_financial_statements_2022_consolidated,1136,16,1,3.654.794.506.950,Tổng các khoản phải thu khác ngắn hạn cuối 2022
+636,later,1,2024,KBC_financial_statements_2024_consolidated,1247,16,1,5.963.091.549.126,Tổng các khoản phải thu khác ngắn hạn cuối 2024
+637,earlier,1,2021,VPI_financial_statements_2021_separate,1252,5,1,2.199.997.800.000,Vốn đã góp của chủ sở hữu công ty mẹ cuối 2021
+637,later,1,2022,VPI_financial_statements_2022_separate,1345,5,1,2.419.996.170.000,Vốn đã góp của chủ sở hữu công ty mẹ cuối 2022
+638,earlier,1,2022,GEX_financial_statements_2022_separate,1417,2,1,25.779.332.206,Cam kết thuê hoạt động phải trả từ một năm trở xuống cuối 2022
+638,later,1,2025,GEX_financial_statements_2025_separate,1801,2,1,27.258.108.199,Cam kết thuê hoạt động phải trả từ một năm trở xuống cuối 2025
+639,earlier,1,2019,PC1_financial_statements_2019_consolidated,1063,4,1,429.830.478.898,Chi phí SXKD dở dang trong hoạt động xây lắp cuối 2019
+639,later,1,2020,PC1_financial_statements_2020_consolidated,1199,7,1,395.317.620.609,Chi phí SXKD dở dang trong hoạt động xây lắp cuối 2020
+640,earlier,1,2020,QNS_financial_statements_2020_consolidated,1569,1,1,216.535.138.683,Chi phí nhân viên bán hàng hợp nhất năm 2020
+640,later,1,2021,QNS_financial_statements_2021_consolidated,1630,1,1,276.524.311.903,Chi phí nhân viên bán hàng hợp nhất năm 2021
+641,earlier,1,2018,DLG_financial_statements_2018_consolidated,2023,3,8,66.271.208.557,Thuế TNDN phải trả cuối kỳ 2018
+641,later,1,2020,DLG_financial_statements_2020_consolidated,1830,3,8,64.112.708.746,Thuế TNDN phải trả cuối kỳ 2020
+642,earlier,1,2020,HDB_financial_statements_2020_consolidated,1451,1,1,11.320.487,Trái phiếu Chính phủ giữ đến ngày đáo hạn cuối 2020 triệu đồng
+642,later,1,2021,HDB_financial_statements_2021_consolidated,1472,1,1,8.198.347,Trái phiếu Chính phủ giữ đến ngày đáo hạn cuối 2021 triệu đồng
+643,earlier,1,2019,KLB_financial_statements_2019_separate,1528,8,1,319.895.796,Số cổ phiếu đang lưu hành công ty mẹ cuối 2019
+643,later,1,2023,KLB_financial_statements_2023_separate,1508,8,1,361.481.878,Số cổ phiếu đang lưu hành công ty mẹ cuối 2023
+644,earlier,1,2022,DIG_financial_statements_2022_consolidated,1255,2,1,307.446.838.456,Doanh thu thuần hoạt động xây dựng năm 2022
+644,later,1,2023,DIG_financial_statements_2023_consolidated,1380,2,1,146.338.666.266,Doanh thu thuần hoạt động xây dựng năm 2023
+645,earlier,1,2018,BVH_financial_statements_2018_consolidated,3210,8,6,146.806.786,Tổng nợ tài chính cuối 2018 đơn vị triệu VND
+645,later,1,2022,BVH_financial_statements_2022_consolidated,3017,8,6,196.861.088,Tổng nợ tài chính cuối 2022 đơn vị triệu VND
+646,earlier,1,2020,KHG_financial_statements_2020_consolidated,786,2,1,11.949.173.962,Chi phí nhân viên năm 2020
+646,later,1,2021,KHG_financial_statements_2021_consolidated,1021,2,1,22.287.552.828,Chi phí nhân viên năm 2021
+647,earlier,1,2017,ACB_financial_statements_2017_consolidated,178,15,3,(1.844.638),Dự phòng rủi ro cho vay khách hàng cuối 2017 triệu VND
+647,later,1,2019,ACB_financial_statements_2019_consolidated,171,15,3,(2.535.689),Dự phòng rủi ro cho vay khách hàng cuối 2019 triệu VND
+648,earlier,1,2022,HHS_financial_statements_2022_separate,1227,5,1,1.248.260.378,Chi phí dịch vụ mua ngoài theo yếu tố công ty mẹ năm 2022
+648,later,1,2023,HHS_financial_statements_2023_separate,1307,19,1,4.291.939.539,Chi phí dịch vụ mua ngoài theo yếu tố công ty mẹ năm 2023
+649,earlier,1,2021,HSG_financial_statements_2021_consolidated,1023,3,1,49.633.658.164,Chi phí thuê trả trước dài hạn ngày 30-09-2021
+649,later,1,2025,HSG_financial_statements_2025_consolidated,812,3,1,43.136.294.408,Chi phí thuê trả trước dài hạn ngày 30-09-2025
+650,earlier,1,2020,SSI_financial_statements_2020_consolidated,394,6,3,208.753.551.822,Tổng doanh thu hoạt động tài chính năm 2020
+650,later,1,2023,SSI_financial_statements_2023_consolidated,400,6,3,123.303.909.120,Tổng doanh thu hoạt động tài chính năm 2023
+651,earlier,1,2017,MML_financial_statements_2017_consolidated,213,8,3,491.384.792.041,Tổng chi phí lãi vay năm 2017 trên báo cáo kết quả kinh doanh
+651,later,1,2018,MML_financial_statements_2018_consolidated,225,8,3,235.444.066.977,Tổng chi phí lãi vay năm 2018 trên báo cáo kết quả kinh doanh
+652,earlier,1,2017,HT1_financial_statements_2017_separate,988,2,4,27.897.500.519,Thuế TNDN phải nộp công ty mẹ cuối 2017
+652,later,1,2018,HT1_financial_statements_2018_separate,932,1,4,56.426.836.190,Thuế TNDN phải nộp công ty mẹ cuối 2018
+653,earlier,1,2022,HAG_financial_statements_2022_consolidated,277,19,3,1.745.420.930,Phải thu về cho vay dài hạn trình bày trên bảng cân đối cuối 2022 đơn vị ngàn VND
+653,later,1,2024,HAG_financial_statements_2024_consolidated,367,19,3,46.813.199,Phải thu về cho vay dài hạn trình bày trên bảng cân đối cuối 2024 đơn vị ngàn VND
+654,earlier,1,2016,DNH_financial_statements_2016_separate,898,1,1,679.331.847.584,Giá vốn bán điện công ty mẹ năm 2016
+654,later,1,2017,DNH_financial_statements_2017_separate,921,1,1,754.107.551.854,Giá vốn bán điện công ty mẹ năm 2017
+655,earlier,1,2019,VIC_financial_statements_2019_consolidated,229,2,3,18.446.968,Tổng tiền và các khoản tương đương tiền cuối 2019 triệu đồng
+655,later,1,2021,VIC_financial_statements_2021_consolidated,219,2,3,18.352.236,Tổng tiền và các khoản tương đương tiền cuối 2021 triệu đồng

@@ -1,0 +1,16 @@
+﻿company,year,ma_so,label,value,prev
+HND,2023,01,Doanh thu bán hàng và cung cấp dịch vụ,11442698022681,10511191220155
+HND,2023,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),11442698022681,10511191220155
+HND,2023,11,Giá vốn hàng bán và dịch vụ cung cấp,10798766961748,9697213317647
+HND,2023,20,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),643931060933,813977902508
+HND,2023,21,Doanh thu hoạt động tài chính,7850744697,23615450251
+HND,2023,22,Chi phí tài chính,80046728557,170559686845
+HND,2023,23,- Trong đó: Chi phí lãi vay,52177884231,101139201716
+HND,2023,26,Chi phí quản lý doanh nghiệp,107675068172,117479828111
+HND,2023,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-26),464060008901,549553837803
+HND,2023,31,Thu nhập khác,4251114638,31784529582
+HND,2023,32,Chi phí khác,3448931225,5735275850
+HND,2023,40,Lợi nhuận khác (40=31-32),802183413,26049253732
+HND,2023,50,Tổng lợi nhuận kế toán trước thuế (50=30+40),464862192314,575603091535
+HND,2023,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,23390639635,28810016173
+HND,2023,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51),441471552679,546793075362

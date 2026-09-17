@@ -1,0 +1,23 @@
+﻿company,year,ma_so,label,value,prev
+POW,2025,,Lợi nhuận trước thuế,1732896643916,1329885188009
+POW,2025,02,Khấu hao tài sản cố định,1739546824900,1610301978103
+POW,2025,03,Các khoản dự phòng,906233692700,164673383451
+POW,2025,04,Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ,182001829165,137794502914
+POW,2025,05,Lãi từ hoạt động đầu tư,-1370384153773,-736099137479
+POW,2025,06,Chi phí lãi vay,473265452098,240041617242
+POW,2025,,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,3663560289006,2746597532240
+POW,2025,09,Thay đổi các khoản phải thu,-2254415742966,2939897290348
+POW,2025,10,Thay đổi hàng tồn kho,-366059160888,458333220599
+POW,2025,11,"Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",-369690115724,-2654999516697
+POW,2025,12,Thay đổi chi phí trả trước,-138320656586,-279789208215
+POW,2025,14,Tiền lãi vay đã trả,-414420332985,-308432992714
+POW,2025,15,Thuế thu nhập doanh nghiệp đã nộp,-84079095113,-214562860289
+POW,2025,17,Tiền chi khác cho hoạt động kinh doanh,-180481516894,-120067033724
+POW,2025,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,-143906332150,2566976431548
+POW,2025,,"Tiền chỉ mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",-4918203305840,-9247946074735
+POW,2025,,"Tiền thu thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",3110591520,2234492956
+POW,2025,,"Tiền chỉ cho vay, mua công cụ nợ của đơn vị khác",-8297648226778,-1244427811811
+POW,2025,,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",1905794534875,73401839297
+POW,2025,,Tiền chỉ đầu tư góp vốn vào đơn vị khác,-78000000000,-42840000000
+POW,2025,,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",1267170332326,713356724865
+POW,2025,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,-10117776073897,-9746220829428

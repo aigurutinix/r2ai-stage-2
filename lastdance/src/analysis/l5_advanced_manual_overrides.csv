@@ -1,0 +1,18 @@
+question_id,symbol,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+366,f1,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+376,f1,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+380,f14,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+389,f39,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+397,f3,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+403,f3,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn sang dòng phía trên
+406,f11,2024,OGC_financial_statements_2024_consolidated,316,23,4,3.832.374.243.764,Tổng tài sản dài hạn; không dùng dòng tài sản dài hạn khác
+412,f9,2024,VNM_financial_statements_2024_consolidated,318,17,3,9.685.937.539.346,Lưu chuyển tiền thuần từ hoạt động kinh doanh; không dùng dòng tiền đầu tư
+369,f29,2023,HPG_financial_statements_2023_consolidated,270,8,3,3.585.077.683.881,Chi phí đi vay thực tế trên báo cáo kết quả kinh doanh; không dùng lãi vay vốn hóa
+379,f17,2025,MCH_financial_statements_2025_consolidated,277,8,3,494.407.157.679,Chi phí lãi vay ngân hàng thực tế trên báo cáo kết quả kinh doanh
+379,f19,2025,MSN_financial_statements_2025_consolidated,305,8,3,5.418.158,Chi phí lãi vay thực tế trên báo cáo kết quả kinh doanh; báo cáo dùng đơn vị triệu VND
+387,f9,2021,HPG_financial_statements_2021_consolidated,235,8,3,2.525.823.258.237,Chi phí đi vay thực tế; không dùng lãi vay vốn hóa
+387,f13,2023,HPG_financial_statements_2023_consolidated,270,8,3,3.585.077.683.881,Chi phí đi vay thực tế; không dùng lãi vay vốn hóa
+387,f15,2024,HPG_financial_statements_2024_consolidated,239,8,3,2.287.360.810.880,Chi phí đi vay thực tế; không dùng lãi vay vốn hóa
+447,f17,2025,MCH_financial_statements_2025_consolidated,277,8,3,494.407.157.679,Chi phí lãi vay ngân hàng thực tế trên báo cáo kết quả kinh doanh
+447,f19,2025,MSN_financial_statements_2025_consolidated,305,8,3,5.418.158,Chi phí lãi vay thực tế trên báo cáo kết quả kinh doanh; báo cáo dùng đơn vị triệu VND
+454,f29,2023,HPG_financial_statements_2023_consolidated,270,8,3,3.585.077.683.881,Chi phí đi vay thực tế trên báo cáo kết quả kinh doanh; không dùng lãi vay vốn hóa

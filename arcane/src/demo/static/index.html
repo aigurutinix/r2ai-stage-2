@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121212">
+  <title>arcane1 — Trợ lý báo cáo tài chính</title>
+  <link rel="stylesheet" href="/demo/static/style.css">
+</head>
+<body>
+  <svg class="icon-sprite" aria-hidden="true" focusable="false"><defs>
+    <symbol id="i-plus" viewBox="0 0 16 16"><path d="M8 3.5v9M3.5 8h9"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 16 16"><path d="M2.5 4h11M2.5 8h11M2.5 12h11"/></symbol>
+    <symbol id="i-sidebar" viewBox="0 0 16 16"><rect x="2" y="3" width="12" height="10" rx="1.5"/><path d="M6.25 3v10"/></symbol>
+    <symbol id="i-close" viewBox="0 0 16 16"><path d="M4 4l8 8M12 4l-8 8"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 16 16"><path d="M3 4.5h10M6.5 4.5V3h3v1.5M4.5 4.5l.6 8a1 1 0 0 0 1 .95h3.8a1 1 0 0 0 1-.95l.6-8"/></symbol>
+    <symbol id="i-arrow-out" viewBox="0 0 16 16"><path d="M5.5 10.5l5-5M6.5 5.5h4v4"/></symbol>
+    <symbol id="i-back" viewBox="0 0 16 16"><path d="M10 3.5l-5 4.5 5 4.5"/></symbol>
+    <symbol id="i-chevron" viewBox="0 0 16 16"><path d="M4 6.5l4 4 4-4"/></symbol>
+    <symbol id="i-lock" viewBox="0 0 16 16"><rect x="3.5" y="7" width="9" height="6" rx="1.5"/><path d="M5.75 7V5.25a2.25 2.25 0 0 1 4.5 0V7"/></symbol>
+    <symbol id="i-evidence" viewBox="0 0 16 16"><path d="M3 2.5h6.5L13 6v7.5H3z"/><path d="M9.25 2.75V6H12.5M5.5 9h5M5.5 11.25h3"/></symbol>
+    <symbol id="i-alert" viewBox="0 0 16 16"><path d="M8 2.25 14.5 13.5h-13z"/><path d="M8 6.75v3M8 11.75h.01"/></symbol>
+  </defs></svg>
+
+  <a class="skip-link" href="#answerPane">Bỏ qua đến câu trả lời</a>
+
+  <div class="app-shell">
+    <aside class="rail" id="sidebar" aria-label="Phiên làm việc">
+      <div class="brand">arcane1</div>
+      <button class="new-chat" id="newChat" type="button">
+        <svg class="icon" aria-hidden="true"><use href="#i-plus"/></svg> Phiên mới
+      </button>
+      <div class="rail-heading">
+        <span>Gần đây</span>
+        <span class="rail-count" id="sessionCount">0</span>
+      </div>
+      <nav class="session-list" id="sessionList" aria-label="Các phiên"></nav>
+      <div class="rail-foot">
+        <svg class="icon" aria-hidden="true"><use href="#i-lock"/></svg>
+        <span>Lịch sử chỉ lưu trên trình duyệt này.</span>
+      </div>
+    </aside>
+
+    <main class="workspace">
+      <header class="topbar">
+        <button class="icon-button menu-button" id="menuButton" type="button" aria-label="Mở danh sách phiên" aria-controls="sidebar" aria-expanded="false">
+          <svg class="icon" aria-hidden="true"><use href="#i-menu"/></svg>
+        </button>
+        <button class="icon-button rail-toggle" id="railToggle" type="button" aria-label="Thu gọn thanh bên" aria-controls="sidebar" aria-expanded="true">
+          <svg class="icon" aria-hidden="true"><use href="#i-sidebar"/></svg>
+        </button>
+        <h1>Trợ lý báo cáo tài chính</h1>
+        <div class="topbar-actions">
+          <span class="service-state" id="serviceState" aria-live="polite" hidden>
+            <span id="serviceLabel"></span>
+          </span>
+          <button class="stop-button" id="stopButton" type="button" hidden>Dừng</button>
+        </div>
+      </header>
+
+      <div class="fixture-banner" id="fixtureBanner" role="alert" hidden>
+        <svg class="icon banner-icon" aria-hidden="true"><use href="#i-alert"/></svg>
+        <span><strong>Chế độ fixture đang bật.</strong> Câu trả lời có thể là dữ liệu minh họa, không phải số liệu trực tiếp.</span>
+      </div>
+
+      <!-- Workspace, not a transcript: the answer and its evidence are both
+           permanently on screen, so the proof never has to be scrolled to. -->
+      <div class="panes" id="panes">
+        <section class="answer-pane" id="answerPane" aria-label="Câu trả lời" tabindex="-1">
+          <div class="pane-scroll" id="messages" role="log" aria-live="polite" aria-relevant="additions text"></div>
+          <form class="composer" id="promptForm">
+            <label class="sr-only" for="promptInput">Câu hỏi tài chính</label>
+            <div class="composer-field">
+              <span class="composer-caret" aria-hidden="true">&gt;</span>
+              <textarea id="promptInput" rows="1" maxlength="2000" placeholder="Hỏi về doanh thu, lợi nhuận, dòng tiền…" autocomplete="off"></textarea>
+              <button class="send-button" id="sendButton" type="submit" aria-label="Gửi câu hỏi">
+                <svg class="icon" aria-hidden="true"><use href="#i-arrow-out"/></svg>
+              </button>
+            </div>
+          </form>
+        </section>
+
+        <button class="pane-resizer" id="paneResizer" type="button"
+                role="separator" aria-orientation="vertical" aria-label="Kéo để đổi bề rộng cột bằng chứng"></button>
+
+        <aside class="evidence-pane" id="evidencePane" aria-label="Bằng chứng">
+          <div class="pane-head">
+            <button class="back-button" id="evidenceBack" type="button" hidden>
+              <svg class="icon" aria-hidden="true"><use href="#i-back"/></svg> Tất cả bằng chứng
+            </button>
+            <h2 id="evidenceHeading">Bằng chứng</h2>
+            <span class="pane-count" id="evidenceCount"></span>
+          </div>
+          <div class="pane-scroll" id="evidenceBody"></div>
+        </aside>
+      </div>
+    </main>
+  </div>
+  <script src="/demo/static/app.js" defer></script>
+</body>
+</html>

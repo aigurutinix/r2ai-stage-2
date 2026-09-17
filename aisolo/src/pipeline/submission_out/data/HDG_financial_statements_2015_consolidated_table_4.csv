@@ -1,0 +1,22 @@
+﻿company,year,ma_so,label,value,prev
+HDG,2015,01,Doanh thu bán hàng và cung cấp dịch vụ,1488341501595,1566146817060
+HDG,2015,02,Các khoản giảm trừ doanh thu,8414257188,11732258514
+HDG,2015,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),1479927244407,1554414558546
+HDG,2015,11,Giá vốn hàng bán,1250095747988,1300331555608
+HDG,2015,20,Lợi nhuận gộp (20 = 10 - 11),229831496419,254083002938
+HDG,2015,21,Doanh thu hoạt động tài chính,11622128528,19502110054
+HDG,2015,22,Chi phí tài chính,12817319904,4264168145
+HDG,2015,23,Trong đó: Chi phí lãi vay,11994101663,4968053377
+HDG,2015,24,Phần lãi trong công ty liên kết,27919414958,21285192700
+HDG,2015,25,Chi phí bán hàng,2220066864,4414777677
+HDG,2015,26,Chi phí quản lý doanh nghiệp,70612018677,70622046552
+HDG,2015,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},183723634460,215569313318
+HDG,2015,31,Thu nhập khác,2567072826,1420084826
+HDG,2015,32,Chi phí khác,1056529794,4539119070
+HDG,2015,40,Lợi nhuận/(lỗ) khác (40 = 31 - 32),1510543032,-3119034244
+HDG,2015,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),185234177492,212450279074
+HDG,2015,51,Chi phí thuế TNDN hiện hành,43725665762,45112188862
+HDG,2015,52,Chi phí thuế TNDN hoãn lại,2282871408,4528687565
+HDG,2015,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),139225640322,162809402647
+HDG,2015,61,Lợi nhuận sau thuế của cổ đông của công ty mẹ,123458764551,148275298290
+HDG,2015,62,Lợi nhuận sau thuế của cổ đông không kiểm soát,15766875771,14534104357

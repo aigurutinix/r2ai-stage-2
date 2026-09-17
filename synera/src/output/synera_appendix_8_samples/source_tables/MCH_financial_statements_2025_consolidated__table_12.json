@@ -1,0 +1,151 @@
+{
+  "doc_id": "MCH_financial_statements_2025_consolidated",
+  "document_sha256": "0db98795c37d247ad02d4f4ee00e46c82412794b1d5cf8c574772caf2e1edc14",
+  "table_id_internal": 12,
+  "physical_line_one_based": 277,
+  "html_sha256": "bea71984094569ae31e6864b933b0f669f5cde5868f1cb3ef0fcd2a9aed94ff7",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2025 VND</td><td>2024 VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>28</td><td>30.814.063.570.655</td><td>31.155.474.118.994</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td>28</td><td>257.526.964.714</td><td>258.248.493.757</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)</td><td>10</td><td>28</td><td>30.556.536.605.941</td><td>30.897.225.625.237</td></tr><tr><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>29</td><td>16.650.193.979.884</td><td>16.492.540.385.018</td></tr><tr><td>Lợi nhuận gộp (20 = 10 - 11)</td><td>20</td><td></td><td>13.906.342.626.057</td><td>14.404.685.240.219</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>30</td><td>1.101.773.477.711</td><td>1.800.658.967.028</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>31</td><td>557.023.389.341</td><td>377.908.783.144</td></tr><tr><td>Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>494.407.157.679</td><td>327.528.532.894</td></tr><tr><td>Phần lãi trong một công ty liên kết</td><td>24</td><td>7(c)</td><td>82.956.929.646</td><td>65.065.176.215</td></tr><tr><td>Chi phí bán hàng</td><td>25</td><td>32</td><td>5.749.106.254.176</td><td>5.903.986.348.153</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>33</td><td>1.020.259.072.994</td><td>975.922.898.666</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)}</td><td>30</td><td></td><td>7.764.684.316.903</td><td>9.012.591.353.499</td></tr><tr><td>Thu nhập khác</td><td>31</td><td></td><td>8.847.141.370</td><td>3.762.860.256</td></tr><tr><td>Chi phí khác</td><td>32</td><td></td><td>8.608.085.997</td><td>12.041.347.338</td></tr><tr><td>Kết quả từ các hoạt động khác (40 = 31 - 32)</td><td>40</td><td></td><td>239.055.373</td><td>(8.278.487.082)</td></tr><tr><td>Lợi nhuận kế toán trước thuế (50 = 30 + 40)</td><td>50</td><td></td><td>7.764.923.372.276</td><td>9.004.312.866.417</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>34</td><td>937.348.355.376</td><td>1.127.794.091.580</td></tr><tr><td>Chi phí/(lợi ích) thuế TNDN hoãn lại</td><td>52</td><td>34</td><td>63.426.302.313</td><td>(44.018.756.162)</td></tr><tr><td>Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)</td><td>60</td><td></td><td>6.764.148.714.587</td><td>7.920.537.530.999</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "2025 VND",
+      "2024 VND"
+    ],
+    [
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "01",
+      "28",
+      "30.814.063.570.655",
+      "31.155.474.118.994"
+    ],
+    [
+      "Các khoản giảm trừ doanh thu",
+      "02",
+      "28",
+      "257.526.964.714",
+      "258.248.493.757"
+    ],
+    [
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)",
+      "10",
+      "28",
+      "30.556.536.605.941",
+      "30.897.225.625.237"
+    ],
+    [
+      "Giá vốn hàng bán và dịch vụ cung cấp",
+      "11",
+      "29",
+      "16.650.193.979.884",
+      "16.492.540.385.018"
+    ],
+    [
+      "Lợi nhuận gộp (20 = 10 - 11)",
+      "20",
+      "",
+      "13.906.342.626.057",
+      "14.404.685.240.219"
+    ],
+    [
+      "Doanh thu hoạt động tài chính",
+      "21",
+      "30",
+      "1.101.773.477.711",
+      "1.800.658.967.028"
+    ],
+    [
+      "Chi phí tài chính",
+      "22",
+      "31",
+      "557.023.389.341",
+      "377.908.783.144"
+    ],
+    [
+      "Trong đó: Chi phí lãi vay",
+      "23",
+      "",
+      "494.407.157.679",
+      "327.528.532.894"
+    ],
+    [
+      "Phần lãi trong một công ty liên kết",
+      "24",
+      "7(c)",
+      "82.956.929.646",
+      "65.065.176.215"
+    ],
+    [
+      "Chi phí bán hàng",
+      "25",
+      "32",
+      "5.749.106.254.176",
+      "5.903.986.348.153"
+    ],
+    [
+      "Chi phí quản lý doanh nghiệp",
+      "26",
+      "33",
+      "1.020.259.072.994",
+      "975.922.898.666"
+    ],
+    [
+      "Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)}",
+      "30",
+      "",
+      "7.764.684.316.903",
+      "9.012.591.353.499"
+    ],
+    [
+      "Thu nhập khác",
+      "31",
+      "",
+      "8.847.141.370",
+      "3.762.860.256"
+    ],
+    [
+      "Chi phí khác",
+      "32",
+      "",
+      "8.608.085.997",
+      "12.041.347.338"
+    ],
+    [
+      "Kết quả từ các hoạt động khác (40 = 31 - 32)",
+      "40",
+      "",
+      "239.055.373",
+      "(8.278.487.082)"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuế (50 = 30 + 40)",
+      "50",
+      "",
+      "7.764.923.372.276",
+      "9.004.312.866.417"
+    ],
+    [
+      "Chi phí thuế TNDN hiện hành",
+      "51",
+      "34",
+      "937.348.355.376",
+      "1.127.794.091.580"
+    ],
+    [
+      "Chi phí/(lợi ích) thuế TNDN hoãn lại",
+      "52",
+      "34",
+      "63.426.302.313",
+      "(44.018.756.162)"
+    ],
+    [
+      "Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau)",
+      "60",
+      "",
+      "6.764.148.714.587",
+      "7.920.537.530.999"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== Công ty Cổ phần Hàng tiêu dùng Masan và các công ty con Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2025 Mẫu B 02 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)"
+}

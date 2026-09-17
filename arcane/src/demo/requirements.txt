@@ -1,0 +1,6 @@
+# Demo-only dependencies. The submission pipeline does not need any of these,
+# which is why they are here rather than in pyproject.toml.
+fastapi>=0.115,<1
+httpx>=0.27,<1
+openai>=1.40,<3
+uvicorn[standard]>=0.34,<1

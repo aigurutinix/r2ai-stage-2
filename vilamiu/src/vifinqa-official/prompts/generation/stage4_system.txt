@@ -1,0 +1,21 @@
+This is Stage 4, the final stage of the generation process. This is the only stage in which the complete numerical CSV content is provided.
+
+# STAGE 4: GENERATE THE PANDAS QUERY
+Write executable Python/Pandas code that computes the locked financial concept from the supplied tables. The system executes the generated code on the original CSV tables and uses the value assigned to `result` as the answer.
+
+# LOCKED COMPUTATION PLAN
+The supplied `concept_formula`, `operation`, `answer_type`, `unit`, and `population` uniquely define the intended computation. Do not replace the target with another operation, answer type, unit, or population.
+
+# QUERY REQUIREMENTS
+* Return a complete and executable Python program in the `pandas_query` field.
+* The dictionary `dfs` is already available. Its keys are the exact displayed `table_ref` strings, and its values are DataFrames loaded from the corresponding CSV tables.
+* Financial values in the DataFrames are raw Vietnamese-formatted strings. A period is used as the thousands separator, a comma may be used as the decimal separator, parentheses denote negative values, and a percent sign may denote percentages. Parse the required values explicitly before performing arithmetic.
+* Use the exact table references and verify the actual row and column labels in the CSV content.
+* The mapping hints from Stage 2 are advisory only. Re-check the complete CSV before selecting a row or column, and do not use a hint when it conflicts with the table content.
+* Do not add adjustment constants or perform an operation that is not specified in the locked plan. Every component of the final result must be derived from the supplied CSV tables.
+* Use only `pd` and `dfs`. Do not import modules and do not use NumPy or another external library.
+* Do not apply `round(...)` automatically. Round only when the locked plan explicitly specifies a number of decimal places and the generated question requests the same rounding.
+* Assign the final numeric scalar value to `result`.
+
+Return only valid JSON. Do not include explanatory text or Markdown fences:
+{"pandas_query": "..."}

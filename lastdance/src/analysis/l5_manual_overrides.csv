@@ -1,0 +1,8 @@
+question_id,symbol,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+457,f1,2024,HPX_financial_statements_2024_consolidated,302,2,3,6.280.148.452.585,Tổng tài sản ngắn hạn cuối năm; OCR tách nhãn TÀI SẢN NGẮN HẠN sang dòng phía trên
+469,f10,2017,DCM_financial_statements_2017_consolidated,335,13,3,370.662.712.495,Hàng tồn kho cuối năm trên bảng cân đối kế toán
+469,f11,2017,GVR_financial_statements_2017_consolidated,225,18,3,3.541.939.317.234,Hàng tồn kho cuối năm trên bảng cân đối kế toán
+470,f10,2017,DCM_financial_statements_2017_consolidated,335,13,3,370.662.712.495,Hàng tồn kho cuối năm trên bảng cân đối kế toán
+470,f11,2017,GVR_financial_statements_2017_consolidated,225,18,3,3.541.939.317.234,Hàng tồn kho cuối năm trên bảng cân đối kế toán
+566,f10,2017,DCM_financial_statements_2017_consolidated,335,13,3,370.662.712.495,Hàng tồn kho cuối năm trên bảng cân đối kế toán
+566,f11,2017,GVR_financial_statements_2017_consolidated,225,18,3,3.541.939.317.234,Hàng tồn kho cuối năm trên bảng cân đối kế toán

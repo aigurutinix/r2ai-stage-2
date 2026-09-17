@@ -1,0 +1,13 @@
+Computation to implement:
+- Concept: {{CONCEPT_NAME}}
+- Formula: {{CONCEPT_FORMULA}}
+- Operation: {{OPERATION}}
+- Answer type: {{ANSWER_TYPE}}
+- Unit: {{UNIT}}
+- Table topic: {{TABLE_TOPIC}}
+- Population: {{POPULATION}}
+- Financial rationale: {{FINANCIAL_RATIONALE}}
+
+{{SELECTED_TABLE_BLOCKS_WITH_CSV}}
+
+Generate the executable `pandas_query` according to the locked plan and return exactly the required JSON object.

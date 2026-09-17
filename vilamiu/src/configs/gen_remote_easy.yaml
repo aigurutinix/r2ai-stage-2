@@ -1,0 +1,28 @@
+command: generate
+run: {name: remote-easy}
+generation:
+  tier: easy
+  engine: legacy
+  count: 60
+  workers: 16
+  # A fixed seed makes every batch propose the same candidates, so an unattended
+  # loop would regenerate the same questions all night. The loop overrides this
+  # per batch; the value here is only the default for a one-off run.
+  seed: 1
+  max_candidates: 400
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  # Served on the same box over localhost. Measured on this pipeline:
+  # qwen3-14b accepted 5/5, Qwen3.5-9B timed out on every call, Coder-7B answered
+  # 685 times and had all 685 rejected by schema validation. Capability is the
+  # axis that matters here, not coder-versus-reasoner.
+  #
+  # This model emits real <think> tags, so vLLM runs with `--reasoning-parser
+  # qwen3` and `content` arrives as clean JSON. The 9B needed the opposite —
+  # it reasons in bare prose, and the parser left content empty.
+  model_id: Qwen/Qwen3-14B-AWQ
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2

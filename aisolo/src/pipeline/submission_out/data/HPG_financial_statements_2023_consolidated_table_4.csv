@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+HPG,2023,01,Doanh thu bán hàng và cung cấp dịch vụ,120355231616139,142770810676858
+HPG,2023,02,Các khoản giảm trừ doanh thu,1402203722485,1361536216226
+HPG,2023,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),118953027893654,141409274460632
+HPG,2023,11,Giá vốn hàng bán và dịch vụ cung cấp,106015187198082,124645848221080
+HPG,2023,20,Lợi nhuận gộp (20 = 10 - 11),12937840695572,16763426239552
+HPG,2023,21,Doanh thu hoạt động tài chính,3173086404949,3743650707331
+HPG,2023,22,Chi phí tài chính,5191511844389,7026723285241
+HPG,2023,23,Trong đó: Chi phí đi vay,3585077683881,3083638131818
+HPG,2023,24,Phần lỗ trong công ty liên kết,-1072667584,
+HPG,2023,25,Chi phí bán hàng,1961362129952,2665806087302
+HPG,2023,26,Chi phí quản lý doanh nghiệp,1307290336873,1019444279447
+HPG,2023,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},7650762789307,9794030627309
+HPG,2023,31,Thu nhập khác,771973465495,872024724926
+HPG,2023,32,Chi phí khác,630007511629,743114224951
+HPG,2023,40,Kết quả từ hoạt động khác (40 = 31 - 32),141965953866,128910499975
+HPG,2023,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),7792728743173,9922941127284
+HPG,2023,51,Chi phí thuế TNDN hiện hành,1073551888059,1001020240086
+HPG,2023,52,(Lợi ích)/chi phí thuế TNDN hoãn lại,-81211459967,477491832682
+HPG,2023,60,Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52),6800388315081,8444429054516

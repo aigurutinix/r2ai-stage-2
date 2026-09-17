@@ -1,0 +1,151 @@
+{
+  "doc_id": "HSG_financial_statements_2023_consolidated",
+  "document_sha256": "105f24dc4c9d87a1ece7361a154d47f75498b4dced06bd5a591733093fe08c56",
+  "table_id_internal": 2,
+  "physical_line_one_based": 121,
+  "html_sha256": "fb96b8d874fd5bed470bdcaa83cfb85b9bc374d690bd73833595e41cf4893a9c",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>30/9/2023 VND</td><td>1/10/2022 VND</td></tr><tr><td colspan=\"5\">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn\\( (100 = 110 + 120 + 130 + 140 + 150) \\)</td><td>100</td><td></td><td>11.274.839.904.924</td><td>9.834.993.231.398</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>5</td><td>596.862.912.861</td><td>330.134.957.719</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>576.792.912.861</td><td>312.367.302.226</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>20.070.000.000</td><td>17.767.655.493</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>26.175.510.851</td><td>8.698.661.821</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>123</td><td>6(a)</td><td>26.175.510.851</td><td>8.698.661.821</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>2.322.150.338.611</td><td>1.452.105.119.089</td></tr><tr><td>Phải thu của khách hàng</td><td>131</td><td>7(a)</td><td>1.852.766.528.136</td><td>1.185.661.917.716</td></tr><tr><td>Trả trước cho người bán</td><td>132</td><td>8</td><td>97.524.228.315</td><td>117.395.280.068</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>9(a)</td><td>383.617.751.361</td><td>162.755.089.894</td></tr><tr><td>Dự phòng phải thu khó đòi</td><td>137</td><td>7(c)</td><td>(11.758.169.201)</td><td>(13.707.168.589)</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>10</td><td>7.628.606.120.691</td><td>7.395.309.339.966</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>7.746.044.623.773</td><td>8.110.988.499.714</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>149</td><td></td><td>(117.438.503.082)</td><td>(715.679.159.748)</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>701.045.021.910</td><td>648.745.152.803</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>14(a)</td><td>135.385.630.493</td><td>139.831.025.949</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>437.009.675.890</td><td>372.839.784.442</td></tr><tr><td>Thuế phải thu Nhà nước</td><td>153</td><td>17(a)</td><td>128.649.715.527</td><td>136.074.342.412</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "30/9/2023 VND",
+      "1/10/2022 VND"
+    ],
+    [
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN"
+    ],
+    [
+      "Tài sản ngắn hạn\\( (100 = 110 + 120 + 130 + 140 + 150) \\)",
+      "100",
+      "",
+      "11.274.839.904.924",
+      "9.834.993.231.398"
+    ],
+    [
+      "Tiền và các khoản tương đương tiền",
+      "110",
+      "5",
+      "596.862.912.861",
+      "330.134.957.719"
+    ],
+    [
+      "Tiền",
+      "111",
+      "",
+      "576.792.912.861",
+      "312.367.302.226"
+    ],
+    [
+      "Các khoản tương đương tiền",
+      "112",
+      "",
+      "20.070.000.000",
+      "17.767.655.493"
+    ],
+    [
+      "Đầu tư tài chính ngắn hạn",
+      "120",
+      "",
+      "26.175.510.851",
+      "8.698.661.821"
+    ],
+    [
+      "Đầu tư nắm giữ đến ngày đáo hạn",
+      "123",
+      "6(a)",
+      "26.175.510.851",
+      "8.698.661.821"
+    ],
+    [
+      "Các khoản phải thu ngắn hạn",
+      "130",
+      "",
+      "2.322.150.338.611",
+      "1.452.105.119.089"
+    ],
+    [
+      "Phải thu của khách hàng",
+      "131",
+      "7(a)",
+      "1.852.766.528.136",
+      "1.185.661.917.716"
+    ],
+    [
+      "Trả trước cho người bán",
+      "132",
+      "8",
+      "97.524.228.315",
+      "117.395.280.068"
+    ],
+    [
+      "Phải thu ngắn hạn khác",
+      "136",
+      "9(a)",
+      "383.617.751.361",
+      "162.755.089.894"
+    ],
+    [
+      "Dự phòng phải thu khó đòi",
+      "137",
+      "7(c)",
+      "(11.758.169.201)",
+      "(13.707.168.589)"
+    ],
+    [
+      "Hàng tồn kho",
+      "140",
+      "10",
+      "7.628.606.120.691",
+      "7.395.309.339.966"
+    ],
+    [
+      "Hàng tồn kho",
+      "141",
+      "",
+      "7.746.044.623.773",
+      "8.110.988.499.714"
+    ],
+    [
+      "Dự phòng giảm giá hàng tồn kho",
+      "149",
+      "",
+      "(117.438.503.082)",
+      "(715.679.159.748)"
+    ],
+    [
+      "Tài sản ngắn hạn khác",
+      "150",
+      "",
+      "701.045.021.910",
+      "648.745.152.803"
+    ],
+    [
+      "Chi phí trả trước ngắn hạn",
+      "151",
+      "14(a)",
+      "135.385.630.493",
+      "139.831.025.949"
+    ],
+    [
+      "Thuế giá trị gia tăng được khấu trừ",
+      "152",
+      "",
+      "437.009.675.890",
+      "372.839.784.442"
+    ],
+    [
+      "Thuế phải thu Nhà nước",
+      "153",
+      "17(a)",
+      "128.649.715.527",
+      "136.074.342.412"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 6 ===== Công ty Cổ phần Tập đoàn Hoa Sen và các công ty con Băng cân đối kế toán hợp nhất tại ngày 30 tháng 9 năm 2023 Mẫu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính)"
+}

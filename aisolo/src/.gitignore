@@ -1,0 +1,163 @@
+# === Dependencies & build ===
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+**/out/
+**/build/
+.pnp
+.pnp.*
+
+# === Env & secrets (KHÔNG commit) ===
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+.vercel
+**/.vercel
+
+# === Mã nguồn tham khảo (credit trong README, không phân phối lại) ===
+ma_nguon_tham_khao/
+
+# === Dữ liệu mẫu chỉ dùng test local, KHÔNG phân phối lại ===
+# Dùng `/*` chứ không phải `/`: git không cho re-include file nằm trong một THƯ MỤC đã bị loại,
+# nên phải loại NỘI DUNG thư mục rồi mới mở lại được ngoại lệ bên dưới.
+r2ai-app/public/samples/*
+# Ngoại lệ: file này do CHÍNH TA sinh ra 100% bằng `r2ai-app/make-audit-sample.mjs` (cũng nằm
+# trong repo), không chứa dữ liệu của bên thứ ba nào ⇒ phân phối lại được. Phải kèm theo repo,
+# nếu không nút "Thử dữ liệu lệch đơn vị" sẽ hỏng trên bản clone mới.
+!r2ai-app/public/samples/01_unit_error_financial_statements.csv
+# Cùng lý do: sinh 100% bằng `r2ai-app/make-messy-sample.mjs` (cũng trong repo). Thiếu file này
+# thì nút "Thử CSV lạ" hỏng trên bản clone mới.
+!r2ai-app/public/samples/01_messy_financial_statements.csv
+
+# === Docs nội bộ & ghi chú (KHÔNG public) ===
+docs/
+road-to-ai-luu-y-thoa-thuan.md
+# AGENTS.md cùng loại với WORKING-NOTES.md: bảng ngõ cụt, kỷ luật đo, thứ hạng, bẫy nội bộ.
+# Giữ trên máy để agent/người làm tiếp đọc, KHÔNG đưa lên repo công khai.
+AGENTS.md
+
+# === File/script kiểm thử (không cần trong repo public) ===
+# Đây là dụng cụ đo nội bộ: chúng phơi ra ngưỡng, ca kiểm và cách dàn dựng dữ liệu — không phải
+# thứ người đọc mã nguồn cần, và cũng không chạy được nếu thiếu .env.local / dev server.
+# Cấu hình + đầu ra biên dịch chỉ phục vụ các script kiểm ở trên (sinh lại được, không phải sản phẩm)
+r2ai-app/.verify-out/
+# Script E2E GIAO DIỆN (Playwright): cần dev server + .env.local + Ollama mới chạy được, nên trên
+# máy người khác chúng chỉ là mã chết. Ảnh chúng sinh ra thì VẪN đẩy (demo-shots/) — cái người đọc
+# cần là kết quả, không phải giàn giáo. Các script kiểm thuần logic (verify-clean, verify-preprocess,
+# verify-pipeline-contract…) thì GIỮ LẠI: chạy được ngay bằng node, không cần trình duyệt.
+r2ai-app/capture-demo-shots.mjs
+r2ai-app/verify-app.mjs
+r2ai-app/verify-e2e-normalize.mjs
+r2ai-app/verify-pandas.mjs
+r2ai-app/verify-ui-changes.mjs
+# GIỮ LẠI có chủ ý: `make-audit-sample.mjs` KHÔNG phải script kiểm thử mà là bộ sinh dữ liệu —
+# nó chính là bằng chứng file mẫu `01_unit_error_...csv` (có trong repo) do ta tự tạo 100%,
+# không lấy của bên thứ ba. Bỏ nó đi thì mất căn cứ phân phối lại file CSV đó.
+
+# === Slide/thuyết trình ===
+# ĐẨY LÊN có chủ ý (22/08): hồ sơ nộp gồm link GitHub + bộ slide, nên deck phải ở ngay trong repo
+# để người chấm mở được mà không cần tìm trong mail.
+# NHƯNG script dựng deck thì KHÔNG (23/08): nó chỉ ghép 22 ảnh JPG thành .pptx, mà bộ ảnh nguồn
+# không phân phối kèm (ảnh do mô hình sinh) nên người khác chạy cũng không ra gì. Nó lại được sinh
+# lại sau mỗi lần làm slide, và mỗi lần như vậy lại ghi cứng đường dẫn máy cá nhân vào — giữ trong
+# repo là tự tạo một chỗ rò rỉ định kỳ. Bản dựng rồi (.pptx/.pdf) mới là thứ cần công khai.
+build_presentation.py
+slide_src/
+
+# === Video nền không dùng trong source (login đã dùng ảnh) — loại cả root lẫn public ===
+video_background_r2ai.mp4
+
+# === Python (pipeline nghiên cứu — chỉ commit .py + README, bỏ cache) ===
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# === Output nộp bài (sinh từ data ViFinQA CC-BY-NC — KHÔNG commit) ===
+
+# === Python venv + embedding cache (GPU dense retrieval) ===
+.venv/
+pipeline/emb_cache/
+
+# === Scratch / logs / OS ===
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Giữ lại: demo-shots/, pipeline/ (.py + README), background_r2ai.png, design.md, LICENSE, THIRD-PARTY-NOTICES.md, README.md, r2ai-app/ (trừ node_modules/.next/.env/verify-app.mjs)
+
+# LLM engine (Modal) — cache + secrets
+pipeline/llm_cache/
+pipeline/.env
+
+# Tài liệu nội bộ & công cụ dựng slide — không công khai
+WORKING-NOTES.md
+WORKING-NOTES-outline.md
+merge_slide.py
+slide_05_merged.jpg
+
+# Script thí nghiệm / phụ trợ — không thuộc chuỗi chạy chính
+pipeline/exp_rowpick_4b_result.txt
+pipeline/exp_rowpick_9b_result.txt
+
+# Kết quả chạy sinh từ model. Ba tệp dưới đây CÓ commit (tổng 575 KB): chúng là đầu vào bắt buộc
+# để dựng lại bài nộp, mà sinh lại thì cần GPU và nhiều giờ — kèm sẵn thì người chấm tái lập được
+# ngay bằng CPU. Các biến thể/bản nháp còn lại vẫn chặn.
+pipeline/agent_full_v2.json.bak
+pipeline/agent_audit*.json
+!pipeline/agent_audit.json
+pipeline/audit_retry_ids.json
+pipeline/audit_smoke*.json
+pipeline/wrong_ids.json
+pipeline/audit_run*.log
+pipeline/finish*.log
+pipeline/identity_viol.json
+pipeline/unit_mismatch.json
+
+# Script thăm dò một lần (kết luận đã ghi vào docstring của hàm liên quan)
+
+# Script đo lường nội bộ (phụ thuộc devset không công bố)
+
+# Dev set đo lường nội bộ (phái sinh từ corpus BTC + phán quyết model lớn) — chỉ dùng local
+pipeline/devset/
+pipeline/exp_rank23_llm.json
+pipeline/rank23.log
+
+# Bản kê tên ảnh do capture-demo-shots.mjs sinh cho verify-shots.py — file trung gian,
+# tái tạo mỗi lần chụp, không phải sản phẩm.
+r2ai-app/.demo-shots.json
+
+# Dataset ViFinQA (dữ liệu ban tổ chức — KHÔNG commit)
+data_vifinqa/
+/data/
+
+# === Bài nộp: đẩy BẢN CHÍNH, bỏ bản sao lưu và các bản probe ===
+# BTC yêu cầu nộp "Bài nộp" (submission.json + data/*.csv). Chỉ giữ đúng bản chính để không
+# mơ hồ file nào mới là bài nộp thật; các bản probe/backup là thí nghiệm, tái tạo được.
+pipeline/submission_0330_backup/
+pipeline/submission_out/probe_*/
+pipeline/submission_out/submission.prev.json
+pipeline/submission_out/submission.submitted.json
+pipeline/submission_out/submission.zip
+
+# Ket qua tham do (sinh lai duoc bang probe_bs_identity.py)
+pipeline/probe_bs_identity.json
+
+# Dau ra tham do (sinh lai duoc)
+pipeline/probe_out/
+
+# Kho trich xuat tu du lieu BTC (CC BY-NC) — sinh lai bang: python pipeline/build_corpus.py
+# KHONG commit: day la noi dung phai sinh tu corpus co giay phep han che.
+r2ai-app/public/corpus/
+
+# Dau ra tham do rowpick (2,1 MB, ket qua am — xem docstring build_rowpick.py)
+pipeline/tt200_rowpick.json
+
+# Bo khoi dong Task Scheduler cho cac lan chay dai — dac thu MOT may (duong dan tuyet doi, tro
+# vao VIFINQA_ROOT cu da bo, ghi ra log/JSON danh so lan chay). Nguoi cham chay theo huong dan
+# trong pipeline/README.md, khong chay may tep nay.
+pipeline/run_*.cmd

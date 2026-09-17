@@ -1,0 +1,45 @@
+﻿command: generate
+run: {name: gen14b}
+generation:
+  tier: easy
+  engine: legacy
+  count: 40
+  # vLLM is serving 64 concurrent sequences; the client has to actually ask for
+  # them or two thirds of the card idles. Each question costs several sequential
+  # LLM calls (draft, judge, validate, rewrite), so worker count is what turns
+  # GPU concurrency into question throughput.
+  workers: 32
+  seed: 1
+  max_candidates: 400
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  # Qwen3.5-9B produced 0/20: it reasons in prose with no <think> tags, burned the
+  # completion budget on "Thinking Process: 1. Analyze the Request..." and every
+  # call hit the client timeout. A coder model is not a reasoning model â€” it emits
+  # the artefact directly â€” and our own measurement puts Qwen2.5-Coder far ahead
+  # on program output (61% usable against 9.4%).
+  #
+  # 7B rather than 14B: half the weights leave far more of the 24 GB card for KV
+  # cache, so more sequences run at once. The risk that buys is a weaker *judge* â€”
+  # the pipeline uses the LLM to reject questions that copy a row label, which is
+  # exactly what keeps synthetic data from collapsing onto the easy half. That is
+  # measured by `_probe_synth_quality.py`, not assumed.
+  # MEASURED, on this pipeline and this corpus:
+  #   qwen/qwen3-14b  (OpenRouter, reasoning)  5/5   accepted
+  #   Qwen3.5-9B      (local, reasoning)       0/20  every call timed out
+  #   Coder-7B-AWQ    (local, coder)           0/685 answered, all rejected
+  #
+  # The 7B result is the informative one: 685 completions came back 200 OK and
+  # not one survived schema validation and execution. So the axis that matters
+  # here is not coder-versus-reasoner â€” it is capability. Our old 61%-vs-9.4%
+  # measurement favouring a coder model was taken on *our* prompt, a single
+  # program emission; the organisers' pipeline is nested judgement against typed
+  # schemas and was written for gpt-5.4-thinking.
+  #
+  # This is the local twin of the only configuration that has worked.
+  model_id: Qwen/Qwen3-14B-AWQ
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2

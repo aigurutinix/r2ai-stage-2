@@ -1,0 +1,17 @@
+﻿company,year,ma_so,label,value,prev
+SSH,2021,01,Doanh thu bán hàng và cung cấp dịch vụ,337886304563,295013855792
+SSH,2021,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01),337886304563,295013855792
+SSH,2021,11,Giá vốn hàng bán và dịch vụ cung cấp,159515904454,221723067672
+SSH,2021,20,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),178370400109,73290788120
+SSH,2021,21,Doanh thu hoạt động tài chính,182228996925,159375852543
+SSH,2021,22,Chi phí tài chính,112789887883,135883518894
+SSH,2021,23,- Trong đó: Chi phí lãi vay,104777542153,133862100456
+SSH,2021,25,Chi phí bán hàng,8170799159,28458850540
+SSH,2021,26,Chi phí quản lý doanh nghiệp,33188860162,18725741472
+SSH,2021,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22-25-26)),206449849830,49598529757
+SSH,2021,31,Thu nhập khác,1784392437,410802830
+SSH,2021,32,Chi phí khác,13834453543,28536649401
+SSH,2021,40,(Lỗ) khác(40=31-32),-12050061106,-28125846571
+SSH,2021,50,Tổng lợi nhuận kế toán trước thuế (50=30+40),194399788724,21472683186
+SSH,2021,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,41837267691,8088750251
+SSH,2021,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51),152562521033,13383932935

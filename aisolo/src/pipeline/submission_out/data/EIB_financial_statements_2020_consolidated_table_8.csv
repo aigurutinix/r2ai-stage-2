@@ -1,0 +1,25 @@
+﻿company,year,ma_so,label,value,prev
+EIB,2020,21,Thu nhập lãi và các khoản thu nhập tương tự,10818893000000,11305756000000
+EIB,2020,22,Chi phí lãi và các chi phí tương tự,-7505157000000,-8085390000000
+EIB,2020,,Thu nhập lãi thuần,3313736000000,3220366000000
+EIB,2020,,Thu nhập từ hoạt động dịch vụ,984041000000,811551000000
+EIB,2020,,Chi phí hoạt động dịch vụ,-516085000000,-428015000000
+EIB,2020,23,Lãi thuần từ hoạt động dịch vụ,467956000000,383536000000
+EIB,2020,24,Lãi thuần từ hoạt động kinh doanh ngoại hồi,398614000000,364541000000
+EIB,2020,25,Lãi thuần từ mua bán chứng khoán đầu tư,55408000000,229058000000
+EIB,2020,,Thu nhập từ hoạt động khác,245727000000,646791000000
+EIB,2020,,Chi phí hoạt động khác,-39703000000,-362663000000
+EIB,2020,26,Lãi thuần từ hoạt động khác,206024000000,284128000000
+EIB,2020,27,"Thu nhập từ góp vốn, mua cổ phần",3849000000,4659000000
+EIB,2020,,TỔNG THU NHẬP HOẠT ĐỘNG,4445587000000,4486288000000
+EIB,2020,,Chi phí cho nhân viên,-1468998000000,-1655878000000
+EIB,2020,,Chi phí khấu hao,-154355000000,-159402000000
+EIB,2020,,Chi phí hoạt động khác,-815331000000,-885468000000
+EIB,2020,28,TỔNG CHI PHÍ HOẠT ĐỘNG,-2438684000000,-2700748000000
+EIB,2020,,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,2006903000000,1785540000000
+EIB,2020,10,Chi phí dự phòng rủi ro tín dụng,-667377000000,-690291000000
+EIB,2020,,TỔNG LỢI NHUẬN TRƯỚC THUẾ,1339526000000,1095249000000
+EIB,2020,,Chi phí thuế thu nhập doanh nghiệp hiện hành,-314846000000,-229117000000
+EIB,2020,,Thu nhập thuế thu nhập hoãn lại,45501000000,
+EIB,2020,,Tổng chi phí thuế thu nhập doanh nghiệp,-269345000000,-229117000000
+EIB,2020,,LỢI NHUẬN SAU THUẾ,1070181000000,866132000000

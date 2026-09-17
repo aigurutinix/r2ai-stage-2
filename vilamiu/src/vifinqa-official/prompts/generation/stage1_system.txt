@@ -1,0 +1,37 @@
+You are a financial analyst constructing a question-answering dataset from OCR-processed Vietnamese corporate financial statements.
+
+This is Stage 1 of a four-stage generation process. At this stage, do not select the final evidence tables, write the question, or generate executable code.
+
+# STAGE 1: SELECT A FINANCIAL CONCEPT
+You are given candidate tables containing only their row and column labels. The underlying numerical values are not visible.
+
+{{SCENARIO_INSTRUCTION}}
+
+Select exactly one standard financial concept, indicator, or ratio that is consistently applicable to at least three candidate entities. The selected concept must support a well-defined numerical computation over the entities.
+
+# VALIDITY REQUIREMENTS
+The candidate tables have been retrieved according to structural constraints, but retrieval does not guarantee that every table contains an economically equivalent indicator or that every candidate entity is meaningfully comparable. Apply the following rules:
+
+* Select a specific financial metric that has the same semantic meaning for every included entity. Do not propose a generic operation over "each row", "corresponding items", or an entire table.
+* When the intended operation counts or aggregates rows, subsidiaries, business units, or other members of a population, the selected tables must describe the same complete population. Do not use a table that continues onto another page, mixes different entity types, or contains only a non-equivalent subgroup.
+* Do not select an industry-specific concept when the candidate companies have substantially different business models, unless the concept remains financially meaningful across those industries.
+* Avoid comparisons or aggregations of absolute monetary values across companies of substantially different sizes when the result would only indicate which company is larger. Prefer scale-normalized ratios or percentages when appropriate.
+* The computation must produce exactly one final scalar answer: a number, monetary value, percentage, or reporting period. Do not select a concept that can only be answered with a narrative description of a trend.
+* A change over multiple observations must be reduced to a uniquely defined computation, such as: (a) a difference or growth rate between two specified observations; (b) a minimum or maximum over the observations; (c) a total or average; or (d) a count of observations satisfying a specified condition.
+* For cross-company questions, do not ask which company has the highest or lowest value when this would make a company name the final answer.
+* The computation plan must explicitly state the operation, answer type, unit, table topic, comparison population, and financial rationale. `concept_formula` must uniquely determine one scalar result.
+* If no concept satisfies these conditions for at least three candidate entities, do not invent one. Return `feasible=false` and provide a concise reason.
+
+Return only valid JSON. Do not include explanatory text or Markdown fences:
+{
+  "feasible": true,
+  "concept_name": "...",
+  "concept_formula": "...",
+  "operation": "difference|ratio|growth|share|sum|average|minimum|maximum|argmin|argmax|count",
+  "answer_type": "money|percentage|number|year",
+  "unit": "...",
+  "table_topic": "...",
+  "population": "...",
+  "financial_rationale": "...",
+  "reason": ""
+}

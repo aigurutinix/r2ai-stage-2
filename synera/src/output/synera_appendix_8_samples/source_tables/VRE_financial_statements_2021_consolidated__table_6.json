@@ -1,0 +1,144 @@
+{
+  "doc_id": "VRE_financial_statements_2021_consolidated",
+  "document_sha256": "79e62f997df66f4a75d1623a31abb7b9d7f9e15117b67bfbfedf8ba7301bedc4",
+  "table_id_internal": 6,
+  "physical_line_one_based": 234,
+  "html_sha256": "16c14d0db224f0aebf9fba8bb3cbbfd4b220d4eacdc0fc6f5b41d4ab110e86d6",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2021 Triệu VND</td><td>1/1/2021 Triệu VND</td></tr><tr><td colspan=\"5\">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>7.222.659</td><td>10.480.616</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>2.890.056</td><td>3.537.868</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td>21</td><td>526.183</td><td>788.362</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>22</td><td>278.179</td><td>429.835</td></tr><tr><td>Thuế và các khoản khác phải nộp Nhà nước</td><td>313</td><td>23</td><td>489.648</td><td>321.533</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>-</td><td>204</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>24</td><td>628.864</td><td>1.009.332</td></tr><tr><td>Doanh thu chưa thực hiện ngắn hạn</td><td>318</td><td>25(a)</td><td>91.371</td><td>164.209</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>26(a)</td><td>838.988</td><td>786.519</td></tr><tr><td>Trái phiếu và nợ thuê tài chính ngắn hạn</td><td>320</td><td>27(a)</td><td>19.887</td><td>19.887</td></tr><tr><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td>28</td><td>14.040</td><td>15.091</td></tr><tr><td>Quỹ khen thưởng, phúc lợi</td><td>322</td><td></td><td>2.896</td><td>2.896</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>4.332.603</td><td>6.942.748</td></tr><tr><td>Doanh thu chưa thực hiện dài hạn</td><td>336</td><td>25(b)</td><td>100.106</td><td>86.181</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td>26(b)</td><td>1.018.370</td><td>1.072.229</td></tr><tr><td>Trái phiếu và nợ thuê tài chính dài hạn</td><td>338</td><td>27(b)</td><td>3.137.924</td><td>5.706.162</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>19</td><td>76.203</td><td>78.176</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2021 Triệu VND",
+      "1/1/2021 Triệu VND"
+    ],
+    [
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN"
+    ],
+    [
+      "NỘ PHẢI TRẢ (300 = 310 + 330)",
+      "300",
+      "",
+      "7.222.659",
+      "10.480.616"
+    ],
+    [
+      "Nợ ngắn hạn",
+      "310",
+      "",
+      "2.890.056",
+      "3.537.868"
+    ],
+    [
+      "Phải trả người bán ngắn hạn",
+      "311",
+      "21",
+      "526.183",
+      "788.362"
+    ],
+    [
+      "Người mua trả tiền trước ngắn hạn",
+      "312",
+      "22",
+      "278.179",
+      "429.835"
+    ],
+    [
+      "Thuế và các khoản khác phải nộp Nhà nước",
+      "313",
+      "23",
+      "489.648",
+      "321.533"
+    ],
+    [
+      "Phải trả người lao động",
+      "314",
+      "",
+      "-",
+      "204"
+    ],
+    [
+      "Chi phí phải trả ngắn hạn",
+      "315",
+      "24",
+      "628.864",
+      "1.009.332"
+    ],
+    [
+      "Doanh thu chưa thực hiện ngắn hạn",
+      "318",
+      "25(a)",
+      "91.371",
+      "164.209"
+    ],
+    [
+      "Phải trả ngắn hạn khác",
+      "319",
+      "26(a)",
+      "838.988",
+      "786.519"
+    ],
+    [
+      "Trái phiếu và nợ thuê tài chính ngắn hạn",
+      "320",
+      "27(a)",
+      "19.887",
+      "19.887"
+    ],
+    [
+      "Dự phòng phải trả ngắn hạn",
+      "321",
+      "28",
+      "14.040",
+      "15.091"
+    ],
+    [
+      "Quỹ khen thưởng, phúc lợi",
+      "322",
+      "",
+      "2.896",
+      "2.896"
+    ],
+    [
+      "Nợ dài hạn",
+      "330",
+      "",
+      "4.332.603",
+      "6.942.748"
+    ],
+    [
+      "Doanh thu chưa thực hiện dài hạn",
+      "336",
+      "25(b)",
+      "100.106",
+      "86.181"
+    ],
+    [
+      "Phải trả dài hạn khác",
+      "337",
+      "26(b)",
+      "1.018.370",
+      "1.072.229"
+    ],
+    [
+      "Trái phiếu và nợ thuê tài chính dài hạn",
+      "338",
+      "27(b)",
+      "3.137.924",
+      "5.706.162"
+    ],
+    [
+      "Thuế thu nhập hoãn lại phải trả",
+      "341",
+      "19",
+      "76.203",
+      "78.176"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Vincom Retail và các công ty con Băng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2021 (tiếp theo) Mẫu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

@@ -1,0 +1,9 @@
+### Table: {{TABLE_REF}}
+Company: {{COMPANY_NAME}} (ticker: {{TICKER}})
+Document: {{DOCUMENT_NAME}} (year: {{YEAR}})
+
+Column and row labels:
+{{TABLE_LABELS}}
+
+Context from neighboring pages:
+{{SURROUNDING_PAGES}}

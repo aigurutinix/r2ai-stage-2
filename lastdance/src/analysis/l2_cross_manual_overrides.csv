@@ -1,0 +1,13 @@
+question_id,item,component,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+737,1,a,2023,ASM_financial_statements_2023_consolidated,465,4,3,10.632.177.882.578,Tổng giá vốn hàng bán hợp nhất năm 2023
+750,1,a,2024,SAB_financial_statements_2024_separate,1401,9,4,4.252.730.062.549,Lợi nhuận thuần công ty mẹ SAB năm 2024
+750,2,a,2024,DBC_financial_statements_2024_separate,365,18,3,319.096.888.908,Lợi nhuận sau thuế TNDN công ty mẹ DBC năm 2024
+787,1,a,2024,NVB_financial_statements_2024_separate,1734,14,4,(1.302.046),Tổng trạng thái tiền tệ nội bảng NVB cuối 2024
+787,2,a,2024,KLB_financial_statements_2024_separate,1766,12,4,2.790.883,Tổng trạng thái tiền tệ nội bảng KLB cuối 2024
+790,1,a,2023,VIB_financial_statements_2023_separate,1486,3,2,"5,03",Tỷ trọng dư nợ công nghiệp chế biến chế tạo VIB cuối 2023
+790,2,a,2023,BID_financial_statements_2023_separate,1161,3,2,"16,49",Tỷ trọng dư nợ công nghiệp chế biến chế tạo BID cuối 2023
+796,1,b,2021,SGB_financial_statements_2021_consolidated,349,2,2,944.998,Tổng chi phí lãi SGB năm 2021
+796,2,b,2021,NVB_financial_statements_2021_consolidated,343,2,2,4.283.296,Tổng chi phí lãi NVB năm 2021
+798,1,a,2022,HHV_financial_statements_2022_separate,1513,19,5,99.166.395.728,Tổng giá trị còn lại TSCĐ hữu hình HHV cuối 2022
+798,2,a,2022,VSC_financial_statements_2022_separate,905,13,5,31.609.177.624,Tổng giá trị còn lại TSCĐ hữu hình VSC cuối 2022
+800,2,a,2022,MSB_financial_statements_2022_separate,316,4,2,50.298.619,Tiền gửi và vay các TCTD khác của MSB cuối 2022

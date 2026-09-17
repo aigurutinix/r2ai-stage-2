@@ -1,0 +1,21 @@
+﻿company,year,ma_so,label,value,prev
+POW,2022,01,Doanh thu bán hàng và cung cấp dịch vụ,28224118055975,24560949330329
+POW,2022,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),28224118055975,24560949330329
+POW,2022,11,Giá vốn hàng bán và cung cấp dịch vụ,24498013951665,22020951407015
+POW,2022,20,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),3726104104310,2539997923314
+POW,2022,21,Doanh thu hoạt động tài chính,445221020562,689859994612
+POW,2022,22,Chi phí tài chính,591786538077,652802199566
+POW,2022,23,- Trong đó: Chi phí lãi vay,437526336797,509644391365
+POW,2022,24,Phần lãi trong công ty liên kết,53221920714,22487408373
+POW,2022,25,Chi phí bán hàng,9426420660,
+POW,2022,26,Chi phí quản lý doanh nghiệp,867603382318,130934373388
+POW,2022,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26)),2765157125191,2459182332685
+POW,2022,31,Thu nhập khác,67138158695,19838218070
+POW,2022,32,Chi phí khác,23061110546,139720271858
+POW,2022,40,Lợi nhuận/(lỗ) khác (40=31-32),44077048149,-119882053788
+POW,2022,50,Tổng lợi nhuận kế toán trước thuế (50=30+40),2809234173340,2339300278897
+POW,2022,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,240765852700,164456564043
+POW,2022,52,Chi phí thuế thu nhập doanh nghiệp hoãn lại,15539750493,122690563437
+POW,2022,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),2552928570147,2052153151417
+POW,2022,61,Lợi nhuận sau thuế của Công ty mẹ,2060858298332,1798554042056
+POW,2022,62,Lợi nhuận sau thuế của cổ đông không kiểm soát,492070271815,253599109361

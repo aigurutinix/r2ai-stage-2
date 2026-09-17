@@ -1,0 +1,193 @@
+{
+  "doc_id": "DBC_financial_statements_2025_consolidated",
+  "document_sha256": "c590cffa21755fc238a32a28b2ad5ddce333a19cc2e9652d9b7b5b1c453dd764",
+  "table_id_internal": 9,
+  "physical_line_one_based": 322,
+  "html_sha256": "e3b7a811252b786acf26aa00abf503a8e96a61f765034312279cc6813a7075fb",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td></td><td>I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td><td></td><td></td><td></td></tr><tr><td>01</td><td>Lợi nhuận trước thuếĐiều chỉnh cho các khoản:</td><td></td><td>1.623.473.564.874</td><td>854.248.546.204</td></tr><tr><td>02</td><td>Khấu hao tài sản cố định hữu hình, tài sản cố định thuê tài chính và bất động sản đầu tư</td><td>11, 1214</td><td>656.089.881.583</td><td>639.207.743.578(5.566.521.832)</td></tr><tr><td>03</td><td rowspan=\"2\">Hoàn nhập dự phòng(Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>-</td><td></td></tr><tr><td>04</td><td></td><td>(74.444.096)</td><td>568.738.973</td></tr><tr><td>05</td><td>Lãi từ hoạt động đầu tư</td><td></td><td>(72.324.866.030)</td><td>(35.918.284.999)</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td>27</td><td>261.108.596.916</td><td>263.668.549.326</td></tr><tr><td>08</td><td rowspan=\"3\">Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động(Tăng)/giảm các khoản phải thu(Tăng)/giảm hàng tồn kho</td><td rowspan=\"8\">19</td><td rowspan=\"3\">2.468.272.733.247(194.789.611.666)(841.332.939.631)</td><td rowspan=\"3\">1.716.208.771.2504.340.692.87356.652.880.133(325.239.813.544)(4.241.526.233)</td></tr><tr><td>09</td></tr><tr><td>10</td></tr><tr><td>11</td><td rowspan=\"2\">Tăng/(giảm) các khoản phải trảGiảm/(tăng) chi phí trả trướcTiền lãi vay đã trả</td><td rowspan=\"2\">250.701.210.9727.198.408.359(261.953.546.613)</td><td rowspan=\"2\">(263.624.470.671)(38.403.843.047)</td></tr><tr><td>12</td></tr><tr><td>14</td><td rowspan=\"3\">Thuế thu nhập doanh nghiệp đã nộpTiền thu khác từ hoạt động kinh doanh</td><td rowspan=\"3\">(110.865.789.735)</td><td rowspan=\"3\"></td></tr><tr><td>15</td></tr><tr><td>16</td></tr><tr><td>17</td><td>Tiền chi khác cho hoạt động kinh doanh</td><td>24</td><td>16.092.245.911(40.956.295.077)</td><td>- (19.871.713.000)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>1.292.366.415.767</td><td>1.125.820.977.761</td></tr><tr><td></td><td>II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td><td></td><td></td><td></td></tr><tr><td>21</td><td rowspan=\"2\">Tiền chỉ để mua sắm, xây dựngTSCĐ và các tài sản dài hạn khácTiền thu do thanh lý, nhượng bánTSCĐ</td><td></td><td>(882.993.002.047)</td><td>(870.295.552.915)</td></tr><tr><td>22</td><td></td><td>60.289.188.951</td><td>6.105.532.572</td></tr><tr><td>23</td><td rowspan=\"4\">Tiền chỉ đầu tư vào khoản tiền gửi có kỳ hạnTiền thu hồi lại khoản tiền gửi có kỳ hạnTiền chỉ đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về)Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td rowspan=\"4\">(566.869.382.887)92.540.000.000(179.945.473.661)76.905.718.045</td><td rowspan=\"4\">(937.441.623.860)56.434.504.281-31.260.901.007</td></tr><tr><td>24</td><td></td></tr><tr><td>25</td><td></td></tr><tr><td>27</td><td></td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tưIII. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNHTiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữuTiền thu từ đi vayTiền trả nợ gốc vayTiền trả nợ gốc thuê tài chínhLưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>(1.400.072.951.599)-(13.276.270.838.677)(13.039.342.334.125)(142.439.486.382)94.489.018.170</td><td>(1.713.936.238.915)1.329.761.090.00013.595.572.374.958(14.347.121.357.283)(142.748.534.593)435.463.573.082</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "",
+      "I. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "",
+      "",
+      ""
+    ],
+    [
+      "01",
+      "Lợi nhuận trước thuếĐiều chỉnh cho các khoản:",
+      "",
+      "1.623.473.564.874",
+      "854.248.546.204"
+    ],
+    [
+      "02",
+      "Khấu hao tài sản cố định hữu hình, tài sản cố định thuê tài chính và bất động sản đầu tư",
+      "11, 1214",
+      "656.089.881.583",
+      "639.207.743.578(5.566.521.832)"
+    ],
+    [
+      "03",
+      "Hoàn nhập dự phòng(Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "",
+      "-",
+      ""
+    ],
+    [
+      "04",
+      "Hoàn nhập dự phòng(Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "",
+      "(74.444.096)",
+      "568.738.973"
+    ],
+    [
+      "05",
+      "Lãi từ hoạt động đầu tư",
+      "",
+      "(72.324.866.030)",
+      "(35.918.284.999)"
+    ],
+    [
+      "06",
+      "Chi phí lãi vay",
+      "27",
+      "261.108.596.916",
+      "263.668.549.326"
+    ],
+    [
+      "08",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động(Tăng)/giảm các khoản phải thu(Tăng)/giảm hàng tồn kho",
+      "19",
+      "2.468.272.733.247(194.789.611.666)(841.332.939.631)",
+      "1.716.208.771.2504.340.692.87356.652.880.133(325.239.813.544)(4.241.526.233)"
+    ],
+    [
+      "09",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động(Tăng)/giảm các khoản phải thu(Tăng)/giảm hàng tồn kho",
+      "19",
+      "2.468.272.733.247(194.789.611.666)(841.332.939.631)",
+      "1.716.208.771.2504.340.692.87356.652.880.133(325.239.813.544)(4.241.526.233)"
+    ],
+    [
+      "10",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động(Tăng)/giảm các khoản phải thu(Tăng)/giảm hàng tồn kho",
+      "19",
+      "2.468.272.733.247(194.789.611.666)(841.332.939.631)",
+      "1.716.208.771.2504.340.692.87356.652.880.133(325.239.813.544)(4.241.526.233)"
+    ],
+    [
+      "11",
+      "Tăng/(giảm) các khoản phải trảGiảm/(tăng) chi phí trả trướcTiền lãi vay đã trả",
+      "19",
+      "250.701.210.9727.198.408.359(261.953.546.613)",
+      "(263.624.470.671)(38.403.843.047)"
+    ],
+    [
+      "12",
+      "Tăng/(giảm) các khoản phải trảGiảm/(tăng) chi phí trả trướcTiền lãi vay đã trả",
+      "19",
+      "250.701.210.9727.198.408.359(261.953.546.613)",
+      "(263.624.470.671)(38.403.843.047)"
+    ],
+    [
+      "14",
+      "Thuế thu nhập doanh nghiệp đã nộpTiền thu khác từ hoạt động kinh doanh",
+      "19",
+      "(110.865.789.735)",
+      ""
+    ],
+    [
+      "15",
+      "Thuế thu nhập doanh nghiệp đã nộpTiền thu khác từ hoạt động kinh doanh",
+      "19",
+      "(110.865.789.735)",
+      ""
+    ],
+    [
+      "16",
+      "Thuế thu nhập doanh nghiệp đã nộpTiền thu khác từ hoạt động kinh doanh",
+      "19",
+      "(110.865.789.735)",
+      ""
+    ],
+    [
+      "17",
+      "Tiền chi khác cho hoạt động kinh doanh",
+      "24",
+      "16.092.245.911(40.956.295.077)",
+      "- (19.871.713.000)"
+    ],
+    [
+      "20",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "",
+      "1.292.366.415.767",
+      "1.125.820.977.761"
+    ],
+    [
+      "",
+      "II. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "",
+      "",
+      ""
+    ],
+    [
+      "21",
+      "Tiền chỉ để mua sắm, xây dựngTSCĐ và các tài sản dài hạn khácTiền thu do thanh lý, nhượng bánTSCĐ",
+      "",
+      "(882.993.002.047)",
+      "(870.295.552.915)"
+    ],
+    [
+      "22",
+      "Tiền chỉ để mua sắm, xây dựngTSCĐ và các tài sản dài hạn khácTiền thu do thanh lý, nhượng bánTSCĐ",
+      "",
+      "60.289.188.951",
+      "6.105.532.572"
+    ],
+    [
+      "23",
+      "Tiền chỉ đầu tư vào khoản tiền gửi có kỳ hạnTiền thu hồi lại khoản tiền gửi có kỳ hạnTiền chỉ đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về)Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "(566.869.382.887)92.540.000.000(179.945.473.661)76.905.718.045",
+      "(937.441.623.860)56.434.504.281-31.260.901.007"
+    ],
+    [
+      "24",
+      "Tiền chỉ đầu tư vào khoản tiền gửi có kỳ hạnTiền thu hồi lại khoản tiền gửi có kỳ hạnTiền chỉ đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về)Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "(566.869.382.887)92.540.000.000(179.945.473.661)76.905.718.045",
+      "(937.441.623.860)56.434.504.281-31.260.901.007"
+    ],
+    [
+      "25",
+      "Tiền chỉ đầu tư vào khoản tiền gửi có kỳ hạnTiền thu hồi lại khoản tiền gửi có kỳ hạnTiền chỉ đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về)Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "(566.869.382.887)92.540.000.000(179.945.473.661)76.905.718.045",
+      "(937.441.623.860)56.434.504.281-31.260.901.007"
+    ],
+    [
+      "27",
+      "Tiền chỉ đầu tư vào khoản tiền gửi có kỳ hạnTiền thu hồi lại khoản tiền gửi có kỳ hạnTiền chỉ đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về)Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "(566.869.382.887)92.540.000.000(179.945.473.661)76.905.718.045",
+      "(937.441.623.860)56.434.504.281-31.260.901.007"
+    ],
+    [
+      "30",
+      "Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tưIII. LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNHTiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữuTiền thu từ đi vayTiền trả nợ gốc vayTiền trả nợ gốc thuê tài chínhLưu chuyển tiền thuần từ hoạt động tài chính",
+      "",
+      "(1.400.072.951.599)-(13.276.270.838.677)(13.039.342.334.125)(142.439.486.382)94.489.018.170",
+      "(1.713.936.238.915)1.329.761.090.00013.595.572.374.958(14.347.121.357.283)(142.748.534.593)435.463.573.082"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== Công ty Cổ phần Tập đoàn Dabaco Việt Nam B03-DN/HN BÁO CÁO LƯU CHUYẾN TIỀN TỆ HỢP NHẤT cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 Đơn vị tính: VND"
+}

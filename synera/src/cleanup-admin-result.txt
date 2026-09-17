@@ -1,0 +1,48 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260908105514
+Username: HIEULENHO\DELL
+RunAs User: HIEULENHO\DELL
+Configuration Name: 
+Machine: HIEULENHO (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File E:\Road2AI\cleanup-admin.ps1
+Process ID: 15532
+PSVersion: 5.1.26100.9278
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9278
+BuildVersion: 10.0.26100.9278
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is E:\Road2AI\cleanup-admin-result.txt
+
+Microsoft DiskPart version 10.0.26100.1150
+
+Copyright (C) Microsoft Corporation.
+On computer: HIEULENHO
+
+DiskPart successfully selected the virtual disk file.
+
+  100 percent completed
+
+DiskPart successfully compacted the virtual disk file.
+
+Leaving DiskPart...
+
+
+Length : 10553917440
+
+
+
+
+
+Free : 18674827264
+
+
+
+**********************
+Windows PowerShell transcript end
+End time: 20260908105532
+**********************

@@ -1,0 +1,14 @@
+command: generate
+run: {name: generation-paper-easy}
+generation: {tier: easy, engine: paper, count: 10, workers: 1, seed: 42, max_candidates: 100, max_llm_calls: 40}
+llm: {backend: openai_compatible, base_url_env: OPENAI_URL, api_key_env: OPENAI_API_KEY, model_id: openai/gpt-5.4-thinking, temperature: 0, max_completion_tokens: 8192, max_retries: 0, reasoning_effort: high}
+embedding: {backend: sentence_transformers, model_id: BAAI/bge-m3, adapter: auto, device: auto, batch_size: 8, max_tokens: 1024}
+prompt:
+  stage1_system: prompts/generation/stage1_system.txt
+  stage1_user: prompts/generation/stage1_user.txt
+  stage2_system: prompts/generation/stage2_system.txt
+  stage2_user: prompts/generation/stage2_user.txt
+  stage3_system: prompts/generation/stage3_system.txt
+  stage3_user: prompts/generation/stage3_user.txt
+  stage4_system: prompts/generation/stage4_system.txt
+  stage4_user: prompts/generation/stage4_user.txt

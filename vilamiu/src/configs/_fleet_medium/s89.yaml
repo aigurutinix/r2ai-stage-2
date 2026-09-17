@@ -1,0 +1,54 @@
+# Probe the organisers' `paper` engine — the one that actually built the exam.
+#
+# Everything generated so far used `engine: legacy`, which writes the question
+# *from the table*: it locks a fact whose `metric_name` is read off the row label,
+# then phrases a question around that name. Measured on our own training set,
+# 45.1% of questions contain the answer's row label almost verbatim. The model
+# was taught to copy a word it had already been given.
+#
+# The `paper` engine writes the question blind. Its stage-3 prompt says so:
+# "You do not have access to the CSV content or to the row and column labels."
+# The exam carries that fingerprint exactly — across 1,012 questions there are
+# zero that ask for a company name (stage 3 forbids it), zero open-ended ones,
+# and 53 that ask for a reporting period (stage 3 allows it). No exceptions.
+#
+# The organisers ran these four stages on gpt-5.4-thinking at high reasoning
+# effort. Stage 1 — pick one financial concept that applies to at least three
+# entities, seeing only labels and never a number — is the hard part, and whether
+# a 14B model can do it is the single thing this probe measures. The submission
+# model must be <=14B; the generator is a preprocessing step, and keeping it in
+# the same class keeps the required data-source declaration simple.
+#
+# 15 records at ~4 calls each. `max_llm_calls` is a hard stop so a stage-1 that
+# keeps failing cannot drain the wallet.
+command: generate
+run: {name: vilamiu-paper-probe}
+generation:
+  tier: medium
+  engine: paper
+  count: 3
+  workers: 1
+  seed: 804791
+  max_candidates: 100
+  max_llm_calls: 36
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  model_id: qwen/qwen3.7-flash
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 4
+# `embedding:` removed. `generate_from_paper_prompts` takes no embedder —
+# the section was inherited from paper_easy.yaml and its only effect was to
+# import torch in every process. Twenty of those in parallel exhausted the
+# Windows pagefile: WinError 1455 loading cufft64_11.dll, twenty dead seeds.
+prompt:
+  stage1_system: prompts/generation/stage1_system.txt
+  stage1_user: prompts/generation/stage1_user.txt
+  stage2_system: prompts/generation/stage2_system.txt
+  stage2_user: prompts/generation/stage2_user.txt
+  stage3_system: prompts/generation/stage3_system.txt
+  stage3_user: prompts/generation/stage3_user.txt
+  stage4_system: prompts/generation/stage4_system.txt
+  stage4_user: prompts/generation/stage4_user.txt

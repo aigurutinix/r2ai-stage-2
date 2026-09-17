@@ -1,0 +1,5 @@
+[console_scripts]
+vifinqa-build-index = road2ai_vifinqa.build_index:main
+vifinqa-build-panel = road2ai_vifinqa.build_panel:main
+vifinqa-solve = road2ai_vifinqa.solve:main
+vifinqa-validate = road2ai_vifinqa.validate:main

@@ -1,0 +1,34 @@
+# Nối tiếp mẻ easy sau khi tắt máy, 12/08/2026.
+#
+# Chạy lại với seed cũ (20260812) sẽ đi lại đúng những ứng viên đã làm: danh sách
+# được `rng.shuffle` theo seed, và **không có cache LLM** trên đường easy — thư mục
+# .cache/vifinqa trống và không chỗ nào trong easy.py hay openai_compatible.py đọc
+# nó. Mỗi bảng đi lại là một lần trả tiền lại, không phải cache hit.
+#
+# Nên seed ở đây khác hẳn. Trùng lặp ngẫu nhiên với 1.316 bản đã có là không đáng kể
+# trên 146.246 bảng, và bước dựng SFT vốn đã lọc trùng theo (question, relevant_tables).
+#
+# Chạy:
+#   PYTHONIOENCODING=utf-8 nohup python scripts/run_official_generate.py \
+#     --config configs/gen_easy_resume.yaml --count 700 --workers 8 --verbose \
+#     --output artifacts/easy_full.jsonl > artifacts/easy_resume.log 2>&1 &
+#
+# --output trỏ vào ĐÚNG file cũ: JsonlWriter ghi nối, nên 1.316 bản ghi hiện có
+# được giữ nguyên và bản mới cộng thêm vào.
+command: generate
+run: {name: vilamiu-easy-resume}
+generation:
+  tier: easy
+  engine: legacy
+  count: 700
+  workers: 8
+  seed: 815392
+  max_candidates: 10000
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  model_id: qwen/qwen3-14b
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2

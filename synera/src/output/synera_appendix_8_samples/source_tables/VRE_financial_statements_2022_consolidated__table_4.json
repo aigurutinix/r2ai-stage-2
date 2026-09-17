@@ -1,0 +1,165 @@
+{
+  "doc_id": "VRE_financial_statements_2022_consolidated",
+  "document_sha256": "e5ec72c6b03c0015cd9bb6356f7d9ca93244637c06477290cf02872d868b20be",
+  "table_id_internal": 4,
+  "physical_line_one_based": 243,
+  "html_sha256": "8f0a1f091298a9cf0f2771a7375cf949a57e7518a1f28a0765739ad76c7ec662",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2022Triệu VND</td><td>1/1/2022Triệu VND</td></tr><tr><td colspan=\"5\">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150)</td><td>100</td><td></td><td>10.534.650</td><td>6.826.580</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>5</td><td>7.019.648</td><td>3.297.060</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>180.901</td><td>1.788.884</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>6.838.747</td><td>1.508.176</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>97.426</td><td>190.424</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>123</td><td>6</td><td>97.426</td><td>190.424</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>1.404.486</td><td>1.487.714</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>7</td><td>1.115.127</td><td>1.166.709</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>8</td><td>99.471</td><td>42.620</td></tr><tr><td>Phải thu về cho vay ngắn hạn</td><td>135</td><td></td><td>-</td><td>295.000</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>9(a)</td><td>381.573</td><td>142.716</td></tr><tr><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td>10</td><td>(191.685)</td><td>(159.331)</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>11</td><td>1.178.127</td><td>582.918</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>1.178.127</td><td>582.918</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>834.963</td><td>1.268.464</td></tr><tr><td>Chỉ phí trả trước ngắn hạn</td><td>151</td><td>17(a)</td><td>119.002</td><td>41.719</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>49.766</td><td>22.965</td></tr><tr><td>Thuế và các khoản khác phải thu</td><td></td><td></td><td></td><td></td></tr><tr><td>Nhà nước</td><td>153</td><td></td><td>8.775</td><td>380</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>155</td><td>12</td><td>657.420</td><td>1.203.400</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2022Triệu VND",
+      "1/1/2022Triệu VND"
+    ],
+    [
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN"
+    ],
+    [
+      "Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150)",
+      "100",
+      "",
+      "10.534.650",
+      "6.826.580"
+    ],
+    [
+      "Tiền và các khoản tương đương tiền",
+      "110",
+      "5",
+      "7.019.648",
+      "3.297.060"
+    ],
+    [
+      "Tiền",
+      "111",
+      "",
+      "180.901",
+      "1.788.884"
+    ],
+    [
+      "Các khoản tương đương tiền",
+      "112",
+      "",
+      "6.838.747",
+      "1.508.176"
+    ],
+    [
+      "Đầu tư tài chính ngắn hạn",
+      "120",
+      "",
+      "97.426",
+      "190.424"
+    ],
+    [
+      "Đầu tư nắm giữ đến ngày đáo hạn",
+      "123",
+      "6",
+      "97.426",
+      "190.424"
+    ],
+    [
+      "Các khoản phải thu ngắn hạn",
+      "130",
+      "",
+      "1.404.486",
+      "1.487.714"
+    ],
+    [
+      "Phải thu ngắn hạn của khách hàng",
+      "131",
+      "7",
+      "1.115.127",
+      "1.166.709"
+    ],
+    [
+      "Trả trước cho người bán ngắn hạn",
+      "132",
+      "8",
+      "99.471",
+      "42.620"
+    ],
+    [
+      "Phải thu về cho vay ngắn hạn",
+      "135",
+      "",
+      "-",
+      "295.000"
+    ],
+    [
+      "Phải thu ngắn hạn khác",
+      "136",
+      "9(a)",
+      "381.573",
+      "142.716"
+    ],
+    [
+      "Dự phòng phải thu ngắn hạn khó đòi",
+      "137",
+      "10",
+      "(191.685)",
+      "(159.331)"
+    ],
+    [
+      "Hàng tồn kho",
+      "140",
+      "11",
+      "1.178.127",
+      "582.918"
+    ],
+    [
+      "Hàng tồn kho",
+      "141",
+      "",
+      "1.178.127",
+      "582.918"
+    ],
+    [
+      "Tài sản ngắn hạn khác",
+      "150",
+      "",
+      "834.963",
+      "1.268.464"
+    ],
+    [
+      "Chỉ phí trả trước ngắn hạn",
+      "151",
+      "17(a)",
+      "119.002",
+      "41.719"
+    ],
+    [
+      "Thuế giá trị gia tăng được khấu trừ",
+      "152",
+      "",
+      "49.766",
+      "22.965"
+    ],
+    [
+      "Thuế và các khoản khác phải thu",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Nhà nước",
+      "153",
+      "",
+      "8.775",
+      "380"
+    ],
+    [
+      "Tài sản ngắn hạn khác",
+      "155",
+      "12",
+      "657.420",
+      "1.203.400"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 9 ===== Công ty Cổ phần Vincom Retail và các công ty con Bảng cân đổi kê toán hợp nhất tại ngày 31 tháng 12 năm 2022 Mãu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

@@ -1,0 +1,219 @@
+{
+  "doc_id": "DPM_financial_statements_2020_consolidated",
+  "document_sha256": "26bf58ba23e21f0a7ae1e56a2f46ce2015e06166e7a822c21210d38ec20717b5",
+  "table_id_internal": 5,
+  "physical_line_one_based": 282,
+  "html_sha256": "8e578838ad561ca35d84698779904e9ae91ff36ee7328bb5d43c763d2d23b163",
+  "html": "<table><tr><td></td><td>TÀI SẢN</td><td>Mã số</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>B.</td><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>4.985.778.272.458</td><td>5.496.454.188.790</td></tr><tr><td>I.</td><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>698.374.000</td><td>658.396.000</td></tr><tr><td>1.</td><td>Phải thu dài hạn khác</td><td>216</td><td>8</td><td>698.374.000</td><td>658.396.000</td></tr><tr><td>II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>4.282.892.453.351</td><td>4.790.657.948.234</td></tr><tr><td rowspan=\"3\">1.</td><td>Tài sản cố định hữu hình</td><td>221</td><td>12</td><td>3.438.870.887.385</td><td>3.932.312.724.389</td></tr><tr><td>- Nguyên giá</td><td>222</td><td></td><td>11.646.460.047.004</td><td>11.629.420.833.126</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(8.207.589.159.619)</td><td>(7.697.108.108.737)</td></tr><tr><td rowspan=\"3\">2.</td><td>Tài sản cố định vô hình</td><td>227</td><td>13</td><td>844.021.565.966</td><td>858.345.223.845</td></tr><tr><td>- Nguyên giá</td><td>228</td><td></td><td>1.153.056.314.593</td><td>1.152.277.537.593</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(309.034.748.627)</td><td>(293.932.313.748)</td></tr><tr><td rowspan=\"3\">III.</td><td>Bất động sản đầu tư</td><td>230</td><td>14</td><td>219.743.745.413</td><td>239.820.697.731</td></tr><tr><td>- Nguyên giá</td><td>231</td><td></td><td>317.953.542.202</td><td>334.556.867.544</td></tr><tr><td>- Giá trị hao mòn lũy kế</td><td>232</td><td></td><td>(98.209.796.789)</td><td>(94.736.169.813)</td></tr><tr><td>IV.</td><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>153.441.224.477</td><td>145.846.801.849</td></tr><tr><td>1.</td><td>Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>16</td><td>153.441.224.477</td><td>145.846.801.849</td></tr><tr><td>V.</td><td>Đầu tư tài chính dài hạn</td><td>250</td><td></td><td>44.245.603.945</td><td>45.369.527.464</td></tr><tr><td>1.</td><td>Đầu tư vào công ty liên doanh, liên kết</td><td>252</td><td>17</td><td>27.991.375.327</td><td>26.973.857.965</td></tr><tr><td>2.</td><td>Đầu tư góp vốn vào đơn vị khác</td><td>253</td><td>5</td><td>20.502.000.000</td><td>20.502.000.000</td></tr><tr><td>3.</td><td>Dự phòng đầu tư tài chính dài hạn</td><td>254</td><td>5</td><td>(4.247.771.382)</td><td>(2.106.330.501)</td></tr><tr><td>VI.</td><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>284.756.871.272</td><td>274.100.817.512</td></tr><tr><td>1.</td><td>Chi phí trả trước dài hạn</td><td>261</td><td>11</td><td>30.448.054.378</td><td>30.935.743.889</td></tr><tr><td>2.</td><td>Tài sản thuế thu nhập hoãn lại</td><td>262</td><td>18</td><td>101.730.355.972</td><td>81.381.867.070</td></tr><tr><td>3.</td><td>Thiết bị, vật tư, phụ tùng thay thế dài hạn</td><td>263</td><td>10</td><td>139.786.369.885</td><td>148.991.115.516</td></tr><tr><td>4.</td><td>Tài sản dài hạn khác</td><td>268</td><td></td><td>12.792.091.037</td><td>12.792.091.037</td></tr><tr><td></td><td>TỔNG CỘNG TÀI SẢN (270=100+200)</td><td>270</td><td></td><td>11.299.941.305.395</td><td>11.440.308.263.594</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "TÀI SẢN",
+      "Mã số",
+      "Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "B.",
+      "TÀI SẢN DÀI HẠN",
+      "200",
+      "",
+      "4.985.778.272.458",
+      "5.496.454.188.790"
+    ],
+    [
+      "I.",
+      "Các khoản phải thu dài hạn",
+      "210",
+      "",
+      "698.374.000",
+      "658.396.000"
+    ],
+    [
+      "1.",
+      "Phải thu dài hạn khác",
+      "216",
+      "8",
+      "698.374.000",
+      "658.396.000"
+    ],
+    [
+      "II.",
+      "Tài sản cố định",
+      "220",
+      "",
+      "4.282.892.453.351",
+      "4.790.657.948.234"
+    ],
+    [
+      "1.",
+      "Tài sản cố định hữu hình",
+      "221",
+      "12",
+      "3.438.870.887.385",
+      "3.932.312.724.389"
+    ],
+    [
+      "1.",
+      "- Nguyên giá",
+      "222",
+      "",
+      "11.646.460.047.004",
+      "11.629.420.833.126"
+    ],
+    [
+      "1.",
+      "- Giá trị hao mòn lũy kế",
+      "223",
+      "",
+      "(8.207.589.159.619)",
+      "(7.697.108.108.737)"
+    ],
+    [
+      "2.",
+      "Tài sản cố định vô hình",
+      "227",
+      "13",
+      "844.021.565.966",
+      "858.345.223.845"
+    ],
+    [
+      "2.",
+      "- Nguyên giá",
+      "228",
+      "",
+      "1.153.056.314.593",
+      "1.152.277.537.593"
+    ],
+    [
+      "2.",
+      "- Giá trị hao mòn lũy kế",
+      "229",
+      "",
+      "(309.034.748.627)",
+      "(293.932.313.748)"
+    ],
+    [
+      "III.",
+      "Bất động sản đầu tư",
+      "230",
+      "14",
+      "219.743.745.413",
+      "239.820.697.731"
+    ],
+    [
+      "III.",
+      "- Nguyên giá",
+      "231",
+      "",
+      "317.953.542.202",
+      "334.556.867.544"
+    ],
+    [
+      "III.",
+      "- Giá trị hao mòn lũy kế",
+      "232",
+      "",
+      "(98.209.796.789)",
+      "(94.736.169.813)"
+    ],
+    [
+      "IV.",
+      "Tài sản dở dang dài hạn",
+      "240",
+      "",
+      "153.441.224.477",
+      "145.846.801.849"
+    ],
+    [
+      "1.",
+      "Chi phí xây dựng cơ bản dở dang",
+      "242",
+      "16",
+      "153.441.224.477",
+      "145.846.801.849"
+    ],
+    [
+      "V.",
+      "Đầu tư tài chính dài hạn",
+      "250",
+      "",
+      "44.245.603.945",
+      "45.369.527.464"
+    ],
+    [
+      "1.",
+      "Đầu tư vào công ty liên doanh, liên kết",
+      "252",
+      "17",
+      "27.991.375.327",
+      "26.973.857.965"
+    ],
+    [
+      "2.",
+      "Đầu tư góp vốn vào đơn vị khác",
+      "253",
+      "5",
+      "20.502.000.000",
+      "20.502.000.000"
+    ],
+    [
+      "3.",
+      "Dự phòng đầu tư tài chính dài hạn",
+      "254",
+      "5",
+      "(4.247.771.382)",
+      "(2.106.330.501)"
+    ],
+    [
+      "VI.",
+      "Tài sản dài hạn khác",
+      "260",
+      "",
+      "284.756.871.272",
+      "274.100.817.512"
+    ],
+    [
+      "1.",
+      "Chi phí trả trước dài hạn",
+      "261",
+      "11",
+      "30.448.054.378",
+      "30.935.743.889"
+    ],
+    [
+      "2.",
+      "Tài sản thuế thu nhập hoãn lại",
+      "262",
+      "18",
+      "101.730.355.972",
+      "81.381.867.070"
+    ],
+    [
+      "3.",
+      "Thiết bị, vật tư, phụ tùng thay thế dài hạn",
+      "263",
+      "10",
+      "139.786.369.885",
+      "148.991.115.516"
+    ],
+    [
+      "4.",
+      "Tài sản dài hạn khác",
+      "268",
+      "",
+      "12.792.091.037",
+      "12.792.091.037"
+    ],
+    [
+      "",
+      "TỔNG CỘNG TÀI SẢN (270=100+200)",
+      "270",
+      "",
+      "11.299.941.305.395",
+      "11.440.308.263.594"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 8 ===== TỔNG CÔNG TY PHÂN BỐN VÀ HÓA CHẤT DẦU KHÍ - CÔNG TY CỔ PHẦN MÃU SỐ B 01-DN/HN 43 Mạc Đĩnh Chi, phường Đa Kao, quận 1 Ban hành theo Thông tư số 202/2014/TT-BTC Thành phố Hồ Chí Minh, CHXHCN Việt Nam ngày 22 tháng 12 năm 2014 của Bộ Tài chính BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (Tiếp theo) Tại ngày 31 tháng 12 năm 2020 Đơn vị: VND"
+}

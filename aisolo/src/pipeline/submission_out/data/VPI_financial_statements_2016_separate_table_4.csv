@@ -1,0 +1,24 @@
+﻿company,year,ma_so,label,value,prev
+VPI,2016,300,C/ NỘ PHẢI TRẢ,2188648914414,1695208190457
+VPI,2016,310,I/ Nợ ngắn hạn,1741306769982,1166237908126
+VPI,2016,311,1. Phải trả người bán ngắn hạn,101193379042,73737182852
+VPI,2016,312,2. Người mua trả tiền trước ngắn hạn,1965606017,2186388042
+VPI,2016,313,3. Thuế và các khoản phải nộp Nhà nước,2542217408,
+VPI,2016,314,4. Phải trả người lao động,1278852542,1748994315
+VPI,2016,315,5. Chi phí phải trả ngắn hạn,688072340420,763305431712
+VPI,2016,318,6. Doanh thu chưa thực hiện ngắn hạn,301449571462,
+VPI,2016,319,7. Phải trả ngắn hạn khác,131622484356,121108942391
+VPI,2016,320,8. Vay và nợ thuê tài chính ngắn hạn,512957103204,203673096493
+VPI,2016,322,9. Quỹ khen thưởng phúc lợi,225215531,477872321
+VPI,2016,330,II/ Nợ dài hạn,447342144432,528970282331
+VPI,2016,337,1. Phải trả dài hạn khác,387918636432,357213649331
+VPI,2016,338,2. Vay và nợ thuê tài chính dài hạn,59423508000,171756633000
+VPI,2016,400,D/ VỐN CHỦ SỞ HỮU,354445528773,341948487598
+VPI,2016,410,I/ Vốn chủ sở hữu,354445528773,341948487598
+VPI,2016,411,1. Vốn góp của chủ sở hữu,262200000000,262200000000
+VPI,2016,,- Cổ phiếu phổ thông có quyền biểu quyết,262200000000,262200000000
+VPI,2016,418,2. Quỹ đầu tư phát triển,15177859740,15177859740
+VPI,2016,420,3. Quỹ khác thuộc vốn chủ sở hữu,7588929869,7588929869
+VPI,2016,421,4. Lợi nhuận sau thuế chưa phân phối,69478739164,56981697989
+VPI,2016,,- LNST chưa phân phối lũy kế đến cuối kỳ trước,51981697989,59493261964
+VPI,2016,,- LNST chưa phân phối kỳ này,17497041175,-2511563975

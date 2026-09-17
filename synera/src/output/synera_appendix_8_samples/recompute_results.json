@@ -1,0 +1,423 @@
+[
+  {
+    "id": 363,
+    "question": "Trong giai đoạn 2016-2020, vào năm KBC có tỷ số D/E cao nhất, hệ số khả năng thanh toán lãi vay là bao nhiêu lần?",
+    "submitted": 3.319357071984094,
+    "recomputed": 3.319357071984094,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "KBC, 2020",
+    "shape": [
+      20,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "pbt",
+    "sensitivity_result": 3.551292779182503,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "year": 2016,
+        "D/E": 0.700196590254742,
+        "coverage": 12.283331396448173
+      },
+      {
+        "year": 2017,
+        "D/E": 0.745915038229092,
+        "coverage": 8.587077039385145
+      },
+      {
+        "year": 2018,
+        "D/E": 0.718930283000801,
+        "coverage": 6.216530489594076
+      },
+      {
+        "year": 2019,
+        "D/E": 0.58296717792188,
+        "coverage": 7.971248611701445
+      },
+      {
+        "year": 2020,
+        "D/E": 1.232787865267677,
+        "coverage": 3.319357071984094
+      }
+    ],
+    "source_cells": 20,
+    "source_raw_matches": 20,
+    "scale_factors_observed": {
+      "1.0": 15,
+      "-1.0": 5
+    }
+  },
+  {
+    "id": 364,
+    "question": "Xét các doanh nghiệp hóa chất (GVR, DPM, DCM, PRT) có CFO dương trong cả hai năm 2020 và 2021, công ty đạt tăng trưởng doanh thu thuần cao nhất có tỷ số dồn tích năm 2021 là bao nhiêu phần trăm?",
+    "submitted": 5.198255749758565,
+    "recomputed": 5.198255749758565,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "DPM, 2021",
+    "shape": [
+      48,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "npat",
+    "sensitivity_result": 7.713548362219081,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "DCM",
+        "CFO_2020": 1780630001870.0,
+        "CFO_2021": 2568827826644.0,
+        "eligible": true,
+        "growth_pct": 30.53040358353558,
+        "accrual_pct": -7.505997732668947
+      },
+      {
+        "ticker": "DPM",
+        "CFO_2020": 787273413997.0,
+        "CFO_2021": 2516071571657.0,
+        "eligible": true,
+        "growth_pct": 64.73125493856959,
+        "accrual_pct": 5.198255749758565
+      },
+      {
+        "ticker": "GVR",
+        "CFO_2020": -852102006740.0,
+        "CFO_2021": 3921071527811.0,
+        "eligible": false,
+        "growth_pct": 24.02539840072022,
+        "accrual_pct": 1.781598164995222
+      },
+      {
+        "ticker": "PRT",
+        "CFO_2020": 1152796116490.0,
+        "CFO_2021": 67825169552.0,
+        "eligible": true,
+        "growth_pct": 54.7796333789613,
+        "accrual_pct": 3.166560763840777
+      }
+    ],
+    "source_cells": 48,
+    "source_raw_matches": 48,
+    "scale_factors_observed": {
+      "1.0": 48
+    }
+  },
+  {
+    "id": 367,
+    "question": "Trong nhóm MSN, MCH, DBC, ASM và OGC, các công ty duy trì dòng tiền hoạt động dương ở cả năm 2024 và 2025 nhưng doanh thu thuần năm 2025 giảm so với 2024 có chênh lệch bình quân giữa biên lợi nhuận gộp và biên lợi nhuận ròng năm 2025 là bao nhiêu điểm phần trăm?",
+    "submitted": 23.21392333971657,
+    "recomputed": 23.21392333971657,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "MCH, MSN, 2025",
+    "shape": [
+      40,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "npat",
+    "sensitivity_result": 21.692775654449143,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "ASM",
+        "CFO_positive_both": false,
+        "revenue_declines": true,
+        "gross_margin_pct": 12.100924929698358,
+        "net_margin_pct": 1.208545805014092,
+        "gap_pp": 10.892379124684265
+      },
+      {
+        "ticker": "DBC",
+        "CFO_positive_both": true,
+        "revenue_declines": false,
+        "gross_margin_pct": 18.436218990863527,
+        "net_margin_pct": 10.114118198751633,
+        "gap_pp": 8.322100792111891
+      },
+      {
+        "ticker": "MCH",
+        "CFO_positive_both": true,
+        "revenue_declines": true,
+        "gross_margin_pct": 45.51020557530476,
+        "net_margin_pct": 22.13650323601095,
+        "gap_pp": 23.373702339293807
+      },
+      {
+        "ticker": "MSN",
+        "CFO_positive_both": true,
+        "revenue_declines": true,
+        "gross_margin_pct": 31.340594809476823,
+        "net_margin_pct": 8.286450469337494,
+        "gap_pp": 23.05414434013933
+      },
+      {
+        "ticker": "OGC",
+        "CFO_positive_both": true,
+        "revenue_declines": false,
+        "gross_margin_pct": 47.018453653392825,
+        "net_margin_pct": 10.791678154990592,
+        "gap_pp": 36.22677549840223
+      }
+    ],
+    "source_cells": 40,
+    "source_raw_matches": 40,
+    "scale_factors_observed": {
+      "1000000.0": 8,
+      "1.0": 32
+    }
+  },
+  {
+    "id": 368,
+    "question": "Năm 2022, trong nhóm HPG, HSG, MSR và NKG, các công ty có hệ số thanh toán nhanh thấp hơn trung vị của nhóm có biên lợi nhuận ròng bình quân là bao nhiêu phần trăm?",
+    "submitted": 0.590899365626417,
+    "recomputed": 0.590899365626417,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "HSG, MSR; median=0.413536682651839",
+    "shape": [
+      20,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "npat",
+    "sensitivity_result": 0.6499893021890588,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "HPG",
+        "quick_ratio": 0.737730383436619,
+        "net_margin_pct": 5.971623209810689,
+        "eligible": false
+      },
+      {
+        "ticker": "HSG",
+        "quick_ratio": 0.405992313236776,
+        "net_margin_pct": 0.505566468168636,
+        "eligible": true
+      },
+      {
+        "ticker": "MSR",
+        "quick_ratio": 0.313048645211353,
+        "net_margin_pct": 0.676232263084198,
+        "eligible": true
+      },
+      {
+        "ticker": "NKG",
+        "quick_ratio": 0.421081052066903,
+        "net_margin_pct": -0.54043388372301,
+        "eligible": false
+      }
+    ],
+    "source_cells": 20,
+    "source_raw_matches": 20,
+    "scale_factors_observed": {
+      "1.0": 20
+    }
+  },
+  {
+    "id": 369,
+    "question": "Trong nhóm HPG, HSG, MSR và NKG, xét các công ty có hệ số thanh toán nhanh năm 2022 thấp hơn trung vị của nhóm. Công ty có mức thay đổi biên lợi nhuận gộp cao nhất từ năm 2022 sang năm 2023 có hệ số khả năng thanh toán lãi vay năm 2023 là bao nhiêu lần?",
+    "submitted": 1.7469585693461782,
+    "recomputed": 1.7469585693461782,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "HSG, 2023",
+    "shape": [
+      56,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "pbt",
+    "sensitivity_result": 1.8216544262807963,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "HPG",
+        "quick_2022": 0.737730383436619,
+        "gross_2022_pct": 11.854545116288605,
+        "gross_2023_pct": 10.876428221010604,
+        "eligible": false,
+        "change_pp": -0.978116895278001,
+        "coverage_2023": 3.17365687170746
+      },
+      {
+        "ticker": "HSG",
+        "quick_2022": 0.405992313236776,
+        "gross_2022_pct": 9.934878255385215,
+        "gross_2023_pct": 9.67007322164923,
+        "eligible": true,
+        "change_pp": -0.264805033735984,
+        "coverage_2023": 1.746958569346178
+      },
+      {
+        "ticker": "MSR",
+        "quick_2022": 0.313048645211353,
+        "gross_2022_pct": 15.285680091076944,
+        "gross_2023_pct": 5.564976495480245,
+        "eligible": true,
+        "change_pp": -9.7207035955967,
+        "coverage_2023": -0.100462630237495
+      },
+      {
+        "ticker": "NKG",
+        "quick_2022": 0.421081052066903,
+        "gross_2022_pct": 6.420809189246833,
+        "gross_2023_pct": 5.981203248129687,
+        "eligible": false,
+        "change_pp": -0.439605941117145,
+        "coverage_2023": 1.605818690938236
+      }
+    ],
+    "source_cells": 56,
+    "source_raw_matches": 56,
+    "scale_factors_observed": {
+      "1.0": 54,
+      "-1.0": 2
+    }
+  },
+  {
+    "id": 370,
+    "question": "Trong nhóm GEE, GEX và SAM, xét các công ty duy trì lưu chuyển tiền thuần từ hoạt động kinh doanh dương trong cả ba năm 2022–2024. Công ty có CAGR doanh thu thuần cao nhất giai đoạn 2022–2024 đạt biên lợi nhuận ròng năm 2024 là bao nhiêu phần trăm?",
+    "submitted": 8.11456002879663,
+    "recomputed": 8.11456002879663,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "GEE, 2024",
+    "shape": [
+      27,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "npat",
+    "sensitivity_result": 8.926016031676294,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "GEE",
+        "CFO_positive_3y": true,
+        "CAGR_pct": 12.602354060855792,
+        "net_margin_2024_pct": 8.11456002879663
+      },
+      {
+        "ticker": "GEX",
+        "CFO_positive_3y": true,
+        "CAGR_pct": 2.559360496157348,
+        "net_margin_2024_pct": 7.908587090670313
+      },
+      {
+        "ticker": "SAM",
+        "CFO_positive_3y": false,
+        "CAGR_pct": 38.37277526228598,
+        "net_margin_2024_pct": 2.359841158177934
+      }
+    ],
+    "source_cells": 27,
+    "source_raw_matches": 27,
+    "scale_factors_observed": {
+      "1.0": 27
+    }
+  },
+  {
+    "id": 371,
+    "question": "Năm 2024, trong nhóm BSR, PLX và PVT, công ty có biên lợi nhuận gộp cao nhất trong số các công ty có lưu chuyển tiền thuần từ hoạt động kinh doanh dương có hệ số khả năng thanh toán lãi vay là bao nhiêu lần?",
+    "submitted": 5.472919380965644,
+    "recomputed": 5.472919380965644,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "PVT, 2024",
+    "shape": [
+      15,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "pbt",
+    "sensitivity_result": 5.920211319062209,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "ticker": "BSR",
+        "CFO_positive": false,
+        "gross_margin_pct": 0.39915585590724,
+        "coverage": 3.822152462286072
+      },
+      {
+        "ticker": "PLX",
+        "CFO_positive": true,
+        "gross_margin_pct": 6.109241344475547,
+        "coverage": 7.990935153812886
+      },
+      {
+        "ticker": "PVT",
+        "CFO_positive": true,
+        "gross_margin_pct": 20.829957720989945,
+        "coverage": 5.472919380965644
+      }
+    ],
+    "source_cells": 15,
+    "source_raw_matches": 15,
+    "scale_factors_observed": {
+      "1.0": 15
+    }
+  },
+  {
+    "id": 372,
+    "question": "Công ty Vincom Retail có hệ số dòng tiền hoạt động trên nợ ngắn hạn vào năm sau năm có hệ số thanh toán nhanh thấp nhất trong giai đoạn 2021-2024 là bao nhiêu lần?",
+    "submitted": 0.12804294733428592,
+    "recomputed": 0.12804294733428592,
+    "absolute_error": 0.0,
+    "matches": true,
+    "selection": "min quick ratio: 2023; result year: 2024",
+    "shape": [
+      20,
+      12
+    ],
+    "answer_column_removed_same": true,
+    "answer_column_poisoned_same": true,
+    "sensitivity_metric": "cfo",
+    "sensitivity_result": 0.14084724206771454,
+    "source_value_change_affects_result": true,
+    "trace": [
+      {
+        "year": 2021,
+        "quick_ratio": 2.160394815879,
+        "CFO_to_short_debt": 0.590064344773942
+      },
+      {
+        "year": 2022,
+        "quick_ratio": 1.607799729803016,
+        "CFO_to_short_debt": 0.871504356591284
+      },
+      {
+        "year": 2023,
+        "quick_ratio": 1.504675041762319,
+        "CFO_to_short_debt": 0.623233588433631
+      },
+      {
+        "year": 2024,
+        "quick_ratio": 2.029714866722741,
+        "CFO_to_short_debt": 0.128042947334286
+      },
+      {
+        "year": 2025,
+        "quick_ratio": 1.49306291225289,
+        "CFO_to_short_debt": -0.630517039802221
+      }
+    ],
+    "source_cells": 20,
+    "source_raw_matches": 20,
+    "scale_factors_observed": {
+      "1000000.0": 20
+    }
+  }
+]

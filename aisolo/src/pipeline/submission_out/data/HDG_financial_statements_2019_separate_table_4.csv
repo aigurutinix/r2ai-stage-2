@@ -1,0 +1,16 @@
+﻿company,year,ma_so,label,value,prev
+HDG,2019,01,Doanh thu bán hàng và cung cấp dịch vụ,352549073286,426501273388
+HDG,2019,11,Giá vốn hàng bán,173429756001,284945623404
+HDG,2019,20,Lợi nhuận gộp (20 = 01 - 11),179119317285,141555649984
+HDG,2019,21,Doanh thu hoạt động tài chính,784128307673,377961440055
+HDG,2019,22,Chi phí tài chính,170813426515,62949087760
+HDG,2019,23,Trong đó: Chi phí lãi vay,146671397403,56583732735
+HDG,2019,25,Chi phí bán hàng,4539545522,3518932540
+HDG,2019,26,Chi phí quản lý doanh nghiệp,96798057501,98917930605
+HDG,2019,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},691096595420,354131139134
+HDG,2019,31,Thu nhập khác,9039981802,5611416852
+HDG,2019,32,Chi phí khác,5371296521,3591185602
+HDG,2019,40,Kết quả từ hoạt động khác (40 = 31 - 32),3668685281,2020231250
+HDG,2019,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),694765280701,356151370384
+HDG,2019,51,Chi phí thuế TNDN hiện hành,7801120100,3511716729
+HDG,2019,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51),686964160601,352639653655

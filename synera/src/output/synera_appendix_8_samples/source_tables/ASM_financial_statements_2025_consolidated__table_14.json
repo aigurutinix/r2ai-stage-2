@@ -1,0 +1,179 @@
+{
+  "doc_id": "ASM_financial_statements_2025_consolidated",
+  "document_sha256": "55ff6588530fec99faea0e61e325cc0181c8bf84b9d5864e040144ffe1bb5add",
+  "table_id_internal": 14,
+  "physical_line_one_based": 426,
+  "html_sha256": "b7dca12aaf1335d504980518484382dc17bc3ff32cb8b0bb38ccb3b0b5fed054",
+  "html": "<table><tr><td>Mã số</td><td>Chỉ tiêu</td><td>Thuyết minh</td><td>Năm 2025</td><td>Năm 2024</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>VI.01</td><td>11.340.313.307.752</td><td>12.021.821.033.080</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>VI.02</td><td>22.844.742.098</td><td>8.703.143.080</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td></td><td>11.317.468.565.654</td><td>12.013.117.890.000</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán</td><td>VI.03</td><td>9.947.950.190.582</td><td>10.635.712.841.679</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>1.369.518.375.072</td><td>1.377.405.048.321</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>VI.04</td><td>238.622.942.621</td><td>198.142.208.396</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>VI.05</td><td>809.145.103.928</td><td>721.962.932.465</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>694.110.889.582</td><td>661.139.329.878</td></tr><tr><td>24</td><td>8. Phần lãi hoặc lỗ trong công ty liên kết, liên doanh</td><td></td><td></td><td></td></tr><tr><td>25</td><td>8. Chi phí bán hàng</td><td>VI.06</td><td>208.637.669.946</td><td>218.760.025.641</td></tr><tr><td>26</td><td>9. Chi phí quản lý doanh nghiệp</td><td>VI.06</td><td>331.649.113.186</td><td>296.074.828.785</td></tr><tr><td>30</td><td>10. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>258.709.430.633</td><td>338.749.469.826</td></tr><tr><td>31</td><td>11. Thu nhập khác</td><td>VI.07</td><td>11.067.719.454</td><td>16.881.213.068</td></tr><tr><td>32</td><td>12. Chi phí khác</td><td>VI.08</td><td>65.387.678.252</td><td>38.536.685.879</td></tr><tr><td>40</td><td>13. Lợi nhuận khác</td><td></td><td>(54.319.958.798)</td><td>(21.655.472.811)</td></tr><tr><td>50</td><td>14. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>204.389.471.835</td><td>317.093.997.015</td></tr><tr><td>51</td><td>15. Chi phí thuế TNDN hiện hành</td><td>VI.10</td><td>67.149.964.769</td><td>64.255.361.446</td></tr><tr><td>52</td><td>16. Chi phí thuế TNDN hoãn lại</td><td>VI.11</td><td>462.715.482</td><td>1.851.997.520</td></tr><tr><td>60</td><td>17. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>136.776.791.584</td><td>250.986.638.049</td></tr><tr><td>61</td><td>18. Lợi nhuận kế toán sau thuế của công ty mẹ</td><td></td><td>37.712.105.942</td><td>180.853.915.747</td></tr><tr><td>62</td><td>19. Lợi nhuận kế toán sau thuế của cổ đông không kiểm soát</td><td></td><td>99.064.685.642</td><td>70.132.722.302</td></tr><tr><td>70</td><td>20. Lãi cơ bản trên cổ phiếu</td><td>VI.12</td><td>100</td><td>517</td></tr><tr><td>71</td><td>21. Lãi suy giảm trên cổ phiếu</td><td>VI.13</td><td>100</td><td>517</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "Chỉ tiêu",
+      "Thuyết minh",
+      "Năm 2025",
+      "Năm 2024"
+    ],
+    [
+      "01",
+      "1. Doanh thu bán hàng và cung cấp dịch vụ",
+      "VI.01",
+      "11.340.313.307.752",
+      "12.021.821.033.080"
+    ],
+    [
+      "02",
+      "2. Các khoản giảm trừ doanh thu",
+      "VI.02",
+      "22.844.742.098",
+      "8.703.143.080"
+    ],
+    [
+      "10",
+      "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "",
+      "11.317.468.565.654",
+      "12.013.117.890.000"
+    ],
+    [
+      "11",
+      "4. Giá vốn hàng bán",
+      "VI.03",
+      "9.947.950.190.582",
+      "10.635.712.841.679"
+    ],
+    [
+      "20",
+      "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "1.369.518.375.072",
+      "1.377.405.048.321"
+    ],
+    [
+      "21",
+      "6. Doanh thu hoạt động tài chính",
+      "VI.04",
+      "238.622.942.621",
+      "198.142.208.396"
+    ],
+    [
+      "22",
+      "7. Chi phí tài chính",
+      "VI.05",
+      "809.145.103.928",
+      "721.962.932.465"
+    ],
+    [
+      "23",
+      "Trong đó: Chi phí lãi vay",
+      "",
+      "694.110.889.582",
+      "661.139.329.878"
+    ],
+    [
+      "24",
+      "8. Phần lãi hoặc lỗ trong công ty liên kết, liên doanh",
+      "",
+      "",
+      ""
+    ],
+    [
+      "25",
+      "8. Chi phí bán hàng",
+      "VI.06",
+      "208.637.669.946",
+      "218.760.025.641"
+    ],
+    [
+      "26",
+      "9. Chi phí quản lý doanh nghiệp",
+      "VI.06",
+      "331.649.113.186",
+      "296.074.828.785"
+    ],
+    [
+      "30",
+      "10. Lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "258.709.430.633",
+      "338.749.469.826"
+    ],
+    [
+      "31",
+      "11. Thu nhập khác",
+      "VI.07",
+      "11.067.719.454",
+      "16.881.213.068"
+    ],
+    [
+      "32",
+      "12. Chi phí khác",
+      "VI.08",
+      "65.387.678.252",
+      "38.536.685.879"
+    ],
+    [
+      "40",
+      "13. Lợi nhuận khác",
+      "",
+      "(54.319.958.798)",
+      "(21.655.472.811)"
+    ],
+    [
+      "50",
+      "14. Tổng lợi nhuận kế toán trước thuế",
+      "",
+      "204.389.471.835",
+      "317.093.997.015"
+    ],
+    [
+      "51",
+      "15. Chi phí thuế TNDN hiện hành",
+      "VI.10",
+      "67.149.964.769",
+      "64.255.361.446"
+    ],
+    [
+      "52",
+      "16. Chi phí thuế TNDN hoãn lại",
+      "VI.11",
+      "462.715.482",
+      "1.851.997.520"
+    ],
+    [
+      "60",
+      "17. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+      "",
+      "136.776.791.584",
+      "250.986.638.049"
+    ],
+    [
+      "61",
+      "18. Lợi nhuận kế toán sau thuế của công ty mẹ",
+      "",
+      "37.712.105.942",
+      "180.853.915.747"
+    ],
+    [
+      "62",
+      "19. Lợi nhuận kế toán sau thuế của cổ đông không kiểm soát",
+      "",
+      "99.064.685.642",
+      "70.132.722.302"
+    ],
+    [
+      "70",
+      "20. Lãi cơ bản trên cổ phiếu",
+      "VI.12",
+      "100",
+      "517"
+    ],
+    [
+      "71",
+      "21. Lãi suy giảm trên cổ phiếu",
+      "VI.13",
+      "100",
+      "517"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 14 ===== CÔNG TY CỔ PHẦN TẬP ĐOÀN SAO MAI 326 Hùng Vương, Phường Long Xuyên, Tinh An Giang. Báo cáo tài chính hợp nhất Năm tài chính 2025 kết thúc ngày 31/12/2025 BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT Năm tài chính 2025 kết thúc ngày 31/12/2025 Đơn vị tính: VND"
+}

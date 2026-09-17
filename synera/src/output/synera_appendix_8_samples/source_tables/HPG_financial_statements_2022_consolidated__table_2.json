@@ -1,0 +1,165 @@
+{
+  "doc_id": "HPG_financial_statements_2022_consolidated",
+  "document_sha256": "07988378beb502e51ae4e0463038ab9e009f959cddb1e7a69b7592c5c00ac497",
+  "table_id_internal": 2,
+  "physical_line_one_based": 159,
+  "html_sha256": "ec6d20cee14974839f230e32e129509a4977195aa3080efc5fe92fad78a0d0b6",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2022 VND</td><td>1/1/2022 VND</td></tr><tr><td colspan=\"5\">TÀI SẢN</td></tr><tr><td>Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150)</td><td>100</td><td></td><td>80.514.710.854.456</td><td>94.154.859.648.304</td></tr><tr><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>5</td><td>8.324.588.920.227</td><td>22.471.375.562.130</td></tr><tr><td>Tiền</td><td>111</td><td></td><td>3.458.049.733.104</td><td>6.316.299.666.510</td></tr><tr><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>4.866.539.187.123</td><td>16.155.075.895.620</td></tr><tr><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td></td><td>26.268.246.676.354</td><td>18.236.152.616.078</td></tr><tr><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>123</td><td>6</td><td>26.268.246.676.354</td><td>18.236.152.616.078</td></tr><tr><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>9.892.869.502.309</td><td>7.662.680.796.645</td></tr><tr><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td></td><td>2.958.587.125.337</td><td>4.973.095.672.343</td></tr><tr><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>5.366.254.068.739</td><td>1.722.371.823.278</td></tr><tr><td>Phải thu về cho vay ngắn hạn</td><td>135</td><td>10</td><td>124.200.000.000</td><td>23.521.740.500</td></tr><tr><td>Phải thu ngắn hạn khác</td><td>136</td><td>8.1</td><td>1.482.978.249.031</td><td>981.799.066.828</td></tr><tr><td>Dự phòng các khoản phải thu ngắn hạn khó đòi</td><td>137</td><td></td><td>(41.074.336.139)</td><td>(39.275.168.162)</td></tr><tr><td>Tài sản thiếu chờ xử lý</td><td>139</td><td></td><td>1.924.395.341</td><td>1.167.661.858</td></tr><tr><td>Hàng tồn kho</td><td>140</td><td>9</td><td>34.491.111.096.123</td><td>42.134.493.932.210</td></tr><tr><td>Hàng tồn kho</td><td>141</td><td></td><td>35.727.277.739.296</td><td>42.370.012.405.544</td></tr><tr><td>Dự phòng giảm giá hàng tồn kho</td><td>149</td><td></td><td>(1.236.166.643.173)</td><td>(235.518.473.334)</td></tr><tr><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>1.537.894.659.443</td><td>3.650.156.741.241</td></tr><tr><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>15.1</td><td>320.077.470.557</td><td>296.697.348.350</td></tr><tr><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>1.117.646.951.943</td><td>3.335.690.250.424</td></tr><tr><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>20</td><td>100.170.236.943</td><td>17.769.142.467</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2022 VND",
+      "1/1/2022 VND"
+    ],
+    [
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN",
+      "TÀI SẢN"
+    ],
+    [
+      "Tài sản ngắn hạn(100 = 110 + 120 + 130 + 140 + 150)",
+      "100",
+      "",
+      "80.514.710.854.456",
+      "94.154.859.648.304"
+    ],
+    [
+      "Tiền và các khoản tương đương tiền",
+      "110",
+      "5",
+      "8.324.588.920.227",
+      "22.471.375.562.130"
+    ],
+    [
+      "Tiền",
+      "111",
+      "",
+      "3.458.049.733.104",
+      "6.316.299.666.510"
+    ],
+    [
+      "Các khoản tương đương tiền",
+      "112",
+      "",
+      "4.866.539.187.123",
+      "16.155.075.895.620"
+    ],
+    [
+      "Đầu tư tài chính ngắn hạn",
+      "120",
+      "",
+      "26.268.246.676.354",
+      "18.236.152.616.078"
+    ],
+    [
+      "Đầu tư nắm giữ đến ngày đáo hạn",
+      "123",
+      "6",
+      "26.268.246.676.354",
+      "18.236.152.616.078"
+    ],
+    [
+      "Các khoản phải thu ngắn hạn",
+      "130",
+      "",
+      "9.892.869.502.309",
+      "7.662.680.796.645"
+    ],
+    [
+      "Phải thu ngắn hạn của khách hàng",
+      "131",
+      "",
+      "2.958.587.125.337",
+      "4.973.095.672.343"
+    ],
+    [
+      "Trả trước cho người bán ngắn hạn",
+      "132",
+      "7",
+      "5.366.254.068.739",
+      "1.722.371.823.278"
+    ],
+    [
+      "Phải thu về cho vay ngắn hạn",
+      "135",
+      "10",
+      "124.200.000.000",
+      "23.521.740.500"
+    ],
+    [
+      "Phải thu ngắn hạn khác",
+      "136",
+      "8.1",
+      "1.482.978.249.031",
+      "981.799.066.828"
+    ],
+    [
+      "Dự phòng các khoản phải thu ngắn hạn khó đòi",
+      "137",
+      "",
+      "(41.074.336.139)",
+      "(39.275.168.162)"
+    ],
+    [
+      "Tài sản thiếu chờ xử lý",
+      "139",
+      "",
+      "1.924.395.341",
+      "1.167.661.858"
+    ],
+    [
+      "Hàng tồn kho",
+      "140",
+      "9",
+      "34.491.111.096.123",
+      "42.134.493.932.210"
+    ],
+    [
+      "Hàng tồn kho",
+      "141",
+      "",
+      "35.727.277.739.296",
+      "42.370.012.405.544"
+    ],
+    [
+      "Dự phòng giảm giá hàng tồn kho",
+      "149",
+      "",
+      "(1.236.166.643.173)",
+      "(235.518.473.334)"
+    ],
+    [
+      "Tài sản ngắn hạn khác",
+      "150",
+      "",
+      "1.537.894.659.443",
+      "3.650.156.741.241"
+    ],
+    [
+      "Chi phí trả trước ngắn hạn",
+      "151",
+      "15.1",
+      "320.077.470.557",
+      "296.697.348.350"
+    ],
+    [
+      "Thuế giá trị gia tăng được khấu trừ",
+      "152",
+      "",
+      "1.117.646.951.943",
+      "3.335.690.250.424"
+    ],
+    [
+      "Thuế và các khoản khác phải thu Nhà nước",
+      "153",
+      "20",
+      "100.170.236.943",
+      "17.769.142.467"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 7 ===== Công ty Cổ phần Tập đoàn Hòa Phát Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022 Mâu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

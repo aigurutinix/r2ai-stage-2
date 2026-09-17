@@ -1,0 +1,29 @@
+﻿company,year,ma_so,label,value,prev
+BID,2023,26,Thu nhập lãi và các khoản thu nhập tương tự,152761316000000,121000733000000
+BID,2023,27,Chỉ phí lãi và các chi phí tương tự,-96625750000000,-65041035000000
+BID,2023,,Thu nhập lãi thuần,56135566000000,55959698000000
+BID,2023,,Thu nhập từ hoạt động dịch vụ,11893400000000,10345574000000
+BID,2023,,Chi phí hoạt động dịch vụ,-5323530000000,-4694148000000
+BID,2023,28,Lãi thuần từ hoạt động dịch vụ,6569870000000,5651426000000
+BID,2023,29,Lãi thuần từ hoạt động kinh doanh ngoại hồi,4707371000000,3136613000000
+BID,2023,,Lãi thuần từ mua bán chứng khoán kinh doanh,305396000000,-31664000000
+BID,2023,,Lãi thuần từ mua bán chứng khoán đầu tư,2871740000000,258467000000
+BID,2023,,Thu nhập từ hoạt động khác,6542525000000,6530152000000
+BID,2023,,Chỉ phí từ hoạt động khác,-4474726000000,-2316065000000
+BID,2023,31,Lãi thuần từ hoạt động khác,2067799000000,4214087000000
+BID,2023,32,"Thu nhập từ góp vốn, mua cổ phần",355275000000,290952000000
+BID,2023,,Tổng thu nhập hoạt động,73013017000000,69479579000000
+BID,2023,,Chỉ phí nhân viên,-14478077000000,-12837265000000
+BID,2023,,Chi phí khấu hao,-1293399000000,-1057839000000
+BID,2023,,Chi phí hoạt động khác,-9309122000000,-8819493000000
+BID,2023,33,Tổng chi phí hoạt động,-25080598000000,-22714597000000
+BID,2023,,Lợi nhuận thuần từ hoạt động kinh doanh trướcchi phí dự phòng rủi ro tín dụng,47932419000000,46764982000000
+BID,2023,,Chi phí dự phòng rủi ro tín dụng,-20343515000000,-23842333000000
+BID,2023,,Tổng lợi nhuận trước thuế,27588904000000,22922649000000
+BID,2023,,Chi phí thuế TNDN hiện hành,-5615711000000,-4589174000000
+BID,2023,,Thu nhập thuế TNDN hoãn lại,3948000000,15049000000
+BID,2023,34,Chi phí thuế TNDN,-5611763000000,-4574125000000
+BID,2023,,Lợi nhuận sau thuế,21977141000000,18348524000000
+BID,2023,,Phân bổ (lãi) cho cổ đông không kiểm soát,-472223000000,-262612000000
+BID,2023,,Lợi nhuận thuần của Ngân hàng mẹ,21504918000000,18085912000000
+BID,2023,35,Lãi cơ bản trên mỗi cổ phiếu (VND/cố phiếu),3314000000,2699000000

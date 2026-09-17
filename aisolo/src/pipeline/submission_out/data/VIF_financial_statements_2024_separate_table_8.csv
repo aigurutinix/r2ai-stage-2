@@ -1,0 +1,17 @@
+﻿company,year,ma_so,label,value,prev
+VIF,2024,01,Tổng lợi nhuận kế toán trước thuế Điều chỉnh cho các khoản: Khấu hao tài sản cố định hữu hình và bất động sản đầu tư và hao mòn tài sản cố định vô hình Các khoản (hoàn nhập)/ trích lập dự phòng (Lãi)/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ Lãi từ hoạt động đầu tư,276463613913,378859922581
+VIF,2024,08,(Lỗ)/lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,-79968962483,18125683736
+VIF,2024,09,(Tăng)/giảm các khoản phải thu Giảm hàng tồn kho,-40120058951,26552988947
+VIF,2024,11,"Tăng/(giảm) các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",6735992361,-3430442271
+VIF,2024,12,(Tăng)/giảm chi phí trả trước,-1164621408,6267818079
+VIF,2024,15,Thuế thu nhập doanh nghiệp đã nộp,-20518651589,-22779355907
+VIF,2024,17,Tiền chi khác cho hoạt động kinh doanh,-26824193048,-37038248398
+VIF,2024,20,Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động kinh doanh,-155288440025,93580940717
+VIF,2024,21,"Tiền chi để mua sắm, xây dựng tài sản cố định (TSCĐ) và các tài sản dài hạn khác",-14119421596,-17399384301
+VIF,2024,22,"Tiền thu do thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",40963637,517990000
+VIF,2024,23,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",-414377391130,-554831344135
+VIF,2024,24,"Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác",466599556952,436377220386
+VIF,2024,25,Tiền chi đầu tư góp vốn vào các công ty con,-12575291000,-6602374985
+VIF,2024,26,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,30836769456,
+VIF,2024,27,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",369400643872,350299763540
+VIF,2024,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,425805830191,208361870505

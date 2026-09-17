@@ -1,0 +1,109 @@
+{
+  "doc_id": "KBC_financial_statements_2020_consolidated",
+  "document_sha256": "bf6b8f64a294c6ac0f7964ae062db27c8b3a7cc54589a1ed82368b0a8df48ce0",
+  "table_id_internal": 8,
+  "physical_line_one_based": 265,
+  "html_sha256": "5dac86d3b7cff8982aa740ea8e02e2d0621d95ed71dba7425b2612be7b26cfaa",
+  "html": "<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>10.652.995.127.729</td><td>10.381.131.101.072</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td></td><td>10.652.995.127.729</td><td>10.381.131.101.072</td></tr><tr><td>411</td><td>1. Vốn cổ phần</td><td>21.1</td><td>4.757.111.670.000</td><td>4.757.111.670.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>4.697.601.890.000</td><td>4.697.601.890.000</td></tr><tr><td></td><td>- Cổ phiếu quỹ</td><td></td><td>59.509.780.000</td><td>59.509.780.000</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td>21.1</td><td>989.064.430.000</td><td>989.064.430.000</td></tr><tr><td>415</td><td>3. Cổ phiếu quỹ</td><td>21.1</td><td>(364.466.650.000)</td><td>(364.466.650.000)</td></tr><tr><td>418</td><td>4. Quỹ đầu tư phát triển</td><td>21.1</td><td>2.223.693.823</td><td>2.223.693.823</td></tr><tr><td>421</td><td>5. Lợi nhuận sau thuế chưa phân phối</td><td>21.1</td><td>4.316.487.151.605</td><td>4.099.263.633.258</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước</td><td></td><td>4.092.454.317.117</td><td>3.180.901.758.305</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>224.032.834.488</td><td>918.361.874.953</td></tr><tr><td>429</td><td>6. Lợi ích cổ đông không kiểm soát</td><td>22</td><td>952.574.832.301</td><td>897.934.323.991</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>23.785.878.249.949</td><td>16.432.989.802.701</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "NGUỒN VỐN",
+      "Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "400",
+      "D. VỐN CHỦ SỞ HỮU",
+      "",
+      "10.652.995.127.729",
+      "10.381.131.101.072"
+    ],
+    [
+      "410",
+      "I. Vốn chủ sở hữu",
+      "",
+      "10.652.995.127.729",
+      "10.381.131.101.072"
+    ],
+    [
+      "411",
+      "1. Vốn cổ phần",
+      "21.1",
+      "4.757.111.670.000",
+      "4.757.111.670.000"
+    ],
+    [
+      "411a",
+      "- Cổ phiếu phổ thông có quyền biểu quyết",
+      "",
+      "4.697.601.890.000",
+      "4.697.601.890.000"
+    ],
+    [
+      "",
+      "- Cổ phiếu quỹ",
+      "",
+      "59.509.780.000",
+      "59.509.780.000"
+    ],
+    [
+      "412",
+      "2. Thặng dư vốn cổ phần",
+      "21.1",
+      "989.064.430.000",
+      "989.064.430.000"
+    ],
+    [
+      "415",
+      "3. Cổ phiếu quỹ",
+      "21.1",
+      "(364.466.650.000)",
+      "(364.466.650.000)"
+    ],
+    [
+      "418",
+      "4. Quỹ đầu tư phát triển",
+      "21.1",
+      "2.223.693.823",
+      "2.223.693.823"
+    ],
+    [
+      "421",
+      "5. Lợi nhuận sau thuế chưa phân phối",
+      "21.1",
+      "4.316.487.151.605",
+      "4.099.263.633.258"
+    ],
+    [
+      "421a",
+      "- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước",
+      "",
+      "4.092.454.317.117",
+      "3.180.901.758.305"
+    ],
+    [
+      "421b",
+      "- Lợi nhuận sau thuế chưa phân phối năm nay",
+      "",
+      "224.032.834.488",
+      "918.361.874.953"
+    ],
+    [
+      "429",
+      "6. Lợi ích cổ đông không kiểm soát",
+      "22",
+      "952.574.832.301",
+      "897.934.323.991"
+    ],
+    [
+      "440",
+      "TỔNG CỘNG NGUỒN VỐN",
+      "",
+      "23.785.878.249.949",
+      "16.432.989.802.701"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP B01-DN/HN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo) ngày 31 tháng 12 năm 2020 Đơn vị tính: VND"
+}

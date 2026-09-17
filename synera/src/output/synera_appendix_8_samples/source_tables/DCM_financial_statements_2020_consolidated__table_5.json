@@ -1,0 +1,291 @@
+{
+  "doc_id": "DCM_financial_statements_2020_consolidated",
+  "document_sha256": "611d7c24a309edddf0ccb4e24d0adafd045fe244c2c292b669fe9a9716c3cdd2",
+  "table_id_internal": 5,
+  "physical_line_one_based": 393,
+  "html_sha256": "6e13f09f2ead8076f026b52fb97a2ef17c168b9d6dd9c5055715f169986cf511",
+  "html": "<table><tr><td></td><td>TÀI SẢN</td><td colspan=\"2\">Mã số Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>A.</td><td>TÀI SẢN NGẮN HẠN</td><td>100</td><td></td><td>3.978.192.126.939</td><td>4.250.036.958.838</td></tr><tr><td>I.</td><td>Tiền và các khoản tương đương tiền</td><td>110</td><td>4</td><td>509.995.350.873</td><td>471.173.323.541</td></tr><tr><td>1.</td><td>Tiền</td><td>111</td><td></td><td>289.995.350.873</td><td>371.173.323.541</td></tr><tr><td>2.</td><td>Các khoản tương đương tiền</td><td>112</td><td></td><td>220.000.000.000</td><td>100.000.000.000</td></tr><tr><td>II.</td><td>Đầu tư tài chính ngắn hạn</td><td>120</td><td>5</td><td>2.302.000.000.000</td><td>2.002.000.000.000</td></tr><tr><td>1.</td><td>Đầu tư nằm giữ đến ngày đáo hạn</td><td>123</td><td></td><td>2.302.000.000.000</td><td>2.002.000.000.000</td></tr><tr><td>III.</td><td>Các khoản phải thu ngắn hạn</td><td>130</td><td></td><td>217.396.300.223</td><td>401.909.734.436</td></tr><tr><td>1.</td><td>Phải thu ngắn hạn của khách hàng</td><td>131</td><td>6</td><td>44.753.555.075</td><td>2.926.400.156</td></tr><tr><td>2.</td><td>Trả trước cho người bán ngắn hạn</td><td>132</td><td>7</td><td>15.505.616.232</td><td>55.315.027.567</td></tr><tr><td>3.</td><td>Phải thu ngắn hạn khác</td><td>136</td><td>8</td><td>157.278.122.406</td><td>343.752.902.807</td></tr><tr><td>4.</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>137</td><td></td><td>(140.993.490)</td><td>(84.596.094)</td></tr><tr><td>IV.</td><td>Hàng tồn kho</td><td>140</td><td>9</td><td>834.134.886.038</td><td>1.301.123.071.541</td></tr><tr><td>1.</td><td>Hàng tồn kho</td><td>141</td><td></td><td>834.430.472.995</td><td>1.309.837.336.541</td></tr><tr><td>2.</td><td>Dự phòng giảm giá hàng tồn kho</td><td>149</td><td></td><td>(295.586.957)</td><td>(8.714.265.000)</td></tr><tr><td>V.</td><td>Tài sản ngắn hạn khác</td><td>150</td><td></td><td>114.665.589.805</td><td>73.830.829.320</td></tr><tr><td>1.</td><td>Chi phí trả trước ngắn hạn</td><td>151</td><td>10</td><td>39.702.860.677</td><td>48.533.063.400</td></tr><tr><td>2.</td><td>Thuế giá trị gia tăng được khấu trừ</td><td>152</td><td></td><td>74.460.526.799</td><td>24.728.755.816</td></tr><tr><td>3.</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>153</td><td>16</td><td>502.202.329</td><td>569.010.104</td></tr><tr><td>B.</td><td>TÀI SẢN DÀI HẠN</td><td>200</td><td></td><td>4.739.288.564.672</td><td>5.922.557.793.908</td></tr><tr><td>I.</td><td>Các khoản phải thu dài hạn</td><td>210</td><td></td><td>3.000.000</td><td>3.000.000</td></tr><tr><td>1.</td><td>Phải thu dài hạn khác</td><td>216</td><td>8</td><td>3.000.000</td><td>3.000.000</td></tr><tr><td>II.</td><td>Tài sản cố định</td><td>220</td><td></td><td>3.955.428.596.723</td><td>5.187.636.244.618</td></tr><tr><td>1.</td><td>Tài sản cố định hữu hình</td><td>221</td><td>11</td><td>3.899.631.024.527</td><td>5.134.487.567.257</td></tr><tr><td></td><td>- Nguyên giá</td><td>222</td><td></td><td>14.272.460.795.228</td><td>14.202.687.600.971</td></tr><tr><td></td><td>- Giá trị hao mòn lũy kế</td><td>223</td><td></td><td>(10.372.829.770.701)</td><td>(9.068.200.033.714)</td></tr><tr><td>2.</td><td>Tài sản cố định vô hình</td><td>227</td><td>12</td><td>55.797.572.196</td><td>53.148.677.361</td></tr><tr><td></td><td>- Nguyên giá</td><td>228</td><td></td><td>146.711.262.372</td><td>129.455.664.501</td></tr><tr><td></td><td>- Giá trị hao mòn lũy kế</td><td>229</td><td></td><td>(90.913.690.176)</td><td>(76.306.987.140)</td></tr><tr><td>III.</td><td>Tài sản dở dang dài hạn</td><td>240</td><td></td><td>760.955.297.273</td><td>698.506.086.885</td></tr><tr><td>1.</td><td>Chi phí xây dựng cơ bản dở dang</td><td>242</td><td>13</td><td>760.955.297.273</td><td>698.506.086.885</td></tr><tr><td>IV.</td><td>Tài sản dài hạn khác</td><td>260</td><td></td><td>22.901.670.676</td><td>36.412.462.405</td></tr><tr><td>1.</td><td>Chi phí trả trước dài hạn</td><td>261</td><td>10</td><td>17.258.713.922</td><td>29.243.644.973</td></tr><tr><td>2.</td><td>Tài sản thuế thu nhập hoãn lại</td><td>262</td><td></td><td>5.642.956.754</td><td>7.168.817.432</td></tr><tr><td></td><td>TỔNG CỘNG TÀI SẢN (270=100+200)</td><td>270</td><td></td><td>8.717.480.691.611</td><td>10.172.594.752.746</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "TÀI SẢN",
+      "Mã số Thuyết minh",
+      "Mã số Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "A.",
+      "TÀI SẢN NGẮN HẠN",
+      "100",
+      "",
+      "3.978.192.126.939",
+      "4.250.036.958.838"
+    ],
+    [
+      "I.",
+      "Tiền và các khoản tương đương tiền",
+      "110",
+      "4",
+      "509.995.350.873",
+      "471.173.323.541"
+    ],
+    [
+      "1.",
+      "Tiền",
+      "111",
+      "",
+      "289.995.350.873",
+      "371.173.323.541"
+    ],
+    [
+      "2.",
+      "Các khoản tương đương tiền",
+      "112",
+      "",
+      "220.000.000.000",
+      "100.000.000.000"
+    ],
+    [
+      "II.",
+      "Đầu tư tài chính ngắn hạn",
+      "120",
+      "5",
+      "2.302.000.000.000",
+      "2.002.000.000.000"
+    ],
+    [
+      "1.",
+      "Đầu tư nằm giữ đến ngày đáo hạn",
+      "123",
+      "",
+      "2.302.000.000.000",
+      "2.002.000.000.000"
+    ],
+    [
+      "III.",
+      "Các khoản phải thu ngắn hạn",
+      "130",
+      "",
+      "217.396.300.223",
+      "401.909.734.436"
+    ],
+    [
+      "1.",
+      "Phải thu ngắn hạn của khách hàng",
+      "131",
+      "6",
+      "44.753.555.075",
+      "2.926.400.156"
+    ],
+    [
+      "2.",
+      "Trả trước cho người bán ngắn hạn",
+      "132",
+      "7",
+      "15.505.616.232",
+      "55.315.027.567"
+    ],
+    [
+      "3.",
+      "Phải thu ngắn hạn khác",
+      "136",
+      "8",
+      "157.278.122.406",
+      "343.752.902.807"
+    ],
+    [
+      "4.",
+      "Dự phòng phải thu ngắn hạn khó đòi",
+      "137",
+      "",
+      "(140.993.490)",
+      "(84.596.094)"
+    ],
+    [
+      "IV.",
+      "Hàng tồn kho",
+      "140",
+      "9",
+      "834.134.886.038",
+      "1.301.123.071.541"
+    ],
+    [
+      "1.",
+      "Hàng tồn kho",
+      "141",
+      "",
+      "834.430.472.995",
+      "1.309.837.336.541"
+    ],
+    [
+      "2.",
+      "Dự phòng giảm giá hàng tồn kho",
+      "149",
+      "",
+      "(295.586.957)",
+      "(8.714.265.000)"
+    ],
+    [
+      "V.",
+      "Tài sản ngắn hạn khác",
+      "150",
+      "",
+      "114.665.589.805",
+      "73.830.829.320"
+    ],
+    [
+      "1.",
+      "Chi phí trả trước ngắn hạn",
+      "151",
+      "10",
+      "39.702.860.677",
+      "48.533.063.400"
+    ],
+    [
+      "2.",
+      "Thuế giá trị gia tăng được khấu trừ",
+      "152",
+      "",
+      "74.460.526.799",
+      "24.728.755.816"
+    ],
+    [
+      "3.",
+      "Thuế và các khoản khác phải thu Nhà nước",
+      "153",
+      "16",
+      "502.202.329",
+      "569.010.104"
+    ],
+    [
+      "B.",
+      "TÀI SẢN DÀI HẠN",
+      "200",
+      "",
+      "4.739.288.564.672",
+      "5.922.557.793.908"
+    ],
+    [
+      "I.",
+      "Các khoản phải thu dài hạn",
+      "210",
+      "",
+      "3.000.000",
+      "3.000.000"
+    ],
+    [
+      "1.",
+      "Phải thu dài hạn khác",
+      "216",
+      "8",
+      "3.000.000",
+      "3.000.000"
+    ],
+    [
+      "II.",
+      "Tài sản cố định",
+      "220",
+      "",
+      "3.955.428.596.723",
+      "5.187.636.244.618"
+    ],
+    [
+      "1.",
+      "Tài sản cố định hữu hình",
+      "221",
+      "11",
+      "3.899.631.024.527",
+      "5.134.487.567.257"
+    ],
+    [
+      "",
+      "- Nguyên giá",
+      "222",
+      "",
+      "14.272.460.795.228",
+      "14.202.687.600.971"
+    ],
+    [
+      "",
+      "- Giá trị hao mòn lũy kế",
+      "223",
+      "",
+      "(10.372.829.770.701)",
+      "(9.068.200.033.714)"
+    ],
+    [
+      "2.",
+      "Tài sản cố định vô hình",
+      "227",
+      "12",
+      "55.797.572.196",
+      "53.148.677.361"
+    ],
+    [
+      "",
+      "- Nguyên giá",
+      "228",
+      "",
+      "146.711.262.372",
+      "129.455.664.501"
+    ],
+    [
+      "",
+      "- Giá trị hao mòn lũy kế",
+      "229",
+      "",
+      "(90.913.690.176)",
+      "(76.306.987.140)"
+    ],
+    [
+      "III.",
+      "Tài sản dở dang dài hạn",
+      "240",
+      "",
+      "760.955.297.273",
+      "698.506.086.885"
+    ],
+    [
+      "1.",
+      "Chi phí xây dựng cơ bản dở dang",
+      "242",
+      "13",
+      "760.955.297.273",
+      "698.506.086.885"
+    ],
+    [
+      "IV.",
+      "Tài sản dài hạn khác",
+      "260",
+      "",
+      "22.901.670.676",
+      "36.412.462.405"
+    ],
+    [
+      "1.",
+      "Chi phí trả trước dài hạn",
+      "261",
+      "10",
+      "17.258.713.922",
+      "29.243.644.973"
+    ],
+    [
+      "2.",
+      "Tài sản thuế thu nhập hoãn lại",
+      "262",
+      "",
+      "5.642.956.754",
+      "7.168.817.432"
+    ],
+    [
+      "",
+      "TỔNG CỘNG TÀI SẢN (270=100+200)",
+      "270",
+      "",
+      "8.717.480.691.611",
+      "10.172.594.752.746"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ CÔNG TY CỔ PHẦN PHÂN BỐN DẦU KHÍ CÀ MAU Lô D, KCN Phường 1, đường Ngô Quyền, phường 1 Thành phố Cà Mau, tỉnh Cà Mau, CHXHCN Việt Nam MÃU SỐ B 01-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT Tại ngày 31 tháng 12 năm 2020 Đơn vị: VND"
+}

@@ -1,0 +1,29 @@
+﻿company,year,ma_so,label,value,prev
+DIG,2025,01,1. Lợi nhuận trước thuế,811362621692,335268257053
+DIG,2025,02,- Khấu hao tài sản cố định và bất động sản đầu tư,13365807904,13189227216
+DIG,2025,03,- Các khoản dự phòng,147261077184,-56818056624
+DIG,2025,04,"- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",-389070,-237553
+DIG,2025,05,"- Lãi, lỗ từ hoạt động đầu tư",-75552802906,-114064840659
+DIG,2025,06,- Chi phí lãi vay và phát hành trái phiếu,22262994757,22942261972
+DIG,2025,08,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,918699309561,200516611405
+DIG,2025,09,"- Tăng, giảm các khoản phải thu",-621251915649,238850883237
+DIG,2025,10,"- Tăng, giảm hàng tồn kho",1549160036426,-836142938275
+DIG,2025,11,"- Tăng, giảm các khoản phải trả",32670201324,599189693367
+DIG,2025,12,"- Tăng, giảm chi phí trả trước",-10950806077,-270203745
+DIG,2025,14,- Tiền lãi vay đã trả,-22277070146,-22885196104
+DIG,2025,15,- Thuế thu nhập doanh nghiệp đã nộp,-107973751909,-58465480024
+DIG,2025,17,- Tiền chi khác cho hoạt động kinh doanh,-56021739816,-11523133379
+DIG,2025,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,1682054263714,109270236482
+DIG,2025,21,"1. Tiền chi để mua sắm, xây dựng tài sản cố định",-438478214,-5317579770
+DIG,2025,22,"2. Tiền thu từ thanh lý, nhượng bán tài sản cố định",204545455,2803321730
+DIG,2025,23,"3. Tiền chi cho vay, mua các công cụ nợ",-200000000000,-1226428152415
+DIG,2025,24,"4. Tiền thu hồi cho vay, bán lại các công cụ nợ",948081599516,370406552899
+DIG,2025,25,5. Tiền chi đầu tư góp vốn vào đơn vị khác,-150043635000,-1380000281767
+DIG,2025,26,6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác,103641843615,186964211640
+DIG,2025,27,"7. Tiền thu lãi cho vay, lợi nhuận được chia",22418800792,137444012349
+DIG,2025,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,723864676164,-1914127915334
+DIG,2025,31,1. Tiền thu từ phát hành cố phiếu,1799564260000,
+DIG,2025,33,2. Tiền thu từ đi vay,682555946842,1896753642815
+DIG,2025,34,3. Tiền trả nợ gốc vay,-2372041943996,-1544808586995
+DIG,2025,36,"4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",-1187025,
+DIG,2025,40,Lưu chuyển tiền thuần từ hoạt động tài chính,110078262846,351943868795

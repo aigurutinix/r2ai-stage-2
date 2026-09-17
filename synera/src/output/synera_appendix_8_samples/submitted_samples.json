@@ -1,0 +1,332 @@
+[
+  {
+    "id": 363,
+    "question": "Trong giai đoạn 2016-2020, vào năm KBC có tỷ số D/E cao nhất, hệ số khả năng thanh toán lãi vay là bao nhiêu lần?",
+    "answer": 3.319357071984094,
+    "relevant_docs": [
+      "KBC_financial_statements_2016_consolidated",
+      "KBC_financial_statements_2017_consolidated",
+      "KBC_financial_statements_2018_consolidated",
+      "KBC_financial_statements_2019_consolidated",
+      "KBC_financial_statements_2020_consolidated"
+    ],
+    "relevant_tables": [
+      "KBC_financial_statements_2016_consolidated|243",
+      "KBC_financial_statements_2016_consolidated|258",
+      "KBC_financial_statements_2017_consolidated|255",
+      "KBC_financial_statements_2017_consolidated|270",
+      "KBC_financial_statements_2018_consolidated|252",
+      "KBC_financial_statements_2018_consolidated|269",
+      "KBC_financial_statements_2019_consolidated|232",
+      "KBC_financial_statements_2019_consolidated|247",
+      "KBC_financial_statements_2020_consolidated|248",
+      "KBC_financial_statements_2020_consolidated|265",
+      "KBC_financial_statements_2016_consolidated|276",
+      "KBC_financial_statements_2017_consolidated|301",
+      "KBC_financial_statements_2018_consolidated|302",
+      "KBC_financial_statements_2019_consolidated|276",
+      "KBC_financial_statements_2020_consolidated|296"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0363_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 364,
+    "question": "Xét các doanh nghiệp hóa chất (GVR, DPM, DCM, PRT) có CFO dương trong cả hai năm 2020 và 2021, công ty đạt tăng trưởng doanh thu thuần cao nhất có tỷ số dồn tích năm 2021 là bao nhiêu phần trăm?",
+    "answer": 5.198255749758565,
+    "relevant_docs": [
+      "GVR_financial_statements_2020_consolidated",
+      "GVR_financial_statements_2021_consolidated",
+      "DPM_financial_statements_2020_consolidated",
+      "DPM_financial_statements_2021_consolidated",
+      "DCM_financial_statements_2020_consolidated",
+      "DCM_financial_statements_2021_consolidated",
+      "PRT_financial_statements_2020_consolidated",
+      "PRT_financial_statements_2021_consolidated",
+      "GVR_financial_statements_2019_consolidated",
+      "DPM_financial_statements_2019_consolidated",
+      "DCM_financial_statements_2019_consolidated",
+      "PRT_financial_statements_2019_consolidated"
+    ],
+    "relevant_tables": [
+      "GVR_financial_statements_2020_consolidated|387",
+      "GVR_financial_statements_2021_consolidated|372",
+      "DPM_financial_statements_2020_consolidated|384",
+      "DPM_financial_statements_2021_consolidated|504",
+      "DCM_financial_statements_2020_consolidated|523",
+      "DCM_financial_statements_2021_consolidated|501",
+      "PRT_financial_statements_2020_consolidated|282",
+      "PRT_financial_statements_2021_consolidated|295",
+      "GVR_financial_statements_2019_consolidated|353",
+      "GVR_financial_statements_2020_consolidated|344",
+      "GVR_financial_statements_2021_consolidated|332",
+      "DPM_financial_statements_2019_consolidated|337",
+      "DPM_financial_statements_2020_consolidated|351",
+      "DPM_financial_statements_2021_consolidated|475",
+      "DCM_financial_statements_2019_consolidated|391",
+      "DCM_financial_statements_2020_consolidated|470",
+      "DCM_financial_statements_2021_consolidated|482",
+      "PRT_financial_statements_2019_consolidated|303",
+      "PRT_financial_statements_2020_consolidated|251",
+      "PRT_financial_statements_2021_consolidated|258",
+      "GVR_financial_statements_2019_consolidated|264",
+      "GVR_financial_statements_2019_consolidated|392",
+      "GVR_financial_statements_2020_consolidated|255",
+      "GVR_financial_statements_2021_consolidated|246",
+      "DPM_financial_statements_2019_consolidated|289",
+      "DPM_financial_statements_2019_consolidated|375",
+      "DPM_financial_statements_2020_consolidated|282",
+      "DPM_financial_statements_2021_consolidated|368",
+      "DCM_financial_statements_2019_consolidated|335",
+      "DCM_financial_statements_2019_consolidated|424",
+      "DCM_financial_statements_2020_consolidated|393",
+      "DCM_financial_statements_2021_consolidated|448",
+      "PRT_financial_statements_2019_consolidated|247",
+      "PRT_financial_statements_2019_consolidated|330",
+      "PRT_financial_statements_2020_consolidated|199",
+      "PRT_financial_statements_2021_consolidated|200"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0364_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 367,
+    "question": "Trong nhóm MSN, MCH, DBC, ASM và OGC, các công ty duy trì dòng tiền hoạt động dương ở cả năm 2024 và 2025 nhưng doanh thu thuần năm 2025 giảm so với 2024 có chênh lệch bình quân giữa biên lợi nhuận gộp và biên lợi nhuận ròng năm 2025 là bao nhiêu điểm phần trăm?",
+    "answer": 23.21392333971657,
+    "relevant_docs": [
+      "MSN_financial_statements_2024_consolidated",
+      "MSN_financial_statements_2025_consolidated",
+      "MCH_financial_statements_2024_consolidated",
+      "MCH_financial_statements_2025_consolidated",
+      "DBC_financial_statements_2024_consolidated",
+      "DBC_financial_statements_2025_consolidated",
+      "ASM_financial_statements_2024_consolidated",
+      "ASM_financial_statements_2025_consolidated",
+      "OGC_financial_statements_2024_consolidated",
+      "OGC_financial_statements_2025_consolidated"
+    ],
+    "relevant_tables": [
+      "MSN_financial_statements_2024_consolidated|260",
+      "MSN_financial_statements_2025_consolidated|337",
+      "MCH_financial_statements_2024_consolidated|254",
+      "MCH_financial_statements_2025_consolidated|308",
+      "DBC_financial_statements_2024_consolidated|387",
+      "DBC_financial_statements_2025_consolidated|322",
+      "ASM_financial_statements_2024_consolidated|501",
+      "ASM_financial_statements_2025_consolidated|467",
+      "OGC_financial_statements_2024_consolidated|413",
+      "OGC_financial_statements_2025_consolidated|451",
+      "MSN_financial_statements_2024_consolidated|226",
+      "MSN_financial_statements_2025_consolidated|305",
+      "MCH_financial_statements_2024_consolidated|218",
+      "MCH_financial_statements_2025_consolidated|277",
+      "DBC_financial_statements_2024_consolidated|358",
+      "DBC_financial_statements_2025_consolidated|298",
+      "ASM_financial_statements_2024_consolidated|462",
+      "ASM_financial_statements_2025_consolidated|426",
+      "OGC_financial_statements_2024_consolidated|372",
+      "OGC_financial_statements_2025_consolidated|406"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0367_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 368,
+    "question": "Năm 2022, trong nhóm HPG, HSG, MSR và NKG, các công ty có hệ số thanh toán nhanh thấp hơn trung vị của nhóm có biên lợi nhuận ròng bình quân là bao nhiêu phần trăm?",
+    "answer": 0.590899365626417,
+    "relevant_docs": [
+      "HPG_financial_statements_2022_consolidated",
+      "HSG_financial_statements_2022_consolidated",
+      "MSR_financial_statements_2022_consolidated",
+      "NKG_financial_statements_2022_consolidated"
+    ],
+    "relevant_tables": [
+      "HPG_financial_statements_2022_consolidated|159",
+      "HPG_financial_statements_2022_consolidated|193",
+      "HSG_financial_statements_2022_consolidated|125",
+      "HSG_financial_statements_2022_consolidated|153",
+      "MSR_financial_statements_2022_consolidated|298",
+      "MSR_financial_statements_2022_consolidated|330",
+      "NKG_financial_statements_2022_consolidated|179",
+      "NKG_financial_statements_2022_consolidated|209",
+      "HPG_financial_statements_2022_consolidated|234",
+      "HSG_financial_statements_2022_consolidated|182",
+      "MSR_financial_statements_2022_consolidated|357",
+      "NKG_financial_statements_2022_consolidated|232"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0368_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 369,
+    "question": "Trong nhóm HPG, HSG, MSR và NKG, xét các công ty có hệ số thanh toán nhanh năm 2022 thấp hơn trung vị của nhóm. Công ty có mức thay đổi biên lợi nhuận gộp cao nhất từ năm 2022 sang năm 2023 có hệ số khả năng thanh toán lãi vay năm 2023 là bao nhiêu lần?",
+    "answer": 1.7469585693461782,
+    "relevant_docs": [
+      "HPG_financial_statements_2022_consolidated",
+      "HPG_financial_statements_2023_consolidated",
+      "HSG_financial_statements_2022_consolidated",
+      "HSG_financial_statements_2023_consolidated",
+      "MSR_financial_statements_2022_consolidated",
+      "MSR_financial_statements_2023_consolidated",
+      "NKG_financial_statements_2022_consolidated",
+      "NKG_financial_statements_2023_consolidated"
+    ],
+    "relevant_tables": [
+      "HPG_financial_statements_2022_consolidated|159",
+      "HPG_financial_statements_2022_consolidated|193",
+      "HPG_financial_statements_2023_consolidated|193",
+      "HPG_financial_statements_2023_consolidated|229",
+      "HSG_financial_statements_2022_consolidated|125",
+      "HSG_financial_statements_2022_consolidated|153",
+      "HSG_financial_statements_2023_consolidated|121",
+      "HSG_financial_statements_2023_consolidated|155",
+      "MSR_financial_statements_2022_consolidated|298",
+      "MSR_financial_statements_2022_consolidated|330",
+      "MSR_financial_statements_2023_consolidated|233",
+      "MSR_financial_statements_2023_consolidated|263",
+      "NKG_financial_statements_2022_consolidated|179",
+      "NKG_financial_statements_2022_consolidated|209",
+      "NKG_financial_statements_2023_consolidated|263",
+      "NKG_financial_statements_2023_consolidated|375",
+      "HPG_financial_statements_2022_consolidated|234",
+      "HPG_financial_statements_2023_consolidated|270",
+      "HSG_financial_statements_2022_consolidated|182",
+      "HSG_financial_statements_2023_consolidated|170",
+      "MSR_financial_statements_2022_consolidated|357",
+      "MSR_financial_statements_2023_consolidated|292",
+      "NKG_financial_statements_2022_consolidated|232",
+      "NKG_financial_statements_2023_consolidated|421"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0369_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 370,
+    "question": "Trong nhóm GEE, GEX và SAM, xét các công ty duy trì lưu chuyển tiền thuần từ hoạt động kinh doanh dương trong cả ba năm 2022–2024. Công ty có CAGR doanh thu thuần cao nhất giai đoạn 2022–2024 đạt biên lợi nhuận ròng năm 2024 là bao nhiêu phần trăm?",
+    "answer": 8.11456002879663,
+    "relevant_docs": [
+      "GEE_financial_statements_2022_consolidated",
+      "GEE_financial_statements_2023_consolidated",
+      "GEE_financial_statements_2024_consolidated",
+      "GEX_financial_statements_2022_consolidated",
+      "GEX_financial_statements_2023_consolidated",
+      "GEX_financial_statements_2024_consolidated",
+      "SAM_financial_statements_2022_consolidated",
+      "SAM_financial_statements_2023_consolidated",
+      "SAM_financial_statements_2024_consolidated"
+    ],
+    "relevant_tables": [
+      "GEE_financial_statements_2022_consolidated|447",
+      "GEE_financial_statements_2023_consolidated|494",
+      "GEE_financial_statements_2024_consolidated|523",
+      "GEX_financial_statements_2022_consolidated|472",
+      "GEX_financial_statements_2023_consolidated|487",
+      "GEX_financial_statements_2024_consolidated|533",
+      "SAM_financial_statements_2022_consolidated|338",
+      "SAM_financial_statements_2023_consolidated|270",
+      "SAM_financial_statements_2024_consolidated|366",
+      "GEE_financial_statements_2022_consolidated|414",
+      "GEE_financial_statements_2023_consolidated|459",
+      "GEE_financial_statements_2024_consolidated|484",
+      "GEX_financial_statements_2022_consolidated|434",
+      "GEX_financial_statements_2023_consolidated|455",
+      "GEX_financial_statements_2024_consolidated|498",
+      "SAM_financial_statements_2022_consolidated|303",
+      "SAM_financial_statements_2023_consolidated|230",
+      "SAM_financial_statements_2024_consolidated|329"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0370_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 371,
+    "question": "Năm 2024, trong nhóm BSR, PLX và PVT, công ty có biên lợi nhuận gộp cao nhất trong số các công ty có lưu chuyển tiền thuần từ hoạt động kinh doanh dương có hệ số khả năng thanh toán lãi vay là bao nhiêu lần?",
+    "answer": 5.472919380965644,
+    "relevant_docs": [
+      "BSR_financial_statements_2024_consolidated",
+      "PLX_financial_statements_2024_consolidated",
+      "PVT_financial_statements_2024_consolidated"
+    ],
+    "relevant_tables": [
+      "BSR_financial_statements_2024_consolidated|371",
+      "PLX_financial_statements_2024_consolidated|263",
+      "PVT_financial_statements_2024_consolidated|481",
+      "BSR_financial_statements_2024_consolidated|336",
+      "PLX_financial_statements_2024_consolidated|216",
+      "PVT_financial_statements_2024_consolidated|442"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0371_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  },
+  {
+    "id": 372,
+    "question": "Công ty Vincom Retail có hệ số dòng tiền hoạt động trên nợ ngắn hạn vào năm sau năm có hệ số thanh toán nhanh thấp nhất trong giai đoạn 2021-2024 là bao nhiêu lần?",
+    "answer": 0.12804294733428592,
+    "relevant_docs": [
+      "VRE_financial_statements_2021_consolidated",
+      "VRE_financial_statements_2022_consolidated",
+      "VRE_financial_statements_2023_consolidated",
+      "VRE_financial_statements_2024_consolidated",
+      "VRE_financial_statements_2025_consolidated"
+    ],
+    "relevant_tables": [
+      "VRE_financial_statements_2021_consolidated|210",
+      "VRE_financial_statements_2021_consolidated|234",
+      "VRE_financial_statements_2022_consolidated|243",
+      "VRE_financial_statements_2022_consolidated|281",
+      "VRE_financial_statements_2023_consolidated|245",
+      "VRE_financial_statements_2023_consolidated|271",
+      "VRE_financial_statements_2024_consolidated|208",
+      "VRE_financial_statements_2024_consolidated|252",
+      "VRE_financial_statements_2025_consolidated|234",
+      "VRE_financial_statements_2025_consolidated|286",
+      "VRE_financial_statements_2021_consolidated|289",
+      "VRE_financial_statements_2022_consolidated|346",
+      "VRE_financial_statements_2023_consolidated|347",
+      "VRE_financial_statements_2024_consolidated|338",
+      "VRE_financial_statements_2025_consolidated|377"
+    ],
+    "evidence": [
+      {
+        "variable": "df1",
+        "csv_path": "data/q0372_df1.csv"
+      }
+    ],
+    "pandas_query": "float(df1.loc[df1['source_id'] == 's1', 'computed_answer'].iloc[0])"
+  }
+]

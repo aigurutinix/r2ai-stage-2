@@ -1,0 +1,10 @@
+<question language="vi">
+{{QUESTION}}
+</question>
+
+<data_preview>
+The CSV text below shows the complete table content available to the model.
+At execution time, the original CSV data are already loaded in `{{VAR_HINT}}`.
+
+{{TABLES}}
+</data_preview>

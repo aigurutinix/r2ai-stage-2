@@ -1,0 +1,10 @@
+﻿company,year,ma_so,label,value,prev
+ACV,2018,32,1. Tiền mua lại cổ phiếu đã phát hành,-572470000,
+ACV,2018,33,2. Tiền thu từ đi vay,234180466916,31402837049
+ACV,2018,34,3. Tiền trả nợ gốc vay,-149492654048,-145760637817
+ACV,2018,36,"4. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",-1959379265070,-1306211897430
+ACV,2018,40,Lưu chuyển tiền thuần từ hoạt động tài chính,-1875263922202,-1420569698198
+ACV,2018,50,Lưu chuyển tiền thuần trong năm (50=20+30+40),-674911468132,-1852012185619
+ACV,2018,60,Tiền và tương đương tiền đầu năm,1313665194187,3165744917074
+ACV,2018,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,-362870092,-67537268
+ACV,2018,70,Tiền và tương đương tiền cuối năm (70=50+60+61),638390855963,1313665194187

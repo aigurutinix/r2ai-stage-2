@@ -1,0 +1,296 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ViFinQA FinancialPlan",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "question_id",
+    "question",
+    "facts",
+    "nodes",
+    "output",
+    "output_unit",
+    "conventions",
+    "generator",
+    "confidence",
+    "assumptions"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "question_id": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "question": {
+      "type": "string",
+      "minLength": 1
+    },
+    "facts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "ticker",
+          "year",
+          "metric",
+          "scope",
+          "period",
+          "unit",
+          "source_preference"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]{0,63}$"
+          },
+          "ticker": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9]{1,9}$"
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 2010,
+            "maximum": 2030
+          },
+          "metric": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 240
+          },
+          "scope": {
+            "type": "string",
+            "enum": [
+              "aggregated",
+              "any",
+              "consolidated",
+              "separate"
+            ]
+          },
+          "period": {
+            "type": "string",
+            "enum": [
+              "end",
+              "end_or_flow",
+              "flow",
+              "start"
+            ]
+          },
+          "unit": {
+            "type": "string",
+            "enum": [
+              "USD_1",
+              "USD_1e3",
+              "USD_1e6",
+              "VND_1",
+              "VND_1e11",
+              "VND_1e12",
+              "VND_1e3",
+              "VND_1e6",
+              "VND_1e8",
+              "VND_1e9",
+              "VND_per_share",
+              "count",
+              "number",
+              "percent",
+              "ratio",
+              "shares",
+              "year"
+            ]
+          },
+          "source_preference": {
+            "type": "string",
+            "enum": [
+              "auto",
+              "note_table",
+              "primary_statement"
+            ]
+          },
+          "row_ref": {
+            "type": "string",
+            "pattern": "^t[0-9]+r[0-9]+$"
+          }
+        }
+      }
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "op",
+          "inputs",
+          "params"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]{0,63}$"
+          },
+          "op": {
+            "type": "string",
+            "enum": [
+              "abs",
+              "add",
+              "argmax_key",
+              "argmin_key",
+              "bottom_k",
+              "count",
+              "count_if",
+              "divide",
+              "filter",
+              "filter_by",
+              "identity",
+              "literal",
+              "max",
+              "mean",
+              "median",
+              "min",
+              "multiply",
+              "negate",
+              "percent_change",
+              "ratio_percent",
+              "round",
+              "scale",
+              "select_argmax",
+              "select_argmin",
+              "subtract",
+              "sum",
+              "top_k",
+              "vector"
+            ]
+          },
+          "inputs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_]{0,63}$"
+            }
+          },
+          "params": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "output": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]{0,63}$"
+    },
+    "output_unit": {
+      "type": "string",
+      "enum": [
+        "USD_1",
+        "USD_1e3",
+        "USD_1e6",
+        "VND_1",
+        "VND_1e11",
+        "VND_1e12",
+        "VND_1e3",
+        "VND_1e6",
+        "VND_1e8",
+        "VND_1e9",
+        "VND_per_share",
+        "count",
+        "number",
+        "percent",
+        "ratio",
+        "shares",
+        "year"
+      ]
+    },
+    "conventions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "balance_basis",
+        "expense_sign",
+        "growth_denominator",
+        "interest_source",
+        "profit_attribution",
+        "scope_policy",
+        "zero_division"
+      ],
+      "properties": {
+        "scope_policy": {
+          "type": "string",
+          "enum": [
+            "consolidated_first",
+            "explicit",
+            "separate_first"
+          ]
+        },
+        "expense_sign": {
+          "type": "string",
+          "enum": [
+            "absolute",
+            "reported"
+          ]
+        },
+        "growth_denominator": {
+          "type": "string",
+          "enum": [
+            "absolute",
+            "reported"
+          ]
+        },
+        "balance_basis": {
+          "type": "string",
+          "enum": [
+            "average",
+            "ending",
+            "explicit"
+          ]
+        },
+        "profit_attribution": {
+          "type": "string",
+          "enum": [
+            "explicit",
+            "parent",
+            "total"
+          ]
+        },
+        "interest_source": {
+          "type": "string",
+          "enum": [
+            "auto",
+            "borrowing_cost_note",
+            "finance_cost_note",
+            "primary_statement"
+          ]
+        },
+        "zero_division": {
+          "type": "string",
+          "enum": [
+            "reject"
+          ]
+        }
+      }
+    },
+    "generator": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 160
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 300
+      }
+    }
+  }
+}

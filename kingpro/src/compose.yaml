@@ -1,0 +1,127 @@
+name: kingpro-r2ai
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    image: kingpro/backend:stage2
+    restart: unless-stopped
+    init: true
+    read_only: true
+    environment:
+      KINGPRO_HOST: 0.0.0.0
+      KINGPRO_PORT: "8080"
+      KINGPRO_ALLOWED_ORIGIN: "http://127.0.0.1:${KINGPRO_FRONTEND_PUBLISHED_PORT:-3000}"
+      KINGPRO_EXPECTED_REPLAY_SHA256: E19E4748DDAFFAD28112292EAE17E9296F85BBC99265C9D52EEB27E8F8539C85
+      KINGPRO_AUTH_MODE: "${KINGPRO_AUTH_MODE:-off}"
+      KINGPRO_API_TOKENS_JSON: "${KINGPRO_API_TOKENS_JSON:-}"
+      KINGPRO_OIDC_ISSUER: "${KINGPRO_OIDC_ISSUER:-}"
+      KINGPRO_OIDC_AUDIENCE: "${KINGPRO_OIDC_AUDIENCE:-}"
+      KINGPRO_OIDC_JWKS_URL: "${KINGPRO_OIDC_JWKS_URL:-}"
+      KINGPRO_AUDIT_HMAC_KEY: "${KINGPRO_AUDIT_HMAC_KEY:-}"
+      KINGPRO_AUDIT_LOG: /app/outputs/governance/audit.jsonl
+      KINGPRO_SOURCE_LIFECYCLE_REPORT: /app/build/source_lifecycle/latest.json
+      KINGPRO_DATA_ENCRYPTION_KEY: "${KINGPRO_DATA_ENCRYPTION_KEY:-}"
+      KINGPRO_REQUIRE_DATA_ENCRYPTION: "${KINGPRO_REQUIRE_DATA_ENCRYPTION:-false}"
+      KINGPRO_UPLOAD_REQUIRE_MALWARE_SCANNER: "${KINGPRO_UPLOAD_REQUIRE_MALWARE_SCANNER:-true}"
+      KINGPRO_MAX_BATCH_ITEMS: "${KINGPRO_MAX_BATCH_ITEMS:-2000}"
+      KINGPRO_MAX_ACTIVE_JOBS_PER_TENANT: "${KINGPRO_MAX_ACTIVE_JOBS_PER_TENANT:-2}"
+      KINGPRO_REQUIRE_OS_SANDBOX: "${KINGPRO_REQUIRE_OS_SANDBOX:-false}"
+      KINGPRO_OS_SANDBOX_PROVIDER: "${KINGPRO_OS_SANDBOX_PROVIDER:-auto}"
+      KINGPRO_OS_SANDBOX_ATTESTED: "${KINGPRO_OS_SANDBOX_ATTESTED:-false}"
+      KINGPRO_LLM_BASE_URL: "${KINGPRO_LLM_BASE_URL:-}"
+      KINGPRO_LLM_MODEL: "${KINGPRO_LLM_MODEL:-}"
+      KINGPRO_LLM_API_KEY: "${KINGPRO_LLM_API_KEY:-}"
+      KINGPRO_LLM_ATTESTED: "${KINGPRO_LLM_ATTESTED:-false}"
+      KINGPRO_ALLOWED_ENDPOINT_HOSTS: "${KINGPRO_ALLOWED_ENDPOINT_HOSTS:-}"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - type: bind
+        source: ./build
+        target: /app/build
+        read_only: true
+      - type: bind
+        source: ./data
+        target: /app/data
+        read_only: true
+      - type: bind
+        source: ./sub_v297_scope2
+        target: /app/sub_v297_scope2
+        read_only: true
+      - type: bind
+        source: ./private_evidence
+        target: /app/private_evidence
+        read_only: true
+      - type: bind
+        source: ./config
+        target: /app/config
+        read_only: true
+      - type: bind
+        source: ./configs
+        target: /app/configs
+        read_only: true
+      - type: bind
+        source: ./outputs
+        target: /app/outputs
+    tmpfs:
+      - /tmp:size=512m,mode=1777
+    ports:
+      - "127.0.0.1:${KINGPRO_BACKEND_PUBLISHED_PORT:-8080}:8080"
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import json,urllib.request; d=json.load(urllib.request.urlopen('http://127.0.0.1:8080/health',timeout=5)); assert d.get('status') in {'ok','ready'}"
+      interval: 10s
+      timeout: 8s
+      retries: 18
+      start_period: 120s
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    image: kingpro/frontend:stage2
+    restart: unless-stopped
+    init: true
+    environment:
+      KINGPRO_API_URL: http://backend:8080
+      KINGPRO_DATA_ROOT: /app/project
+      KINGPRO_SERVICE_TOKEN: "${KINGPRO_SERVICE_TOKEN:-}"
+      HOSTNAME: 0.0.0.0
+      PORT: "3000"
+    volumes:
+      - type: bind
+        source: ./build
+        target: /app/project/build
+        read_only: true
+      - type: bind
+        source: ./data/code_stock.csv
+        target: /app/project/data/code_stock.csv
+        read_only: true
+    ports:
+      - "127.0.0.1:${KINGPRO_FRONTEND_PUBLISHED_PORT:-3000}:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3000/api/health').then(async r=>{if(!r.ok)throw new Error(await r.text())})"
+      interval: 10s
+      timeout: 8s
+      retries: 12
+      start_period: 30s
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL

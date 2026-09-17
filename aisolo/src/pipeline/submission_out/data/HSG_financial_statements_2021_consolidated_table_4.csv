@@ -1,0 +1,19 @@
+﻿company,year,ma_so,label,value,prev
+HSG,2021,01,Doanh thu bán hàng và cung cấp dịch vụ,48987333712285,27765155626306
+HSG,2021,02,Các khoản giảm trừ doanh thu,260811478549,234406112472
+HSG,2021,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),48726522233736,27530749513834
+HSG,2021,11,Giá vốn hàng bán và dịch vụ cung cấp,39853124052753,22903482165423
+HSG,2021,20,Lợi nhuận gộp (20 = 10 - 11),8873398180983,4627267348411
+HSG,2021,21,Doanh thu hoạt động tài chính,366296112404,77984494109
+HSG,2021,22,Chi phí tài chính,552008300634,645261573177
+HSG,2021,23,Trong đó: Chi phí lãi vay,355048548813,560086135926
+HSG,2021,25,Chi phí bán hàng,3344487236554,2221083074110
+HSG,2021,26,Chi phí quản lý doanh nghiệp,425816363938,459978781905
+HSG,2021,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},4917382392261,1378928413328
+HSG,2021,31,Thu nhập khác,14708414685,28617237724
+HSG,2021,32,Chi phí khác,16607736066,31902487528
+HSG,2021,40,Kết quả từ hoạt động khác (40 = 31 - 32),-1899321381,-3285249804
+HSG,2021,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),4915483070880,1375643163524
+HSG,2021,51,Chi phí thuế TNDN hiện hành,702566164265,259835557336
+HSG,2021,52,Lợi ích thuế TNDN hoãn lại,-100577155644,-37206411121
+HSG,2021,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau),4313494062259,1153014017309

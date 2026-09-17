@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+TTF,2020,01,1. Doanh thu bán hàng và cung cấp dịch vụ,1224381258319,720665894888
+TTF,2020,02,2. Các khoản giảm trừ doanh thu,-10861936570,-127870299
+TTF,2020,10,3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,1213519321749,720538024589
+TTF,2020,11,4. Giá vốn hàng bán và dịch vụ cung cấp,-952289765259,-1266583204364
+TTF,2020,20,5. Lợi nhuận (lỗ) gộp về bán hàng và cung cấp dịch vụ,261229556490,-546045179775
+TTF,2020,21,6. Doanh thu hoạt động tài chính,26961438462,21334652393
+TTF,2020,22,7. Chi phí tài chính,-121590908538,-116318485863
+TTF,2020,23,- Trong đó: Chi phí lãi vay,-118101430173,-115163557349
+TTF,2020,24,"8. Phần lỗ trong công ty liên doanh, liên kết",-4298318403,-20646470528
+TTF,2020,25,9. Chi phí bán hàng,-97163648191,-89174461342
+TTF,2020,26,10. Chi phí quản lý doanh nghiệp,-95533369875,-137865511060
+TTF,2020,30,11. Lỗ thuần từ hoạt động kinh doanh,-30395250055,-888715456175
+TTF,2020,31,12. Thu nhập khác,67989215943,20480264862
+TTF,2020,32,13. Chi phí khác,-21094868029,-134425960066
+TTF,2020,40,14. Lợi nhuận (lỗ) khác,46894347914,-113945695204
+TTF,2020,50,15. Tổng lợi nhuận (lỗ) kế toán trước thuế,16499097859,-1002661151379
+TTF,2020,51,16. Chi phí thuế TNDN hiện hành,-648740236,-1790859017
+TTF,2020,52,17. Thu nhập thuế TNDN hoãn lại,2262515599,1863555892
+TTF,2020,60,18. Lợi nhuận (lỗ) sau thuế TNDN,18112873222,-1002588454504

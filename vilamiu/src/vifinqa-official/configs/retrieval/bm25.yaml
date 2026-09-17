@@ -1,0 +1,4 @@
+command: eval-retrieval
+run: {name: retrieval-bm25-paper}
+retrieval: {backend: bm25, table_encoding: table_retrieval_text}
+evaluation: {mode: full, ks: [1, 3, 5, 10, 20, 50, 100], limit: 1012}

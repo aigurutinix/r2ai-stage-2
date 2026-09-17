@@ -1,0 +1,151 @@
+{
+  "doc_id": "HPG_financial_statements_2023_consolidated",
+  "document_sha256": "f1ccbbf4a4565a46fc0822f5058b3e21b03190d8e0f0e553bc41cf9d0f72c36c",
+  "table_id_internal": 5,
+  "physical_line_one_based": 270,
+  "html_sha256": "ed97713c3d92213434478b62777925baf985772ae80dde4136ee1780065dd1ad",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2023 VND</td><td>2022 VND</td></tr><tr><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td>01</td><td>31</td><td>120.355.231.616.139</td><td>142.770.810.676.858</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td>31</td><td>1.402.203.722.485</td><td>1.361.536.216.226</td></tr><tr><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)</td><td>10</td><td>31</td><td>118.953.027.893.654</td><td>141.409.274.460.632</td></tr><tr><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>11</td><td>32</td><td>106.015.187.198.082</td><td>124.645.848.221.080</td></tr><tr><td>Lợi nhuận gộp (20 = 10 - 11)</td><td>20</td><td></td><td>12.937.840.695.572</td><td>16.763.426.239.552</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>33</td><td>3.173.086.404.949</td><td>3.743.650.707.331</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>34</td><td>5.191.511.844.389</td><td>7.026.723.285.241</td></tr><tr><td>Trong đó: Chi phí đi vay</td><td>23</td><td></td><td>3.585.077.683.881</td><td>3.083.638.131.818</td></tr><tr><td>Phần lỗ trong công ty liên kết</td><td>24</td><td></td><td>-</td><td>(1.072.667.584)</td></tr><tr><td>Chi phí bán hàng</td><td>25</td><td>35</td><td>1.961.362.129.952</td><td>2.665.806.087.302</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>36</td><td>1.307.290.336.873</td><td>1.019.444.279.447</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)}</td><td>30</td><td></td><td>7.650.762.789.307</td><td>9.794.030.627.309</td></tr><tr><td>Thu nhập khác</td><td>31</td><td>37</td><td>771.973.465.495</td><td>872.024.724.926</td></tr><tr><td>Chi phí khác</td><td>32</td><td>38</td><td>630.007.511.629</td><td>743.114.224.951</td></tr><tr><td>Kết quả từ hoạt động khác (40 = 31 - 32)</td><td>40</td><td></td><td>141.965.953.866</td><td>128.910.499.975</td></tr><tr><td>Lợi nhuận kế toán trước thuế (50 = 30 + 40)</td><td>50</td><td></td><td>7.792.728.743.173</td><td>9.922.941.127.284</td></tr><tr><td>Chi phí thuế TNDN hiện hành</td><td>51</td><td>40</td><td>1.073.551.888.059</td><td>1.001.020.240.086</td></tr><tr><td>(Lợi ích)/chi phí thuế TNDN hoãn lại</td><td>52</td><td>40</td><td>(81.211.459.967)</td><td>477.491.832.682</td></tr><tr><td>Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)</td><td>60</td><td></td><td>6.800.388.315.081</td><td>8.444.429.054.516</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "2023 VND",
+      "2022 VND"
+    ],
+    [
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "01",
+      "31",
+      "120.355.231.616.139",
+      "142.770.810.676.858"
+    ],
+    [
+      "Các khoản giảm trừ doanh thu",
+      "02",
+      "31",
+      "1.402.203.722.485",
+      "1.361.536.216.226"
+    ],
+    [
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)",
+      "10",
+      "31",
+      "118.953.027.893.654",
+      "141.409.274.460.632"
+    ],
+    [
+      "Giá vốn hàng bán và dịch vụ cung cấp",
+      "11",
+      "32",
+      "106.015.187.198.082",
+      "124.645.848.221.080"
+    ],
+    [
+      "Lợi nhuận gộp (20 = 10 - 11)",
+      "20",
+      "",
+      "12.937.840.695.572",
+      "16.763.426.239.552"
+    ],
+    [
+      "Doanh thu hoạt động tài chính",
+      "21",
+      "33",
+      "3.173.086.404.949",
+      "3.743.650.707.331"
+    ],
+    [
+      "Chi phí tài chính",
+      "22",
+      "34",
+      "5.191.511.844.389",
+      "7.026.723.285.241"
+    ],
+    [
+      "Trong đó: Chi phí đi vay",
+      "23",
+      "",
+      "3.585.077.683.881",
+      "3.083.638.131.818"
+    ],
+    [
+      "Phần lỗ trong công ty liên kết",
+      "24",
+      "",
+      "-",
+      "(1.072.667.584)"
+    ],
+    [
+      "Chi phí bán hàng",
+      "25",
+      "35",
+      "1.961.362.129.952",
+      "2.665.806.087.302"
+    ],
+    [
+      "Chi phí quản lý doanh nghiệp",
+      "26",
+      "36",
+      "1.307.290.336.873",
+      "1.019.444.279.447"
+    ],
+    [
+      "Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)}",
+      "30",
+      "",
+      "7.650.762.789.307",
+      "9.794.030.627.309"
+    ],
+    [
+      "Thu nhập khác",
+      "31",
+      "37",
+      "771.973.465.495",
+      "872.024.724.926"
+    ],
+    [
+      "Chi phí khác",
+      "32",
+      "38",
+      "630.007.511.629",
+      "743.114.224.951"
+    ],
+    [
+      "Kết quả từ hoạt động khác (40 = 31 - 32)",
+      "40",
+      "",
+      "141.965.953.866",
+      "128.910.499.975"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuế (50 = 30 + 40)",
+      "50",
+      "",
+      "7.792.728.743.173",
+      "9.922.941.127.284"
+    ],
+    [
+      "Chi phí thuế TNDN hiện hành",
+      "51",
+      "40",
+      "1.073.551.888.059",
+      "1.001.020.240.086"
+    ],
+    [
+      "(Lợi ích)/chi phí thuế TNDN hoãn lại",
+      "52",
+      "40",
+      "(81.211.459.967)",
+      "477.491.832.682"
+    ],
+    [
+      "Lợi nhuận sau thuế TNDN (mang sang trang sau) (60 = 50 - 51 - 52)",
+      "60",
+      "",
+      "6.800.388.315.081",
+      "8.444.429.054.516"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Tập đoàn Hòa Phát Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2023 Mâu B 02 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

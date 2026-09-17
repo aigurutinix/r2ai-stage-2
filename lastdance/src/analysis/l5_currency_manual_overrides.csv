@@ -1,0 +1,20 @@
+question_id,symbol,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+427,f1,2016,FPT_financial_statements_2016_consolidated,1371,2,1,1.971.391.027.060,Công nợ tiền tệ USD cuối năm
+427,f2,2016,FPT_financial_statements_2016_consolidated,1371,2,3,860.476.931.109,Tài sản tiền tệ USD cuối năm
+427,f3,2016,FPT_financial_statements_2016_consolidated,1389,2,1,(55.545.704.798),Mức giảm LNTT khi USD tăng 5 phần trăm
+427,f4,2016,FPT_financial_statements_2016_consolidated,1371,3,1,68.492.481.932,Công nợ tiền tệ EUR cuối năm
+427,f5,2016,FPT_financial_statements_2016_consolidated,1371,3,3,207.023.726.267,Tài sản tiền tệ EUR cuối năm
+427,f6,2016,FPT_financial_statements_2016_consolidated,1389,3,1,6.926.562.217,Độ nhạy LNTT EUR khi tỷ giá thay đổi 5 phần trăm
+427,f7,2016,FPT_financial_statements_2016_consolidated,1371,4,1,423.062.639.575,Công nợ tiền tệ JPY cuối năm
+427,f8,2016,FPT_financial_statements_2016_consolidated,1371,4,3,940.414.984.796,Tài sản tiền tệ JPY cuối năm
+427,f9,2016,FPT_financial_statements_2016_consolidated,1389,4,1,25.867.617.261,Độ nhạy LNTT JPY khi tỷ giá thay đổi 5 phần trăm
+427,f10,2016,FPT_financial_statements_2016_consolidated,1371,5,1,81.015.737.069,Công nợ tiền tệ SGD cuối năm
+427,f11,2016,FPT_financial_statements_2016_consolidated,1371,5,3,168.269.166.723,Tài sản tiền tệ SGD cuối năm
+427,f12,2016,FPT_financial_statements_2016_consolidated,1389,5,1,4.362.671.483,Độ nhạy LNTT SGD khi tỷ giá thay đổi 5 phần trăm
+428,f1,2024,ACB_financial_statements_2024_consolidated,2798,19,1,(1.216.640),Trạng thái tiền tệ nội ngoại bảng USD cuối năm đơn vị triệu VND
+428,f2,2024,ACB_financial_statements_2024_consolidated,2798,19,3,22.477,Trạng thái tiền tệ nội ngoại bảng EUR cuối năm đơn vị triệu VND
+428,f3,2024,ACB_financial_statements_2024_consolidated,2798,19,4,73.560,Trạng thái tiền tệ nội ngoại bảng JPY cuối năm đơn vị triệu VND
+428,f4,2024,ACB_financial_statements_2024_consolidated,2798,19,5,15.822,Trạng thái tiền tệ nội ngoại bảng AUD cuối năm đơn vị triệu VND
+428,f5,2024,ACB_financial_statements_2024_consolidated,2798,19,6,11.577,Trạng thái tiền tệ nội ngoại bảng CAD cuối năm đơn vị triệu VND
+428,f6,2024,ACB_financial_statements_2024_consolidated,2798,19,7,45.805,Trạng thái tiền tệ nội ngoại bảng các ngoại tệ khác cuối năm đơn vị triệu VND
+428,f7,2024,ACB_financial_statements_2024_consolidated,213,17,3,21.005.871,Tổng lợi nhuận trước thuế năm 2024 đơn vị triệu VND

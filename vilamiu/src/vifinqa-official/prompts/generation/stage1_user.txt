@@ -1,0 +1,3 @@
+{{CANDIDATE_TABLE_BLOCKS}}
+
+Identify one feasible and financially meaningful concept or ratio according to the requirements above. Return exactly the required JSON object.

@@ -1,0 +1,38 @@
+﻿company,year,ma_so,label,value,prev
+SSI,2016,300,C. NỘ PHẢI TRẢ,6075402095022,5425822583238
+SSI,2016,310,I. Nợ phải trả ngắn hạn,5841951456398,4702545475813
+SSI,2016,311,1. Vay và nợ thuê tài sản tài chính ngắn hạn,4819340678085,3913847967537
+SSI,2016,312,1.1. Vay ngắn hạn,4819340678085,3913847967537
+SSI,2016,316,2. Trái phiếu phát hành ngắn hạn,376000000000,
+SSI,2016,318,3. Phải trả hoạt động giao dịch chứng khoán,39617787653,308942165126
+SSI,2016,320,4. Phải trả người bán ngắn hạn,9261510278,4847340451
+SSI,2016,321,5. Người mua trả tiền trước ngắn hạn,4141733170,4893483331
+SSI,2016,322,6. Thuế và các khoản phải nộp Nhà nước,73816803238,91848160110
+SSI,2016,323,7. Phải trả người lao động,4726744169,3908502405
+SSI,2016,324,8. Các khoản trích nộp phúc lợi nhân viên,168596552,6742952
+SSI,2016,325,9. Chi phí phải trả ngắn hạn,62998576869,63406571076
+SSI,2016,327,10. Doanh thu chưa thực hiện ngắn hạn,244986666,
+SSI,2016,329,"11. Các khoản phải trả, phải nộp ngắn hạn khác",300115900807,194911136262
+SSI,2016,331,"12. Quỹ khen thưởng, phúc lợi",151518138911,115933406563
+SSI,2016,340,II. Nợ phải trả dài hạn,233450638624,723277107425
+SSI,2016,346,1. Trái phiếu phát hành dài hạn,199651666665,687500000000
+SSI,2016,351,2. Doanh thu chưa thực hiện dài hạn,33511108968,33511108968
+SSI,2016,352,"3. Nhận ký quỹ, ký cược dài hạn",230577141,453246599
+SSI,2016,356,4. Thuế thu nhập doanh nghiệp hoãn lại phải trả,57285850,1812751858
+SSI,2016,400,D. VỐN CHỦ SỞ HỮU,7152567156682,6727609014290
+SSI,2016,410,I. Vốn chủ sở hữu,7152567156682,6727609014290
+SSI,2016,411,1. Vốn đầu tư của chủ sở hữu,4927409917200,4825142703161
+SSI,2016,,1.1. Vốn góp của chủ sở hữu,4900636840000,4800636840000
+SSI,2016,,a. Cổ phiếu phổ thông,4900636840000,4800636840000
+SSI,2016,,1.2. Thặng dư vốn cổ phần,29265860000,29285860000
+SSI,2016,,1.3. Vốn khác của chủ sở hữu,-4609514439,
+SSI,2016,,1.4. Cổ phiếu quỹ,-2492782800,-170482400
+SSI,2016,412,2. Chênh lệch đánh giá tài sản theo giá trị hợp lý,-2689490143,-3123757542
+SSI,2016,413,3. Chênh lệch tỷ giá hối đoái,34056420954,31013180718
+SSI,2016,414,4. Quỹ dự trữ bổ sung vốn điều lệ,311560605893,268076952217
+SSI,2016,415,5. Quỹ dự phòng tài chính và rủi ro nghiệp vụ,227053011209,183569357533
+SSI,2016,417,6. Lợi nhuận chưa phân phối,1576075507357,1341790215838
+SSI,2016,,6.1 Lợi nhuận đã thực hiện,1727170255230,1528039483892
+SSI,2016,,6.2 Lợi nhuận chưa thực hiện,-151094747873,-186249268054
+SSI,2016,418,7. Lợi ích cổ đông không kiểm soát,79101184212,81140362365
+SSI,2016,440,TỔNG CỘNG NỘ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,13227969251704,12153431597528

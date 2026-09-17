@@ -1,0 +1,10 @@
+﻿company,year,ma_so,label,value,prev
+VIC,2023,31,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",97260000000,
+VIC,2023,33,Tiền thu từ đi vay,25107574000000,35856453000000
+VIC,2023,34,Tiền trả nợ gốc vay,-26277231000000,-25773017000000
+VIC,2023,36,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",-60950000000,
+VIC,2023,40,Lưu chuyển tiền thuần (sử dụng vào)/từ hoạt động tài chính,-1133347000000,10083436000000
+VIC,2023,50,Lưu chuyển tiền thuần trong năm,1165217000000,-2966067000000
+VIC,2023,60,Tiền và tương đương tiền đầu năm,1418552000000,4383891000000
+VIC,2023,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,-2096000000,
+VIC,2023,70,Tiền và tương đương tiền cuối năm,2581673000000,1418552000000

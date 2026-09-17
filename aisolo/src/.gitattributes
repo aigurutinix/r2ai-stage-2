@@ -1,0 +1,11 @@
+# Chuẩn hoá line-ending: LF trong repo (tránh CRLF lẫn lộn giữa Windows và Linux/Vercel)
+* text=auto eol=lf
+
+# Asset nhị phân — không đụng line-ending
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.mp4 binary
+*.woff binary
+*.woff2 binary

@@ -1,0 +1,25 @@
+﻿company,year,ma_so,label,value,prev
+SSI,2016,100,A. TÀI SẢN NGÂN HẠN,11615116594554,10735367501864
+SSI,2016,110,I. Tài sản tài chính,11518001886198,10494559840994
+SSI,2016,111,1. Tiền và các khoản tương đương tiền,79916652448,531342593641
+SSI,2016,,1.1. Tiền,79916652448,396342593641
+SSI,2016,,1.2. Các khoản tương đương tiền,135000000000,
+SSI,2016,112,2. Các tài sản tài chính ghi nhận thông qua lãi/lỗ,1424328374886,1087067623216
+SSI,2016,113,3. Các khoản đầu tư nằm giữ đến ngày đáo hạn,5243732542397,4430939875859
+SSI,2016,114,4. Các khoản cho vay,3779178042796,3634072568580
+SSI,2016,115,5. Tài sản tài chính sẵn sàng để bán,943238824075,786798937549
+SSI,2016,116,6. Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp,-28431004933,
+SSI,2016,117,7. Các khoản phải thu,53619347570,7697462470
+SSI,2016,,7.1. Phải thu bán các tài sản tài chính,53486347570,2531847570
+SSI,2016,,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",133000000,5165614900
+SSI,2016,,"7.2.1.Phải thu cổ tức, tiền lãi đến ngày nhận",133000000,133000000
+SSI,2016,,"7.2.2.Dự thu cổ tức, tiền lãi chưa đến ngày nhận",5032614900,
+SSI,2016,118,8. Trả trước cho người bán,21097941836,9318841937
+SSI,2016,119,9. Phải thu các dịch vụ công ty chứng khoán cung cấp,16280771391,5948687965
+SSI,2016,122,10. Các khoản phải thu khác,962886386,4804361737
+SSI,2016,129,11. Dự phòng suy giảm giá trị các khoản phải thu,-15922492654,-3431111960
+SSI,2016,130,II. Tài sản ngắn hạn khác,97114708356,240807660870
+SSI,2016,131,1. Tạm ứng,9017820063,3206708337
+SSI,2016,133,2. Chi phí trả trước ngắn hạn,6595589310,7885053704
+SSI,2016,134,"3. Cẩm cố, thế chấp, ký quỹ, ký cược ngắn hạn",788236660,747725000
+SSI,2016,137,4. Tài sản ngắn hạn khác,80713062323,228968173829

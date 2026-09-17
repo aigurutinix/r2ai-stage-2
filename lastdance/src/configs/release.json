@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "release_id": "vifinqa-public-06522-compliance-v1",
+  "competition": "ROAD TO AI 2026 - Stage 2 Text-to-Pandas",
+  "model_release_cutoff": "2026-06-01",
+  "paths": {
+    "data_root": "ViFinQA",
+    "questions": "ViFinQA/questions/questions.jsonl",
+    "companies": "ViFinQA/code_stock.csv",
+    "database": "artifacts/vifinqa.db",
+    "execution_plan": "configs/release_plan.jsonl",
+    "golden_submission": "outputs/baselines/benchmark_locked/submission.zip",
+    "release_dir": "release/vifinqa-public-06522-compliance-v1"
+  },
+  "expected": {
+    "question_count": 1012,
+    "execution_plan_sha256": "3a1a3c8e6c236ac928b328c96fdc1b48694fb041e736b07dfa5aa9bb062c2403",
+    "submission_sha256": "c74746404d6fa275bfbfc26b4bdcd20b398c1a343852b68436f657698c225c5e",
+    "leaderboard": {
+      "tables_f2macro": 0.6388,
+      "docs_f2macro": 0.972,
+      "answer_accuracy": 0.6522,
+      "execution_accuracy": 0.6522
+    }
+  },
+  "data_distribution": {
+    "share_url": null,
+    "access_verified_at": null,
+    "note": "Điền link dữ liệu do đội chia sẻ và kiểm tra bằng tài khoản ngoài đội trước khi nghiệm thu."
+  },
+  "models": [
+    {
+      "id": "Qwen/Qwen2.5-14B-Instruct",
+      "revision": "cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8",
+      "created_at": "2024-09-16T11:56:10Z",
+      "license": "Apache-2.0",
+      "parameter_segment": "14B",
+      "parameters": "14.7B",
+      "role": "Planner/reranker ngữ nghĩa và đề xuất cell trên context đã mask số",
+      "download_url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct/tree/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+      "revision": "1df8507178afcc1bef68cd8c393f61a886323761",
+      "created_at": "2025-01-20T09:18:27Z",
+      "license": "MIT",
+      "parameter_segment": "14B",
+      "parameters": "14B",
+      "role": "Critic độc lập cho đề xuất thay đổi retrieval/formula",
+      "download_url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B/tree/1df8507178afcc1bef68cd8c393f61a886323761"
+    },
+    {
+      "id": "Qwen/Qwen3-14B",
+      "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+      "created_at": "2025-04-27T03:42:45Z",
+      "license": "Apache-2.0",
+      "parameter_segment": "14B",
+      "parameters": "14.8B",
+      "role": "Tiebreak/critic thứ ba, chạy non-thinking mode",
+      "download_url": "https://huggingface.co/Qwen/Qwen3-14B/tree/40c069824f4251a91eefaf281ebe4c544efd3e18"
+    }
+  ],
+  "inference": {
+    "runtime": "Modal H200",
+    "python": "3.11",
+    "dtype": "bfloat16",
+    "decoding": "deterministic greedy; Qwen3 enable_thinking=false",
+    "numeric_masking": true,
+    "llm_sees_answers": false,
+    "llm_in_submission_replay": false
+  }
+}

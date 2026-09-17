@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs", "target": "es2020", "moduleResolution": "node",
+    "skipLibCheck": true, "esModuleInterop": true,
+    "baseUrl": ".", "paths": { "@/*": ["./*"] }, "outDir": ".verify-out"
+  },
+  "include": ["lib/financial/agent.ts", "lib/financial/normalize.ts"]
+}

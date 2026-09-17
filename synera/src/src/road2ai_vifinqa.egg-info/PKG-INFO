@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: road2ai-vifinqa
+Version: 0.1.0
+Summary: Reproducible ViFinQA competition pipeline
+Requires-Python: >=3.11
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: lxml>=5.0
+Requires-Dist: numpy>=2.0
+Requires-Dist: pandas>=2.2

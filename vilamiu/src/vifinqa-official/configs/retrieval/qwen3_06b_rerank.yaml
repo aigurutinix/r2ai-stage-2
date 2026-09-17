@@ -1,0 +1,6 @@
+command: eval-retrieval
+run: {name: retrieval-qwen3-06b-rerank-paper}
+retrieval: {backend: dense, table_encoding: table_retrieval_text}
+embedding: {backend: sentence_transformers, model_id: Qwen/Qwen3-Embedding-0.6B, adapter: auto, device: auto, batch_size: 8, max_tokens: 1024, normalize: true, cache: disk}
+reranker: {enabled: true, backend: cross_encoder, model_id: Qwen/Qwen3-Reranker-0.6B, adapter: auto, top_n: 500, batch_size: 4, max_tokens: 1024, instruction: financial_table_v1}
+evaluation: {mode: full, ks: [1, 3, 5, 10, 20, 50, 100], limit: 1012}

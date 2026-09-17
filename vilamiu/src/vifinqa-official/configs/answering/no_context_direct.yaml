@@ -1,0 +1,6 @@
+command: eval-answer
+run: {name: answer-no-context-direct-experimental}
+answering: {context: none, strategy: direct_answer, table_max_chars: 20000}
+prompt: {system: prompts/answering/direct_system.txt, user_template: prompts/answering/common_user.txt}
+llm: {backend: hf_transformers, model_id: Qwen/Qwen3-4B-Instruct-2507, device: auto, dtype: auto, temperature: 0, max_completion_tokens: 8192, max_retries: 0}
+evaluation: {limit: 1012, workers: 1, answer_abs_tolerance: 0.01}

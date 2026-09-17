@@ -1,0 +1,10 @@
+### Table: {{TABLE_REF}}
+Company: {{COMPANY_NAME}} (ticker: {{TICKER}})
+Document: {{DOCUMENT_NAME}} (year: {{YEAR}})
+Row or column hint from Stage 2: {{ROW_OR_COLUMN_HINT}}
+
+CSV content:
+{{CSV_TEXT}}
+
+Context from neighboring pages:
+{{SURROUNDING_PAGES}}

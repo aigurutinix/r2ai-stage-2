@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+MCH,2019,01,Doanh thu bán hàng và cung cấp dịch vụ,19112348416942,17290253757722
+MCH,2019,02,Các khoản giảm trừ doanh thu,624806580434,283778144765
+MCH,2019,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),18487541836508,17006475612957
+MCH,2019,11,Giá vốn hàng bán,10529868313945,9388082263631
+MCH,2019,20,Lợi nhuận gộp (20 = 10 - 11),7957673522563,7618393349326
+MCH,2019,21,Doanh thu hoạt động tài chính,619847831113,550227206305
+MCH,2019,22,Chi phí tài chính,240140907448,182528190256
+MCH,2019,23,Trong đó: Chi phí lãi vay,235821679467,180421924187
+MCH,2019,24,Phần lãi trong một công ty liên kết,7977651000,5318434000
+MCH,2019,25,Chi phí bán hàng,3015180960649,3284879798663
+MCH,2019,26,Chi phí quản lý doanh nghiệp,817391573893,793223583936
+MCH,2019,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) + 24 - (25 + 26)},4512785562686,3913307416776
+MCH,2019,31,Thu nhập khác,1623151249,622448279
+MCH,2019,32,Chi phí khác,22629400853,19524646870
+MCH,2019,40,Kết quả từ các hoạt động khác (40 = 31 - 32),-21006249604,-18902198591
+MCH,2019,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),4491779313082,3894405218185
+MCH,2019,51,Chi phí thuế TNDN hiện hành,410452844925,565570608804
+MCH,2019,52,Chi phí/(lợi ích) thuế TNDN hoãn lại,19648372146,-68644808241
+MCH,2019,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52) (mang sang trang sau),4061678096011,3397479417622

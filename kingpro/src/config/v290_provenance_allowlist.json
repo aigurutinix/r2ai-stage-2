@@ -1,0 +1,34 @@
+{
+  "candidate": "sub_v290_scope2",
+  "candidate_submission_sha256": "F6B57AAC9B68D7CF67FB51C3A745C0013C8069727A70FB9D59057EB60CD7DE17",
+  "policy": "Exact issue identity; fail on any new issue, payload drift or stale exception.",
+  "source_review": "build/v290_ablation_design_review.json",
+  "issues": [
+    {
+      "id": 98,
+      "kind": "provenance-docs",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate",
+          "HUT_financial_statements_2024_consolidated"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate|328",
+          "HUT_financial_statements_2024_consolidated|325"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated|325"
+        ]
+      }
+    }
+  ]
+}

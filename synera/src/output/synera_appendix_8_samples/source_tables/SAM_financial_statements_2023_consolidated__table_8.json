@@ -1,0 +1,179 @@
+{
+  "doc_id": "SAM_financial_statements_2023_consolidated",
+  "document_sha256": "a9ee814c89830c4c50babf4aac2b00690696c909547f37dec9706e84d0c315e7",
+  "table_id_internal": 8,
+  "physical_line_one_based": 230,
+  "html_sha256": "0605de5184eaf07e733c3f9c171e3048e5ec6b7ab45435a2a74fa7e206fffce1",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2023</td><td>Năm 2022</td></tr><tr><td></td><td></td><td></td><td>VND</td><td>VND</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>26</td><td>2.204.487.661.762</td><td>2.124.387.044.361</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>27</td><td>4.371.916.841</td><td>15.322.457.799</td></tr><tr><td>10</td><td>3. Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td></td><td>2.200.115.744.921</td><td>2.109.064.586.562</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán</td><td>28</td><td>2.042.904.427.515</td><td>1.944.479.372.244</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>157.211.317.406</td><td>164.585.214.318</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>29</td><td>129.594.088.784</td><td>355.251.989.117</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>30</td><td>29.097.589.685</td><td>291.110.148.485</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>78.363.834.048</td><td>90.510.963.420</td></tr><tr><td>24</td><td>8. Phần lãi hoặc lỗ trong công ty liên kết</td><td></td><td>(53.311.071.514)</td><td>(26.861.211.372)</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>31</td><td>45.691.576.181</td><td>47.466.190.754</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>32</td><td>96.180.724.698</td><td>120.118.512.192</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>62.524.444.112</td><td>34.281.140.632</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td>33</td><td>3.309.233.531</td><td>8.002.238.508</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td>34</td><td>2.949.600.088</td><td>1.655.568.062</td></tr><tr><td>40</td><td>14. Lợi nhuận khác</td><td></td><td>359.633.443</td><td>6.346.670.446</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>62.884.077.555</td><td>40.627.811.078</td></tr><tr><td>51</td><td>16. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>35</td><td>18.891.541.442</td><td>24.128.926.571</td></tr><tr><td>52</td><td>17. Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>36</td><td>10.752.616.106</td><td>9.351.421.989</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>33.239.920.007</td><td>7.147.462.518</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của Công ty mẹ</td><td></td><td>18.332.577.266</td><td>2.763.158.917</td></tr><tr><td>62</td><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td></td><td>14.907.342.741</td><td>4.384.303.601</td></tr><tr><td>70</td><td>21. Lãi cơ bản trên cổ phiếu</td><td>37</td><td>48</td><td>6</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm 2023",
+      "Năm 2022"
+    ],
+    [
+      "",
+      "",
+      "",
+      "VND",
+      "VND"
+    ],
+    [
+      "01",
+      "1. Doanh thu bán hàng và cung cấp dịch vụ",
+      "26",
+      "2.204.487.661.762",
+      "2.124.387.044.361"
+    ],
+    [
+      "02",
+      "2. Các khoản giảm trừ doanh thu",
+      "27",
+      "4.371.916.841",
+      "15.322.457.799"
+    ],
+    [
+      "10",
+      "3. Doanh thu thuần bán hàng và cung cấp dịch vụ",
+      "",
+      "2.200.115.744.921",
+      "2.109.064.586.562"
+    ],
+    [
+      "11",
+      "4. Giá vốn hàng bán",
+      "28",
+      "2.042.904.427.515",
+      "1.944.479.372.244"
+    ],
+    [
+      "20",
+      "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "157.211.317.406",
+      "164.585.214.318"
+    ],
+    [
+      "21",
+      "6. Doanh thu hoạt động tài chính",
+      "29",
+      "129.594.088.784",
+      "355.251.989.117"
+    ],
+    [
+      "22",
+      "7. Chi phí tài chính",
+      "30",
+      "29.097.589.685",
+      "291.110.148.485"
+    ],
+    [
+      "23",
+      "Trong đó: Chi phí lãi vay",
+      "",
+      "78.363.834.048",
+      "90.510.963.420"
+    ],
+    [
+      "24",
+      "8. Phần lãi hoặc lỗ trong công ty liên kết",
+      "",
+      "(53.311.071.514)",
+      "(26.861.211.372)"
+    ],
+    [
+      "25",
+      "9. Chi phí bán hàng",
+      "31",
+      "45.691.576.181",
+      "47.466.190.754"
+    ],
+    [
+      "26",
+      "10. Chi phí quản lý doanh nghiệp",
+      "32",
+      "96.180.724.698",
+      "120.118.512.192"
+    ],
+    [
+      "30",
+      "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "62.524.444.112",
+      "34.281.140.632"
+    ],
+    [
+      "31",
+      "12. Thu nhập khác",
+      "33",
+      "3.309.233.531",
+      "8.002.238.508"
+    ],
+    [
+      "32",
+      "13. Chi phí khác",
+      "34",
+      "2.949.600.088",
+      "1.655.568.062"
+    ],
+    [
+      "40",
+      "14. Lợi nhuận khác",
+      "",
+      "359.633.443",
+      "6.346.670.446"
+    ],
+    [
+      "50",
+      "15. Tổng lợi nhuận kế toán trước thuế",
+      "",
+      "62.884.077.555",
+      "40.627.811.078"
+    ],
+    [
+      "51",
+      "16. Chi phí thuế thu nhập doanh nghiệp hiện hành",
+      "35",
+      "18.891.541.442",
+      "24.128.926.571"
+    ],
+    [
+      "52",
+      "17. Chi phí thuế thu nhập doanh nghiệp hoãn lại",
+      "36",
+      "10.752.616.106",
+      "9.351.421.989"
+    ],
+    [
+      "60",
+      "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+      "",
+      "33.239.920.007",
+      "7.147.462.518"
+    ],
+    [
+      "61",
+      "19. Lợi nhuận sau thuế của Công ty mẹ",
+      "",
+      "18.332.577.266",
+      "2.763.158.917"
+    ],
+    [
+      "62",
+      "20. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+      "",
+      "14.907.342.741",
+      "4.384.303.601"
+    ],
+    [
+      "70",
+      "21. Lãi cơ bản trên cổ phiếu",
+      "37",
+      "48",
+      "6"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 9 ===== Công ty Cổ phần SAM Holdings 127 Ung Văn Khiêm, phường 25, quận Bình Thạnh, thành phố Hồ Chí Minh Báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31/12/2023 BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT Năm 2023"
+}

@@ -1,0 +1,41 @@
+﻿company,year,ma_so,label,value,prev
+HAG,2022,100,A. TÀI SẢN NGĂN HẠN,8038560913,7051853577
+HAG,2022,110,I. Tiền,72372525,78298037
+HAG,2022,111,1. Tiền,72372525,78298037
+HAG,2022,130,II. Các khoản phải thu ngắn hạn,6765361545,6535652693
+HAG,2022,131,1. Phải thu ngắn hạn của khách hàng,906404137,553790175
+HAG,2022,132,2. Trả trước cho người bán ngắn hạn,766151359,147090473
+HAG,2022,135,3. Phải thu về cho vay ngắn hạn,4017224678,6516258180
+HAG,2022,136,4. Phải thu ngắn hạn khác,1155995000,785572698
+HAG,2022,137,5. Dự phòng phải thu ngắn hạn khó đòi,-80413629,-1467058833
+HAG,2022,140,III. Hàng tồn kho,1148037609,410031564
+HAG,2022,141,1. Hàng tồn kho,1150379184,413734969
+HAG,2022,149,2. Dự phòng giảm giá hàng tồn kho,-2341575,-3703405
+HAG,2022,150,IV. Tài sản ngắn hạn khác,52789234,27871283
+HAG,2022,151,1. Chi phí trả trước ngắn hạn,17274977,7124641
+HAG,2022,152,2. Thuế GTGT được khấu trừ,32372352,17611524
+HAG,2022,153,3. Thuế và các khoản khác phải thu Nhà nước,3141905,3135118
+HAG,2022,200,B. TÀI SẢN DÀI HẠN,11759826640,11387831414
+HAG,2022,210,I. Các khoản phải thu dài hạn,2430132241,2958712989
+HAG,2022,215,1. Phải thu về cho vay dài hạn,1745420930,2452838426
+HAG,2022,216,2. Phải thu dài hạn khác,702237574,649545621
+HAG,2022,219,3. Dự phòng phải thu dài hạn khó đòi,-17526263,-143671058
+HAG,2022,220,II. Tài sản cố định,3821150484,2809669569
+HAG,2022,221,1. Tài sản cố định hữu hình,3559467131,2686778608
+HAG,2022,222,Nguyên giá,4624944890,3518323463
+HAG,2022,223,Giá trị khấu hao lũy kế,-1065477759,-831544855
+HAG,2022,227,2. Tài sản cố định vô hình,261683353,122890961
+HAG,2022,228,Nguyên giá,291426419,145540126
+HAG,2022,229,Giá trị hao mòn lũy kế,-29743066,-22649165
+HAG,2022,230,III. Bất động sản đầu tư,59975442,62606294
+HAG,2022,231,1. Nguyên giá,74075831,74075831
+HAG,2022,232,2. Giá trị khấu hao lũy kế,-14100389,-11469537
+HAG,2022,240,IV. Tài sản dở dang dài hạn,4620301248,3495149075
+HAG,2022,242,1. Chi phí xây dựng cơ bản dở dang,4620301248,3495149075
+HAG,2022,250,V. Đầu tư tài chính dài hạn,441689596,1778826680
+HAG,2022,253,2. Đầu tư góp vốn vào các đơn vị khác,1049961081,1781156721
+HAG,2022,254,3. Dự phòng đầu tư tài chính dài hạn,-608271485,-2330041
+HAG,2022,260,VI. Tài sản dài hạn khác,386577629,282866807
+HAG,2022,261,1. Chi phí trả trước dài hạn,370108968,271900161
+HAG,2022,262,2. Tài sản thuế thu nhập hoãn lại,16468661,10966646
+HAG,2022,270,TỔNG CỘNG TÀI SẢN,19798387553,18439684991

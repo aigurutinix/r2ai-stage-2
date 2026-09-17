@@ -1,0 +1,137 @@
+{
+  "doc_id": "KBC_financial_statements_2017_consolidated",
+  "document_sha256": "dd39bcba507b6ec2b27dea896fb443d9d4b5933cd7b9bb0aed889c9a6b5c10b8",
+  "table_id_internal": 5,
+  "physical_line_one_based": 255,
+  "html_sha256": "46ebe2f15ca32610d49b89a7b1e5d6b2a8aaf78154fdbe847187c068f053c173",
+  "html": "<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>300</td><td>C. NỘ PHẢI TRẢ</td><td></td><td>6.741.660.188.971</td><td>6.036.457.811.415</td></tr><tr><td>310</td><td>I. Nợ ngắn hạn</td><td></td><td>3.325.884.769.036</td><td>3.372.803.878.061</td></tr><tr><td>311</td><td>1. Phải trả người bán ngắn hạn</td><td>16.1</td><td>134.340.522.730</td><td>113.779.217.940</td></tr><tr><td>312</td><td>2. Người mua trả tiền trước ngắn hạn</td><td>16.2</td><td>404.146.075.644</td><td>875.175.686.830</td></tr><tr><td>313</td><td>3. Thuế và các khoản phải nộp Nhà nước</td><td>17</td><td>197.504.951.643</td><td>160.238.286.732</td></tr><tr><td>314</td><td>4. Phải trả người lao động</td><td></td><td>17.270.449</td><td>46.198.469</td></tr><tr><td>315</td><td>5. Chi phí phải trả ngắn hạn</td><td>18</td><td>1.086.709.290.552</td><td>1.226.170.516.119</td></tr><tr><td>319</td><td>6. Phải trả ngắn hạn khác</td><td>19</td><td>364.314.630.142</td><td>127.375.852.542</td></tr><tr><td>320</td><td>7. Vay ngắn hạn</td><td>20</td><td>1.131.768.768.567</td><td>862.934.860.120</td></tr><tr><td>322</td><td>8. Quỹ khen thưởng, phúc lợi</td><td></td><td>7.083.259.309</td><td>7.083.259.309</td></tr><tr><td>330</td><td>II. Nợ dài hạn</td><td></td><td>3.415.775.419.935</td><td>2.663.653.933.354</td></tr><tr><td>333</td><td>1. Chi phí phải trả dài hạn</td><td>18</td><td>1.031.951.584.113</td><td>785.455.165.816</td></tr><tr><td>336</td><td>2. Doanh thu chưa thực hiện dài hạn</td><td></td><td>5.046.986.732</td><td>5.174.610.956</td></tr><tr><td>337</td><td>3. Phải trả dài hạn khác</td><td>19</td><td>167.632.540.891</td><td>163.466.547.253</td></tr><tr><td>338</td><td>4. Vay dài hạn</td><td>20</td><td>1.590.658.068.976</td><td>1.104.599.449.787</td></tr><tr><td>341</td><td>5. Thuế thu nhập hoãn lại phải trả</td><td>28.3</td><td>619.534.271.261</td><td>604.006.191.580</td></tr><tr><td>342</td><td>6. Dự phòng phải trả dài hạn</td><td></td><td>951.967.962</td><td>951.967.962</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "NGUỒN VỐN",
+      "Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "300",
+      "C. NỘ PHẢI TRẢ",
+      "",
+      "6.741.660.188.971",
+      "6.036.457.811.415"
+    ],
+    [
+      "310",
+      "I. Nợ ngắn hạn",
+      "",
+      "3.325.884.769.036",
+      "3.372.803.878.061"
+    ],
+    [
+      "311",
+      "1. Phải trả người bán ngắn hạn",
+      "16.1",
+      "134.340.522.730",
+      "113.779.217.940"
+    ],
+    [
+      "312",
+      "2. Người mua trả tiền trước ngắn hạn",
+      "16.2",
+      "404.146.075.644",
+      "875.175.686.830"
+    ],
+    [
+      "313",
+      "3. Thuế và các khoản phải nộp Nhà nước",
+      "17",
+      "197.504.951.643",
+      "160.238.286.732"
+    ],
+    [
+      "314",
+      "4. Phải trả người lao động",
+      "",
+      "17.270.449",
+      "46.198.469"
+    ],
+    [
+      "315",
+      "5. Chi phí phải trả ngắn hạn",
+      "18",
+      "1.086.709.290.552",
+      "1.226.170.516.119"
+    ],
+    [
+      "319",
+      "6. Phải trả ngắn hạn khác",
+      "19",
+      "364.314.630.142",
+      "127.375.852.542"
+    ],
+    [
+      "320",
+      "7. Vay ngắn hạn",
+      "20",
+      "1.131.768.768.567",
+      "862.934.860.120"
+    ],
+    [
+      "322",
+      "8. Quỹ khen thưởng, phúc lợi",
+      "",
+      "7.083.259.309",
+      "7.083.259.309"
+    ],
+    [
+      "330",
+      "II. Nợ dài hạn",
+      "",
+      "3.415.775.419.935",
+      "2.663.653.933.354"
+    ],
+    [
+      "333",
+      "1. Chi phí phải trả dài hạn",
+      "18",
+      "1.031.951.584.113",
+      "785.455.165.816"
+    ],
+    [
+      "336",
+      "2. Doanh thu chưa thực hiện dài hạn",
+      "",
+      "5.046.986.732",
+      "5.174.610.956"
+    ],
+    [
+      "337",
+      "3. Phải trả dài hạn khác",
+      "19",
+      "167.632.540.891",
+      "163.466.547.253"
+    ],
+    [
+      "338",
+      "4. Vay dài hạn",
+      "20",
+      "1.590.658.068.976",
+      "1.104.599.449.787"
+    ],
+    [
+      "341",
+      "5. Thuế thu nhập hoãn lại phải trả",
+      "28.3",
+      "619.534.271.261",
+      "604.006.191.580"
+    ],
+    [
+      "342",
+      "6. Dự phòng phải trả dài hạn",
+      "",
+      "951.967.962",
+      "951.967.962"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP B01-DN/HN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo) ngày 31 tháng 12 năm 2017 Đơn vị tính: VND"
+}

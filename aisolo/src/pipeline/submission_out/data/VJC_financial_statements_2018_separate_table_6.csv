@@ -1,0 +1,17 @@
+﻿company,year,ma_so,label,value,prev
+VJC,2018,01,Doanh thu bán hàng và cung cấp dịch vụ,33866663626058,22643635566720
+VJC,2018,11,Giá vốn hàng bán và cung cấp dịch vụ,29081230936008,19332152371327
+VJC,2018,20,Lợi nhuận gộp từ bán hàng và cung cấp dịch vụ (20 = 01 - 11),4785432690050,3311483195393
+VJC,2018,21,Doanh thu hoạt động tài chính,317974861113,119177084027
+VJC,2018,22,Chi phí tài chính,917353597510,520491970943
+VJC,2018,23,Trong đó: Chi phí lãi vay,257505446656,237597428875
+VJC,2018,25,Chi phí bán hàng,868275625696,654224092692
+VJC,2018,26,Chi phí quản lý doanh nghiệp,278263940261,214833658781
+VJC,2018,30,Lợi nhuận thuần từ hoạt động kinh doanh {30 = 20 + (21 - 22) - (25 + 26)},3039514387696,2041110557004
+VJC,2018,31,Thu nhập khác,5872706313,5742377818
+VJC,2018,32,Chi phí khác,107090542,1522911752
+VJC,2018,40,Kết quả từ các hoạt động khác (40 = 31 - 32),5765615771,4219466066
+VJC,2018,50,Lợi nhuận kế toán trước thuế (50 = 30 + 40),3045280003467,2045330023070
+VJC,2018,51,Chi phí thuế TNDN hiện hành,253461727751,163475878977
+VJC,2018,52,Chi phí thuế TNDN hoãn lại,227241605086,65074981322
+VJC,2018,60,Lợi nhuận sau thuế TNDN (60 = 50 - 51 - 52),2564576670630,1816779162771

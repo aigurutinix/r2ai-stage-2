@@ -1,0 +1,193 @@
+{
+  "doc_id": "NKG_financial_statements_2022_consolidated",
+  "document_sha256": "9260acfe790cc9f03d300d063c13b031100628d82a782bff4fedeb2927d5c714",
+  "table_id_internal": 10,
+  "physical_line_one_based": 209,
+  "html_sha256": "589756dabf044ad014239227a329e4056f9d79ad879050530c021a17351cc318",
+  "html": "<table><tr><td rowspan=\"2\">Mã số</td><td rowspan=\"2\">NGUỒN VỐN</td><td rowspan=\"2\">Thuyết minh</td><td colspan=\"2\">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2022 VND</td><td>2021 VND</td></tr><tr><td>300</td><td>NỘ PHẢI TRẢ</td><td></td><td>8.141.109.694.811</td><td>9.674.711.671.751</td></tr><tr><td>310</td><td>Nợ ngắn hạn</td><td></td><td>8.108.870.806.964</td><td>9.598.192.512.183</td></tr><tr><td>311</td><td>Phải trả người bán ngắn hạn</td><td>12</td><td>2.544.340.815.756</td><td>4.879.071.761.786</td></tr><tr><td>312</td><td>Người mua trả tiền trước ngắn hạn</td><td>13</td><td>258.338.533.839</td><td>582.661.815.270</td></tr><tr><td>313</td><td>Thuế và các khoản phải nộp Nhà nước</td><td>15</td><td>15.798.431.141</td><td>189.812.745.137</td></tr><tr><td>314</td><td>Phải trả người lao động</td><td></td><td>25.259.058.783</td><td>44.325.771.984</td></tr><tr><td>315</td><td>Chi phí phải trả ngắn hạn</td><td>14</td><td>34.313.565.681</td><td>67.789.915.665</td></tr><tr><td>319</td><td>Phải trả ngắn hạn khác</td><td></td><td>5.372.997.178</td><td>12.636.345.899</td></tr><tr><td>320</td><td>Vay và nợ thuê tài chính ngắn hạn</td><td>16(a)</td><td>5.111.300.049.514</td><td>3.773.154.733.117</td></tr><tr><td>322</td><td>Quỹ khen thưởng, phúc lợi</td><td>17</td><td>114.147.355.072</td><td>48.739.423.325</td></tr><tr><td>330</td><td>Nợ dài hạn</td><td></td><td>32.238.887.847</td><td>76.519.159.568</td></tr><tr><td>337</td><td>Phải trả dài hạn khác</td><td></td><td>900.000.000</td><td>900.000.000</td></tr><tr><td>338</td><td>Vay và nợ thuê tài chính dài hạn</td><td>16(b)</td><td>3.072.616.017</td><td>46.499.351.598</td></tr><tr><td>341</td><td>Thuế thu nhập hoãn lại phải trả</td><td></td><td>28.266.271.830</td><td>29.119.807.970</td></tr><tr><td>400</td><td>VỐN CHỦ SỞ HỮU</td><td></td><td>5.319.650.135.071</td><td>5.723.203.694.545</td></tr><tr><td>410</td><td>Vốn chủ sở hữu</td><td></td><td>5.319.650.135.071</td><td>5.723.203.694.545</td></tr><tr><td>411</td><td>Vốn góp cửa chủ sở hữu</td><td>18, 19</td><td>2.632.778.060.000</td><td>2.183.985.680.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td></td><td>2.632.778.060.000</td><td>2.183.985.680.000</td></tr><tr><td>412</td><td>Thặng dư vốn cổ phần</td><td>19</td><td>785.907.272.279</td><td>785.907.272.279</td></tr><tr><td>418</td><td>Quỹ đầu tư phát triển</td><td>19</td><td>185.830.957.874</td><td>74.567.904.963</td></tr><tr><td>420</td><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>19</td><td>87.091.899.021</td><td>42.586.677.857</td></tr><tr><td>421</td><td>Lợi nhuận sau thuế (“LNST”) chưa phân phối</td><td>19</td><td>1.628.041.945.897</td><td>2.636.156.159.446</td></tr><tr><td>421a</td><td>- LNST chưa phân phối lũy kế của các năm trước</td><td></td><td>1.752.726.783.624</td><td>416.450.646.225</td></tr><tr><td>421b</td><td>- (Lỗ)/LNST chưa phân phối của năm nay</td><td></td><td>(124.684.837.727)</td><td>2.219.705.513.221</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "NGUỒN VỐN",
+      "Thuyết minh",
+      "Tại ngày 31 tháng 12 năm",
+      "Tại ngày 31 tháng 12 năm"
+    ],
+    [
+      "Mã số",
+      "NGUỒN VỐN",
+      "Thuyết minh",
+      "2022 VND",
+      "2021 VND"
+    ],
+    [
+      "300",
+      "NỘ PHẢI TRẢ",
+      "",
+      "8.141.109.694.811",
+      "9.674.711.671.751"
+    ],
+    [
+      "310",
+      "Nợ ngắn hạn",
+      "",
+      "8.108.870.806.964",
+      "9.598.192.512.183"
+    ],
+    [
+      "311",
+      "Phải trả người bán ngắn hạn",
+      "12",
+      "2.544.340.815.756",
+      "4.879.071.761.786"
+    ],
+    [
+      "312",
+      "Người mua trả tiền trước ngắn hạn",
+      "13",
+      "258.338.533.839",
+      "582.661.815.270"
+    ],
+    [
+      "313",
+      "Thuế và các khoản phải nộp Nhà nước",
+      "15",
+      "15.798.431.141",
+      "189.812.745.137"
+    ],
+    [
+      "314",
+      "Phải trả người lao động",
+      "",
+      "25.259.058.783",
+      "44.325.771.984"
+    ],
+    [
+      "315",
+      "Chi phí phải trả ngắn hạn",
+      "14",
+      "34.313.565.681",
+      "67.789.915.665"
+    ],
+    [
+      "319",
+      "Phải trả ngắn hạn khác",
+      "",
+      "5.372.997.178",
+      "12.636.345.899"
+    ],
+    [
+      "320",
+      "Vay và nợ thuê tài chính ngắn hạn",
+      "16(a)",
+      "5.111.300.049.514",
+      "3.773.154.733.117"
+    ],
+    [
+      "322",
+      "Quỹ khen thưởng, phúc lợi",
+      "17",
+      "114.147.355.072",
+      "48.739.423.325"
+    ],
+    [
+      "330",
+      "Nợ dài hạn",
+      "",
+      "32.238.887.847",
+      "76.519.159.568"
+    ],
+    [
+      "337",
+      "Phải trả dài hạn khác",
+      "",
+      "900.000.000",
+      "900.000.000"
+    ],
+    [
+      "338",
+      "Vay và nợ thuê tài chính dài hạn",
+      "16(b)",
+      "3.072.616.017",
+      "46.499.351.598"
+    ],
+    [
+      "341",
+      "Thuế thu nhập hoãn lại phải trả",
+      "",
+      "28.266.271.830",
+      "29.119.807.970"
+    ],
+    [
+      "400",
+      "VỐN CHỦ SỞ HỮU",
+      "",
+      "5.319.650.135.071",
+      "5.723.203.694.545"
+    ],
+    [
+      "410",
+      "Vốn chủ sở hữu",
+      "",
+      "5.319.650.135.071",
+      "5.723.203.694.545"
+    ],
+    [
+      "411",
+      "Vốn góp cửa chủ sở hữu",
+      "18, 19",
+      "2.632.778.060.000",
+      "2.183.985.680.000"
+    ],
+    [
+      "411a",
+      "- Cổ phiếu phổ thông có quyền biểu quyết",
+      "",
+      "2.632.778.060.000",
+      "2.183.985.680.000"
+    ],
+    [
+      "412",
+      "Thặng dư vốn cổ phần",
+      "19",
+      "785.907.272.279",
+      "785.907.272.279"
+    ],
+    [
+      "418",
+      "Quỹ đầu tư phát triển",
+      "19",
+      "185.830.957.874",
+      "74.567.904.963"
+    ],
+    [
+      "420",
+      "Quỹ khác thuộc vốn chủ sở hữu",
+      "19",
+      "87.091.899.021",
+      "42.586.677.857"
+    ],
+    [
+      "421",
+      "Lợi nhuận sau thuế (“LNST”) chưa phân phối",
+      "19",
+      "1.628.041.945.897",
+      "2.636.156.159.446"
+    ],
+    [
+      "421a",
+      "- LNST chưa phân phối lũy kế của các năm trước",
+      "",
+      "1.752.726.783.624",
+      "416.450.646.225"
+    ],
+    [
+      "421b",
+      "- (Lỗ)/LNST chưa phân phối của năm nay",
+      "",
+      "(124.684.837.727)",
+      "2.219.705.513.221"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== The image contains a row of identical rectangular shapes, each containing a small colored square with a rainbow gradient effect. There is no text or mathematical content to extract. CÔNG TY CỔ PHẦN THÉP NAM KIM Mẫu số B 01 – DN/HN BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)"
+}

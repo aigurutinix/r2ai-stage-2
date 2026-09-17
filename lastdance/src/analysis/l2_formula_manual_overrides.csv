@@ -1,0 +1,167 @@
+question_id,component,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+656,a,2024,FOX_financial_statements_2024_consolidated,792,3,1,330.107.269.336,Các khoản tương đương tiền cuối 2024
+656,b,2024,FOX_financial_statements_2024_consolidated,188,39,3,23.768.325.325.642,Tổng tài sản cuối 2024
+657,a,2020,FOX_financial_statements_2020_separate,299,18,4,1.503.239.050.754,Lợi nhuận sau thuế công ty mẹ năm 2020
+657,b,2020,FOX_financial_statements_2020_separate,858,5,1,273.616.446,Số cổ phiếu đang lưu hành cuối 2020
+658,a,2024,PLX_financial_statements_2024_consolidated,216,9,3,528.005.384.335,Phần lãi trong công ty liên doanh liên kết năm 2024
+658,b,2024,PLX_financial_statements_2024_consolidated,216,19,3,3.161.151.940.515,Lợi nhuận sau thuế hợp nhất năm 2024
+659,a,2024,MML_financial_statements_2024_consolidated,367,7,2,(33.516.000),Tiền trả cổ tức năm 2024
+659,b,2024,MML_financial_statements_2024_consolidated,303,19,3,25.346.456.196,Lợi nhuận sau thuế hợp nhất năm 2024
+660,a,2022,CTG_financial_statements_2022_separate,1609,2,1,159.575.895,Nghĩa vụ tiềm ẩn cuối 2022 triệu VND
+660,b,2022,CTG_financial_statements_2022_separate,1609,6,1,310.604.986,Các cam kết đưa ra cuối 2022 triệu VND
+660,c,2022,CTG_financial_statements_2022_separate,326,34,3,1.793.240.351,Tổng tài sản công ty mẹ cuối 2022 triệu VND
+661,a,2021,DNH_financial_statements_2021_separate,227,2,3,(133.953.599.311),Tiền chi mua sắm xây dựng tài sản cố định năm 2021
+661,b,2021,DNH_financial_statements_2021_separate,777,6,6,14.814.242.649.760,Tổng nguyên giá tài sản cố định hữu hình cuối 2021
+662,a,2016,CEO_financial_statements_2016_consolidated,269,19,3,229.967.971.147,Lợi nhuận sau thuế hợp nhất năm 2016
+662,b,2016,CEO_financial_statements_2016_consolidated,199,46,3,3.834.549.199.250,Tổng tài sản hợp nhất cuối 2016
+663,a,2022,HAG_financial_statements_2022_separate,1112,2,1,1.958.725.949,Vay ngắn hạn cuối 2022 ngàn VND
+663,b,2022,HAG_financial_statements_2022_separate,1112,4,1,3.581.600.405,Vay dài hạn cuối 2022 ngàn VND
+663,c,2022,HAG_financial_statements_2022_separate,298,42,3,15.071.487.424,Tổng tài sản công ty mẹ cuối 2022 ngàn VND
+664,a,2024,QNS_financial_statements_2024_consolidated,272,27,3,(5.946.334.636.629),Giá trị hao mòn lũy kế tài sản cố định hữu hình cuối 2024
+664,b,2024,QNS_financial_statements_2024_consolidated,272,26,3,9.380.758.826.546,Tổng nguyên giá tài sản cố định hữu hình cuối 2024
+665,a,2016,NVL_financial_statements_2016_consolidated,170,10,3,28.642.968.853,Tài sản cố định vô hình cuối 2016
+665,b,2016,NVL_financial_statements_2016_consolidated,170,26,3,36.527.075.713.997,Tổng tài sản hợp nhất cuối 2016
+666,a,2015,KBC_financial_statements_2015_separate,268,6,3,313.825.269.273,Doanh thu hoạt động tài chính công ty mẹ năm 2015
+666,b,2015,KBC_financial_statements_2015_separate,1359,10,1,42.828.996.818,Tổng chi phí tài chính công ty mẹ năm 2015
+667,a,2023,EIB_financial_statements_2023_separate,319,19,3,2.506.132,Nguyên giá tài sản cố định hữu hình cuối 2023 triệu VND
+667,b,2023,EIB_financial_statements_2023_separate,319,30,3,201.672.702,Tổng tài sản công ty mẹ cuối 2023 triệu VND
+668,a,2023,HHS_financial_statements_2023_separate,1237,3,1,318.822.993.407,Cổ tức và lợi nhuận được chia năm 2023
+668,b,2023,HHS_financial_statements_2023_separate,901,8,1,3.423.739.097.286,Tổng giá gốc đầu tư góp vốn cuối 2023
+669,a,2019,GVR_financial_statements_2019_consolidated,289,4,3,943.012.378.938,Phải trả người bán ngắn hạn cuối 2019
+669,b,2019,GVR_financial_statements_2019_consolidated,289,3,3,9.728.620.026.216,Tổng nợ ngắn hạn cuối 2019
+670,a,2020,BAF_financial_statements_2020_separate,1300,5,3,1.844.322.869.189,Vay ngắn hạn ngân hàng đầu năm 2020
+670,b,2020,BAF_financial_statements_2020_separate,1665,14,2,6.205.563.021.783,Tổng nợ phải trả tài chính đầu năm 2020
+671,a,2020,MBB_financial_statements_2020_consolidated,409,17,2,(6.118.440),Chi phí dự phòng rủi ro tín dụng hợp nhất năm 2020 triệu VND
+671,b,2020,MBB_financial_statements_2020_consolidated,409,18,2,10.688.276,Lợi nhuận trước thuế hợp nhất năm 2020 triệu VND
+672,a,2022,MBS_financial_statements_2022,213,23,3,14.317.396.673,Chi phí trả trước ngắn hạn cuối 2022
+672,b,2022,MBS_financial_statements_2022,226,14,3,82.608.405.477,Chi phí trả trước dài hạn cuối 2022
+673,a,2025,SCR_financial_statements_2025_separate,248,1,3,4.340.015.118.010,Tổng tài sản ngắn hạn công ty mẹ cuối 2025
+673,b,2025,SCR_financial_statements_2025_separate,299,11,3,11.075.021.385.794,Tổng nguồn vốn công ty mẹ cuối 2025
+674,a,2016,HBC_financial_statements_2016_consolidated,231,19,3,568.013.202.926,Lợi nhuận sau thuế hợp nhất năm 2016
+674,b,2016,HBC_financial_statements_2016_consolidated,231,3,3,10.766.205.824.099,Doanh thu thuần hợp nhất năm 2016
+675,a,2021,MML_financial_statements_2021_separate,146,11,3,3.962.880.024.017,Đầu tư tài chính dài hạn công ty mẹ cuối 2021
+675,b,2021,MML_financial_statements_2021_separate,165,16,3,5.416.895.027.800,Vốn chủ sở hữu công ty mẹ cuối 2021
+676,a,2017,VCB_financial_statements_2017_separate,1551,1,1,736.950,Trích lập dự phòng chung cho vay khách hàng năm 2017 triệu VND
+676,b,2017,VCB_financial_statements_2017_separate,1551,2,1,5.490.641,Trích lập dự phòng cụ thể cho vay khách hàng năm 2017 triệu VND
+676,c,2017,VCB_financial_statements_2017_separate,292,4,3,8.849.164,Lợi nhuận thuần sau thuế công ty mẹ năm 2017 triệu VND
+677,a,2017,PRT_financial_statements_2017_separate,219,6,3,424.764.588.012,Doanh thu hoạt động tài chính công ty mẹ năm 2017
+677,b,2017,PRT_financial_statements_2017_separate,219,7,3,91.037.923.278,Chi phí tài chính công ty mẹ năm 2017
+678,a,2025,DNH_financial_statements_2025_separate,292,2,3,1.041.768.482.657,Tổng nợ ngắn hạn công ty mẹ cuối 2025
+678,b,2025,DNH_financial_statements_2025_separate,292,13,3,5.023.901.027.201,Vốn chủ sở hữu công ty mẹ cuối 2025
+679,a,2016,FOX_financial_statements_2016_consolidated,235,3,3,6.666.468.151.666,Doanh thu thuần hợp nhất năm 2016
+679,b,2016,FOX_financial_statements_2016_consolidated,235,4,3,3.555.106.661.984,Giá vốn hàng bán hợp nhất năm 2016
+680,a,2024,QNS_financial_statements_2024_separate,1359,1,1,230.880.661.175,Lãi tiền gửi công ty mẹ năm 2024
+680,b,2024,QNS_financial_statements_2024_separate,377,6,3,457.220.214.212,Tổng doanh thu hoạt động tài chính công ty mẹ năm 2024
+681,a,2019,NLG_financial_statements_2019_separate,268,3,3,1.682.641.955.479,Doanh thu thuần công ty mẹ năm 2019
+681,b,2019,NLG_financial_statements_2019_separate,268,4,3,(1.111.728.952.575),Giá vốn hàng bán công ty mẹ năm 2019 được trình bày âm
+682,a,2021,HSG_financial_statements_2021_consolidated,1385,5,1,14.708.414.685,Tổng thu nhập khác hợp nhất năm tài chính 2021
+682,b,2021,HSG_financial_statements_2021_consolidated,1389,5,1,16.607.736.066,Tổng chi phí khác hợp nhất năm tài chính 2021
+683,a,2015,NVB_financial_statements_2015_consolidated,319,4,2,29.534.912.334,Thu nhập từ hoạt động dịch vụ hợp nhất năm 2015
+683,b,2015,NVB_financial_statements_2015_consolidated,319,5,2,25.910.896.443,Chi phí hoạt động dịch vụ hợp nhất năm 2015
+684,a,2016,SHB_financial_statements_2016_separate,1479,1,1,1.018.726,Dự phòng chung cho vay khách hàng cuối 2016 triệu VND
+684,b,2016,SHB_financial_statements_2016_separate,1479,3,1,1.691.202,Tổng dự phòng rủi ro cho vay khách hàng cuối 2016 triệu VND
+685,a,2025,BAB_financial_statements_2025_separate,1015,3,1,1.564.458,Tổng dự phòng rủi ro cho vay khách hàng cuối 2025 triệu VND
+685,b,2025,BAB_financial_statements_2025_separate,977,3,1,137.377,Nợ dưới tiêu chuẩn cuối 2025 triệu VND
+685,c,2025,BAB_financial_statements_2025_separate,977,4,1,137.466,Nợ nghi ngờ cuối 2025 triệu VND
+685,d,2025,BAB_financial_statements_2025_separate,977,5,1,1.179.903,Nợ có khả năng mất vốn cuối 2025 triệu VND
+686,a,2023,VNM_financial_statements_2023_consolidated,237,16,3,10.967.899.391.486,Lợi nhuận kế toán trước thuế hợp nhất năm 2023
+686,b,2023,VNM_financial_statements_2023_consolidated,237,3,3,60.368.915.511.505,Doanh thu thuần hợp nhất năm 2023
+687,a,2018,PNJ_financial_statements_2018_consolidated,146,23,3,225.960.569.846,Tài sản cố định hữu hình hợp nhất cuối 2018
+687,b,2018,PNJ_financial_statements_2018_consolidated,146,22,3,719.287.274.744,Tổng tài sản cố định hợp nhất cuối 2018
+688,a,2018,DXG_financial_statements_2018_consolidated,268,12,3,3.557.808.940.778,Phải thu ngắn hạn khác hợp nhất cuối 2018
+688,b,2018,DXG_financial_statements_2018_consolidated,1032,10,1,3.537.643.083.297,Phải thu dài hạn khác hợp nhất cuối 2018
+689,a,2021,BID_financial_statements_2021_consolidated,276,11,3,192.282,Tài sản phái sinh cuối 2021 triệu VND; bộ dữ liệu chỉ có báo cáo hợp nhất 2021
+689,b,2022,BID_financial_statements_2022_separate,274,11,3,1.038.368,Tài sản phái sinh công ty mẹ cuối 2022 triệu VND
+690,a,2020,HNG_financial_statements_2020_separate,773,9,1,9.542.263.238,Tổng nợ vay công ty mẹ cuối 2020 ngàn VND
+690,b,2020,HNG_financial_statements_2020_separate,594,3,1,7.719.915,Tổng tiền mặt và tiền gửi ngân hàng cuối 2020 ngàn VND
+691,a,2018,DPM_financial_statements_2018_consolidated,1085,2,1,5.769.151.733.192,Doanh thu Ure Phú Mỹ hợp nhất năm 2018
+691,b,2018,DPM_financial_statements_2018_consolidated,1081,2,1,6.610.506.937.573,Tổng doanh thu thuần hàng hóa sản xuất trong nước năm 2018
+692,a,2018,BID_financial_statements_2018_separate,235,13,2,(11.493.795),Tổng dự phòng rủi ro cho vay khách hàng cuối 2018 triệu VND
+692,b,2018,BID_financial_statements_2018_separate,235,12,2,955.456.247,Dư nợ cho vay khách hàng trước dự phòng cuối 2018 triệu VND
+693,a,2025,VCB_financial_statements_2025_separate,203,28,3,2.504.438,Tài sản cố định vô hình công ty mẹ cuối 2025 triệu VND
+693,b,2025,VCB_financial_statements_2025_separate,203,25,3,5.475.133,Tài sản cố định hữu hình công ty mẹ cuối 2025 triệu VND
+694,a,2015,SGB_financial_statements_2015_separate,59,15,2,14.968.812,Tổng nợ phải trả công ty mẹ cuối 2015 triệu VND
+694,b,2015,SGB_financial_statements_2015_separate,42,21,2,18.359.429,Tổng tài sản công ty mẹ cuối 2015 triệu VND
+695,a,2017,DCM_financial_statements_2017_consolidated,397,18,3,641.376.709.257,Lợi nhuận sau thuế hợp nhất năm 2017
+695,b,2017,DCM_financial_statements_2017_consolidated,367,15,3,6.153.522.023.121,Vốn chủ sở hữu hợp nhất cuối 2017
+695,c,2017,DCM_financial_statements_2017_consolidated,367,15,4,5.850.243.076.143,Vốn chủ sở hữu hợp nhất đầu 2017 để tính ROE bình quân
+696,a,2019,HSG_financial_statements_2019_consolidated,168,4,3,28.034.775.118.675,Doanh thu thuần hợp nhất năm tài chính 2019
+696,b,2019,HSG_financial_statements_2019_consolidated,136,17,3,5.468.281.185.650,Vốn chủ sở hữu hợp nhất cuối năm tài chính 2019
+696,c,2019,HSG_financial_statements_2019_consolidated,136,17,4,5.151.625.718.925,Vốn chủ sở hữu hợp nhất đầu năm tài chính 2019 để tính bình quân
+697,a,2016,MSN_financial_statements_2016_separate,600,10,3,7.989.232.239.897,Giá gốc đầu tư Techcombank cuối 2016
+697,b,2016,MSN_financial_statements_2016_separate,569,5,1,7.989.232.239.897,Tổng đầu tư vào công ty liên kết cuối 2016
+698,a,2020,TTF_financial_statements_2020_consolidated,1248,7,1,95.533.369.875,Chi phí quản lý doanh nghiệp hợp nhất năm 2020
+698,b,2020,TTF_financial_statements_2020_consolidated,236,3,3,1.213.519.321.749,Doanh thu thuần hợp nhất năm 2020
+699,a,2025,PVT_financial_statements_2025_consolidated,336,5,4,13.495.052.568.359,Tài sản cố định hữu hình hợp nhất cuối 2025
+699,b,2025,PVT_financial_statements_2025_consolidated,336,20,4,22.308.656.455.937,Tổng tài sản hợp nhất cuối 2025
+700,a,2015,HDG_financial_statements_2015_consolidated,1286,1,1,8.386.591.115,Lãi vay phải trả hợp nhất cuối 2015
+700,b,2015,HDG_financial_statements_2015_consolidated,188,15,3,674.955.821.621,Dư nợ vay dài hạn hợp nhất cuối 2015
+701,a,2020,IJC_financial_statements_2020_separate,439,9,3,31.609.505.169,Chi phí bán hàng công ty mẹ năm 2020
+701,b,2020,IJC_financial_statements_2020_separate,439,3,3,1.973.219.114.988,Doanh thu thuần công ty mẹ năm 2020
+702,a,2018,CEO_financial_statements_2018_separate,246,12,3,24.274.993.826,Tổng thu nhập khác công ty mẹ năm 2018
+702,b,2018,CEO_financial_statements_2018_separate,246,13,3,29.289.393.614,Tổng chi phí khác công ty mẹ năm 2018
+703,a,2024,GEX_financial_statements_2024_separate,1520,10,1,317.413.438.972,Tổng phải thu khách hàng ngắn hạn bên liên quan cuối 2024
+703,b,2024,GEX_financial_statements_2024_separate,1520,15,1,300.625.000.000,Tổng phải thu cho vay ngắn hạn bên liên quan cuối 2024
+703,c,2024,GEX_financial_statements_2024_separate,1520,31,1,337.751.686.478,Tổng phải thu ngắn hạn khác bên liên quan cuối 2024
+703,d,2024,GEX_financial_statements_2024_separate,1520,35,1,108.306.804,Tổng phải trả người bán ngắn hạn bên liên quan cuối 2024
+703,e,2024,GEX_financial_statements_2024_separate,1520,41,1,46.011.460.031,Tổng phải trả ngắn hạn khác bên liên quan cuối 2024
+703,f,2024,GEX_financial_statements_2024_separate,1520,46,1,1.721.323.582.700,Tổng vay ngắn hạn bên liên quan cuối 2024
+704,a,2015,NLG_financial_statements_2015_separate,251,6,3,83.797.613.385,Doanh thu hoạt động tài chính công ty mẹ năm 2015
+704,b,2015,NLG_financial_statements_2015_separate,1221,4,1,72.193.585.614,Tổng chi phí tài chính công ty mẹ năm 2015
+705,a,2022,KBC_financial_statements_2022_consolidated,315,10,3,3.951.376.578.333,Vay ngắn hạn hợp nhất cuối 2022
+705,b,2022,KBC_financial_statements_2022_consolidated,330,2,3,17.845.519.292.086,Vốn chủ sở hữu hợp nhất cuối 2022
+706,a,2025,EVF_financial_statements_2025,1041,8,1,(38.384),Dự phòng giảm giá chứng khoán đầu tư sẵn sàng để bán cuối 2025 triệu VND
+706,b,2025,EVF_financial_statements_2025,246,16,3,1.795.912,Tổng chứng khoán đầu tư sẵn sàng để bán cuối 2025 triệu VND
+707,a,2024,VGT_financial_statements_2024_consolidated,1281,15,3,(323.937.380.285),Dự phòng phải thu khách hàng khó đòi ngắn hạn cuối 2024
+707,b,2024,VGT_financial_statements_2024_consolidated,170,9,3,2.275.337.763.396,Tổng phải thu ngắn hạn của khách hàng cuối 2024
+708,a,2017,MML_financial_statements_2017_consolidated,213,19,3,796.955.754.583,Lợi nhuận sau thuế hợp nhất năm 2017
+708,b,2017,MML_financial_statements_2017_consolidated,213,3,3,18.690.484.822.891,Doanh thu thuần hợp nhất năm 2017
+709,a,2022,MSR_financial_statements_2022_consolidated,1833,1,1,1.119.988.084,Chi phí lãi vay hợp nhất năm 2022 ngàn VND
+709,b,2022,MSR_financial_statements_2022_consolidated,1588,3,6,5.818.241.451,Nợ vay ngắn hạn hợp nhất cuối 2022 ngàn VND
+710,a,2022,VNM_financial_statements_2022_separate,223,3,3,13.895.815.212.897,Tổng nợ ngắn hạn công ty mẹ cuối 2022
+710,b,2022,VNM_financial_statements_2022_separate,223,15,3,29.013.924.943.549,Vốn chủ sở hữu công ty mẹ cuối 2022
+711,a,2017,DPM_financial_statements_2017_separate,1112,12,1,6.799.214.111.490,Doanh thu bán hàng với các bên liên quan năm 2017
+711,b,2017,DPM_financial_statements_2017_separate,1112,7,1,7.465.852.549.086,Tổng doanh thu bán hàng năm 2017
+712,a,2025,GEG_financial_statements_2025_consolidated,454,5,3,(683.259.056.290),Chi phí tài chính hợp nhất năm 2025 được trình bày âm
+712,b,2025,GEG_financial_statements_2025_consolidated,454,1,3,2.998.867.342.581,Doanh thu thuần hợp nhất năm 2025
+713,a,2020,HT1_financial_statements_2020_separate,308,6,3,10.842.104.936,Doanh thu hoạt động tài chính công ty mẹ năm 2020
+713,b,2020,HT1_financial_statements_2020_separate,1101,5,1,222.634.224.822,Tổng chi phí tài chính công ty mẹ năm 2020
+714,a,2024,HUT_financial_statements_2024_consolidated,376,6,4,576.356.569.368,Doanh thu hoạt động tài chính hợp nhất năm 2024
+714,b,2024,HUT_financial_statements_2024_consolidated,376,7,4,337.464.727.127,Chi phí tài chính hợp nhất năm 2024
+715,a,2023,VIC_financial_statements_2023_separate,221,5,3,400.321,Đầu tư tài chính ngắn hạn công ty mẹ cuối 2023 triệu VND
+715,b,2023,VIC_financial_statements_2023_separate,221,2,3,2.581.673,Tiền và các khoản tương đương tiền công ty mẹ cuối 2023 triệu VND
+716,a,2025,POW_financial_statements_2025_separate,1270,2,1,473.265.452.098,Chi phí lãi vay công ty mẹ năm 2025
+716,b,2025,POW_financial_statements_2025_separate,1099,2,6,17.863.074.463.758,Nợ vay dài hạn công ty mẹ cuối 2025
+717,a,2019,NVB_financial_statements_2019_separate,1423,12,1,12.053.691,Tổng cam kết ngoại bảng cuối 2019 triệu VND
+717,b,2019,NVB_financial_statements_2019_separate,268,20,2,80.405.111,Tổng tài sản công ty mẹ cuối 2019 triệu VND
+718,a,2017,DXG_financial_statements_2017_consolidated,252,4,3,(1.149.440.021.123),Giá vốn hàng bán hợp nhất năm 2017 được trình bày âm
+718,b,2017,DXG_financial_statements_2017_consolidated,252,3,3,2.879.241.389.947,Doanh thu thuần hợp nhất năm 2017
+719,a,2016,NVB_financial_statements_2016_separate,388,10,2,2.970.254,Dòng tiền thuần từ hoạt động kinh doanh năm 2016 triệu VND
+719,b,2016,NVB_financial_statements_2016_separate,336,18,2,13.380,Lợi nhuận trước thuế công ty mẹ năm 2016 triệu VND
+720,a,2017,SGB_financial_statements_2017_separate,1132,14,3,373.198,Giá trị còn lại tài sản cố định vô hình cuối 2017 triệu VND
+720,b,2018,SGB_financial_statements_2018_separate,1049,12,3,397.895,Giá trị còn lại tài sản cố định vô hình cuối 2018 triệu VND
+721,a,2020,VIF_financial_statements_2020_consolidated,1262,2,1,15.996.208.039,Giá trị đầu tư vào cổ phiếu cuối 2020
+721,b,2020,VIF_financial_statements_2020_consolidated,243,18,3,1.141.390.360.287,Đầu tư vào công ty liên doanh liên kết cuối 2020
+722,a,2022,OGC_financial_statements_2022_consolidated,326,13,4,3.388.993.713,Thu nhập khác hợp nhất năm 2022
+722,b,2022,OGC_financial_statements_2022_consolidated,326,14,4,14.990.510.425,Chi phí khác hợp nhất năm 2022
+723,a,2018,HAG_financial_statements_2018_consolidated,1304,6,2,6.130.524.711,Cho vay dài hạn bên liên quan cuối 2018 ngàn VND
+723,b,2018,HAG_financial_statements_2018_consolidated,1333,17,1,329.540.303,Phải thu dài hạn khác bên liên quan cuối 2018 ngàn VND
+724,a,2015,GVR_financial_statements_2015_separate,226,7,3,959.509.787.407,Chi phí tài chính công ty mẹ năm 2015
+724,b,2015,GVR_financial_statements_2015_separate,1463,6,1,897.862.325.468,Tổng doanh thu công ty mẹ năm 2015
+725,a,2017,SAM_financial_statements_2017_separate,279,4,3,255.110.872.527,Doanh thu hoạt động tài chính công ty mẹ năm 2017
+725,b,2017,SAM_financial_statements_2017_separate,279,5,3,(202.572.748.514),Chi phí tài chính công ty mẹ năm 2017 được trình bày âm
+726,a,2024,GEX_financial_statements_2024_consolidated,498,6,4,1.500.290.822.832,Doanh thu hoạt động tài chính hợp nhất năm 2024
+726,b,2024,GEX_financial_statements_2024_consolidated,498,7,4,1.689.902.579.272,Chi phí tài chính hợp nhất năm 2024
+727,a,2018,BVH_financial_statements_2018_separate,1852,3,3,(15.229.827.235),VaR 95 phần trăm một ngày danh mục cổ phiếu niêm yết cuối 2018
+727,b,2019,BVH_financial_statements_2019_separate,1636,3,3,(16.533.003.610),VaR 95 phần trăm một ngày danh mục cổ phiếu niêm yết cuối 2019
+728,a,2018,DBC_financial_statements_2018_separate,1387,2,1,80.843.120.486,Chi phí bán hàng công ty mẹ năm 2018
+728,b,2018,DBC_financial_statements_2018_separate,1387,8,1,150.135.325.192,Chi phí quản lý doanh nghiệp công ty mẹ năm 2018
+728,c,2018,DBC_financial_statements_2018_separate,314,3,3,5.638.158.572.657,Doanh thu thuần công ty mẹ năm 2018
+729,a,2024,KHG_financial_statements_2024_consolidated,894,3,1,1.436.640.000.000,Vốn góp của ông Nguyễn Khải Hoàn cuối 2024
+729,b,2024,KHG_financial_statements_2024_consolidated,193,15,3,4.494.352.050.000,Tổng vốn góp chủ sở hữu cuối 2024
+730,a,2017,DTK_financial_statements_2017_separate,450,3,3,7.269.482.060.418,Doanh thu thuần công ty mẹ năm 2017
+730,b,2017,DTK_financial_statements_2017_separate,450,4,3,5.978.531.598.420,Giá vốn hàng bán công ty mẹ năm 2017
+731,a,2025,HDB_financial_statements_2025_consolidated,196,11,3,546.370.779,Dư nợ cho vay khách hàng trước dự phòng cuối 2025 triệu VND
+731,b,2025,HDB_financial_statements_2025_consolidated,221,7,3,560.714.282,Tổng tiền gửi khách hàng cuối 2025 triệu VND
+732,a,2023,FIT_financial_statements_2023_separate,1110,1,1,419.991.341.072,Tổng vay ngắn hạn công ty mẹ cuối 2023
+732,b,2023,FIT_financial_statements_2023_separate,865,3,1,465.398.174,Tổng tiền mặt và tiền gửi ngân hàng công ty mẹ cuối 2023

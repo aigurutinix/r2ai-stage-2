@@ -1,0 +1,22 @@
+This is Stage 3 of a four-stage generation process. You are given only the selected financial concept and the identities of the tables retained in the preceding stage. You do not have access to the CSV content or to the row and column labels.
+
+# STAGE 3: WRITE THE QUESTION
+Write one natural Vietnamese question about the selected financial concept, using the companies or reporting periods listed in the input.
+
+# QUESTION REQUIREMENTS
+* The question must be natural, clear, complete, and phrased as a question a financial-report user could reasonably ask.
+* Ask about exactly the supplied concept or ratio. Do not introduce an additional financial concept, derived indicator, or comparison not included in the locked plan.
+* The question must ask for exactly one answer. The answer must be one number, percentage, monetary value, or reporting period. For cross-company instances, do not ask for a company name.
+* Do not use open-ended formulations such as "How did it change?" or "What was the trend?". When the locked formula specifies a difference, extreme value, count, or aggregation, ask directly for the scalar determined by that formula.
+* Refer to the financial concept consistently across all compared entities. Do not mention the specific row or column used for an individual table.
+* Make the question self-contained. For every entity mentioned, clearly identify: (a) the full company name and ticker; (b) the relevant reporting period or periods; and (c) the reporting scope when necessary.
+* Infer reporting scope from the document name. A document containing `Hopnhat` is consolidated, and a document containing `Congtyme` is a parent-company statement.
+* Consolidated reporting is treated as the default scope and should not be stated unnecessarily. For a parent-company statement, explicitly attach the phrase corresponding to "parent company" to the company name.
+* Do not introduce the source with phrases equivalent to "according to the report", "in the financial statements", or "in the report". Do not mention filenames, document names, tables, CSV files, rows, columns, Python, or Pandas.
+* Avoid a fixed opening template. Vary the grammatical structure naturally.
+* Do not use redundant Vietnamese expressions equivalent to "at the date", "at the time", or "at year-end". For balance-sheet quantities, use a natural expression such as "at the end of 2024" or "as of 31 December 2024". For period-based quantities, use an expression such as "in 2024".
+* Use Vietnamese units in the question. Do not write `VND`.
+* The wording of the question must match the locked `operation`, `answer_type`, and `unit` exactly.
+
+Return only valid JSON. Do not include explanatory text or Markdown fences:
+{"question": "..."}

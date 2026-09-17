@@ -1,0 +1,179 @@
+{
+  "doc_id": "PRT_financial_statements_2021_consolidated",
+  "document_sha256": "574e8cfc782a949cc110edcf8f7154930b9003aa5dde82921f5c9d6f63abb600",
+  "table_id_internal": 7,
+  "physical_line_one_based": 258,
+  "html_sha256": "b1a211ac5794b4bf500e4fbcd21e1d26b9b472115fd5bc4a4523add2393f4f04",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm 2021</td><td>Năm 2020</td></tr><tr><td colspan=\"3\"></td><td>VND</td><td>VND</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>26</td><td>1.489.764.180.617</td><td>962.677.072.202</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>27</td><td>1.521.703.013</td><td>1.153.617.782</td></tr><tr><td>10</td><td>3. Doanh thu thuần bán hàng và cung cấp dịch vụ</td><td></td><td>1.488.242.477.604</td><td>961.523.454.420</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán</td><td>28</td><td>1.128.175.474.699</td><td>864.401.899.968</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>360.067.002.905</td><td>97.121.554.452</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>29</td><td>70.894.746.268</td><td>189.959.102.851</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>30</td><td>52.863.576.756</td><td>22.102.262.771</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>29.983.317.576</td><td>14.876.922.963</td></tr><tr><td>24</td><td>8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết</td><td></td><td>126.415.522.668</td><td>278.975.094.297</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>31</td><td>39.020.108.221</td><td>24.884.366.311</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>32</td><td>138.349.587.213</td><td>97.580.689.240</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>327.143.999.651</td><td>421.488.433.278</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td>33</td><td>2.797.691.637</td><td>26.914.830.504</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td>34</td><td>7.048.887.057</td><td>1.020.600.620</td></tr><tr><td>40</td><td>14. Lợi nhuận khác</td><td></td><td>(4.251.195.420)</td><td>25.894.229.884</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>322.892.804.231</td><td>447.382.663.162</td></tr><tr><td>51</td><td>16. Chi phí thuế thu nhập doanh nghiệp hiện hành</td><td>35</td><td>47.400.004.918</td><td>6.962.318.962</td></tr><tr><td>52</td><td>17. Chi phí thuế thu nhập doanh nghiệp hoãn lại</td><td>36</td><td>11.184.217.265</td><td>9.737.133.881</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</td><td></td><td>264.308.582.048</td><td>430.683.210.319</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của Công ty mẹ</td><td></td><td>236.700.815.510</td><td>428.478.087.521</td></tr><tr><td>62</td><td>20. Lợi nhuận sau thuế của cổ đông không kiểm soát</td><td></td><td>27.607.766.538</td><td>2.205.122.798</td></tr><tr><td>70</td><td>21. Lãi cơ bản trên cổ phiếu</td><td>37</td><td>736</td><td>1.398</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm 2021",
+      "Năm 2020"
+    ],
+    [
+      "",
+      "",
+      "",
+      "VND",
+      "VND"
+    ],
+    [
+      "01",
+      "1. Doanh thu bán hàng và cung cấp dịch vụ",
+      "26",
+      "1.489.764.180.617",
+      "962.677.072.202"
+    ],
+    [
+      "02",
+      "2. Các khoản giảm trừ doanh thu",
+      "27",
+      "1.521.703.013",
+      "1.153.617.782"
+    ],
+    [
+      "10",
+      "3. Doanh thu thuần bán hàng và cung cấp dịch vụ",
+      "",
+      "1.488.242.477.604",
+      "961.523.454.420"
+    ],
+    [
+      "11",
+      "4. Giá vốn hàng bán",
+      "28",
+      "1.128.175.474.699",
+      "864.401.899.968"
+    ],
+    [
+      "20",
+      "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "360.067.002.905",
+      "97.121.554.452"
+    ],
+    [
+      "21",
+      "6. Doanh thu hoạt động tài chính",
+      "29",
+      "70.894.746.268",
+      "189.959.102.851"
+    ],
+    [
+      "22",
+      "7. Chi phí tài chính",
+      "30",
+      "52.863.576.756",
+      "22.102.262.771"
+    ],
+    [
+      "23",
+      "Trong đó: Chi phí lãi vay",
+      "",
+      "29.983.317.576",
+      "14.876.922.963"
+    ],
+    [
+      "24",
+      "8. Phần lãi hoặc lỗ trong công ty liên doanh, liên kết",
+      "",
+      "126.415.522.668",
+      "278.975.094.297"
+    ],
+    [
+      "25",
+      "9. Chi phí bán hàng",
+      "31",
+      "39.020.108.221",
+      "24.884.366.311"
+    ],
+    [
+      "26",
+      "10. Chi phí quản lý doanh nghiệp",
+      "32",
+      "138.349.587.213",
+      "97.580.689.240"
+    ],
+    [
+      "30",
+      "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "327.143.999.651",
+      "421.488.433.278"
+    ],
+    [
+      "31",
+      "12. Thu nhập khác",
+      "33",
+      "2.797.691.637",
+      "26.914.830.504"
+    ],
+    [
+      "32",
+      "13. Chi phí khác",
+      "34",
+      "7.048.887.057",
+      "1.020.600.620"
+    ],
+    [
+      "40",
+      "14. Lợi nhuận khác",
+      "",
+      "(4.251.195.420)",
+      "25.894.229.884"
+    ],
+    [
+      "50",
+      "15. Tổng lợi nhuận kế toán trước thuế",
+      "",
+      "322.892.804.231",
+      "447.382.663.162"
+    ],
+    [
+      "51",
+      "16. Chi phí thuế thu nhập doanh nghiệp hiện hành",
+      "35",
+      "47.400.004.918",
+      "6.962.318.962"
+    ],
+    [
+      "52",
+      "17. Chi phí thuế thu nhập doanh nghiệp hoãn lại",
+      "36",
+      "11.184.217.265",
+      "9.737.133.881"
+    ],
+    [
+      "60",
+      "18. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+      "",
+      "264.308.582.048",
+      "430.683.210.319"
+    ],
+    [
+      "61",
+      "19. Lợi nhuận sau thuế của Công ty mẹ",
+      "",
+      "236.700.815.510",
+      "428.478.087.521"
+    ],
+    [
+      "62",
+      "20. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+      "",
+      "27.607.766.538",
+      "2.205.122.798"
+    ],
+    [
+      "70",
+      "21. Lãi cơ bản trên cổ phiếu",
+      "37",
+      "736",
+      "1.398"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP A128 đường 3/2, khu phố Đông Tư, phường Lái Thiêu, thành phố Thuận An, tỉnh Bình Dương Báo cáo tài chính hợp nhất Cho năm tài chính kết thúc ngày 31/12/2021 BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT Năm 2021"
+}

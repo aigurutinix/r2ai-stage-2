@@ -1,0 +1,34 @@
+﻿company,year,ma_so,label,value,prev
+NKG,2021,01,Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản:,2562028980555,320812116164
+NKG,2021,02,Khấu hao tài sản cố định (&quot;TSCĐ&quot;),378833971310,376255520548
+NKG,2021,03,Các khoản dự phòng,423836211434,400000000
+NKG,2021,04,Lỗ chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiên tệ có gốc ngoại tệ,20359041207,1368014070
+NKG,2021,05,Lãi từ hoạt động đầu tư,-15154020441,-27090757323
+NKG,2021,06,Chi phí lãi vay,243685237356,222154457661
+NKG,2021,07,Các khoản điều chỉnh khác,12357783377,
+NKG,2021,08,Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động,3613589421421,906257134497
+NKG,2021,09,Tăng các khoản phải thu,-1224705151592,-497986322468
+NKG,2021,10,(Tăng)/giảm hàng tồn kho,-6330581482983,218291327280
+NKG,2021,11,Tăng/(giảm) các khoản phải trả,4111556190228,-394729139948
+NKG,2021,12,Giảm chi phí trả trước,18014174917,28517406648
+NKG,2021,14,Tiền lãi vay đã trả,-230893376600,-228102720920
+NKG,2021,15,Thuế TNDN đã nộp,-255631985625,-6760599978
+NKG,2021,17,Tiền chi khác từ hoạt động kinh doanh,-9621840327,-9909990000
+NKG,2021,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,-308274050561,15577095111
+NKG,2021,21,"Tiền chi để mua sắm, xây dựng TSCĐ và các taisản dài hạn khác",-145066081288,-54273792939
+NKG,2021,23,Tiền gửi có kỳ hạn tại ngân hàng,-135600000000,-157965479452
+NKG,2021,24,Tiền thu hồi tiền gửi có kỳ hạn tại ngân hàng,87100000000,529363404931
+NKG,2021,25,Tiền chi đầu tư góp vốn vào công ty con,-138420000000,
+NKG,2021,27,Tiền thu lãi tiền gửi và trái phiếu,23241845719,28614073831
+NKG,2021,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,-308744235569,345738206371
+NKG,2021,31,Tiền thu từ tái phát hành cổ phiếu quỹ,334288800000,
+NKG,2021,32,Tiền chi mua lại cổ phiếu đã phát hành,-78043577721,
+NKG,2021,33,Tiền thu từ di vay,21070601295868,11098457061598
+NKG,2021,34,Tiền chi trả nợ gốc vay,-20208184257647,-11165449521984
+NKG,2021,35,Tiền chi trả nợ gốc thuê tài chính,-46713324647,-21559995996
+NKG,2021,36,Tiền cổ tức đã trả cho chủ sở hữu,-51599960400,
+NKG,2021,40,Lưu chuyển tiền thuần từ hoạt động tài chính,1149992513574,-218195994503
+NKG,2021,50,Lưu chuyển tiền thuần trong năm,532974227444,143119306979
+NKG,2021,60,Tiền và tương đương tiền đầu năm,219161716845,
+NKG,2021,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,-690000234,232120
+NKG,2021,70,Tiền và tương đương tiền cuối năm,751445944055,

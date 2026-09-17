@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+PLX,2017,01,Doanh thu bán hàng và cung cấp dịch vụ,153736210568322,123127176864983
+PLX,2017,02,Các khoản giảm trừ doanh thu,39153702504,30659848663
+PLX,2017,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02),153697056865818,123096517016320
+PLX,2017,11,Giá vốn hàng bán và cung cấp dịch vụ,141400532111654,108891432070956
+PLX,2017,20,Lợi nhuận gộp (20 = 10 - 11),12296524754164,14205084945364
+PLX,2017,21,Doanh thu hoạt động tài chính,791143396401,879878586647
+PLX,2017,22,Chi phí tài chính,790644542111,844097800840
+PLX,2017,23,Trong đó: Chi phí lãi vay,570685109732,551519187171
+PLX,2017,24,"Phần lãi trong các công ty liên doanh, liên kết",456054595116,599747414012
+PLX,2017,25,Chi phí bán hàng,7320736564998,7701328853813
+PLX,2017,26,Chi phí quản lý doanh nghiệp,817994151452,1016549078091
+PLX,2017,30,Lợi nhuận thuần từ hoạt động kinh doanh{30 = 20 + (21 - 22) + 24 - (25 + 26)},4614347487120,6122735213279
+PLX,2017,31,Thu nhập khác,324762583078,336689016471
+PLX,2017,32,Chi phí khác,154142930181,159237718400
+PLX,2017,40,Kết quả từ hoạt động khác(40 = 31 - 32),170619652897,177451298071
+PLX,2017,50,Lợi nhuận kế toán trước thuế(50 = 30 + 40),4784967140017,6300186511350
+PLX,2017,51,Chi phí thuế TNDN hiện hành,894833667465,1152206706935
+PLX,2017,52,(Lợi ích)/chi phí thuế TNDN hoãn lại,-21529227908,546182104
+PLX,2017,60,Lợi nhuận sau thuế TNDN(60 = 50 - 51 - 52)(chuyển sang trang sau),3911662700460,5147433622311

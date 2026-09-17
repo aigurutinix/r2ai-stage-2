@@ -1,0 +1,172 @@
+{
+  "doc_id": "NKG_financial_statements_2023_consolidated",
+  "document_sha256": "71ab16c95b4e90b62bb503cd71444b65dc14d72191242675cd9af98629ebca76",
+  "table_id_internal": 10,
+  "physical_line_one_based": 421,
+  "html_sha256": "324cda2ca04bfea10abd2ce2b8d1e6d89d7cded9b2b7f4185e814007577d7781",
+  "html": "<table><tr><td rowspan=\"2\">Mã số</td><td rowspan=\"2\"></td><td rowspan=\"2\">Thuyết minh</td><td colspan=\"2\">Năm tài chính kết thúc ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>18.621.212.567.707</td><td>23.128.328.990.585</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>(25.238.314.620)</td><td>(57.081.705.338)</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>23</td><td>18.595.974.253.087</td><td>23.071.247.285.247</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>24</td><td>(17.483.711.237.040)</td><td>(21.589.886.519.482)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>1.112.263.016.047</td><td>1.481.360.765.765</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>25</td><td>230.378.542.142</td><td>302.883.172.355</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>26</td><td>(426.154.979.605)</td><td>(502.981.252.554)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td></td><td>(292.679.834.464)</td><td>(262.466.234.780)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>27</td><td>(609.117.894.559)</td><td>(1.202.326.906.760)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>28</td><td>(130.296.253.597)</td><td>(185.780.434.225)</td></tr><tr><td>30</td><td>Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh</td><td></td><td>177.072.430.428</td><td>(106.844.655.419)</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>597.160.588</td><td>1.085.202.870</td></tr><tr><td>32</td><td>Chi phí khác</td><td></td><td>(358.676.837)</td><td>(1.153.052.765)</td></tr><tr><td>40</td><td>Lợi nhuận/(lỗ) khác</td><td></td><td>238.483.751</td><td>(67.849.895)</td></tr><tr><td>50</td><td>Tổng lợi nhuận/(lỗ) kế toán trước thuế</td><td></td><td>177.310.914.179</td><td>(106.912.505.314)</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (&quot;TNDN&quot;) hiện hành</td><td>29</td><td>(60.755.885.161)</td><td>-</td></tr><tr><td>52</td><td>Thu nhập/(chi phí) thuế TNDN hoãn lại</td><td>29</td><td>853.536.140</td><td>(17.772.332.413)</td></tr><tr><td>60</td><td>Lợi nhuận/(lỗ) sau thuế TNDN</td><td></td><td>117.408.565.158</td><td>(124.684.837.727)</td></tr><tr><td>61</td><td>Phân bổ cho:Cổ đông của Công ty</td><td></td><td>117.408.565.158</td><td>(124.684.837.727)</td></tr><tr><td>70</td><td>Lãi/(lỗ) cơ bản trên cổ phiếu</td><td>21</td><td>446</td><td>(474)</td></tr><tr><td>71</td><td>Lãi/(lỗ) suy giảm trên cổ phiếu</td><td>21</td><td>446</td><td>(474)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "",
+      "Thuyết minh",
+      "Năm tài chính kết thúc ngày 31 tháng 12 năm",
+      "Năm tài chính kết thúc ngày 31 tháng 12 năm"
+    ],
+    [
+      "Mã số",
+      "",
+      "Thuyết minh",
+      "2023 VND",
+      "2022 VND"
+    ],
+    [
+      "01",
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "",
+      "18.621.212.567.707",
+      "23.128.328.990.585"
+    ],
+    [
+      "02",
+      "Các khoản giảm trừ doanh thu",
+      "",
+      "(25.238.314.620)",
+      "(57.081.705.338)"
+    ],
+    [
+      "10",
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "23",
+      "18.595.974.253.087",
+      "23.071.247.285.247"
+    ],
+    [
+      "11",
+      "Giá vốn hàng bán và dịch vụ cung cấp",
+      "24",
+      "(17.483.711.237.040)",
+      "(21.589.886.519.482)"
+    ],
+    [
+      "20",
+      "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "1.112.263.016.047",
+      "1.481.360.765.765"
+    ],
+    [
+      "21",
+      "Doanh thu hoạt động tài chính",
+      "25",
+      "230.378.542.142",
+      "302.883.172.355"
+    ],
+    [
+      "22",
+      "Chi phí tài chính",
+      "26",
+      "(426.154.979.605)",
+      "(502.981.252.554)"
+    ],
+    [
+      "23",
+      "- Trong đó: Chi phí lãi vay",
+      "",
+      "(292.679.834.464)",
+      "(262.466.234.780)"
+    ],
+    [
+      "25",
+      "Chi phí bán hàng",
+      "27",
+      "(609.117.894.559)",
+      "(1.202.326.906.760)"
+    ],
+    [
+      "26",
+      "Chi phí quản lý doanh nghiệp",
+      "28",
+      "(130.296.253.597)",
+      "(185.780.434.225)"
+    ],
+    [
+      "30",
+      "Lợi nhuận/(lỗ) thuần từ hoạt động kinh doanh",
+      "",
+      "177.072.430.428",
+      "(106.844.655.419)"
+    ],
+    [
+      "31",
+      "Thu nhập khác",
+      "",
+      "597.160.588",
+      "1.085.202.870"
+    ],
+    [
+      "32",
+      "Chi phí khác",
+      "",
+      "(358.676.837)",
+      "(1.153.052.765)"
+    ],
+    [
+      "40",
+      "Lợi nhuận/(lỗ) khác",
+      "",
+      "238.483.751",
+      "(67.849.895)"
+    ],
+    [
+      "50",
+      "Tổng lợi nhuận/(lỗ) kế toán trước thuế",
+      "",
+      "177.310.914.179",
+      "(106.912.505.314)"
+    ],
+    [
+      "51",
+      "Chi phí thuế thu nhập doanh nghiệp (\"TNDN\") hiện hành",
+      "29",
+      "(60.755.885.161)",
+      "-"
+    ],
+    [
+      "52",
+      "Thu nhập/(chi phí) thuế TNDN hoãn lại",
+      "29",
+      "853.536.140",
+      "(17.772.332.413)"
+    ],
+    [
+      "60",
+      "Lợi nhuận/(lỗ) sau thuế TNDN",
+      "",
+      "117.408.565.158",
+      "(124.684.837.727)"
+    ],
+    [
+      "61",
+      "Phân bổ cho:Cổ đông của Công ty",
+      "",
+      "117.408.565.158",
+      "(124.684.837.727)"
+    ],
+    [
+      "70",
+      "Lãi/(lỗ) cơ bản trên cổ phiếu",
+      "21",
+      "446",
+      "(474)"
+    ],
+    [
+      "71",
+      "Lãi/(lỗ) suy giảm trên cổ phiếu",
+      "21",
+      "446",
+      "(474)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== 「 「 「 「 「 「 [ ] [ ] [ ] [ ] [ ] [ ] [ ] L L L L L CÔNG TY CỔ PHẦN THÉP NAM KIM Mẫu số B 02 – DN/HN BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT"
+}

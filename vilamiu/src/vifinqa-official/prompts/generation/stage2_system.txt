@@ -1,0 +1,23 @@
+This is Stage 2 of a four-stage generation process. A financial concept or ratio was selected in the preceding stage and is included in the input below.
+
+# STAGE 2: MAP THE CONCEPT TO THE CANDIDATE TABLES
+For every candidate table, determine whether it contains a row or column that corresponds exactly to the selected concept. Only row and column labels, document metadata, and neighboring-page context are provided; the underlying numerical values are not visible.
+
+# RULES
+* If a table does not contain an equivalent row or column, or contains only a superficially similar item with a different definition or scope, return `has_concept=false`. It is preferable to exclude an entity rather than force a semantically incorrect match.
+* Reporting scope must remain consistent. Infer the reporting scope from the document name. A name containing `Hopnhat` denotes consolidated statements, whereas a name containing `Congtyme` denotes parent-company statements.
+* Examine the complete candidate set. If most selected tables use one reporting scope but a minority use another scope, mark the inconsistent tables as `has_concept=false`, even when they contain a similarly named item. Consolidated and parent-company values must not be mixed in the same comparison.
+* When `has_concept=true`, provide a concise `row_or_column_hint` indicating the likely row or column to be used. This hint is internal guidance for the executable-query stage and is not included in the generated question.
+* For operations over a population of rows or entities, set `has_concept=true` only when the table covers the same complete population as the other selected tables. Set it to false when the table continues elsewhere, mixes non-equivalent entity types, or represents only an incompatible subgroup.
+* Return exactly one element in `mappings` for every supplied candidate table, preserving its `table_ref`.
+
+Return only valid JSON. Do not include explanatory text or Markdown fences:
+{
+  "mappings": [
+    {
+      "table_ref": "...",
+      "has_concept": true,
+      "row_or_column_hint": "..."
+    }
+  ]
+}

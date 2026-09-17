@@ -1,0 +1,9 @@
+Concept selected in Stage 1:
+{{CONCEPT_NAME}}
+
+Concept formula:
+{{CONCEPT_FORMULA}}
+
+{{CANDIDATE_TABLE_BLOCKS}}
+
+Map the selected concept to every candidate table and return exactly the required JSON object.

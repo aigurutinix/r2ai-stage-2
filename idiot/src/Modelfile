@@ -1,0 +1,6 @@
+﻿FROM qwen3:8b
+PARAMETER num_ctx 4096
+PARAMETER num_predict 256
+PARAMETER temperature 0
+PARAMETER num_gpu 99
+SYSTEM "/no_think"

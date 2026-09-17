@@ -1,0 +1,22 @@
+﻿company,year,ma_so,label,value,prev
+NAB,2025,23,Thu nhập lãi và các khoản thu nhập tương tự,22356378000000,17411705000000
+NAB,2025,24,Chi phí lãi và các chi phí tương tự,-13807288000000,-9521684000000
+NAB,2025,,Thu nhập lãi thuần,8549090000000,7890021000000
+NAB,2025,,Thu nhập từ hoạt động dịch vụ,730010000000,951749000000
+NAB,2025,,Chi phí hoạt động dịch vụ,-125919000000,-385907000000
+NAB,2025,25,Lãi thuần từ hoạt động dịch vụ,604091000000,565842000000
+NAB,2025,26,Lãi thuần từ hoạt động kinh doanh ngoại hối,23029000000,2807000000
+NAB,2025,27,Lãi thuần từ mua bán chứng khoán kinh doanh,6434000000,
+NAB,2025,28,Lãi thuần từ mua bán chứng khoán đầu tư,235274000000,123787000000
+NAB,2025,,Thu nhập từ hoạt động khác,2102180000000,467647000000
+NAB,2025,,Chi phí hoạt động khác,-44618000000,-41779000000
+NAB,2025,29,Lãi thuần từ hoạt động khác,2057562000000,425868000000
+NAB,2025,30,"Thu nhập từ góp vốn, mua cổ phần",8401000000,6414000000
+NAB,2025,,TỔNG THU NHẬP HOẠT ĐỘNG,11483881000000,9015603000000
+NAB,2025,31,TỔNG CHI PHÍ HOẠT ĐỘNG,-3768970000000,-3951147000000
+NAB,2025,,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,7714911000000,5064456000000
+NAB,2025,10,Chi phí dự phòng rủi ro tín dụng,-2463326000000,-520902000000
+NAB,2025,,TỔNG LỢI NHUẬN TRƯỚC THUẾ,5251585000000,4543554000000
+NAB,2025,,Chi phí thuế thu nhập doanh nghiệp hiện hành,-1069351000000,-936461000000
+NAB,2025,,Tổng chi phí thuế thu nhập doanh nghiệp,-1069351000000,-936461000000
+NAB,2025,,LỢI NHUẬN SAU THUẾ,4182234000000,3607093000000

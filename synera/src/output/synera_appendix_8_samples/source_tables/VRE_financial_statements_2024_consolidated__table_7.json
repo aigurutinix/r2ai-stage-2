@@ -1,0 +1,193 @@
+{
+  "doc_id": "VRE_financial_statements_2024_consolidated",
+  "document_sha256": "df3645385a43fccf19f5f2903e1d6e3826ef0cd3949644093218336bc5252263",
+  "table_id_internal": 7,
+  "physical_line_one_based": 338,
+  "html_sha256": "00d98630ba5bb54350a5416cd4a149ebdf81c5418c7ac8cd88fd34d4f0faa7b4",
+  "html": "<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>I.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1.</td><td>Lợi nhuận trước thuế</td><td>01</td><td>5.133.329</td><td>5.526.087</td></tr><tr><td rowspan=\"6\">2.</td><td colspan=\"4\">Điều chỉnh cho các khoản:</td></tr><tr><td>Khấu hao tài sản cố định, bắt động sản đầu tư và lợi thế thương mại, phân bổ tiền thuê đất</td><td>02</td><td>1.379.104</td><td>1.453.931</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>239.395</td><td>87.438</td></tr><tr><td>Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>71.665</td><td>-</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>05</td><td>(1.792.224)</td><td>(1.144.646)</td></tr><tr><td>Chỉ phí lãi vay và trái phiếu phát hành</td><td>06</td><td>566.101</td><td>330.426</td></tr><tr><td rowspan=\"8\">3.</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td>5.597.370</td><td>6.253.236</td></tr><tr><td>Thay đổi các khoản phải thu</td><td>09</td><td>(6.408.007)</td><td>(1.293.682)</td></tr><tr><td>Thay đổi hàng tồn kho</td><td>10</td><td>344.947</td><td>543.548</td></tr><tr><td>Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>2.950.184</td><td>(808.470)</td></tr><tr><td>Thay đổi chi phí trả trước</td><td>12</td><td>(214)</td><td>66.833</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(451.815)</td><td>(293.139)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(1.274.356)</td><td>(576.317)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>758.109</td><td>3.892.009</td></tr><tr><td>II.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1.</td><td>Tiền chỉ mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td>(4.192.445)</td><td>(8.321.768)</td></tr><tr><td>2</td><td>Tiền thu lại khoản đặt cọc cho mục đích đầu tư</td><td>21</td><td>-</td><td>816.956</td></tr><tr><td>3.</td><td>Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td>11.029</td><td>4.462</td></tr><tr><td>4.</td><td>Tiền chỉ cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td>(5.341.659)</td><td>(2.923.445)</td></tr><tr><td>5.</td><td>Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác</td><td>24</td><td>6.430.025</td><td>1.956.182</td></tr><tr><td>6.</td><td>Tiền chỉ đầu tư góp vốn vào đơn vị khác</td><td>25</td><td>(352)</td><td>(6.645)</td></tr><tr><td rowspan=\"2\">7.</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td>630.199</td><td>953.424</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>(2.463.203)</td><td>(7.520.834)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "CHỈ TIÊU",
+      "Mã số",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "I.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "1.",
+      "Lợi nhuận trước thuế",
+      "01",
+      "5.133.329",
+      "5.526.087"
+    ],
+    [
+      "2.",
+      "Điều chỉnh cho các khoản:",
+      "Điều chỉnh cho các khoản:",
+      "Điều chỉnh cho các khoản:",
+      "Điều chỉnh cho các khoản:"
+    ],
+    [
+      "2.",
+      "Khấu hao tài sản cố định, bắt động sản đầu tư và lợi thế thương mại, phân bổ tiền thuê đất",
+      "02",
+      "1.379.104",
+      "1.453.931"
+    ],
+    [
+      "2.",
+      "Các khoản dự phòng",
+      "03",
+      "239.395",
+      "87.438"
+    ],
+    [
+      "2.",
+      "Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "04",
+      "71.665",
+      "-"
+    ],
+    [
+      "2.",
+      "Lãi từ hoạt động đầu tư",
+      "05",
+      "(1.792.224)",
+      "(1.144.646)"
+    ],
+    [
+      "2.",
+      "Chỉ phí lãi vay và trái phiếu phát hành",
+      "06",
+      "566.101",
+      "330.426"
+    ],
+    [
+      "3.",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "08",
+      "5.597.370",
+      "6.253.236"
+    ],
+    [
+      "3.",
+      "Thay đổi các khoản phải thu",
+      "09",
+      "(6.408.007)",
+      "(1.293.682)"
+    ],
+    [
+      "3.",
+      "Thay đổi hàng tồn kho",
+      "10",
+      "344.947",
+      "543.548"
+    ],
+    [
+      "3.",
+      "Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "11",
+      "2.950.184",
+      "(808.470)"
+    ],
+    [
+      "3.",
+      "Thay đổi chi phí trả trước",
+      "12",
+      "(214)",
+      "66.833"
+    ],
+    [
+      "3.",
+      "Tiền lãi vay đã trả",
+      "14",
+      "(451.815)",
+      "(293.139)"
+    ],
+    [
+      "3.",
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "(1.274.356)",
+      "(576.317)"
+    ],
+    [
+      "3.",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "20",
+      "758.109",
+      "3.892.009"
+    ],
+    [
+      "II.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    ],
+    [
+      "1.",
+      "Tiền chỉ mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+      "21",
+      "(4.192.445)",
+      "(8.321.768)"
+    ],
+    [
+      "2",
+      "Tiền thu lại khoản đặt cọc cho mục đích đầu tư",
+      "21",
+      "-",
+      "816.956"
+    ],
+    [
+      "3.",
+      "Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      "22",
+      "11.029",
+      "4.462"
+    ],
+    [
+      "4.",
+      "Tiền chỉ cho vay, mua công cụ nợ của đơn vị khác",
+      "23",
+      "(5.341.659)",
+      "(2.923.445)"
+    ],
+    [
+      "5.",
+      "Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác",
+      "24",
+      "6.430.025",
+      "1.956.182"
+    ],
+    [
+      "6.",
+      "Tiền chỉ đầu tư góp vốn vào đơn vị khác",
+      "25",
+      "(352)",
+      "(6.645)"
+    ],
+    [
+      "7.",
+      "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "27",
+      "630.199",
+      "953.424"
+    ],
+    [
+      "7.",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "30",
+      "(2.463.203)",
+      "(7.520.834)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 12 ===== CÔNG TY CỔ PHẦN VINCOM RETAIL Tòa nhà văn phòng Symphony, Đường Chu Huy Mân Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội, Việt Nam MÃU SỐ B 03-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 Đơn vị: Triệu VND"
+}

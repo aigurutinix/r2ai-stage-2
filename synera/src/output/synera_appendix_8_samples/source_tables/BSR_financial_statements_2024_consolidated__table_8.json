@@ -1,0 +1,193 @@
+{
+  "doc_id": "BSR_financial_statements_2024_consolidated",
+  "document_sha256": "69bc8dd0c342cc8bc5887c6e14afc45b841054e7597558e0385c436df00a83bf",
+  "table_id_internal": 8,
+  "physical_line_one_based": 371,
+  "html_sha256": "d6df51070b38159e08ba3287081f8e87a21d9099b4ed715d8dbf8656045fedef",
+  "html": "<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>I.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1.</td><td>Lợi nhuận trước thuế</td><td>01</td><td>735.998.810.618</td><td>9.639.335.022.241</td></tr><tr><td rowspan=\"6\">2.</td><td colspan=\"4\">Điều chính cho các khoản:</td></tr><tr><td>Khấu hao tài sản cố định</td><td>02</td><td>2.220.785.070.228</td><td>2.270.282.119.116</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>(124.701.023.287)</td><td>(18.013.539.001)</td></tr><tr><td>Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ</td><td>04</td><td>(265.743.829.795)</td><td>(870.017.280.597)</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>05</td><td>(1.640.115.576.192)</td><td>(1.601.232.707.839)</td></tr><tr><td>Chi phí lãi vay</td><td>06</td><td>260.793.426.455</td><td>287.654.759.616</td></tr><tr><td rowspan=\"10\">3.</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td>08</td><td>1.187.016.878.027</td><td>9.708.008.373.536</td></tr><tr><td>Giảm các khoản phải thu</td><td>09</td><td>2.337.262.716.622</td><td>1.891.888.380.800</td></tr><tr><td>(Tăng)/giảm hàng tồn kho</td><td>10</td><td>(236.347.326.513)</td><td>1.299.332.535.413</td></tr><tr><td>(Giảm)/tăng các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>(674.629.889.145)</td><td>585.397.290.797</td></tr><tr><td>(Tăng)/giảm chi phí trả trước</td><td>12</td><td>(1.660.659.099.755)</td><td>35.558.203.646</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(227.416.165.273)</td><td>(233.996.226.319)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(522.547.687.110)</td><td>(886.536.010.557)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td>-</td><td>1.023.000.000</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(283.149.607.250)</td><td>(727.342.206.159)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>(80.470.180.397)</td><td>11.673.333.341.157</td></tr><tr><td>II.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1.</td><td>Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td>(520.909.152.211)</td><td>(229.573.163.895)</td></tr><tr><td>2.</td><td>Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td>1.511.000.000</td><td>1.468.818.182</td></tr><tr><td>3.</td><td>Tiền chi cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td>(24.507.600.000.000)</td><td>(29.789.400.000.000)</td></tr><tr><td>4.</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td>31.607.000.000.000</td><td>10.840.000.000.000</td></tr><tr><td rowspan=\"2\">5.</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td>1.409.758.161.175</td><td>1.303.447.256.983</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>7.989.760.008.964</td><td>(17.874.057.088.730)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "CHỈ TIÊU",
+      "Mã số",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "I.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "1.",
+      "Lợi nhuận trước thuế",
+      "01",
+      "735.998.810.618",
+      "9.639.335.022.241"
+    ],
+    [
+      "2.",
+      "Điều chính cho các khoản:",
+      "Điều chính cho các khoản:",
+      "Điều chính cho các khoản:",
+      "Điều chính cho các khoản:"
+    ],
+    [
+      "2.",
+      "Khấu hao tài sản cố định",
+      "02",
+      "2.220.785.070.228",
+      "2.270.282.119.116"
+    ],
+    [
+      "2.",
+      "Các khoản dự phòng",
+      "03",
+      "(124.701.023.287)",
+      "(18.013.539.001)"
+    ],
+    [
+      "2.",
+      "Lãi chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiên tệ có gốc ngoại tệ",
+      "04",
+      "(265.743.829.795)",
+      "(870.017.280.597)"
+    ],
+    [
+      "2.",
+      "Lãi từ hoạt động đầu tư",
+      "05",
+      "(1.640.115.576.192)",
+      "(1.601.232.707.839)"
+    ],
+    [
+      "2.",
+      "Chi phí lãi vay",
+      "06",
+      "260.793.426.455",
+      "287.654.759.616"
+    ],
+    [
+      "3.",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "08",
+      "1.187.016.878.027",
+      "9.708.008.373.536"
+    ],
+    [
+      "3.",
+      "Giảm các khoản phải thu",
+      "09",
+      "2.337.262.716.622",
+      "1.891.888.380.800"
+    ],
+    [
+      "3.",
+      "(Tăng)/giảm hàng tồn kho",
+      "10",
+      "(236.347.326.513)",
+      "1.299.332.535.413"
+    ],
+    [
+      "3.",
+      "(Giảm)/tăng các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "11",
+      "(674.629.889.145)",
+      "585.397.290.797"
+    ],
+    [
+      "3.",
+      "(Tăng)/giảm chi phí trả trước",
+      "12",
+      "(1.660.659.099.755)",
+      "35.558.203.646"
+    ],
+    [
+      "3.",
+      "Tiền lãi vay đã trả",
+      "14",
+      "(227.416.165.273)",
+      "(233.996.226.319)"
+    ],
+    [
+      "3.",
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "(522.547.687.110)",
+      "(886.536.010.557)"
+    ],
+    [
+      "3.",
+      "Tiền thu khác từ hoạt động kinh doanh",
+      "16",
+      "-",
+      "1.023.000.000"
+    ],
+    [
+      "3.",
+      "Tiền chi khác cho hoạt động kinh doanh",
+      "17",
+      "(283.149.607.250)",
+      "(727.342.206.159)"
+    ],
+    [
+      "3.",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "20",
+      "(80.470.180.397)",
+      "11.673.333.341.157"
+    ],
+    [
+      "II.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    ],
+    [
+      "1.",
+      "Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+      "21",
+      "(520.909.152.211)",
+      "(229.573.163.895)"
+    ],
+    [
+      "2.",
+      "Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      "22",
+      "1.511.000.000",
+      "1.468.818.182"
+    ],
+    [
+      "3.",
+      "Tiền chi cho vay, mua công cụ nợ của đơn vị khác",
+      "23",
+      "(24.507.600.000.000)",
+      "(29.789.400.000.000)"
+    ],
+    [
+      "4.",
+      "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+      "24",
+      "31.607.000.000.000",
+      "10.840.000.000.000"
+    ],
+    [
+      "5.",
+      "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "27",
+      "1.409.758.161.175",
+      "1.303.447.256.983"
+    ],
+    [
+      "5.",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "30",
+      "7.989.760.008.964",
+      "(17.874.057.088.730)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 10 ===== □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ □ CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN 208 Đại lộ Hùng Vương, thành phố Quảng Ngãi Tỉnh Quảng Ngãi, CHXHCN Việt Nam MÃU SỐ B 03-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 Đơn vị: VND"
+}

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+artifacts/
+data/
+.kaggle/
+.codegraph/
+*.zip
+.DS_Store
+results-*/
+kaggle/results-*/
+kaggle/result-*/
+/kaggle/private-v*/
+/deliverables/demo_day/.build/
+/deliverables/demo_day/.chart-data-*/

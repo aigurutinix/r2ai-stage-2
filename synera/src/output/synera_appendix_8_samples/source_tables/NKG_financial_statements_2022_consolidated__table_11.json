@@ -1,0 +1,200 @@
+{
+  "doc_id": "NKG_financial_statements_2022_consolidated",
+  "document_sha256": "9260acfe790cc9f03d300d063c13b031100628d82a782bff4fedeb2927d5c714",
+  "table_id_internal": 11,
+  "physical_line_one_based": 232,
+  "html_sha256": "760c9e6d1a9d19ac6c5b11925d8ca5887bc3390a6c84632a1184fc46103c407b",
+  "html": "<table><tr><td rowspan=\"2\">Mãsố</td><td rowspan=\"2\"></td><td rowspan=\"2\">Thuyếtminh</td><td colspan=\"2\">Năm tài chính kết thúcngày 31 tháng 12 năm</td></tr><tr><td>2022VND</td><td>2021VND</td></tr><tr><td>01</td><td>Doanh thu bán hàng và cung cấp dịch vụ</td><td></td><td>23.128.328.990.585</td><td>28.206.149.855.751</td></tr><tr><td>02</td><td>Các khoản giảm trừ doanh thu</td><td></td><td>(57.081.705.338)</td><td>(32.747.619.525)</td></tr><tr><td>10</td><td>Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>22</td><td>23.071.247.285.247</td><td>28.173.402.236.226</td></tr><tr><td>11</td><td>Giá vốn hàng bán và dịch vụ cung cấp</td><td>23</td><td>(21.589.886.519.482)</td><td>(23.903.545.311.978)</td></tr><tr><td>20</td><td>Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>1.481.360.765.765</td><td>4.269.856.924.248</td></tr><tr><td>21</td><td>Doanh thu hoạt động tài chính</td><td>24</td><td>302.883.172.355</td><td>199.218.435.866</td></tr><tr><td>22</td><td>Chi phí tài chính</td><td>25</td><td>(502.981.252.554)</td><td>(397.466.220.790)</td></tr><tr><td>23</td><td>- Trong đó: Chi phí lãi vay</td><td>25</td><td>(262.466.234.780)</td><td>(243.685.237.356)</td></tr><tr><td>25</td><td>Chi phí bán hàng</td><td>26</td><td>(1.202.326.906.760)</td><td>(1.397.951.232.015)</td></tr><tr><td>26</td><td>Chi phí quản lý doanh nghiệp</td><td>27</td><td>(185.780.434.225)</td><td>(122.720.788.853)</td></tr><tr><td>30</td><td>(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>(106.844.655.419)</td><td>2.550.937.118.456</td></tr><tr><td>31</td><td>Thu nhập khác</td><td></td><td>1.085.202.870</td><td>10.744.953.120</td></tr><tr><td>32</td><td>Chi phí khác</td><td></td><td>(1.153.052.765)</td><td>346.908.979</td></tr><tr><td>40</td><td>(Lỗ)/lợi nhuận khác</td><td></td><td>(67.849.895)</td><td>11.091.862.099</td></tr><tr><td>50</td><td>Tổng (lỗ)/lợi nhuận kế toán trước thuế</td><td></td><td>(106.912.505.314)</td><td>2.562.028.980.555</td></tr><tr><td>51</td><td>Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành</td><td>28</td><td>-</td><td>(356.682.935.566)</td></tr><tr><td>52</td><td>(Chi phí)/thu nhập thuế TNDN hoãn lại</td><td>28</td><td>(17.772.332.413)</td><td>19.915.013.232</td></tr><tr><td>60</td><td>(Lỗ)/lợi nhuận sau thuế TNDN</td><td></td><td>(124.684.837.727)</td><td>2.225.261.058.221</td></tr><tr><td></td><td>Phân bổ cho:</td><td></td><td></td><td></td></tr><tr><td>61</td><td>Cổ đông của Công ty</td><td></td><td>(124.684.837.727)</td><td>2.225.261.058.221</td></tr><tr><td>70</td><td>(Lỗ)/lãi cơ bản trên cổ phiếu</td><td>20</td><td>(474)</td><td>8.452</td></tr><tr><td>71</td><td>(Lỗ)/lãi suy giảm trên cổ phiếu</td><td>20</td><td>(474)</td><td>8.452</td></tr><tr><td colspan=\"5\"><img src=\"data:image/jpeg;base64,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\"/></td></tr><tr><td>Nguyễn Ngọc Bảo Châu</td><td>Vũ Thị Huyền</td><td></td><td>Võ Hoàng Vũ</td><td></td></tr><tr><td>Người lập</td><td>Kế toán trưởng</td><td></td><td>Tổng Giám đốcNgày 28 tháng 3 năm 2023</td><td></td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mãsố",
+      "",
+      "Thuyếtminh",
+      "Năm tài chính kết thúcngày 31 tháng 12 năm",
+      "Năm tài chính kết thúcngày 31 tháng 12 năm"
+    ],
+    [
+      "Mãsố",
+      "",
+      "Thuyếtminh",
+      "2022VND",
+      "2021VND"
+    ],
+    [
+      "01",
+      "Doanh thu bán hàng và cung cấp dịch vụ",
+      "",
+      "23.128.328.990.585",
+      "28.206.149.855.751"
+    ],
+    [
+      "02",
+      "Các khoản giảm trừ doanh thu",
+      "",
+      "(57.081.705.338)",
+      "(32.747.619.525)"
+    ],
+    [
+      "10",
+      "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "22",
+      "23.071.247.285.247",
+      "28.173.402.236.226"
+    ],
+    [
+      "11",
+      "Giá vốn hàng bán và dịch vụ cung cấp",
+      "23",
+      "(21.589.886.519.482)",
+      "(23.903.545.311.978)"
+    ],
+    [
+      "20",
+      "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "1.481.360.765.765",
+      "4.269.856.924.248"
+    ],
+    [
+      "21",
+      "Doanh thu hoạt động tài chính",
+      "24",
+      "302.883.172.355",
+      "199.218.435.866"
+    ],
+    [
+      "22",
+      "Chi phí tài chính",
+      "25",
+      "(502.981.252.554)",
+      "(397.466.220.790)"
+    ],
+    [
+      "23",
+      "- Trong đó: Chi phí lãi vay",
+      "25",
+      "(262.466.234.780)",
+      "(243.685.237.356)"
+    ],
+    [
+      "25",
+      "Chi phí bán hàng",
+      "26",
+      "(1.202.326.906.760)",
+      "(1.397.951.232.015)"
+    ],
+    [
+      "26",
+      "Chi phí quản lý doanh nghiệp",
+      "27",
+      "(185.780.434.225)",
+      "(122.720.788.853)"
+    ],
+    [
+      "30",
+      "(Lỗ)/lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "(106.844.655.419)",
+      "2.550.937.118.456"
+    ],
+    [
+      "31",
+      "Thu nhập khác",
+      "",
+      "1.085.202.870",
+      "10.744.953.120"
+    ],
+    [
+      "32",
+      "Chi phí khác",
+      "",
+      "(1.153.052.765)",
+      "346.908.979"
+    ],
+    [
+      "40",
+      "(Lỗ)/lợi nhuận khác",
+      "",
+      "(67.849.895)",
+      "11.091.862.099"
+    ],
+    [
+      "50",
+      "Tổng (lỗ)/lợi nhuận kế toán trước thuế",
+      "",
+      "(106.912.505.314)",
+      "2.562.028.980.555"
+    ],
+    [
+      "51",
+      "Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành",
+      "28",
+      "-",
+      "(356.682.935.566)"
+    ],
+    [
+      "52",
+      "(Chi phí)/thu nhập thuế TNDN hoãn lại",
+      "28",
+      "(17.772.332.413)",
+      "19.915.013.232"
+    ],
+    [
+      "60",
+      "(Lỗ)/lợi nhuận sau thuế TNDN",
+      "",
+      "(124.684.837.727)",
+      "2.225.261.058.221"
+    ],
+    [
+      "",
+      "Phân bổ cho:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "61",
+      "Cổ đông của Công ty",
+      "",
+      "(124.684.837.727)",
+      "2.225.261.058.221"
+    ],
+    [
+      "70",
+      "(Lỗ)/lãi cơ bản trên cổ phiếu",
+      "20",
+      "(474)",
+      "8.452"
+    ],
+    [
+      "71",
+      "(Lỗ)/lãi suy giảm trên cổ phiếu",
+      "20",
+      "(474)",
+      "8.452"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Nguyễn Ngọc Bảo Châu",
+      "Vũ Thị Huyền",
+      "",
+      "Võ Hoàng Vũ",
+      ""
+    ],
+    [
+      "Người lập",
+      "Kế toán trưởng",
+      "",
+      "Tổng Giám đốcNgày 28 tháng 3 năm 2023",
+      ""
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== The image contains a row of identical rectangular shapes, each containing a small, translucent object with a vertical line inside. There is no text or mathematical content to extract. CÔNG TY CỔ PHẦN THÉP NAM KIM Mẫu số B 02 – DN/HN BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẤT"
+}

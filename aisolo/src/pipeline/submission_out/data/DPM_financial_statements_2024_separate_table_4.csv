@@ -1,0 +1,19 @@
+﻿company,year,ma_so,label,value,prev
+DPM,2024,01,Doanh thu bán hàng và cung cấp dịch vụ,12231102325146,11782317454118
+DPM,2024,02,Các khoản giảm trừ doanh thu,169155333187,212599625509
+DPM,2024,10,Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02),12061946991959,11569717828609
+DPM,2024,11,Giá vốn hàng bán và dịch vụ cung cấp,10478720828281,10166978905390
+DPM,2024,20,Lợi nhuận gộp về bán hàng và cung cấp dịch vụ (20=10-11),1583226163678,1402738923219
+DPM,2024,21,Doanh thu hoạt động tài chính,398549539613,514154297322
+DPM,2024,22,Chi phí tài chính,63595446142,67781225733
+DPM,2024,23,- Trong đó: Chi phí lãi vay,46491481993,47619555435
+DPM,2024,25,Chi phí bán hàng,680555013769,710286850451
+DPM,2024,26,Chi phí quản lý doanh nghiệp,626551274343,429680915830
+DPM,2024,30,Lợi nhuận thuần từ hoạt động kinh doanh (30=20+(21-22)-(25+26)),611073969037,709144228527
+DPM,2024,31,Thu nhập khác,11519110836,8786705678
+DPM,2024,32,Chi phí khác,7560621237,9153062731
+DPM,2024,40,Lợi nhuận/(lỗ) khác (40=31-32),3958489599,-366357053
+DPM,2024,50,Tổng lợi nhuận kế toán trước thuế (50=30+40),615032458636,708777871474
+DPM,2024,51,Chi phí thuế thu nhập doanh nghiệp hiện hành,134907449951,24328423358
+DPM,2024,52,(Thu nhập)/chi phí thuế thu nhập doanh nghiệp hoãn lại,-37485202027,115711367371
+DPM,2024,60,Lợi nhuận sau thuế thu nhập doanh nghiệp (60=50-51-52),517610210712,568738080745

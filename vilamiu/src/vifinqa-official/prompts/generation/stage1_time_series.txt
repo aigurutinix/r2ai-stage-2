@@ -1,0 +1,3 @@
+The candidate tables belong to the same company across different reporting periods. Identify one standard financial concept or ratio that can be applied consistently to at least three periods and supports a meaningful comparison or aggregation across those periods.
+
+The computation may combine multiple elementary operations or use an aggregate operation such as a total, average, minimum, maximum, reporting period of an extreme value, or count.

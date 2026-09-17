@@ -1,0 +1,5 @@
+modal==1.5.3
+torch==2.6.0
+transformers==4.51.3
+accelerate==1.6.0
+safetensors==0.5.3

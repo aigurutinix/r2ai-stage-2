@@ -1,0 +1,20 @@
+﻿company,year,ma_so,label,value,prev
+MSB,2025,24,Thu nhập lãi và các khoản thu nhập tương tự,21601251000000,18681257000000
+MSB,2025,25,Chi phí lãi và các chi phí tương tự,-10653757000000,-8438193000000
+MSB,2025,,Thu nhập lãi thuần,10947494000000,10243064000000
+MSB,2025,,Thu nhập từ hoạt động dịch vụ,2377357000000,1834793000000
+MSB,2025,,Chi phí hoạt động dịch vụ,-624493000000,-480738000000
+MSB,2025,26,Lãi thuần từ hoạt động dịch vụ,1752864000000,1354055000000
+MSB,2025,27,Lãi thuần từ hoạt động kinh doanh ngoại hối,844989000000,1055874000000
+MSB,2025,29,(Lỗ)/Lãi thuần từ mua bán chứng khoán đầu tư,-76632000000,273491000000
+MSB,2025,,Thu nhập từ hoạt động khác,608354000000,1869859000000
+MSB,2025,,Chi phí cho hoạt động khác,-32501000000,-577625000000
+MSB,2025,30,Lãi thuần từ hoạt động khác,575853000000,1292234000000
+MSB,2025,31,Chi phí hoạt động,-5067703000000,-5229935000000
+MSB,2025,,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,8976791000000,8988305000000
+MSB,2025,32,Chi phí dự phòng rủi ro tín dụng,-1918417000000,-2084463000000
+MSB,2025,,TỔNG LỢI NHUẬN TRƯỚC THUẾ,7058374000000,6903842000000
+MSB,2025,33,Chi phí thuế thu nhập doanh nghiệp (“TNDN”) hiện hành,-1429854000000,-1384465000000
+MSB,2025,,Tổng chi phí thuế TNDN,-1429854000000,-1384465000000
+MSB,2025,,LỢI NHUẬN SAU THUẾ,5628520000000,5519377000000
+MSB,2025,34,Lãi cơ bản trên cổ phiếu (VND/cổ phiếu),1804000000,1769000000

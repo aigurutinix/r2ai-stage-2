@@ -1,0 +1,22 @@
+# ============================================================================
+#  AI_Guru — ViFinQA · R2AI2026 Stage 2
+#  Phu thuoc cua DUONG ONG CHINH (chay tren may ca nhan, khong can GPU)
+# ============================================================================
+# Ban chot theo dung moi truong da dung de sinh bai nop.
+# Python 3.12.2
+
+pandas==3.0.3
+pyarrow==25.0.0            # doc/ghi .parquet
+numpy==2.4.6
+huggingface_hub==1.15.0    # chi dung o buoc TAI CORPUS (scripts/download_corpus.py)
+requests==2.32.5
+tqdm==4.67.3
+
+# ----------------------------------------------------------------------------
+#  KHONG can cho duong ong chinh — chi can khi CHAY LAI hai notebook GPU
+#  tren Kaggle (2xT4). Kaggle da cai san torch/transformers; chi can them:
+#
+#      pip install autoawq
+#
+#  Xem MODEL.md de biet checkpoint va cach chay.
+# ----------------------------------------------------------------------------

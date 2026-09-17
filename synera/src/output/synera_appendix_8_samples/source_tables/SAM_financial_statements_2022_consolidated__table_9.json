@@ -1,0 +1,256 @@
+{
+  "doc_id": "SAM_financial_statements_2022_consolidated",
+  "document_sha256": "0b160ec6e98757738d2448900cfd368346974e3c5733e86d941953c966804683",
+  "table_id_internal": 9,
+  "physical_line_one_based": 338,
+  "html_sha256": "dc8721de65958881a05cb78c496f29429c717bb6b1a29bd5dc67b7619b5344f6",
+  "html": "<table><tr><td rowspan=\"2\">Mã số</td><td rowspan=\"2\">CHỈ TIÊU</td><td rowspan=\"2\">Thuyết minh</td><td>Năm 2022</td><td>Năm 2021</td></tr><tr><td>VND</td><td>VND</td></tr><tr><td></td><td colspan=\"4\">I. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>01</td><td>Lợi nhuận trước thuế</td><td></td><td>40.627.811.078</td><td>207.374.507.873</td></tr><tr><td></td><td>Điều chỉnh cho các khoản</td><td></td><td></td><td></td></tr><tr><td>02</td><td>Khấu hao tài sản cố định và bắt động sản đầu tư</td><td></td><td>54.504.474.771</td><td>56.352.503.159</td></tr><tr><td>03</td><td>Các khoản dự phòng</td><td></td><td>50.075.902.221</td><td>(10.871.986.115)</td></tr><tr><td>04</td><td>Lãi, lỗ chênh lệch tỷ giá hối doái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td></td><td>248.442.817</td><td>257.541.295</td></tr><tr><td>05</td><td>Lãi, lỗ từ hoạt động đầu tư</td><td></td><td>(6.468.997.270)</td><td>4.948.587.555</td></tr><tr><td>06</td><td>Chi phí lãi vay</td><td></td><td>90.510.963.420</td><td>43.777.497.241</td></tr><tr><td>08</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</td><td></td><td>229.498.597.037</td><td>301.838.651.008</td></tr><tr><td>09</td><td>Tăng, giảm các khoản phải thu</td><td></td><td>(1.659.631.804.262)</td><td>(414.142.694.340)</td></tr><tr><td>10</td><td>Tăng, giảm hàng tồn kho</td><td></td><td>(242.106.272.030)</td><td>(22.748.213.603)</td></tr><tr><td>11</td><td>Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td></td><td>2.181.254.640.885</td><td>(646.213.424.953)</td></tr><tr><td>12</td><td>Tăng, giảm chỉ phí trả trước</td><td></td><td>(29.746.244.594)</td><td>4.146.314.106</td></tr><tr><td>13</td><td>Tăng, giảm chứng khoán kinh doanh</td><td></td><td>70.063.210.935</td><td>(213.001.837.763)</td></tr><tr><td>14</td><td>Tiền lãi vay đã trả</td><td></td><td>(73.826.624.053)</td><td>(25.354.712.602)</td></tr><tr><td>15</td><td>Thuế thu nhập doanh nghiệp đã nộp</td><td></td><td>(37.952.835.079)</td><td>(25.462.362.470)</td></tr><tr><td>17</td><td>Tiền chỉ khác cho hoạt động kinh doanh</td><td></td><td>(4.244.392.124)</td><td>(3.203.235.183)</td></tr><tr><td>20</td><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td></td><td>433.308.276.715</td><td>(1.044.141.515.800)</td></tr><tr><td></td><td colspan=\"4\">II. LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>21</td><td>Tiền chỉ đề mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác</td><td></td><td>(61.510.287.573)</td><td>(93.837.322.692)</td></tr><tr><td>22</td><td>Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác</td><td></td><td>-</td><td>815.000.000</td></tr><tr><td>23</td><td>Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác</td><td></td><td>(312.171.500.000)</td><td>(88.710.212.989)</td></tr><tr><td>24</td><td>Tiền thu hồi cho vay, bản lại các công cụ nợ của đơn vị khác</td><td></td><td>333.840.100.535</td><td>53.000.000.000</td></tr><tr><td>25</td><td>Tiền chỉ đầu tư góp vốn vào đơn vị khác</td><td></td><td>(721.871.497.304)</td><td>(166.633.441.903)</td></tr><tr><td>26</td><td>Tiền thu hồi đầu tư góp vốn vào đơn vị khác</td><td></td><td>13.446.944.627</td><td>41.398.465.134</td></tr><tr><td>27</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td></td><td>25.470.655.986</td><td>7.778.690.419</td></tr><tr><td>30</td><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td></td><td>(722.795.583.729)</td><td>(246.188.822.031)</td></tr><tr><td></td><td colspan=\"4\">III LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH</td></tr><tr><td>31</td><td>Tiền thu từ phát hành cố phiếu, nhận vốn góp của cổ đông không kiểm soát</td><td></td><td>-</td><td>934.502.499.672</td></tr><tr><td>33</td><td>Tiền thu từ di vay</td><td></td><td>1.847.837.945.243</td><td>2.281.066.556.462</td></tr><tr><td>34</td><td>Tiền trả nợ gốc vay</td><td></td><td>(2.054.933.665.933)</td><td>(1.377.615.047.475)</td></tr><tr><td>36</td><td>Cổ tức, lợi nhuận đã trả cho chủ sở hữu</td><td></td><td>(5.118.750.000)</td><td>(5.564.564.052)</td></tr><tr><td>40</td><td>Lưu chuyển tiền thuần từ hoạt động tài chính</td><td></td><td>(212.214.470.690)</td><td>1.832.389.444.607</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm 2022",
+      "Năm 2021"
+    ],
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "VND",
+      "VND"
+    ],
+    [
+      "",
+      "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "I. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "01",
+      "Lợi nhuận trước thuế",
+      "",
+      "40.627.811.078",
+      "207.374.507.873"
+    ],
+    [
+      "",
+      "Điều chỉnh cho các khoản",
+      "",
+      "",
+      ""
+    ],
+    [
+      "02",
+      "Khấu hao tài sản cố định và bắt động sản đầu tư",
+      "",
+      "54.504.474.771",
+      "56.352.503.159"
+    ],
+    [
+      "03",
+      "Các khoản dự phòng",
+      "",
+      "50.075.902.221",
+      "(10.871.986.115)"
+    ],
+    [
+      "04",
+      "Lãi, lỗ chênh lệch tỷ giá hối doái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "",
+      "248.442.817",
+      "257.541.295"
+    ],
+    [
+      "05",
+      "Lãi, lỗ từ hoạt động đầu tư",
+      "",
+      "(6.468.997.270)",
+      "4.948.587.555"
+    ],
+    [
+      "06",
+      "Chi phí lãi vay",
+      "",
+      "90.510.963.420",
+      "43.777.497.241"
+    ],
+    [
+      "08",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "",
+      "229.498.597.037",
+      "301.838.651.008"
+    ],
+    [
+      "09",
+      "Tăng, giảm các khoản phải thu",
+      "",
+      "(1.659.631.804.262)",
+      "(414.142.694.340)"
+    ],
+    [
+      "10",
+      "Tăng, giảm hàng tồn kho",
+      "",
+      "(242.106.272.030)",
+      "(22.748.213.603)"
+    ],
+    [
+      "11",
+      "Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "",
+      "2.181.254.640.885",
+      "(646.213.424.953)"
+    ],
+    [
+      "12",
+      "Tăng, giảm chỉ phí trả trước",
+      "",
+      "(29.746.244.594)",
+      "4.146.314.106"
+    ],
+    [
+      "13",
+      "Tăng, giảm chứng khoán kinh doanh",
+      "",
+      "70.063.210.935",
+      "(213.001.837.763)"
+    ],
+    [
+      "14",
+      "Tiền lãi vay đã trả",
+      "",
+      "(73.826.624.053)",
+      "(25.354.712.602)"
+    ],
+    [
+      "15",
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "",
+      "(37.952.835.079)",
+      "(25.462.362.470)"
+    ],
+    [
+      "17",
+      "Tiền chỉ khác cho hoạt động kinh doanh",
+      "",
+      "(4.244.392.124)",
+      "(3.203.235.183)"
+    ],
+    [
+      "20",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "",
+      "433.308.276.715",
+      "(1.044.141.515.800)"
+    ],
+    [
+      "",
+      "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "II. LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    ],
+    [
+      "21",
+      "Tiền chỉ đề mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác",
+      "",
+      "(61.510.287.573)",
+      "(93.837.322.692)"
+    ],
+    [
+      "22",
+      "Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác",
+      "",
+      "-",
+      "815.000.000"
+    ],
+    [
+      "23",
+      "Tiền chỉ cho vay, mua các công cụ nợ của đơn vị khác",
+      "",
+      "(312.171.500.000)",
+      "(88.710.212.989)"
+    ],
+    [
+      "24",
+      "Tiền thu hồi cho vay, bản lại các công cụ nợ của đơn vị khác",
+      "",
+      "333.840.100.535",
+      "53.000.000.000"
+    ],
+    [
+      "25",
+      "Tiền chỉ đầu tư góp vốn vào đơn vị khác",
+      "",
+      "(721.871.497.304)",
+      "(166.633.441.903)"
+    ],
+    [
+      "26",
+      "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+      "",
+      "13.446.944.627",
+      "41.398.465.134"
+    ],
+    [
+      "27",
+      "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "",
+      "25.470.655.986",
+      "7.778.690.419"
+    ],
+    [
+      "30",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "",
+      "(722.795.583.729)",
+      "(246.188.822.031)"
+    ],
+    [
+      "",
+      "III LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+      "III LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+      "III LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+      "III LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+    ],
+    [
+      "31",
+      "Tiền thu từ phát hành cố phiếu, nhận vốn góp của cổ đông không kiểm soát",
+      "",
+      "-",
+      "934.502.499.672"
+    ],
+    [
+      "33",
+      "Tiền thu từ di vay",
+      "",
+      "1.847.837.945.243",
+      "2.281.066.556.462"
+    ],
+    [
+      "34",
+      "Tiền trả nợ gốc vay",
+      "",
+      "(2.054.933.665.933)",
+      "(1.377.615.047.475)"
+    ],
+    [
+      "36",
+      "Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+      "",
+      "(5.118.750.000)",
+      "(5.564.564.052)"
+    ],
+    [
+      "40",
+      "Lưu chuyển tiền thuần từ hoạt động tài chính",
+      "",
+      "(212.214.470.690)",
+      "1.832.389.444.607"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần SAM Holdings 127 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh Báo cáo tài chính hợp nhất Cho năm tài chính kết thúc ngày 31/12/2022 BÁO CÁO LU'U CHUYÊN TIÊN TÊ HỢP NHẤT Năm 2022 (Theo phương pháp gián tiếp)"
+}

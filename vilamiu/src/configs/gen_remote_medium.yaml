@@ -1,0 +1,28 @@
+﻿command: generate
+run: {name: remote-medium}
+generation:
+  tier: medium
+  engine: legacy
+  mode: auto
+  count: 40
+  workers: 12
+  seed: 11
+  max_candidates: 300
+llm:
+  backend: openai_compatible
+  base_url_env: OPENAI_URL
+  api_key_env: OPENAI_API_KEY
+  model_id: Qwen/Qwen3-14B-AWQ
+  temperature: 0
+  max_completion_tokens: 8192
+  max_retries: 2
+embedding:
+  backend: sentence_transformers
+  model_id: BAAI/bge-m3
+  adapter: auto
+  # `auto` would take CUDA, and vLLM is holding 22.9 of the 24.5 GB. A 2 GB
+  # embedder landing on the same card evicts the server mid-run. The generator
+  # venv carries a CPU-only torch precisely so this cannot happen by accident.
+  device: cuda
+  batch_size: 32
+  max_tokens: 512

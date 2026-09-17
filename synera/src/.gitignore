@@ -1,0 +1,20 @@
+# Downloaded source snapshots
+/data/source/
+/external/
+
+# llama.cpp binary runtime (DLLs, EXEs, ZIPs) - too large for git
+/tools/llama.cpp/runtime/
+/tools/llama.cpp/*.zip
+
+# Reproducible generated artifacts
+/artifacts/
+/runs/
+/submissions/
+submission*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+/.venv/
+/.pytest_cache/
+

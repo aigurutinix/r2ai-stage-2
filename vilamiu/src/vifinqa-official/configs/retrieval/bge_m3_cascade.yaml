@@ -1,0 +1,44 @@
+command: eval-retrieval
+run: {name: retrieval-bge-m3-cascade}
+retrieval:
+  backend: dense
+  table_encoding: metadata_context_multi_view
+  chunk_rows: 10
+  chunk_overlap_rows: 2
+  context_max_chars: 800
+  chunk_max_chars: 1800
+  table_views: [row_chunks, metadata_csv, semantic_labels]
+  active_table_views: [row_chunks, metadata_csv]
+  summary_max_chars: 2000
+  metadata_csv_layout: head_tail
+  view_fusion: quota_union
+  rerank_chunks_per_table: 3
+  multi_chunk_parent_n: 0
+  metadata_policy: scope_or_unknown
+  metadata_fetch_n: 5000
+  metadata_global_fallback: 50
+  entity_balance: true
+  search_cache: false
+  run_tag: cascade
+embedding:
+  backend: sentence_transformers
+  model_id: BAAI/bge-m3
+  adapter: auto
+  device: auto
+  batch_size: 16
+  max_tokens: 1024
+  normalize: true
+  cache: disk
+reranker:
+  enabled: true
+  backend: cross_encoder
+  model_id: BAAI/bge-reranker-v2-m3
+  adapter: auto
+  top_n: 500
+  flow: cascade
+  cascade_top_n: 150
+  max_tokens: 1024
+evaluation:
+  mode: full
+  ks: [1, 3, 5, 10, 20, 50, 100, 500]
+  limit: 1012

@@ -1,0 +1,172 @@
+{
+  "doc_id": "DBC_financial_statements_2025_consolidated",
+  "document_sha256": "c590cffa21755fc238a32a28b2ad5ddce333a19cc2e9652d9b7b5b1c453dd764",
+  "table_id_internal": 8,
+  "physical_line_one_based": 298,
+  "html_sha256": "17bcf6ec9f9bd9fa1ba4774bd5ab872d837f79eee78ddc00fd7b9985888bee9b",
+  "html": "<table><tr><td>Mã số</td><td>CHỈ TIÊU</td><td>Thuyết minh</td><td>Năm nay</td><td>Năm trước (Trình bày lại)</td></tr><tr><td>01</td><td>1. Doanh thu bán hàng và cung cấp dịch vụ</td><td>25.1</td><td>15.109.273.137.980</td><td>13.739.362.734.289</td></tr><tr><td>02</td><td>2. Các khoản giảm trừ doanh thu</td><td>25.1</td><td>(211.602.683.506)</td><td>(165.839.502.391)</td></tr><tr><td>10</td><td>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</td><td>25.1</td><td>14.897.670.454.474</td><td>13.573.523.231.898</td></tr><tr><td>11</td><td>4. Giá vốn hàng bán và dịch vụ cung cấp</td><td>26</td><td>(12.151.103.304.950)</td><td>(11.640.078.007.663)</td></tr><tr><td>20</td><td>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</td><td></td><td>2.746.567.149.524</td><td>1.933.445.224.235</td></tr><tr><td>21</td><td>6. Doanh thu hoạt động tài chính</td><td>25.2</td><td>78.444.010.150</td><td>39.213.381.756</td></tr><tr><td>22</td><td>7. Chi phí tài chính</td><td>27</td><td>(261.242.536.014)</td><td>(274.645.107.584)</td></tr><tr><td>23</td><td>Trong đó: Chi phí lãi vay</td><td></td><td>(261.108.596.916)</td><td>(263.668.549.326)</td></tr><tr><td>24</td><td>8. Phần lỗ trong công ty liên kết</td><td>16</td><td>(524.978.370)</td><td>(1.430.377.000)</td></tr><tr><td>25</td><td>9. Chi phí bán hàng</td><td>28</td><td>(510.241.872.945)</td><td>(469.098.857.795)</td></tr><tr><td>26</td><td>10. Chi phí quản lý doanh nghiệp</td><td>28</td><td>(447.545.834.363)</td><td>(391.719.812.986)</td></tr><tr><td>30</td><td>11. Lợi nhuận thuần từ hoạt động kinh doanh</td><td></td><td>1.605.455.937.982</td><td>835.764.450.626</td></tr><tr><td>31</td><td>12. Thu nhập khác</td><td>29</td><td>22.078.626.115</td><td>21.626.693.797</td></tr><tr><td>32</td><td>13. Chi phí khác</td><td></td><td>(4.060.999.223)</td><td>(3.142.598.219)</td></tr><tr><td>40</td><td>14. Lợi nhuận khác</td><td></td><td>18.017.626.892</td><td>18.484.095.578</td></tr><tr><td>50</td><td>15. Tổng lợi nhuận kế toán trước thuế</td><td></td><td>1.623.473.564.874</td><td>854.248.546.204</td></tr><tr><td>51</td><td>16. Chi phí thuế TNDN hiện hành</td><td>31.1</td><td>(123.385.084.269)</td><td>(107.594.297.295)</td></tr><tr><td>52</td><td>17. Thu nhập thuế TNDN hoãn lại</td><td>31.3</td><td>6.679.518.021</td><td>22.429.503.546</td></tr><tr><td>60</td><td>18. Lợi nhuận sau thuế TNDN</td><td></td><td>1.506.767.998.626</td><td>769.083.752.455</td></tr><tr><td>61</td><td>19. Lợi nhuận sau thuế của công ty mẹ</td><td></td><td>1.506.767.998.626</td><td>769.083.752.455</td></tr><tr><td>70</td><td>20. Lãi cơ bản trên cổ phiếu</td><td>33</td><td>3.915</td><td>1.469</td></tr><tr><td>71</td><td>21. Lãi suy giảm trên cổ phiếu</td><td>33</td><td>3.915</td><td>1.469</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "CHỈ TIÊU",
+      "Thuyết minh",
+      "Năm nay",
+      "Năm trước (Trình bày lại)"
+    ],
+    [
+      "01",
+      "1. Doanh thu bán hàng và cung cấp dịch vụ",
+      "25.1",
+      "15.109.273.137.980",
+      "13.739.362.734.289"
+    ],
+    [
+      "02",
+      "2. Các khoản giảm trừ doanh thu",
+      "25.1",
+      "(211.602.683.506)",
+      "(165.839.502.391)"
+    ],
+    [
+      "10",
+      "3. Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "25.1",
+      "14.897.670.454.474",
+      "13.573.523.231.898"
+    ],
+    [
+      "11",
+      "4. Giá vốn hàng bán và dịch vụ cung cấp",
+      "26",
+      "(12.151.103.304.950)",
+      "(11.640.078.007.663)"
+    ],
+    [
+      "20",
+      "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "",
+      "2.746.567.149.524",
+      "1.933.445.224.235"
+    ],
+    [
+      "21",
+      "6. Doanh thu hoạt động tài chính",
+      "25.2",
+      "78.444.010.150",
+      "39.213.381.756"
+    ],
+    [
+      "22",
+      "7. Chi phí tài chính",
+      "27",
+      "(261.242.536.014)",
+      "(274.645.107.584)"
+    ],
+    [
+      "23",
+      "Trong đó: Chi phí lãi vay",
+      "",
+      "(261.108.596.916)",
+      "(263.668.549.326)"
+    ],
+    [
+      "24",
+      "8. Phần lỗ trong công ty liên kết",
+      "16",
+      "(524.978.370)",
+      "(1.430.377.000)"
+    ],
+    [
+      "25",
+      "9. Chi phí bán hàng",
+      "28",
+      "(510.241.872.945)",
+      "(469.098.857.795)"
+    ],
+    [
+      "26",
+      "10. Chi phí quản lý doanh nghiệp",
+      "28",
+      "(447.545.834.363)",
+      "(391.719.812.986)"
+    ],
+    [
+      "30",
+      "11. Lợi nhuận thuần từ hoạt động kinh doanh",
+      "",
+      "1.605.455.937.982",
+      "835.764.450.626"
+    ],
+    [
+      "31",
+      "12. Thu nhập khác",
+      "29",
+      "22.078.626.115",
+      "21.626.693.797"
+    ],
+    [
+      "32",
+      "13. Chi phí khác",
+      "",
+      "(4.060.999.223)",
+      "(3.142.598.219)"
+    ],
+    [
+      "40",
+      "14. Lợi nhuận khác",
+      "",
+      "18.017.626.892",
+      "18.484.095.578"
+    ],
+    [
+      "50",
+      "15. Tổng lợi nhuận kế toán trước thuế",
+      "",
+      "1.623.473.564.874",
+      "854.248.546.204"
+    ],
+    [
+      "51",
+      "16. Chi phí thuế TNDN hiện hành",
+      "31.1",
+      "(123.385.084.269)",
+      "(107.594.297.295)"
+    ],
+    [
+      "52",
+      "17. Thu nhập thuế TNDN hoãn lại",
+      "31.3",
+      "6.679.518.021",
+      "22.429.503.546"
+    ],
+    [
+      "60",
+      "18. Lợi nhuận sau thuế TNDN",
+      "",
+      "1.506.767.998.626",
+      "769.083.752.455"
+    ],
+    [
+      "61",
+      "19. Lợi nhuận sau thuế của công ty mẹ",
+      "",
+      "1.506.767.998.626",
+      "769.083.752.455"
+    ],
+    [
+      "70",
+      "20. Lãi cơ bản trên cổ phiếu",
+      "33",
+      "3.915",
+      "1.469"
+    ],
+    [
+      "71",
+      "21. Lãi suy giảm trên cổ phiếu",
+      "33",
+      "3.915",
+      "1.469"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Tập đoàn Dabaco Việt Nam B02-DN/HN BÁO CÁO KẾT QUẢ HOAT ĐÔNG KINH DOANH HỢP NHẤT cho năm tài chính kết thúc ngày 31 tháng 12 năm 2025 Đơn vị tính: VND"
+}

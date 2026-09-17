@@ -1,0 +1,10 @@
+﻿company,year,ma_so,label,value,prev
+VIF,2023,31,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",10994250000,
+VIF,2023,33,Tiền thu từ đi vay,300532037151,485702793108
+VIF,2023,34,Tiền trả nợ gốc vay,-341494012134,-514239170133
+VIF,2023,36,Cổ tức trả cho cổ đông,-291503089129,-228162909250
+VIF,2023,40,Lưu chuyển tiền thuần sử dụng vào hoạt động tài chính,-332465064112,-245705036275
+VIF,2023,50,Lưu chuyển tiền thuần trong năm,-2100963757,66100610798
+VIF,2023,60,Tiền và tương đương tiền đầu năm,175995084474,109883455162
+VIF,2023,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,33037414,11018514
+VIF,2023,70,Tiền và tương đương tiền cuối năm,173927158131,175995084474

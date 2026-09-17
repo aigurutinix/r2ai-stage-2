@@ -1,0 +1,12 @@
+Locked computation plan:
+- Concept: {{CONCEPT_NAME}}
+- Formula: {{CONCEPT_FORMULA}}
+- Operation: {{OPERATION}}
+- Answer type: {{ANSWER_TYPE}}
+- Unit: {{UNIT}}
+- Population: {{POPULATION}}
+
+Selected table identities:
+{{SELECTED_TABLE_IDENTITIES}}
+
+Write one Vietnamese question according to the requirements above and return exactly the required JSON object.

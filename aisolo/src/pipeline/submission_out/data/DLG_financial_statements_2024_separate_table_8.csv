@@ -1,0 +1,25 @@
+﻿company,year,ma_so,label,value,prev
+DLG,2024,01,Lợi nhuận trước thuế,186989238027,-591561730438
+DLG,2024,02,Khấu hao TSCĐ và BĐSĐT,17596144966,18117835826
+DLG,2024,03,Các khoản dự phòng,170647890418,637732670221
+DLG,2024,04,"Lãi, lỗ các khoản chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",-9765992184,-626113950
+DLG,2024,05,"Lãi, lỗ hoạt động đầu tư",-227089380123,-243278793783
+DLG,2024,06,Chi phí lãi vay,153551521496,173210043152
+DLG,2024,08,Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,291929422600,-6406088972
+DLG,2024,09,Tăng giảm các khoản phải thu,-76257550546,60635335043
+DLG,2024,10,Tăng giảm hàng tồn kho,-2468848691,1624242801
+DLG,2024,11,"Tăng giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",-40201898383,-8078768709
+DLG,2024,12,Tăng giảm chi phí trả trước,14475756,-3612119
+DLG,2024,14,Tiền lãi vay đã trả,-322492144381,-9595156490
+DLG,2024,15,Thuế thu nhập doanh nghiệp đã nộp,-8729038865,
+DLG,2024,17,Tiền chi khác từ hoạt động kinh doanh,-726084800,-20000000
+DLG,2024,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,-150202628445,29426912689
+DLG,2024,21,"Tiền chi để mua sắm, xây dựng TSCĐ và các TS dài hạn khác",-38500000,
+DLG,2024,23,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",-2590684128753,-1048849845616
+DLG,2024,24,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",2511811903251,954737540352
+DLG,2024,26,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,255000000000,3600000000
+DLG,2024,27,"Tiền thu lãi vay, cổ tức và lợi nhuận được chia",226501182686,111247178959
+DLG,2024,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,402628957184,20696373695
+DLG,2024,33,Tiền thu từ đi vay,20000000000,25390034377
+DLG,2024,34,Tiền chi trả nợ gốc vay,-275227168866,-75982016553
+DLG,2024,40,Lưu chuyển tiền thuần từ hoạt động tài chính,-255227168866,-50591982176

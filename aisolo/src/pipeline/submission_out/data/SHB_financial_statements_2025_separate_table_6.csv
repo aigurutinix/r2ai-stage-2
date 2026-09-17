@@ -1,0 +1,21 @@
+﻿company,year,ma_so,label,value,prev
+SHB,2025,25,Thu nhập lãi và các khoản thu nhập tương tự,56052654000000,49481214000000
+SHB,2025,26,Chi phí lãi và các chi phí tương tự,-36713480000000,-28919461000000
+SHB,2025,,Thu nhập lãi thuần,19339174000000,20561753000000
+SHB,2025,,Thu nhập từ hoạt động dịch vụ,3390681000000,1500108000000
+SHB,2025,,Chi phí hoạt động dịch vụ,-190966000000,-252508000000
+SHB,2025,27,Lãi thuần từ hoạt động dịch vụ,3199715000000,1247600000000
+SHB,2025,28,Lãi thuần từ hoạt động kinh doanh ngoại hối,257167000000,85849000000
+SHB,2025,,Lãi thuần từ mua bán chứng khoán kinh doanh,42000000000,3847000000
+SHB,2025,,Lãi thuần từ mua bán chứng khoán đầu tư,511018000000,-218061000000
+SHB,2025,,Thu nhập từ hoạt động khác,4969064000000,1338324000000
+SHB,2025,,Chi phí hoạt động khác,-141469000000,-184101000000
+SHB,2025,30,Lãi thuần từ hoạt động khác,4827595000000,1154223000000
+SHB,2025,31,"Thu nhập từ góp vốn, mua cố phần",10986000000,40972000000
+SHB,2025,32,Chi phí hoạt động,-6252638000000,-5591847000000
+SHB,2025,,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,21935017000000,17284336000000
+SHB,2025,33,Chi phí dự phòng rủi ro tín dụng,-7073042000000,-5945083000000
+SHB,2025,,Tổng lợi nhuận trước thuế,14861975000000,11339253000000
+SHB,2025,34,Chi phí thuế TNDN hiện hành,-3012447000000,-2207215000000
+SHB,2025,,Chi phí thuế TNDN,-3012447000000,-2207215000000
+SHB,2025,,Lợi nhuận sau thuế TNDN,11849528000000,9132038000000

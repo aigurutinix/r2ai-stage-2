@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: road2ai-vifinqa
+Version: 0.1.0
+Summary: Reproducible ViFinQA competition pipeline
+Project-URL: Repository, https://github.com/hieulenho/Road2AI
+Project-URL: Documentation, https://github.com/hieulenho/Road2AI/tree/main/docs
+Requires-Python: >=3.11
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: lxml>=5.0
+Requires-Dist: numpy>=2.0
+Requires-Dist: pandas>=2.2
+Provides-Extra: model-download
+Requires-Dist: requests>=2.32; extra == "model-download"
+Provides-Extra: analysis
+Requires-Dist: scipy>=1.14; extra == "analysis"
+Provides-Extra: codabench
+Requires-Dist: selenium>=4.30; extra == "codabench"
+Provides-Extra: dev
+Requires-Dist: requests>=2.32; extra == "dev"
+Requires-Dist: scipy>=1.14; extra == "dev"
+Requires-Dist: selenium>=4.30; extra == "dev"

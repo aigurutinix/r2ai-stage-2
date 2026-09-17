@@ -1,0 +1,6 @@
+command: eval-answer
+run: {name: answer-gold-program-paper}
+answering: {context: gold, strategy: pandas_query, table_max_chars: 20000}
+prompt: {system: prompts/answering/program_system.txt, user_template: prompts/answering/common_user.txt}
+llm: {backend: openai_compatible, base_url_env: OPENAI_URL, api_key_env: OPENAI_API_KEY, model_id: openai/gpt-5.4-thinking, temperature: 0, max_completion_tokens: 8192, max_retries: 0, reasoning_effort: high}
+evaluation: {limit: 1012, workers: 1, answer_abs_tolerance: 0.01}

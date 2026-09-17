@@ -1,0 +1,29 @@
+﻿company,year,ma_so,label,value,prev
+FTS,2023,01,1. Lợi nhuận trước Thuế Thu nhập doanh nghiệp,541944640753,441530368732
+FTS,2023,02,2. Điều chỉnh cho các khoản:,-9964711684,22853434112
+FTS,2023,03,- Khấu hao TSCĐ,19920006367,17066767824
+FTS,2023,04,- Các khoản dự phòng,40185000,-6936128
+FTS,2023,07,"- Lãi, lỗ từ hoạt động đầu tư",-33109092,
+FTS,2023,08,- Dự thu tiền lãi,-29891793959,5793602416
+FTS,2023,10,3. Tăng các chi phí phi tiền tệ,1362127,-29535783
+FTS,2023,11,- Lỗ đánh giá lại giá trị các tài sản tài chính ghi nhận thông qua lãi/lỗ FVTPL,1362127,-29535783
+FTS,2023,18,4. Giảm các doanh thu phi tiền tệ,-31907355060,196620133215
+FTS,2023,19,- Lãi đánh giá lại giá trị các tài sản tài chính ghi nhận thông qua lãi lỗ FVTPL,-31907355060,196620133215
+FTS,2023,30,5. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,-1243551140320,-2688254513182
+FTS,2023,31,- Tăng (giảm) tài sản tài chính ghi nhận thông qua lãi lỗ,-245819526243,-163778234092
+FTS,2023,33,- Tăng (giảm) các khoản cho vay,-1658505867333,2518865235437
+FTS,2023,36,"- Tăng giảm phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",-109650483,591230856
+FTS,2023,37,- Tăng giảm các khoản phải thu các dịch vụ CTCK cung cấp,-1404607661,2857824093
+FTS,2023,39,- Tăng giảm các khoản phải thu khác,-2033770721,1011113321
+FTS,2023,40,- Tăng giảm các tài sản khác,1460028741,-332309593
+FTS,2023,41,- Tăng giảm chi phí phải trả (không bao gồm lãi,485582590,-4022521924
+FTS,2023,42,- Tăng giảm chi phí trả trước,907451764,-1879544630
+FTS,2023,43,- Thuế TNDN đã nộp,-97625047281,-147943287532
+FTS,2023,45,- Tăng giảm các khoản phải trả cho người bán,-696904295,-2878686179
+FTS,2023,46,- Tăng giảm các khoản trích nộp phúc lợi nhân viên,176349588,86576637
+FTS,2023,47,- Tăng giảm thuế và các khoản phải nộp nhà nước (Không bao gồm Thuế TNDN đã nộp),-9910886819,-7623019702
+FTS,2023,48,- Tăng giảm phải trả người lao động,2365131183,-8980014780
+FTS,2023,50,- Tăng giảm phải trả phải nộp khác,796925042822,-4845210591771
+FTS,2023,51,- Tiền thu từ các hoạt động kinh doanh,15000000,65504783
+FTS,2023,52,- Tiền chi từ các hoạt động kinh doanh,-29779466172,-29083788106
+FTS,2023,60,Lưu chuyển tiền thuần từ hoạt động kinh doanh,-743477204184,-2027280112906

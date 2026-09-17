@@ -1,0 +1,41 @@
+question_id,item,component,year,document_id,source_line_1,row_index,column_index,raw_value,review_note
+495,1,a,2018,VGT_financial_statements_2018_consolidated,1842,4,1,263.025.886.486,Tổng tiền thuê tối thiểu phải trả theo hợp đồng thuê hoạt động
+495,2,a,2020,VGT_financial_statements_2020_consolidated,1765,4,1,385.622.716.920,Tổng tiền thuê tối thiểu phải trả theo hợp đồng thuê hoạt động
+495,3,a,2021,VGT_financial_statements_2021_consolidated,1845,4,1,375.899.885.116,Tổng tiền thuê tối thiểu phải trả theo hợp đồng thuê hoạt động
+495,4,a,2022,VGT_financial_statements_2022_consolidated,1737,4,1,762.609.450.720,Tổng tiền thuê tối thiểu phải trả theo hợp đồng thuê hoạt động
+497,1,a,2017,VIC_financial_statements_2017_consolidated,2038,9,1,62.796.326.957.038,Tổng giá vốn hàng bán và dịch vụ cung cấp
+497,1,b,2017,VIC_financial_statements_2017_consolidated,1364,8,1,56.403.215.413.508,Tổng giá gốc hàng tồn kho cuối năm
+498,3,a,2022,ACB_financial_statements_2022_separate,1800,6,1,333.078.185,Tiền gửi của cá nhân
+500,2,a,2020,PNJ_financial_statements_2020_consolidated,733,12,1,1.713.498.336.265,Tổng vay ngân hàng cuối năm
+504,3,b,2025,ASM_financial_statements_2025_consolidated,426,1,3,11.340.313.307.752,Doanh thu bán hàng và cung cấp dịch vụ
+510,4,a,2024,VIB_financial_statements_2024_consolidated,1433,8,1,55.550.089,Cho vay tổ chức tín dụng khác bằng VND
+510,4,b,2024,VIB_financial_statements_2024_consolidated,1851,2,1,4.183,Tiền gửi không kỳ hạn tổ chức tín dụng khác bằng VND
+510,4,c,2024,VIB_financial_statements_2024_consolidated,1851,5,1,89.985.000,Tiền gửi có kỳ hạn tổ chức tín dụng khác bằng VND
+522,4,a,2025,BVH_financial_statements_2025_consolidated,3099,4,2,(100.562),Ảnh hưởng lợi nhuận trước thuế khi giá cổ phiếu niêm yết giảm 10 phần trăm
+537,2,a,2020,VGC_financial_statements_2020_consolidated,268,22,3,9.332.682.344,Đầu tư góp vốn vào đơn vị khác cuối năm
+495,1,s,2018,VGT_financial_statements_2018_consolidated,1244,7,1,406.195.735.600,Tổng phải thu ngắn hạn khác từ các bên liên quan
+495,2,s,2020,VGT_financial_statements_2020_consolidated,1191,10,1,407.407.224.329,Tổng phải thu ngắn hạn khác từ các bên liên quan
+495,3,s,2021,VGT_financial_statements_2021_consolidated,1267,10,1,248.590.459.577,Tổng phải thu ngắn hạn khác từ các bên liên quan
+495,4,s,2022,VGT_financial_statements_2022_consolidated,1148,12,1,167.714.432.463,Tổng phải thu ngắn hạn khác từ các bên liên quan
+501,2,a,2020,QNS_financial_statements_2020_separate,1222,10,1,17.822.646.394,Tổng giá gốc nợ phải thu quá hạn
+501,3,a,2021,QNS_financial_statements_2021_separate,1307,10,1,19.214.598.721,Tổng giá gốc nợ phải thu quá hạn
+501,4,s,2023,QNS_financial_statements_2023_separate,457,35,3,800.000.000.000,Giá gốc đầu tư vào Công ty Thành Phát
+501,4,a,2023,QNS_financial_statements_2023_separate,1299,10,1,20.600.858.752,Tổng giá gốc nợ phải thu quá hạn
+528,2,b,2022,ABB_financial_statements_2022_separate,207,36,2,130.064.695,Tổng tài sản công ty mẹ
+534,1,s,2024,GEX_financial_statements_2024_consolidated,729,3,4,"50,00%",Quyền biểu quyết tại công ty liên doanh SANVIG
+534,3,s,2024,PC1_financial_statements_2024_consolidated,1155,2,1,"49,00%",Quyền biểu quyết cao nhất tại công ty liên kết
+496,4,b,2022,MWG_financial_statements_2022_consolidated,906,7,5,16.589.388.631.456,Tổng vay ngắn hạn và dài hạn cuối năm
+497,1,s,2017,VIC_financial_statements_2017_consolidated,2107,2,1,3.731.381.559.479,Chi phí thuế thu nhập doanh nghiệp hiện hành
+506,1,s,2024,IJC_financial_statements_2024_consolidated,1456,2,6,531.904.880.087,Tổng giá trị còn lại tài sản cố định hữu hình cuối năm
+506,2,s,2024,DXG_financial_statements_2024_consolidated,1107,19,6,298.730.468.439,Tổng giá trị còn lại tài sản cố định hữu hình cuối năm
+506,3,s,2024,NVL_financial_statements_2024_consolidated,2055,21,6,1.875.694.928.140,Tổng giá trị còn lại tài sản cố định hữu hình cuối năm
+506,4,s,2024,NLG_financial_statements_2024_consolidated,975,15,6,72.116.379.142,Tổng giá trị còn lại tài sản cố định hữu hình cuối năm
+506,5,s,2024,KBC_financial_statements_2024_consolidated,1321,14,6,408.144.202.512,Tổng giá trị còn lại tài sản cố định hữu hình cuối năm
+527,4,s,2023,ACV_financial_statements_2023_separate,891,7,1,26.250.000.000,Phải thu khác về cổ tức và lợi nhuận được chia cuối năm
+537,1,s,2019,VGC_financial_statements_2019_consolidated,1788,10,1,70.000.000.000,Trích Quỹ phát triển khoa học và công nghệ trong năm
+537,2,s,2020,VGC_financial_statements_2020_consolidated,1889,10,1,50.000.000.000,Trích Quỹ phát triển khoa học và công nghệ trong năm
+507,2,a,2016,DIG_financial_statements_2016_separate,368,7,2,5.004.898.055,Chi phí lãi vay năm hiện tại; dòng OCR thiếu ô Thuyết minh nên cột hiện tại bị dịch trái một vị trí
+507,3,a,2017,DIG_financial_statements_2017_separate,347,7,2,6.802.884.400,Chi phí lãi vay năm hiện tại; dòng OCR thiếu ô Thuyết minh nên cột hiện tại bị dịch trái một vị trí
+507,3,b,2017,DIG_financial_statements_2017_separate,310,15,3,160.964.281.947,Lợi nhuận trước thuế năm 2017 trên báo cáo kết quả kinh doanh riêng
+503,4,a,2021,VGT_financial_statements_2021_consolidated,2070,7,1,248.790.137.261,Mua hàng hóa và dịch vụ từ Coats Phong Phú trên báo cáo hợp nhất năm 2021; không dùng báo cáo riêng
+503,5,a,2022,VGT_financial_statements_2022_consolidated,1950,7,1,217.221.702.943,Mua hàng hóa và dịch vụ từ Coats Phong Phú trên báo cáo hợp nhất năm 2022; năm có vốn chủ sở hữu cuối năm cao nhất

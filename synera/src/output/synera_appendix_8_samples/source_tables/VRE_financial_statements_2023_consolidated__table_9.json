@@ -1,0 +1,186 @@
+{
+  "doc_id": "VRE_financial_statements_2023_consolidated",
+  "document_sha256": "bc1a9e8e1784865a989f66c2b3b35a80c93fb4398b80964650ad132befbb22fd",
+  "table_id_internal": 9,
+  "physical_line_one_based": 347,
+  "html_sha256": "7183f8b90e011e4f5f9dcc40232de971f375a98048f24d8a426a012f42232ddd",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2023Triệu VND</td><td>2022Triệu VND</td></tr><tr><td colspan=\"5\">LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản</td><td>01</td><td></td><td>5.526.087</td><td>3.524.490</td></tr><tr><td>Khấu hao và phân bổ</td><td>02</td><td></td><td>1.453.931</td><td>1.451.929</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td></td><td>87.438</td><td>25.679</td></tr><tr><td>Lãi từ các hoạt động đầu tư</td><td>05</td><td></td><td>(1.144.646)</td><td>(545.292)</td></tr><tr><td>Chi phí lãi vay và chi phí đi vay,phát hành trái phiếu</td><td>06</td><td></td><td>330.426</td><td>359.155</td></tr><tr><td>Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động</td><td>08</td><td></td><td>6.253.236</td><td>4.815.961</td></tr><tr><td>Biến động các khoản phải thuvà tài sản khác</td><td>09</td><td></td><td>(1.293.682)</td><td>(214.005)</td></tr><tr><td>Biến động hàng tồn kho</td><td>10</td><td></td><td>543.548</td><td>(502.634)</td></tr><tr><td>Biến động các khoản phải trả vànợ phải trả khác</td><td>11</td><td></td><td>(808.470)</td><td>1.614.418</td></tr><tr><td>Biến động chi phí trả trước</td><td>12</td><td></td><td>66.833</td><td>(167.974)</td></tr><tr><td></td><td></td><td></td><td>4.761.465</td><td>5.545.766</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td></td><td>(293.139)</td><td>(314.988)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td></td><td>(576.317)</td><td>(159.095)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt độngkinh doanh</td><td>20</td><td></td><td>3.892.009</td><td>5.071.683</td></tr><tr><td colspan=\"5\">LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>Tiền chi mua tài sản cố định, tài sảndài hạn khác và đặt cọc cho mục đích đầu tư</td><td>21</td><td></td><td>(8.321.768)</td><td>(2.538.150)</td></tr><tr><td>Tiền thu lại khoản đặt cọc chomục đích đầu tư</td><td>21</td><td></td><td>816.956</td><td>336.000</td></tr><tr><td>Tiền thu từ thanh lý tài sản cố định vàtài sản dài hạn khác</td><td>22</td><td></td><td>4.462</td><td>38.468</td></tr><tr><td>Tiền chi mua các công cụ nợ củacác đơn vị khác</td><td>23</td><td></td><td>(2.923.445)</td><td>(109.394)</td></tr><tr><td>Tiền bán lại các công cụ nợ củacác đơn vị khác</td><td>24</td><td></td><td>1.956.182</td><td>502.152</td></tr><tr><td>Tiền chi đầu tư góp vốn vào một công ty con</td><td>25</td><td></td><td>(6.645)</td><td>-</td></tr><tr><td>Tiền thu lãi tiền gửi, lãi cho vay và lãi đặt cọc</td><td>27</td><td></td><td>953.424</td><td>443.224</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt độngđầu tư</td><td>30</td><td></td><td>(7.520.834)</td><td>(1.327.700)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "2023Triệu VND",
+      "2022Triệu VND"
+    ],
+    [
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuếĐiều chỉnh cho các khoản",
+      "01",
+      "",
+      "5.526.087",
+      "3.524.490"
+    ],
+    [
+      "Khấu hao và phân bổ",
+      "02",
+      "",
+      "1.453.931",
+      "1.451.929"
+    ],
+    [
+      "Các khoản dự phòng",
+      "03",
+      "",
+      "87.438",
+      "25.679"
+    ],
+    [
+      "Lãi từ các hoạt động đầu tư",
+      "05",
+      "",
+      "(1.144.646)",
+      "(545.292)"
+    ],
+    [
+      "Chi phí lãi vay và chi phí đi vay,phát hành trái phiếu",
+      "06",
+      "",
+      "330.426",
+      "359.155"
+    ],
+    [
+      "Lợi nhuận từ hoạt động kinh doanh trước những thay đổi vốn lưu động",
+      "08",
+      "",
+      "6.253.236",
+      "4.815.961"
+    ],
+    [
+      "Biến động các khoản phải thuvà tài sản khác",
+      "09",
+      "",
+      "(1.293.682)",
+      "(214.005)"
+    ],
+    [
+      "Biến động hàng tồn kho",
+      "10",
+      "",
+      "543.548",
+      "(502.634)"
+    ],
+    [
+      "Biến động các khoản phải trả vànợ phải trả khác",
+      "11",
+      "",
+      "(808.470)",
+      "1.614.418"
+    ],
+    [
+      "Biến động chi phí trả trước",
+      "12",
+      "",
+      "66.833",
+      "(167.974)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "4.761.465",
+      "5.545.766"
+    ],
+    [
+      "Tiền lãi vay đã trả",
+      "14",
+      "",
+      "(293.139)",
+      "(314.988)"
+    ],
+    [
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "",
+      "(576.317)",
+      "(159.095)"
+    ],
+    [
+      "Lưu chuyển tiền thuần từ hoạt độngkinh doanh",
+      "20",
+      "",
+      "3.892.009",
+      "5.071.683"
+    ],
+    [
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LUU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    ],
+    [
+      "Tiền chi mua tài sản cố định, tài sảndài hạn khác và đặt cọc cho mục đích đầu tư",
+      "21",
+      "",
+      "(8.321.768)",
+      "(2.538.150)"
+    ],
+    [
+      "Tiền thu lại khoản đặt cọc chomục đích đầu tư",
+      "21",
+      "",
+      "816.956",
+      "336.000"
+    ],
+    [
+      "Tiền thu từ thanh lý tài sản cố định vàtài sản dài hạn khác",
+      "22",
+      "",
+      "4.462",
+      "38.468"
+    ],
+    [
+      "Tiền chi mua các công cụ nợ củacác đơn vị khác",
+      "23",
+      "",
+      "(2.923.445)",
+      "(109.394)"
+    ],
+    [
+      "Tiền bán lại các công cụ nợ củacác đơn vị khác",
+      "24",
+      "",
+      "1.956.182",
+      "502.152"
+    ],
+    [
+      "Tiền chi đầu tư góp vốn vào một công ty con",
+      "25",
+      "",
+      "(6.645)",
+      "-"
+    ],
+    [
+      "Tiền thu lãi tiền gửi, lãi cho vay và lãi đặt cọc",
+      "27",
+      "",
+      "953.424",
+      "443.224"
+    ],
+    [
+      "Lưu chuyển tiền thuần từ hoạt độngđầu tư",
+      "30",
+      "",
+      "(7.520.834)",
+      "(1.327.700)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 15 ===== Công ty Cổ phần Vincom Retail và các công ty con Báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2023 (Phương pháp gián tiếp) Mẫu B 03 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

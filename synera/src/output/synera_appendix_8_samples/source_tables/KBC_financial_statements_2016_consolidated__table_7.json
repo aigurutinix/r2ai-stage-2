@@ -1,0 +1,102 @@
+{
+  "doc_id": "KBC_financial_statements_2016_consolidated",
+  "document_sha256": "6376ea242ff0c71342657dd19ef1a4928184bdb75f62c19bd1e97b9beceaa48b",
+  "table_id_internal": 7,
+  "physical_line_one_based": 258,
+  "html_sha256": "b2bcc7be3554075dc0040e85c129ab74e5bc528cd85b8fac273afdc3d4a3d93c",
+  "html": "<table><tr><td>Mã số</td><td>NGUỒN VỐN</td><td>Thuyết minh</td><td>Số cuối năm</td><td>Số đầu năm</td></tr><tr><td>400</td><td>D. VỐN CHỦ SỞ HỮU</td><td></td><td>8.621.089.984.484</td><td>8.036.004.987.843</td></tr><tr><td>410</td><td>I. Vốn chủ sở hữu</td><td></td><td>8.621.089.984.484</td><td>8.036.004.987.843</td></tr><tr><td>411</td><td>1. Vốn cổ phần đã góp</td><td>20.1</td><td>4.757.111.670.000</td><td>4.757.111.670.000</td></tr><tr><td>411a</td><td>- Cổ phiếu phổ thống có quyền biểu quyết</td><td></td><td>4.757.111.670.000</td><td>4.757.111.670.000</td></tr><tr><td>412</td><td>2. Thặng dư vốn cổ phần</td><td>20.1</td><td>989.064.430.000</td><td>989.064.430.000</td></tr><tr><td>415</td><td>3. Cổ phiếu quỹ</td><td>20.1</td><td>(364.466.650.000)</td><td>(364.466.650.000)</td></tr><tr><td>418</td><td>4. Quỹ đầu tư phát triển</td><td>20.1</td><td>2.223.693.823</td><td>2.223.693.823</td></tr><tr><td>421</td><td>5. Lợi nhuận sau thuế chưa phân phối</td><td>20.1</td><td>2.318.834.981.859</td><td>1.781.536.119.480</td></tr><tr><td>421a</td><td>- Lợi nhuận sau thuế chưa phân phối đến cuối năm trước</td><td></td><td>1.761.464.742.050</td><td>1.169.625.513.861</td></tr><tr><td>421b</td><td>- Lợi nhuận sau thuế chưa phân phối năm nay</td><td></td><td>557.370.239.809</td><td>611.910.605.619</td></tr><tr><td>429</td><td>6. Lợi ích cổ đông không kiểm soát</td><td>21</td><td>918.321.858.802</td><td>870.535.724.540</td></tr><tr><td>440</td><td>TỔNG CỘNG NGUỒN VỐN</td><td></td><td>14.657.547.795.899</td><td>13.653.707.159.630</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "NGUỒN VỐN",
+      "Thuyết minh",
+      "Số cuối năm",
+      "Số đầu năm"
+    ],
+    [
+      "400",
+      "D. VỐN CHỦ SỞ HỮU",
+      "",
+      "8.621.089.984.484",
+      "8.036.004.987.843"
+    ],
+    [
+      "410",
+      "I. Vốn chủ sở hữu",
+      "",
+      "8.621.089.984.484",
+      "8.036.004.987.843"
+    ],
+    [
+      "411",
+      "1. Vốn cổ phần đã góp",
+      "20.1",
+      "4.757.111.670.000",
+      "4.757.111.670.000"
+    ],
+    [
+      "411a",
+      "- Cổ phiếu phổ thống có quyền biểu quyết",
+      "",
+      "4.757.111.670.000",
+      "4.757.111.670.000"
+    ],
+    [
+      "412",
+      "2. Thặng dư vốn cổ phần",
+      "20.1",
+      "989.064.430.000",
+      "989.064.430.000"
+    ],
+    [
+      "415",
+      "3. Cổ phiếu quỹ",
+      "20.1",
+      "(364.466.650.000)",
+      "(364.466.650.000)"
+    ],
+    [
+      "418",
+      "4. Quỹ đầu tư phát triển",
+      "20.1",
+      "2.223.693.823",
+      "2.223.693.823"
+    ],
+    [
+      "421",
+      "5. Lợi nhuận sau thuế chưa phân phối",
+      "20.1",
+      "2.318.834.981.859",
+      "1.781.536.119.480"
+    ],
+    [
+      "421a",
+      "- Lợi nhuận sau thuế chưa phân phối đến cuối năm trước",
+      "",
+      "1.761.464.742.050",
+      "1.169.625.513.861"
+    ],
+    [
+      "421b",
+      "- Lợi nhuận sau thuế chưa phân phối năm nay",
+      "",
+      "557.370.239.809",
+      "611.910.605.619"
+    ],
+    [
+      "429",
+      "6. Lợi ích cổ đông không kiểm soát",
+      "21",
+      "918.321.858.802",
+      "870.535.724.540"
+    ],
+    [
+      "440",
+      "TỔNG CỘNG NGUỒN VỐN",
+      "",
+      "14.657.547.795.899",
+      "13.653.707.159.630"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP B01-DN/HN BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo) ngày 31 tháng 12 năm 2016 Đơn vị tính: VND"
+}

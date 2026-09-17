@@ -1,0 +1,8 @@
+# Core data/retrieval pipeline. The competition verifier uses its own pinned
+# pandas 1.1.5 environment; see docs/REPRODUCIBILITY.md.
+bm25s>=0.2,<0.3
+lxml>=4.9,<6
+numpy>=1.23,<3
+pandas>=1.5,<3
+PyJWT[crypto]>=2.9,<3
+scipy>=1.9,<2

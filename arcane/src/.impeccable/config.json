@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "monotonous-spacing",
+        "value": "*",
+        "files": [
+          "demo/static/index.html"
+        ],
+        "createdAt": "2026-09-09T08:41:28.927Z",
+        "reason": "Model decision, not the user's. Measured the spacing actually applied to elements in this file: 8 distinct values (2/4/5/8/12/16/20/24px), most common 27%, with distinct tight (2-4px within cards), component (8-12px) and section (16-44px) tiers. Acted on the rule once first: tightened card internals to 4px and opened section gaps to 32/44px. The residual flag reports the 4px grid unit itself, which is structural on a 4px-based scale."
+      }
+    ]
+  }
+}

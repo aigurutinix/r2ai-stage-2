@@ -1,0 +1,158 @@
+{
+  "doc_id": "NKG_financial_statements_2023_consolidated",
+  "document_sha256": "71ab16c95b4e90b62bb503cd71444b65dc14d72191242675cd9af98629ebca76",
+  "table_id_internal": 7,
+  "physical_line_one_based": 263,
+  "html_sha256": "9b665db45f5a00c4de788a73c8f067142489e409bb18c0106325a56edce8f611",
+  "html": "<table><tr><td rowspan=\"2\">Mã số</td><td rowspan=\"2\">TÀI SẢN</td><td rowspan=\"2\">Thuyết minh</td><td colspan=\"2\">Tại ngày 31 tháng 12 năm</td></tr><tr><td>2023 VND</td><td>2022 VND</td></tr><tr><td>100</td><td>TÀI SẢN NGẮN HẠN</td><td></td><td>9.322.639.041.423</td><td>10.414.909.064.976</td></tr><tr><td>110</td><td>Tiền và các khoản tương đương tiền</td><td>3</td><td>785.479.050.340</td><td>1.005.403.528.970</td></tr><tr><td>111</td><td>Tiền</td><td></td><td>748.979.050.340</td><td>948.303.528.970</td></tr><tr><td>112</td><td>Các khoản tương đương tiền</td><td></td><td>36.500.000.000</td><td>57.100.000.000</td></tr><tr><td>120</td><td>Đầu tư tài chính ngắn hạn</td><td></td><td>289.613.600.644</td><td>251.569.818.437</td></tr><tr><td>121</td><td>Chứng khoán kinh doanh</td><td>4(a)</td><td>9.353.176</td><td>9.353.176</td></tr><tr><td>123</td><td>Đầu tư nắm giữ đến ngày đáo hạn</td><td>4(b)</td><td>289.604.247.468</td><td>251.560.465.261</td></tr><tr><td>130</td><td>Các khoản phải thu ngắn hạn</td><td></td><td>1.926.737.095.556</td><td>1.516.693.874.948</td></tr><tr><td>131</td><td>Phải thu ngắn hạn của khách hàng</td><td>5</td><td>1.741.024.306.210</td><td>1.060.728.823.320</td></tr><tr><td>132</td><td>Trả trước cho người bán ngắn hạn</td><td>6</td><td>179.230.779.567</td><td>438.034.966.801</td></tr><tr><td>136</td><td>Phải thu ngắn hạn khác</td><td>7(a)</td><td>17.179.219.247</td><td>26.734.127.887</td></tr><tr><td>137</td><td>Dự phòng phải thu ngắn hạn khó đòi</td><td>5</td><td>(10.697.209.468)</td><td>(8.804.043.060)</td></tr><tr><td>140</td><td>Hàng tồn kho</td><td>8</td><td>5.718.699.385.156</td><td>7.000.417.214.505</td></tr><tr><td>141</td><td>Hàng tồn kho</td><td></td><td>5.849.032.778.100</td><td>7.337.269.938.041</td></tr><tr><td>149</td><td>Dự phòng giảm giá hàng tồn kho</td><td></td><td>(130.333.392.944)</td><td>(336.852.723.536)</td></tr><tr><td>150</td><td>Tài sản ngắn hạn khác</td><td></td><td>602.109.909.727</td><td>640.824.628.116</td></tr><tr><td>151</td><td>Chi phí trả trước ngắn hạn</td><td>9(a)</td><td>16.586.369.709</td><td>16.774.143.093</td></tr><tr><td>152</td><td>Thuế giá trị gia tăng (&quot;GTGT&quot;) được khấu trừ</td><td>14(a)</td><td>585.451.185.075</td><td>624.032.687.013</td></tr><tr><td>153</td><td>Thuế và các khoản khác phải thu Nhà nước</td><td>14(a)</td><td>72.354.943</td><td>17.798.010</td></tr></table>",
+  "expanded_rows": [
+    [
+      "Mã số",
+      "TÀI SẢN",
+      "Thuyết minh",
+      "Tại ngày 31 tháng 12 năm",
+      "Tại ngày 31 tháng 12 năm"
+    ],
+    [
+      "Mã số",
+      "TÀI SẢN",
+      "Thuyết minh",
+      "2023 VND",
+      "2022 VND"
+    ],
+    [
+      "100",
+      "TÀI SẢN NGẮN HẠN",
+      "",
+      "9.322.639.041.423",
+      "10.414.909.064.976"
+    ],
+    [
+      "110",
+      "Tiền và các khoản tương đương tiền",
+      "3",
+      "785.479.050.340",
+      "1.005.403.528.970"
+    ],
+    [
+      "111",
+      "Tiền",
+      "",
+      "748.979.050.340",
+      "948.303.528.970"
+    ],
+    [
+      "112",
+      "Các khoản tương đương tiền",
+      "",
+      "36.500.000.000",
+      "57.100.000.000"
+    ],
+    [
+      "120",
+      "Đầu tư tài chính ngắn hạn",
+      "",
+      "289.613.600.644",
+      "251.569.818.437"
+    ],
+    [
+      "121",
+      "Chứng khoán kinh doanh",
+      "4(a)",
+      "9.353.176",
+      "9.353.176"
+    ],
+    [
+      "123",
+      "Đầu tư nắm giữ đến ngày đáo hạn",
+      "4(b)",
+      "289.604.247.468",
+      "251.560.465.261"
+    ],
+    [
+      "130",
+      "Các khoản phải thu ngắn hạn",
+      "",
+      "1.926.737.095.556",
+      "1.516.693.874.948"
+    ],
+    [
+      "131",
+      "Phải thu ngắn hạn của khách hàng",
+      "5",
+      "1.741.024.306.210",
+      "1.060.728.823.320"
+    ],
+    [
+      "132",
+      "Trả trước cho người bán ngắn hạn",
+      "6",
+      "179.230.779.567",
+      "438.034.966.801"
+    ],
+    [
+      "136",
+      "Phải thu ngắn hạn khác",
+      "7(a)",
+      "17.179.219.247",
+      "26.734.127.887"
+    ],
+    [
+      "137",
+      "Dự phòng phải thu ngắn hạn khó đòi",
+      "5",
+      "(10.697.209.468)",
+      "(8.804.043.060)"
+    ],
+    [
+      "140",
+      "Hàng tồn kho",
+      "8",
+      "5.718.699.385.156",
+      "7.000.417.214.505"
+    ],
+    [
+      "141",
+      "Hàng tồn kho",
+      "",
+      "5.849.032.778.100",
+      "7.337.269.938.041"
+    ],
+    [
+      "149",
+      "Dự phòng giảm giá hàng tồn kho",
+      "",
+      "(130.333.392.944)",
+      "(336.852.723.536)"
+    ],
+    [
+      "150",
+      "Tài sản ngắn hạn khác",
+      "",
+      "602.109.909.727",
+      "640.824.628.116"
+    ],
+    [
+      "151",
+      "Chi phí trả trước ngắn hạn",
+      "9(a)",
+      "16.586.369.709",
+      "16.774.143.093"
+    ],
+    [
+      "152",
+      "Thuế giá trị gia tăng (\"GTGT\") được khấu trừ",
+      "14(a)",
+      "585.451.185.075",
+      "624.032.687.013"
+    ],
+    [
+      "153",
+      "Thuế và các khoản khác phải thu Nhà nước",
+      "14(a)",
+      "72.354.943",
+      "17.798.010"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 8 ===== 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 「 CÔNG TY CỔ PHẦN THÉP NAM KIM Mẫu số B 01 – DN/HN BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT"
+}

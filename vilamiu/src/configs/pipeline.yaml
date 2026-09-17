@@ -1,0 +1,36 @@
+# Cau hinh dung cho bai nop cuoi (submissions/legal.zip).
+# Pipeline dieu khien bang tham so dong lenh; tep nay ghi lai DUNG gia tri da dung,
+# de nguoi khac tai lap duoc ma khong phai doan.
+
+retrieval:
+  max_tables: 9              # so bang dua vao prompt cho moi cau hoi
+  budget_chars: 15000        # tong ngan sach ky tu cho phan bang
+  max_rows: 26               # so dong toi da moi bang
+  max_cols: 6                # so cot toi da moi bang
+  scope: auto                # "cong ty me" trong cau hoi -> bao cao rieng le
+
+model:
+  id: Qwen/Qwen3-14B
+  dtype: bfloat16            # KHONG luong tu hoa: AWQ 4-bit lam giam do chinh xac
+  enable_thinking: true
+  max_model_len: 28000       # chi can khi tu host bang vLLM
+  gpu_memory_utilization: 0.90
+
+generation:
+  passes:
+    - name: A
+      temperature: 0.0
+      max_tokens: 6000       # KHONG duoc < 5000 khi bat suy luan (README muc 5)
+    - name: B
+      temperature: 0.35
+      max_tokens: 6000
+  workers: 5
+
+selection:
+  require_agreement: true    # chi nhan dap an khi hai luot doc lap cung ket qua
+  gates:
+    no_constant: true        # cam gan hang so — yeu cau cua BTC
+    cite_cells: true         # chuong trinh phai doc o that tu DataFrame
+    label_unsaid_words: 3    # loai neu nhan dong chua >=3 tu cau hoi khong he noi
+    zero_for_total: true     # loai dap an 0 cho cau hoi ve tong/so du
+    unit_by_code: true       # he so don vi do code giai, khong de model doan

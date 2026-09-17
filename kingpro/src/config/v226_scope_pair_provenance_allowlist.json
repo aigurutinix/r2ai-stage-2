@@ -1,0 +1,48 @@
+{
+  "candidate": "sub_top123_candidate_v226_scope_pair_public_ablation",
+  "policy": "Exact issue identity; fail on any new issue or stale exception.",
+  "ledger": "docs/INDIVIDUAL_QUESTION_AUDIT_20260827.md",
+  "issues": [
+    {
+      "id": 98,
+      "kind": "provenance-docs",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate",
+          "HUT_financial_statements_2024_consolidated"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "HUT_financial_statements_2024_separate|328",
+          "HUT_financial_statements_2024_consolidated|325"
+        ],
+        "actual": [
+          "HUT_financial_statements_2024_consolidated|325"
+        ]
+      }
+    },
+    {
+      "id": 764,
+      "kind": "provenance-tables",
+      "detail": {
+        "declared": [
+          "GVR_financial_statements_2015_consolidated|290",
+          "DPM_financial_statements_2015_consolidated|272",
+          "DPM_financial_statements_2015_consolidated|1909"
+        ],
+        "actual": [
+          "GVR_financial_statements_2015_consolidated|290",
+          "DPM_financial_statements_2015_consolidated|1909"
+        ]
+      }
+    }
+  ]
+}

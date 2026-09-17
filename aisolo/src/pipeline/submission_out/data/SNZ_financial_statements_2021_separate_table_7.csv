@@ -1,0 +1,23 @@
+﻿company,year,ma_so,label,value,prev
+SNZ,2021,01,1. Lợi nhuận trước thuế,442491900344,441282787133
+SNZ,2021,02,Khấu hao TSCĐ và BĐSDĐT,4022562548,3777981215
+SNZ,2021,03,Các khoản dự phòng,7423213228,-3170872883
+SNZ,2021,04,"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lạicác khoản mục tiền tệ có gốc ngoại tệ",296223,33202
+SNZ,2021,05,"Lãi, lỗ từ hoạt động đầu tư",-379971930146,-398714587246
+SNZ,2021,06,Chi phí lãi vay,359671233,199890028
+SNZ,2021,08,3. Lợi nhuận từ hoạt động kinh doanh trước nhữngthay đôi vốn lưu động,74325713430,43375231449
+SNZ,2021,09,"Tăng, giảm các khoản phải thu",-75192635181,-10797437483
+SNZ,2021,10,"Tăng, giảm hàng tồn kho",98685550,-518677990
+SNZ,2021,11,"Tăng, giảm các khoản phải trả (không kể lãi vay phải trả,thuế thu nhập doanh nghiệp phải nộp)",5775162664,-10528830481
+SNZ,2021,12,"Tăng, giảm chi phí trả trước",57311004633,64723565483
+SNZ,2021,14,Tiền lãi vay đã trả,-359671233,-199890028
+SNZ,2021,15,Tiền thuế thu nhập doanh nghiệp đã nộp,-26214584291,-26107468678
+SNZ,2021,16,Tiền thu khác từ hoạt động kinh doanh,11920000,39800000
+SNZ,2021,17,Tiền chi khác từ hoạt động kinh doanh,-6929470376,-4635945300
+SNZ,2021,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,28826125196,55350346972
+SNZ,2021,21,"1. Tiền chi để mua sắm, xây dựng TSCĐvà các tài sản dài hạn khác",-7591266043,-23697187953
+SNZ,2021,23,"2. Tiền chi cho vay, mua các công cụ nợcủa các đơn vị khác",-1137088000000,-1811995000000
+SNZ,2021,24,"3. Tiền thu hồi cho vay, bán lại các công cụ nợcủa các đơn vị khác",1313688000000,1754933000000
+SNZ,2021,25,4. Tiền chi đầu tư góp vốn vào đơn vị khác,-192977300000,-178870000000
+SNZ,2021,27,"5. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",367893499547,390156575390
+SNZ,2021,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,343924933504,130527387437

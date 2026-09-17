@@ -1,0 +1,214 @@
+{
+  "doc_id": "GEE_financial_statements_2022_consolidated",
+  "document_sha256": "be3743e48e0e8200596bf3dfd790e61ef82f4f793f30adf634fc81d9963b25cf",
+  "table_id_internal": 9,
+  "physical_line_one_based": 447,
+  "html_sha256": "389e143f1e02a8fcc8921dad6ed08f3e4b0a819d4909bb82a5fe9a74af50383b",
+  "html": "<table><tr><td></td><td>CHỈ TIÊU</td><td>Mã số</td><td>Năm nay</td><td>Năm trước</td></tr><tr><td>I.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH</td></tr><tr><td>1.</td><td>Lợi nhuận trước thuế</td><td>01</td><td>1.120.354.094.623</td><td>818.005.753.300</td></tr><tr><td rowspan=\"6\">2.</td><td>Điều chỉnh cho các khoản:</td><td></td><td></td><td></td></tr><tr><td>Khẩu hao tài sản cố định, bắt động sản đầu tư và lợi thế thương mại phân bổ</td><td>02</td><td>632.939.301.567</td><td>326.361.941.953</td></tr><tr><td>Các khoản dự phòng</td><td>03</td><td>(1.757.789.990)</td><td>26.991.130.199</td></tr><tr><td>Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ</td><td>04</td><td>21.439.299.986</td><td>4.544.737.998</td></tr><tr><td>Lãi từ hoạt động đầu tư</td><td>05</td><td>(777.081.913.224)</td><td>(230.202.543.725)</td></tr><tr><td>Chỉ phí lãi vay và chi phí phát hành trái phiếu</td><td>06</td><td>716.192.111.956</td><td>516.390.762.541</td></tr><tr><td rowspan=\"11\">3.</td><td>Lợi nhuận từ hoạt động kinh doanh trước thay đối vốn lưu động</td><td>08</td><td>1.712.085.104.918</td><td>1.462.091.782.266</td></tr><tr><td>Giảm các khoản phải thu</td><td>09</td><td>1.084.929.139.146</td><td>922.201.620.279</td></tr><tr><td>Giảm/(tăng) hàng tồn kho</td><td>10</td><td>2.404.529.954.652</td><td>(3.732.848.855.101)</td></tr><tr><td>(Giảm)/tăng các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)</td><td>11</td><td>(2.909.427.131.133)</td><td>396.541.567.761</td></tr><tr><td>(Tăng)/giảm chi phí trả trước</td><td>12</td><td>(6.895.922.702)</td><td>3.355.817.139</td></tr><tr><td>Giảm chứng khoán kinh doanh</td><td>13</td><td>221.204.546.129</td><td>488.796.978.038</td></tr><tr><td>Tiền lãi vay đã trả</td><td>14</td><td>(697.465.698.559)</td><td>(539.999.139.643)</td></tr><tr><td>Thuế thu nhập doanh nghiệp đã nộp</td><td>15</td><td>(140.060.037.612)</td><td>(166.198.892.303)</td></tr><tr><td>Tiền thu khác từ hoạt động kinh doanh</td><td>16</td><td>-</td><td>220.119.910</td></tr><tr><td>Tiền chi khác cho hoạt động kinh doanh</td><td>17</td><td>(20.901.274.043)</td><td>(20.386.231.980)</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động kinh doanh</td><td>20</td><td>1.647.998.680.796</td><td>(1.186.225.233.634)</td></tr><tr><td>II.</td><td colspan=\"4\">LU&#x27;U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ</td></tr><tr><td>1.</td><td>Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</td><td>21</td><td>(303.912.410.315)</td><td>(474.801.298.384)</td></tr><tr><td>2.</td><td>Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</td><td>22</td><td>65.080.839.009</td><td>63.135.560.101</td></tr><tr><td>3.</td><td>Tiền chi cho vay, mua công cụ nợ của đơn vị khác</td><td>23</td><td>(422.739.180.822)</td><td>(501.229.771.528)</td></tr><tr><td>4.</td><td>Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</td><td>24</td><td>571.865.000.000</td><td>267.759.833.171</td></tr><tr><td>5.</td><td>Tiền chi đầu tư góp vốn vào đơn vị khác</td><td>25</td><td>(139.408.800.000)</td><td>(1.950.879.204.496)</td></tr><tr><td>6.</td><td>Tiền thu hồi đầu tư vốn vào đơn vị khác</td><td>26</td><td>1.239.663.600.000</td><td>586.093.950.000</td></tr><tr><td rowspan=\"2\">7.</td><td>Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</td><td>27</td><td>250.562.100.485</td><td>191.722.066.096</td></tr><tr><td>Lưu chuyển tiền thuần từ hoạt động đầu tư</td><td>30</td><td>1.261.111.148.357</td><td>(1.818.198.865.040)</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "CHỈ TIÊU",
+      "Mã số",
+      "Năm nay",
+      "Năm trước"
+    ],
+    [
+      "I.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH"
+    ],
+    [
+      "1.",
+      "Lợi nhuận trước thuế",
+      "01",
+      "1.120.354.094.623",
+      "818.005.753.300"
+    ],
+    [
+      "2.",
+      "Điều chỉnh cho các khoản:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2.",
+      "Khẩu hao tài sản cố định, bắt động sản đầu tư và lợi thế thương mại phân bổ",
+      "02",
+      "632.939.301.567",
+      "326.361.941.953"
+    ],
+    [
+      "2.",
+      "Các khoản dự phòng",
+      "03",
+      "(1.757.789.990)",
+      "26.991.130.199"
+    ],
+    [
+      "2.",
+      "Lỗ chênh lệch tỷ giá hồi đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",
+      "04",
+      "21.439.299.986",
+      "4.544.737.998"
+    ],
+    [
+      "2.",
+      "Lãi từ hoạt động đầu tư",
+      "05",
+      "(777.081.913.224)",
+      "(230.202.543.725)"
+    ],
+    [
+      "2.",
+      "Chỉ phí lãi vay và chi phí phát hành trái phiếu",
+      "06",
+      "716.192.111.956",
+      "516.390.762.541"
+    ],
+    [
+      "3.",
+      "Lợi nhuận từ hoạt động kinh doanh trước thay đối vốn lưu động",
+      "08",
+      "1.712.085.104.918",
+      "1.462.091.782.266"
+    ],
+    [
+      "3.",
+      "Giảm các khoản phải thu",
+      "09",
+      "1.084.929.139.146",
+      "922.201.620.279"
+    ],
+    [
+      "3.",
+      "Giảm/(tăng) hàng tồn kho",
+      "10",
+      "2.404.529.954.652",
+      "(3.732.848.855.101)"
+    ],
+    [
+      "3.",
+      "(Giảm)/tăng các khoản phải trả (Không kế lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+      "11",
+      "(2.909.427.131.133)",
+      "396.541.567.761"
+    ],
+    [
+      "3.",
+      "(Tăng)/giảm chi phí trả trước",
+      "12",
+      "(6.895.922.702)",
+      "3.355.817.139"
+    ],
+    [
+      "3.",
+      "Giảm chứng khoán kinh doanh",
+      "13",
+      "221.204.546.129",
+      "488.796.978.038"
+    ],
+    [
+      "3.",
+      "Tiền lãi vay đã trả",
+      "14",
+      "(697.465.698.559)",
+      "(539.999.139.643)"
+    ],
+    [
+      "3.",
+      "Thuế thu nhập doanh nghiệp đã nộp",
+      "15",
+      "(140.060.037.612)",
+      "(166.198.892.303)"
+    ],
+    [
+      "3.",
+      "Tiền thu khác từ hoạt động kinh doanh",
+      "16",
+      "-",
+      "220.119.910"
+    ],
+    [
+      "3.",
+      "Tiền chi khác cho hoạt động kinh doanh",
+      "17",
+      "(20.901.274.043)",
+      "(20.386.231.980)"
+    ],
+    [
+      "3.",
+      "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "20",
+      "1.647.998.680.796",
+      "(1.186.225.233.634)"
+    ],
+    [
+      "II.",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "LU'U CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    ],
+    [
+      "1.",
+      "Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+      "21",
+      "(303.912.410.315)",
+      "(474.801.298.384)"
+    ],
+    [
+      "2.",
+      "Tiền thu thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      "22",
+      "65.080.839.009",
+      "63.135.560.101"
+    ],
+    [
+      "3.",
+      "Tiền chi cho vay, mua công cụ nợ của đơn vị khác",
+      "23",
+      "(422.739.180.822)",
+      "(501.229.771.528)"
+    ],
+    [
+      "4.",
+      "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+      "24",
+      "571.865.000.000",
+      "267.759.833.171"
+    ],
+    [
+      "5.",
+      "Tiền chi đầu tư góp vốn vào đơn vị khác",
+      "25",
+      "(139.408.800.000)",
+      "(1.950.879.204.496)"
+    ],
+    [
+      "6.",
+      "Tiền thu hồi đầu tư vốn vào đơn vị khác",
+      "26",
+      "1.239.663.600.000",
+      "586.093.950.000"
+    ],
+    [
+      "7.",
+      "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      "27",
+      "250.562.100.485",
+      "191.722.066.096"
+    ],
+    [
+      "7.",
+      "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "30",
+      "1.261.111.148.357",
+      "(1.818.198.865.040)"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 14 ===== CÔNG TY CỔ PHẦN ĐIỆN LỰC GELEX Số 52 Lê Đại Hành, Phường Lê Đại Hành Quận Hai Bà Tr vaccine, Thành phố Hà Nội, Việt Nam MÃU SỐ B 03-DN/HN Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 Đơn vị: VND"
+}

@@ -1,0 +1,3 @@
+The candidate tables belong to different companies in the same reporting period. Identify one standard financial concept or ratio that can be applied consistently to at least three companies and supports a meaningful comparison or aggregation across those companies.
+
+The computation may combine multiple elementary operations or use an aggregate operation such as a total, average, minimum, maximum, or count. Do not select a question whose answer is the name of a company.

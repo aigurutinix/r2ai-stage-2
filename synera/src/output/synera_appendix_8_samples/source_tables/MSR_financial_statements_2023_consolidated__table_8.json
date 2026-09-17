@@ -1,0 +1,221 @@
+{
+  "doc_id": "MSR_financial_statements_2023_consolidated",
+  "document_sha256": "ef8fe2c98a14331118e5307264a7835f3bfd1178b1f1d1932ce0bda0082c0edd",
+  "table_id_internal": 8,
+  "physical_line_one_based": 263,
+  "html_sha256": "96583dd98285c6d7cf902c11874332f70d057efaa37305ee6b4c4328b379939e",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>31/12/2023Nghìn VND</td><td>1/1/2023Nghìn VND</td></tr><tr><td colspan=\"5\">NGUỒN VỐN</td></tr><tr><td>NỘ PHẢI TRẢ (300 = 310 + 330)</td><td>300</td><td></td><td>26.747.864.250</td><td>26.273.561.415</td></tr><tr><td>Nợ ngắn hạn</td><td>310</td><td></td><td>11.020.687.246</td><td>17.154.059.090</td></tr><tr><td>Phải trả người bán ngắn hạn</td><td>311</td><td></td><td>1.085.062.959</td><td>1.574.455.591</td></tr><tr><td>Người mua trả tiền trước ngắn hạn</td><td>312</td><td>17</td><td>757.161.635</td><td>489.804.070</td></tr><tr><td>Thuế và các khoản phải nộp Nhà nước</td><td>313</td><td>18</td><td>187.859.233</td><td>160.206.536</td></tr><tr><td>Phải trả người lao động</td><td>314</td><td></td><td>18.584.094</td><td>14.841.657</td></tr><tr><td>Chi phí phải trả ngắn hạn</td><td>315</td><td>19</td><td>832.650.231</td><td>818.655.883</td></tr><tr><td>Phải trả ngắn hạn khác</td><td>319</td><td>20</td><td>235.424.612</td><td>980.622.553</td></tr><tr><td>Vay và trái phiếu phát hành ngắn hạn</td><td>320</td><td>21(a)</td><td>7.896.118.080</td><td>13.105.475.407</td></tr><tr><td>Dự phòng phải trả ngắn hạn</td><td>321</td><td></td><td>7.826.402</td><td>9.997.393</td></tr><tr><td>Nợ dài hạn</td><td>330</td><td></td><td>15.727.177.004</td><td>9.119.502.325</td></tr><tr><td>Phải trả dài hạn khác</td><td>337</td><td></td><td>1.466.595</td><td>-</td></tr><tr><td>Vay và trái phiếu phát hành dài hạn</td><td>338</td><td>21(b)</td><td>8.760.544.403</td><td>2.979.108.965</td></tr><tr><td>Thuế thu nhập hoãn lại phải trả</td><td>341</td><td>22(a)</td><td>1.457.520.209</td><td>1.517.611.217</td></tr><tr><td>Dự phòng phải trả dài hạn</td><td>342</td><td>23</td><td>5.507.645.797</td><td>4.622.782.143</td></tr><tr><td>VỐN CHỦ SỞ HỮU (400 = 410)</td><td>400</td><td></td><td>13.624.491.863</td><td>15.247.438.774</td></tr><tr><td>Vốn chủ sở hữu</td><td>410</td><td>24</td><td>13.624.491.863</td><td>15.247.438.774</td></tr><tr><td>Vốn cổ phần</td><td>411</td><td>25</td><td>10.991.554.200</td><td>10.991.554.200</td></tr><tr><td>- Cổ phiếu phổ thông có quyền biểu quyết</td><td>411a</td><td></td><td>10.991.554.200</td><td>10.991.554.200</td></tr><tr><td>Thặng dư vốn cổ phần</td><td>412</td><td>25</td><td>1.098.259.892</td><td>1.098.259.892</td></tr><tr><td>Vốn khác của chủ sở hữu</td><td>414</td><td></td><td>(295.683.347)</td><td>(295.683.347)</td></tr><tr><td>Chênh lệch tỷ giá hối đoái</td><td>417</td><td></td><td>(233.846.997)</td><td>(419.419.764)</td></tr><tr><td>Quỹ khác thuộc vốn chủ sở hữu</td><td>420</td><td></td><td>396.305.033</td><td>675.544.001</td></tr><tr><td>Lợi nhuận sau thuế chưa phân phối</td><td>421</td><td></td><td>1.455.345.029</td><td>3.031.229.349</td></tr><tr><td>- LNST chưa phân phối đến cuối năm trước</td><td>421a</td><td></td><td>3.031.229.349</td><td>2.962.204.732</td></tr><tr><td>- (Lỗ)/LNST năm nay</td><td>421b</td><td></td><td>(1.575.884.320)</td><td>69.024.617</td></tr><tr><td>Lợi ích cổ đông không kiểm soát</td><td>429</td><td></td><td>212.558.053</td><td>165.954.443</td></tr><tr><td>TỔNG NGUỒN VỐN (440 = 300 + 400)</td><td>440</td><td></td><td>40.372.356.113</td><td>41.521.000.189</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "31/12/2023Nghìn VND",
+      "1/1/2023Nghìn VND"
+    ],
+    [
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN",
+      "NGUỒN VỐN"
+    ],
+    [
+      "NỘ PHẢI TRẢ (300 = 310 + 330)",
+      "300",
+      "",
+      "26.747.864.250",
+      "26.273.561.415"
+    ],
+    [
+      "Nợ ngắn hạn",
+      "310",
+      "",
+      "11.020.687.246",
+      "17.154.059.090"
+    ],
+    [
+      "Phải trả người bán ngắn hạn",
+      "311",
+      "",
+      "1.085.062.959",
+      "1.574.455.591"
+    ],
+    [
+      "Người mua trả tiền trước ngắn hạn",
+      "312",
+      "17",
+      "757.161.635",
+      "489.804.070"
+    ],
+    [
+      "Thuế và các khoản phải nộp Nhà nước",
+      "313",
+      "18",
+      "187.859.233",
+      "160.206.536"
+    ],
+    [
+      "Phải trả người lao động",
+      "314",
+      "",
+      "18.584.094",
+      "14.841.657"
+    ],
+    [
+      "Chi phí phải trả ngắn hạn",
+      "315",
+      "19",
+      "832.650.231",
+      "818.655.883"
+    ],
+    [
+      "Phải trả ngắn hạn khác",
+      "319",
+      "20",
+      "235.424.612",
+      "980.622.553"
+    ],
+    [
+      "Vay và trái phiếu phát hành ngắn hạn",
+      "320",
+      "21(a)",
+      "7.896.118.080",
+      "13.105.475.407"
+    ],
+    [
+      "Dự phòng phải trả ngắn hạn",
+      "321",
+      "",
+      "7.826.402",
+      "9.997.393"
+    ],
+    [
+      "Nợ dài hạn",
+      "330",
+      "",
+      "15.727.177.004",
+      "9.119.502.325"
+    ],
+    [
+      "Phải trả dài hạn khác",
+      "337",
+      "",
+      "1.466.595",
+      "-"
+    ],
+    [
+      "Vay và trái phiếu phát hành dài hạn",
+      "338",
+      "21(b)",
+      "8.760.544.403",
+      "2.979.108.965"
+    ],
+    [
+      "Thuế thu nhập hoãn lại phải trả",
+      "341",
+      "22(a)",
+      "1.457.520.209",
+      "1.517.611.217"
+    ],
+    [
+      "Dự phòng phải trả dài hạn",
+      "342",
+      "23",
+      "5.507.645.797",
+      "4.622.782.143"
+    ],
+    [
+      "VỐN CHỦ SỞ HỮU (400 = 410)",
+      "400",
+      "",
+      "13.624.491.863",
+      "15.247.438.774"
+    ],
+    [
+      "Vốn chủ sở hữu",
+      "410",
+      "24",
+      "13.624.491.863",
+      "15.247.438.774"
+    ],
+    [
+      "Vốn cổ phần",
+      "411",
+      "25",
+      "10.991.554.200",
+      "10.991.554.200"
+    ],
+    [
+      "- Cổ phiếu phổ thông có quyền biểu quyết",
+      "411a",
+      "",
+      "10.991.554.200",
+      "10.991.554.200"
+    ],
+    [
+      "Thặng dư vốn cổ phần",
+      "412",
+      "25",
+      "1.098.259.892",
+      "1.098.259.892"
+    ],
+    [
+      "Vốn khác của chủ sở hữu",
+      "414",
+      "",
+      "(295.683.347)",
+      "(295.683.347)"
+    ],
+    [
+      "Chênh lệch tỷ giá hối đoái",
+      "417",
+      "",
+      "(233.846.997)",
+      "(419.419.764)"
+    ],
+    [
+      "Quỹ khác thuộc vốn chủ sở hữu",
+      "420",
+      "",
+      "396.305.033",
+      "675.544.001"
+    ],
+    [
+      "Lợi nhuận sau thuế chưa phân phối",
+      "421",
+      "",
+      "1.455.345.029",
+      "3.031.229.349"
+    ],
+    [
+      "- LNST chưa phân phối đến cuối năm trước",
+      "421a",
+      "",
+      "3.031.229.349",
+      "2.962.204.732"
+    ],
+    [
+      "- (Lỗ)/LNST năm nay",
+      "421b",
+      "",
+      "(1.575.884.320)",
+      "69.024.617"
+    ],
+    [
+      "Lợi ích cổ đông không kiểm soát",
+      "429",
+      "",
+      "212.558.053",
+      "165.954.443"
+    ],
+    [
+      "TỔNG NGUỒN VỐN (440 = 300 + 400)",
+      "440",
+      "",
+      "40.372.356.113",
+      "41.521.000.189"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== Công ty Cổ phần Masan High-Tech Materials và các công ty con Băng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023 (tiếp theo) Mãu B 01 - DN/HN (Ban hành theo Thông tư số 202/2014/TT-BTC ngày 22/12/2014 của Bộ Tài chính)"
+}

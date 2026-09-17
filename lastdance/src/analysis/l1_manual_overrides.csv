@@ -1,0 +1,110 @@
+question_id,document_id,source_line_1,row_index,column_index,raw_value,review_note
+2,ACB_financial_statements_2022_separate,1504,1,1,72.917.566,Theo ngành nghề kinh doanh; dòng Thương mại; cột 31.12.2022
+8,FTS_financial_statements_2021,1281,1,2,30.686.828.047,Chi phí quản lý CTCK; đúng dòng chi phí lương và khoản khác theo lương
+11,BID_financial_statements_2016_consolidated,979,2,1,39.849.011,Chọn số dư tiền gửi tại TCTD khác; không chọn dòng dự phòng
+12,VGT_financial_statements_2024_separate,1225,3,2,5.000.000.000.000,Chọn cột VND của vốn cổ phần đã phát hành; không chọn cột số cổ phiếu
+16,CEO_financial_statements_2025_separate,1500,3,2,1.283.483.670,Dòng vay ngắn hạn; cột giá trị tại 31.12.2025
+19,HHV_financial_statements_2023_separate,2027,5,2,"21,34%",Dòng Cộng trong chi tiết vốn góp; cột quyền biểu quyết
+21,VIB_financial_statements_2020_consolidated,1850,3,4,341.438,Dòng thuế TNDN; cột số dư phải trả tại 31.12.2020
+24,HNG_financial_statements_2017_separate,1275,13,3,1.957.824.733,Đúng đối tác Hoàng Anh Gia Lai; vay dài hạn; số cuối năm
+26,DLG_financial_statements_2023_consolidated,1455,1,1,350.187.565.073,Chi phí phải trả ngắn hạn; dòng lãi vay phải trả; số cuối năm
+30,BVH_financial_statements_2021_consolidated,1575,7,3,886.855.290.194,Đầu tư góp vốn vào đơn vị khác; dòng Tổng cộng; cột giá trị thuần 2021
+36,VRE_financial_statements_2016_consolidated,1555,12,4,624.529.172.455,Lợi thế thương mại; giá trị còn lại cuối năm; cột Tổng cộng
+37,GEX_financial_statements_2018_separate,1837,5,1,201.004.296.672,Cam kết cho thuê hoạt động; dòng Tổng cộng tại cuối năm 2018
+43,ACV_financial_statements_2022_consolidated,977,1,1,12.020.730.385.315,Đúng công trình Nhà ga T2 Nội Bài; không phải Phú Bài
+48,PLX_financial_statements_2015_consolidated,1427,6,1,2.377.393.168.988,Dòng Số dư cuối năm của toàn Quỹ bình ổn; không chọn riêng tài khoản tiền gửi
+50,ABB_financial_statements_2023_separate,1538,1,1,2.720.958,Giá trị trái phiếu đặc biệt VAMC cuối năm; không chọn số dư dự phòng
+51,VCB_financial_statements_2020_consolidated,1311,7,1,10.437.945,Kỳ phiếu và trái phiếu trung hạn bằng nội tệ tại 31.12.2020
+53,IJC_financial_statements_2021_separate,1198,4,3,378.556.941.833,Bất động sản đầu tư; số cuối năm; cột giá trị còn lại
+55,FTS_financial_statements_2020,261,21,3,1.322.673.490.000,Vốn góp của chủ sở hữu cuối năm; tương ứng vốn cổ phần đã góp
+62,MBB_financial_statements_2022_separate_1,1323,1,1,428.450.055,Dư nợ cho vay khách hàng đủ tiêu chuẩn của công ty mẹ
+69,SHB_financial_statements_2019_consolidated,147,6,3,259.236.746,Tổng tài sản cuối năm 2019 trên bảng cân đối kế toán hợp nhất
+70,DCM_financial_statements_2019_separate,815,1,1,2.037.253.600,Chi phí dịch vụ kỹ thuật từ Viện Dầu khí Việt Nam
+72,VPI_financial_statements_2024_consolidated,283,8,3,179.433.940.407,Tổng trả trước cho người bán ngắn hạn cuối năm 2024
+73,PC1_financial_statements_2024_consolidated,1155,5,2,1.708.234.428.340,Tổng giá trị ghi sổ đầu tư theo phương pháp vốn chủ sở hữu cuối năm
+75,BVH_financial_statements_2019_separate,372,1,1,420.000.000.000,Khoản đầu tư trực tiếp vào Quỹ Đầu tư Giá trị Bảo Việt
+79,STB_financial_statements_2022_separate,1764,7,1,25.820.307,Tổng giấy tờ có giá đã phát hành cuối năm 2022
+80,NVL_financial_statements_2020_consolidated,203,12,3,8.069.327.416.090,Tổng các khoản phải thu ngắn hạn khác cuối năm 2020
+83,VIB_financial_statements_2020_separate,242,1,3,69.961.713,Cam kết giao dịch hối đoái tại 31.12.2020 trên bảng ngoại bảng
+91,VRE_financial_statements_2024_separate,822,5,3,6.532.274,Nguyên giá bất động sản đầu tư cuối năm 2024 trên báo cáo công ty mẹ; không dùng báo cáo hợp nhất
+93,PLX_financial_statements_2022_consolidated,1631,10,1,54.200.198.358,Lãi vay phải trả Petrolimex Singapore trong giao dịch với bên liên quan
+94,DBC_financial_statements_2021_consolidated,1583,8,5,829.557.934.446,Tổng tài sản không phân bổ theo bộ phận cuối năm 2021
+98,HUT_financial_statements_2024_separate,328,15,4,3.177.372.538.020,Tổng tài sản dài hạn cuối năm 2024 trên bảng cân đối kế toán riêng
+111,VGC_financial_statements_2025_consolidated,1365,16,6,215.181.280.173,Tổng giá trị còn lại tài sản cố định vô hình cuối năm; không chọn một nhóm tài sản
+122,HHV_financial_statements_2022_consolidated,286,9,4,404.339.772.954,Phải thu ngắn hạn của khách hàng tại 01.01.2022 trên bảng cân đối hợp nhất
+125,VIF_financial_statements_2024_separate,1801,4,1,84.052.528.171,Tổng tiền thuê tối thiểu tương lai từ hoạt động cho thuê của công ty mẹ
+126,SAB_financial_statements_2023_consolidated,317,14,3,4.069.464.160.642,Tiền và các khoản tương đương tiền đầu năm 2023; chọn cột 2023
+128,IJC_financial_statements_2015_separate,1604,3,1,27.350.000.000,Tổng tiền thuê tối thiểu tương lai thu được cuối năm 2015
+130,DBC_financial_statements_2024_consolidated,1627,4,5,13.573.523.231.898,Tổng doanh thu thuần sau điều chỉnh và loại trừ; không chọn một bộ phận
+133,NLG_financial_statements_2024_separate,1633,9,2,36.337.867.476,Tổng thu nhập Ban Tổng Giám đốc và các thành viên quản lý khác năm 2024
+135,GAS_financial_statements_2021_separate,1024,1,1,4.584.694.778.238,Phải thu ngắn hạn khách hàng bên thứ ba cuối năm 2021
+138,GEG_financial_statements_2019_consolidated,1786,4,6,1.159.374.278.952,Tổng doanh thu tất cả bộ phận sau loại trừ năm 2019
+141,HAG_financial_statements_2021_consolidated,1459,4,2,598.015.264,Tổng trái phiếu thường cuối năm 2021; không chọn riêng TPBank
+146,HBC_financial_statements_2018_consolidated,1158,13,2,435.092.121.544,Tổng chi phí trả trước ngắn hạn và dài hạn đầu năm 2018
+149,VSC_financial_statements_2024_consolidated,3198,5,2,67.531.200.867,Dịch vụ mua từ Công ty TNHH Cảng Nam Hải Đình Vũ trong năm 2024
+152,SGB_financial_statements_2023_consolidated,301,21,2,31.500.625,Tổng tài sản có hợp nhất tại 31.12.2023 trên bảng cân đối kế toán
+155,QNS_financial_statements_2023_separate,514,15,3,2.612.821.126.851,Tổng lợi nhuận kế toán trước thuế năm 2023 trên báo cáo kết quả riêng
+156,BVH_financial_statements_2018_separate,1699,8,4,2.991.040.287.578,Tổng tài sản tài chính liên quan đến rủi ro tín dụng cuối năm 2018
+164,SSH_financial_statements_2023_consolidated,1060,10,3,4.900.612.861,Tổng khấu hao bất động sản đầu tư cho thuê trích trong năm 2023
+166,HBC_financial_statements_2016_separate,1309,1,3,221.951.021.299,Khoản cho Công ty Cổ phần Nhà Hòa Bình vay cuối năm 2016
+168,CRE_financial_statements_2025_separate,218,2,3,1.311.063.629.085,Tổng nợ phải trả cuối năm 2025 trên bảng cân đối kế toán riêng
+175,VGT_financial_statements_2020_consolidated,1647,5,3,32.587.523.656,Tổng dự phòng phải trả ngắn hạn và dài hạn cuối năm 2020
+177,FIT_financial_statements_2018_consolidated,229,2,3,40.802.317.720,Tiền và các khoản tương đương tiền cuối năm trên bảng cân đối hợp nhất
+178,NVL_financial_statements_2021_consolidated,148,8,3,1.345.065.108.658,Giá trị còn lại của tài sản cố định hữu hình cuối năm 2021
+182,CEO_financial_statements_2022_consolidated,1654,1,1,278.907.151.756,Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp năm 2022
+183,NVB_financial_statements_2016_separate,1003,27,2,25.352.217,Tổng dư nợ cho vay khách hàng trước dự phòng cuối năm 2016
+185,VIC_financial_statements_2016_separate,2584,6,2,2.704.370.400.000,Tổng cho vay dài hạn không có tài sản đảm bảo cuối năm 2016
+188,GEE_financial_statements_2020_consolidated,938,6,1,220.315.434.328,Tổng giá gốc nợ phải thu khó đòi cuối năm 2020
+193,MBB_financial_statements_2022_consolidated,1937,5,1,258.574.092,Tiền gửi có kỳ hạn bằng VND cuối năm 2022
+206,GEX_financial_statements_2021_consolidated,351,29,4,61.189.346.991.646,Tổng cộng tài sản cuối năm 2021 trên bảng cân đối kế toán hợp nhất; không chọn bảng bộ phận
+211,DLG_financial_statements_2022_separate,455,16,3,(1.133.302.354.665),Tổng lợi nhuận kế toán trước thuế năm 2022 trên báo cáo kết quả hoạt động kinh doanh riêng
+212,HNG_financial_statements_2015_consolidated,300,17,3,744.008.378,Lợi nhuận sau thuế TNDN năm 2015 trên báo cáo kết quả hợp nhất; đơn vị bảng là ngàn VND
+214,DTK_financial_statements_2024_consolidated,390,1,4,12.839.301.284.671,Doanh thu bán hàng và cung cấp dịch vụ năm 2024 trên báo cáo kết quả hợp nhất
+217,DCM_financial_statements_2022_consolidated,401,4,4,106.451.076.947,Người mua trả tiền trước ngắn hạn cuối năm 2022 trên bảng cân đối kế toán hợp nhất
+220,BID_financial_statements_2023_separate,1138,5,1,1.740.391.368,Tổng dư nợ cho vay khách hàng cuối năm 2023 trên thuyết minh cho vay khách hàng riêng
+221,CEO_financial_statements_2017_consolidated,202,32,4,10.604.545.454,Nguyên giá tài sản cố định thuê tài chính cuối năm 2017 trên bảng cân đối kế toán hợp nhất
+231,SCR_financial_statements_2023_separate,263,15,3,142.590.606.684,Tổng lợi nhuận kế toán trước thuế năm 2023 trên báo cáo kết quả hoạt động kinh doanh riêng
+232,VPI_financial_statements_2021_consolidated,1475,7,1,2.036.781.289.400,Tổng chi phí sản xuất kinh doanh theo yếu tố năm 2021
+233,GEX_financial_statements_2017_consolidated,2425,5,1,244.103.155.846,Tổng tiền thuê tối thiểu tương lai theo hợp đồng thuê hoạt động cuối năm 2017
+234,VIF_financial_statements_2020_consolidated,1446,7,2,3.500.000.000.000,Giá trị cổ phiếu phổ thông đang lưu hành cuối năm 2020; không chọn cổ phiếu đã bán ra công chúng
+237,GAS_financial_statements_2016_consolidated,389,3,3,59.076.193.175.661,Tổng doanh thu thuần năm 2016 trên báo cáo kết quả hoạt động kinh doanh hợp nhất
+239,EIB_financial_statements_2024_separate,1450,6,6,2.569.380,Tổng nguyên giá tài sản cố định hữu hình cuối năm 2024 trong thuyết minh TSCĐ hữu hình
+240,VRE_financial_statements_2017_consolidated,236,8,3,567.834.036.030,Tổng phải thu ngắn hạn của khách hàng cuối năm 2017 trên bảng cân đối kế toán hợp nhất
+242,MBB_financial_statements_2021_separate,1529,15,3,1.017.134,Tổng giá trị còn lại của tài sản cố định vô hình cuối năm 2021
+243,IJC_financial_statements_2021_separate,1318,1,1,6.514.894.233,Khoản người mua là bên liên quan trả trước ngắn hạn cuối năm 2021; phân biệt với trả trước cho người bán
+245,DPM_financial_statements_2024_separate,444,5,4,1.583.226.163.678,Lợi nhuận gộp năm 2024 trên báo cáo kết quả hoạt động kinh doanh riêng
+253,MBB_financial_statements_2016_consolidated,1508,4,2,105.975,Tổng giá gốc các khoản đầu tư vào công ty liên kết cuối năm 2016
+256,MCH_financial_statements_2019_consolidated,177,19,3,4.061.678.096.011,Lợi nhuận sau thuế hợp nhất năm 2019 trên báo cáo kết quả hoạt động kinh doanh
+262,SJG_financial_statements_2019_consolidated,310,4,4,1.271.873.461.180,Tổng người mua trả tiền trước ngắn hạn cuối năm 2019 trên bảng cân đối kế toán hợp nhất
+263,SSI_financial_statements_2019_separate,1332,2,4,4.263.610.960.357,Giá trị hợp lý đánh giá lại của tài sản tài chính FVTPL cuối năm 2019
+265,OCB_financial_statements_2021_separate,290,5,2,11.971.287.078.348,Vay các tổ chức tín dụng khác cuối năm 2021 trên bảng cân đối kế toán riêng
+266,VNM_financial_statements_2023_consolidated,1961,2,1,3.123,Tổng thù lao của Chủ tịch Nguyễn Hạnh Phúc năm 2023; bảng dùng triệu VND
+267,ACB_financial_statements_2020_separate,1767,6,1,340.063,Tiền gửi có kỳ hạn bằng ngoại tệ của khách hàng cuối năm 2020
+270,VSC_financial_statements_2017_consolidated,851,1,4,4.998.500.000,Số dư Khoản vay 1 cuối năm 2017
+271,GEG_financial_statements_2025_consolidated,396,13,3,46.144.766.536,Tổng giá trị thuần hàng tồn kho cuối năm 2025 trên bảng cân đối kế toán hợp nhất
+272,MBB_financial_statements_2020_separate,361,35,2,477.839.594,Tổng tài sản của công ty mẹ cuối năm 2020 trên báo cáo tình hình tài chính riêng
+280,HDB_financial_statements_2022_consolidated,1242,2,1,8.634.940,Cho vay tái tài trợ nghiệp vụ UPAS L/C bằng VND cuối năm 2022
+281,PVT_financial_statements_2022_separate,1050,2,1,2.558.506.000,Ký cược ký quỹ ngắn hạn thuộc phải thu khác cuối năm 2022; phân biệt với nhận ký quỹ ký cược phải trả
+287,VIF_financial_statements_2021_separate,285,17,3,219.211.504.515,Lợi nhuận sau thuế năm 2021 trên báo cáo kết quả hoạt động kinh doanh riêng
+289,DPM_financial_statements_2016_separate,817,9,3,271.508.391.432,Tổng giá trị còn lại của bất động sản đầu tư cuối năm 2016
+290,AAA_financial_statements_2023_separate,1005,2,1,2.807.566.671.231,Giá gốc đầu tư vào công ty con của công ty mẹ AAA cuối năm 2023
+291,HAG_financial_statements_2023_consolidated,334,16,3,1.792.876.703,Tổng lợi nhuận kế toán trước thuế năm 2023 trên báo cáo kết quả hợp nhất; đơn vị ngàn VND
+293,ACV_financial_statements_2015_consolidated,187,2,3,4.466.482.193.053,Tiền và các khoản tương đương tiền cuối năm 2015 trên bảng cân đối kế toán hợp nhất
+298,DPM_financial_statements_2021_separate,1311,6,1,13.104.672.883,Tổng chi phí trả trước ngắn hạn cuối năm 2021; không chọn riêng chi phí trả trước ngắn hạn khác
+306,EIB_financial_statements_2020_consolidated,2348,10,6,156.257.957,Tổng giá trị ghi sổ tài sản tài chính cuối năm 2020
+309,OCB_financial_statements_2020_separate,1603,5,1,883.577.251.054,Chi phí thuế TNDN theo thuế suất hiện hành năm 2020 trong bảng đối chiếu thuế
+312,VGT_financial_statements_2022_consolidated,1741,4,2,216.674.089.381,Tổng số dư ngoại tệ quy đổi tương đương VND cuối năm 2022
+319,MSN_financial_statements_2016_consolidated,1017,2,3,9.807.843,Giá trị ghi sổ theo phương pháp vốn chủ sở hữu của khoản đầu tư vào Techcombank cuối năm 2016
+323,SSI_financial_statements_2016_separate,1355,11,1,76.038.454.529,Tổng cộng các khoản phải thu của công ty mẹ SSI cuối năm 2016
+324,HBC_financial_statements_2024_separate,1197,4,1,80.864.684.721,Tổng dự phòng các khoản cho vay ngắn hạn cuối năm 2024
+326,NVL_financial_statements_2019_consolidated,133,9,3,1.076.689.087.366,Tổng phải thu ngắn hạn của khách hàng cuối năm 2019 trên bảng cân đối kế toán hợp nhất
+333,GEG_financial_statements_2022_consolidated,430,3,4,"62,53",Tỷ lệ sở hữu trên vốn thực góp Công ty Cổ phần Thủy điện Gia Lai cuối năm 2022
+336,HND_financial_statements_2025,912,4,1,387.656.354.540,Tổng tiền thuê tối thiểu trong tương lai cuối năm 2025
+340,PVT_financial_statements_2019_separate,174,12,4,36.320.271.261,Tổng giá trị hàng tồn kho cuối năm 2019 trên bảng cân đối kế toán riêng
+343,VIF_financial_statements_2023_consolidated,1577,2,1,920.853.171.073,Chi phí nguyên liệu vật liệu năm 2023 trong bảng chi phí theo yếu tố
+346,VPB_financial_statements_2020_consolidated,1258,23,1,290.816.086,Tổng dư nợ cho vay theo ngành nghề kinh doanh cuối năm 2020; đơn vị triệu VND
+354,AAA_financial_statements_2021_separate,1058,3,7,1.401.195.977.583,Tổng vay ngân hàng ngắn hạn cuối năm 2021; không chọn khoản vay dài hạn riêng lẻ
+357,PVT_financial_statements_2017_separate,215,20,3,2.814.401.620.000,Vốn góp của chủ sở hữu cuối năm 2017; không chọn tổng vốn chủ sở hữu
+360,IJC_financial_statements_2025_separate,1774,3,1,6.295.806.400.000,Tổng vốn góp của chủ sở hữu cuối năm 2025
+15,MPC_financial_statements_2021_separate,1299,2,1,150.000.000,Thù lao của bà Chu Thị Bình trong bảng Hội đồng Quản trị; không dùng bảng Ban Giám đốc
+137,TTF_financial_statements_2023_separate,973,13,2,1.352.726.821.642,Tổng cộng người mua trả tiền trước đầu năm 2023 gồm cả ngắn hạn và dài hạn

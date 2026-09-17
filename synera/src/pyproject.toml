@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "road2ai-vifinqa"
+version = "0.1.0"
+description = "Reproducible ViFinQA competition pipeline"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "lxml>=5.0",
+  "numpy>=2.0",
+  "pandas>=2.2",
+]
+
+[project.optional-dependencies]
+model-download = ["requests>=2.32"]
+analysis = ["scipy>=1.14"]
+codabench = ["selenium>=4.30"]
+dev = ["requests>=2.32", "scipy>=1.14", "selenium>=4.30"]
+
+[project.urls]
+Repository = "https://github.com/hieulenho/Road2AI"
+Documentation = "https://github.com/hieulenho/Road2AI/tree/main/docs"
+
+[project.scripts]
+vifinqa-build-index = "road2ai_vifinqa.build_index:main"
+vifinqa-build-panel = "road2ai_vifinqa.build_panel:main"
+vifinqa-solve = "road2ai_vifinqa.solve:main"
+vifinqa-validate = "road2ai_vifinqa.validate:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+road2ai_vifinqa = ["easy_reranker_v2.json"]

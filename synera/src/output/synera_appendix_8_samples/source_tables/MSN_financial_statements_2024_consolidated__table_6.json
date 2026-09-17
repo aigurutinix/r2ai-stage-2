@@ -1,0 +1,151 @@
+{
+  "doc_id": "MSN_financial_statements_2024_consolidated",
+  "document_sha256": "4073c0958e901c934f8c2ab2b5fe8993adcbb90517cdc7ed6b20def4d6a0dda7",
+  "table_id_internal": 6,
+  "physical_line_one_based": 226,
+  "html_sha256": "068898a70ff800e99870311eb18892969a56557642927d3bb09c8e8a0bcc57a5",
+  "html": "<table><tr><td></td><td>Mã số</td><td>Thuyết minh</td><td>2024Triệu VND</td><td>2023Triệu VND</td></tr><tr><td>Tổng doanh thu</td><td>01</td><td>28</td><td>83.456.446</td><td>78.516.999</td></tr><tr><td>Các khoản giảm trừ doanh thu</td><td>02</td><td>28</td><td>278.726</td><td>265.380</td></tr><tr><td>Doanh thu thuần</td><td>10</td><td>28</td><td>83.177.720</td><td>78.251.619</td></tr><tr><td>Giá vốn hàng bán</td><td>11</td><td>29</td><td>58.521.982</td><td>56.130.507</td></tr><tr><td>Lợi nhuận gộp</td><td>20</td><td></td><td>24.655.738</td><td>22.121.112</td></tr><tr><td>Doanh thu hoạt động tài chính</td><td>21</td><td>30</td><td>4.043.530</td><td>2.405.205</td></tr><tr><td>Chi phí tài chính</td><td>22</td><td>31</td><td>7.900.139</td><td>8.129.513</td></tr><tr><td>- Trong đó: Chi phí lãi vay</td><td>23</td><td></td><td>6.404.706</td><td>6.946.060</td></tr><tr><td>Phần lãi từ các công ty liên kết</td><td>24</td><td></td><td>4.443.769</td><td>3.895.982</td></tr><tr><td>Chi phí bán hàng</td><td>25</td><td>32</td><td>14.565.375</td><td>14.192.355</td></tr><tr><td>Chi phí quản lý doanh nghiệp</td><td>26</td><td>33</td><td>3.916.974</td><td>3.750.002</td></tr><tr><td>Lợi nhuận thuần từ hoạt động kinh doanh</td><td>30</td><td></td><td>6.760.549</td><td>2.350.429</td></tr><tr><td>Thu nhập khác</td><td>31</td><td>34</td><td>180.026</td><td>309.976</td></tr><tr><td>Chi phí khác</td><td>32</td><td>35</td><td>915.772</td><td>97.431</td></tr><tr><td>Kết quả của các hoạt động khác</td><td>40</td><td></td><td>(735.746)</td><td>212.545</td></tr><tr><td>Lợi nhuận kế toán trước thuế</td><td>50</td><td></td><td>6.024.803</td><td>2.562.974</td></tr><tr><td>Chi phí thuế thu nhập hiện hành</td><td>51</td><td>36</td><td>1.510.936</td><td>1.288.786</td></tr><tr><td>Chi phí/(Lợi ích) thuế thu nhập hoãn lại</td><td>52</td><td>36</td><td>241.483</td><td>(595.739)</td></tr><tr><td>Lợi nhuận thuần sau thuế</td><td>60</td><td></td><td>4.272.384</td><td>1.869.927</td></tr></table>",
+  "expanded_rows": [
+    [
+      "",
+      "Mã số",
+      "Thuyết minh",
+      "2024Triệu VND",
+      "2023Triệu VND"
+    ],
+    [
+      "Tổng doanh thu",
+      "01",
+      "28",
+      "83.456.446",
+      "78.516.999"
+    ],
+    [
+      "Các khoản giảm trừ doanh thu",
+      "02",
+      "28",
+      "278.726",
+      "265.380"
+    ],
+    [
+      "Doanh thu thuần",
+      "10",
+      "28",
+      "83.177.720",
+      "78.251.619"
+    ],
+    [
+      "Giá vốn hàng bán",
+      "11",
+      "29",
+      "58.521.982",
+      "56.130.507"
+    ],
+    [
+      "Lợi nhuận gộp",
+      "20",
+      "",
+      "24.655.738",
+      "22.121.112"
+    ],
+    [
+      "Doanh thu hoạt động tài chính",
+      "21",
+      "30",
+      "4.043.530",
+      "2.405.205"
+    ],
+    [
+      "Chi phí tài chính",
+      "22",
+      "31",
+      "7.900.139",
+      "8.129.513"
+    ],
+    [
+      "- Trong đó: Chi phí lãi vay",
+      "23",
+      "",
+      "6.404.706",
+      "6.946.060"
+    ],
+    [
+      "Phần lãi từ các công ty liên kết",
+      "24",
+      "",
+      "4.443.769",
+      "3.895.982"
+    ],
+    [
+      "Chi phí bán hàng",
+      "25",
+      "32",
+      "14.565.375",
+      "14.192.355"
+    ],
+    [
+      "Chi phí quản lý doanh nghiệp",
+      "26",
+      "33",
+      "3.916.974",
+      "3.750.002"
+    ],
+    [
+      "Lợi nhuận thuần từ hoạt động kinh doanh",
+      "30",
+      "",
+      "6.760.549",
+      "2.350.429"
+    ],
+    [
+      "Thu nhập khác",
+      "31",
+      "34",
+      "180.026",
+      "309.976"
+    ],
+    [
+      "Chi phí khác",
+      "32",
+      "35",
+      "915.772",
+      "97.431"
+    ],
+    [
+      "Kết quả của các hoạt động khác",
+      "40",
+      "",
+      "(735.746)",
+      "212.545"
+    ],
+    [
+      "Lợi nhuận kế toán trước thuế",
+      "50",
+      "",
+      "6.024.803",
+      "2.562.974"
+    ],
+    [
+      "Chi phí thuế thu nhập hiện hành",
+      "51",
+      "36",
+      "1.510.936",
+      "1.288.786"
+    ],
+    [
+      "Chi phí/(Lợi ích) thuế thu nhập hoãn lại",
+      "52",
+      "36",
+      "241.483",
+      "(595.739)"
+    ],
+    [
+      "Lợi nhuận thuần sau thuế",
+      "60",
+      "",
+      "4.272.384",
+      "1.869.927"
+    ]
+  ],
+  "context_from_local_index": "===== PAGE 11 ===== CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON Mẫu số B 02 – DN/HN BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT"
+}

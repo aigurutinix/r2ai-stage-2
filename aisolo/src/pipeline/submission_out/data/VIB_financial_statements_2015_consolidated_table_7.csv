@@ -1,0 +1,26 @@
+﻿company,year,ma_so,label,value,prev
+VIB,2015,19,Thu nhập lãi và các khoản thu nhập tương tự,4794299000000,4895476000000
+VIB,2015,20,Chi phí lãi và các khoản chi phí tương tự,-2450185000000,-2582927000000
+VIB,2015,,Thu nhập lãi thuần,2344114000000,2312549000000
+VIB,2015,,Thu nhập từ hoạt động dịch vụ,278915000000,226659000000
+VIB,2015,,Chi phí hoạt động dịch vụ,-112812000000,-81374000000
+VIB,2015,21,Lãi thuần từ hoạt động dịch vụ,166103000000,145285000000
+VIB,2015,,Lãi/(lỗ) thuần từ hoạt động kinh doanh ngoại hối,-10503000000,-23982000000
+VIB,2015,22,Lãi thuần từ mua bán chứng khoán đầu tư,88991000000,92276000000
+VIB,2015,,"Thu nhập từ góp vốn, mua cổ phần",20397000000,1403000000
+VIB,2015,,Thu nhập từ hoạt động khác,400962000000,1027684000000
+VIB,2015,,Chi phí từ hoạt động khác,-80609000000,-85140000000
+VIB,2015,23,Lãi thuần từ hoạt động khác,320353000000,942544000000
+VIB,2015,,TỔNG THU NHẬP HOẠT ĐỘNG,2929455000000,3470075000000
+VIB,2015,,Chi phí tiền lương,-867559000000,-843026000000
+VIB,2015,,Chi phí khấu hao,-86509000000,-87055000000
+VIB,2015,,Chi phí hoạt động khác,-811172000000,-703633000000
+VIB,2015,24,TỔNG CHI PHÍ HOẠT ĐỘNG,-1765240000000,-1633714000000
+VIB,2015,,Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng,1164215000000,1836361000000
+VIB,2015,,Chi phí dự phòng rủi ro tín dụng,-509071000000,-1188008000000
+VIB,2015,,TỔNG LỢI NHUẬN TRƯỚC THUẾ,655144000000,648353000000
+VIB,2015,,Chi phí thuế TNDN hiện hành,-140446000000,-141264000000
+VIB,2015,,Chi phí thuế TNDN hoãn lại,6368000000,15581000000
+VIB,2015,,Tổng chi phí thuế TNDN,-134078000000,-125683000000
+VIB,2015,,LỢI NHUẬN SAU THUẾ,521066000000,522670000000
+VIB,2015,,Lãi trên mỗi cổ phiếu (VND/cổ phiếu),1161000000,1230000000
